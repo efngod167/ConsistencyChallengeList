@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Every level must be consistency based.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Maximum CPS for your level must not be above 10.
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        You cannot include spam based parts (applies to the cps rule) in your level.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        You’re allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we no longer accept records for them.
                     </p>
                 </div>
             </div>
