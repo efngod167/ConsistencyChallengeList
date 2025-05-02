@@ -6,7 +6,7 @@
     "verifier": "NXISE",
     "verification": "https://www.youtube.com/watch?v=FSjz-ybQnbU",
     "percentToQualify": "100",
-    "hz": "60-360",
+    "fps": "60-360",
     "records": [
     ]
 }
