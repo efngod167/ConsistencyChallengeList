@@ -6,7 +6,7 @@
     "verifier": "fnm04",
     "verification": "",
     "percentToQualify": "100",
-    "hz": "60-360",
+    "fps": "60-360",
     "records": [
     ]
 }
