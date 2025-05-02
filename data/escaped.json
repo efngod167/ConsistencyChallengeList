@@ -6,7 +6,7 @@
     "verifier": "Vantasia",
     "verification": "https://www.youtube.com/watch?v=3KDmja7Osdw&list=PLOe6VSoXjpqMBmiOZ1dTKuwlRjUXVXrM2&index=22&pp=iAQB",
     "percentToQualify": "100",
-    "hz": "60-360",
+    "fps": "60-360",
     "records": [
     ]
 }
