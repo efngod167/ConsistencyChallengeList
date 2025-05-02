@@ -4,9 +4,15 @@
     "author": "gaynascarguy",
     "creators": [],
     "verifier": "gaynascarguy",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=cTUmOzzPew8",
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+        "user": "galbeni7",
+        "link": "https://www.youtube.com/watch?v=cTUmOzzPew8",
+        "hz": "60",
+        "percent": 100
+        }
     ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240-360",
     "records": [
+        {
+        "user": "galbeni7",
+        "link": "https://www.youtube.com/watch?v=cTUmOzzPew8",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }

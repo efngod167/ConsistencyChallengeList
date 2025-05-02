@@ -4,9 +4,15 @@
     "author": "Whizkid05",
     "creators": [],
     "verifier": "Whizkid05",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=cTUmOzzPew8",
     "percentToQualify": "100",
     "fps": "60-360",
     "records": [
+        {
+        "user": "galbeni7",
+        "link": "https://www.youtube.com/watch?v=cTUmOzzPew8",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
