@@ -6,7 +6,7 @@
     "verifier": "opakue",
     "verification": "https://www.youtube.com/watch?v=muIrCVcLVeo",
     "percentToQualify": "100",
-    "hz": "60-360",
+    "fps": "60-360",
     "records": [
     ]
 }
