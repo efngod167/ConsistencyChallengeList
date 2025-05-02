@@ -6,7 +6,7 @@
     "verifier": "7ex",
     "verification": "N/A",
     "percentToQualify": "100",
-    "hz": "240-360",
+    "fps": "240-360",
     "records": [
     ]
 }
