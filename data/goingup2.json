@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=Qte89zvZ5uI",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "Duff",
+            "link": "https://www.youtube.com/watch?v=IOs-OO4l6L4",
+            "hz": "240",
+            "percent" 100
         }
     ]
 }
