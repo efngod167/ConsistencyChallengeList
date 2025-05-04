@@ -62,6 +62,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Przemysław Woliński",
+            "link": "https://www.youtube.com/watch?v=KrP4gqJ0oYo",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
