@@ -106,6 +106,12 @@
             "hz": "120",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "masochnik",
+            "link": "https://www.youtube.com/watch?v=x8h9Q4Pg0m4",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
