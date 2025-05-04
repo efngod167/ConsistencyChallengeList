@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=-zZaHcldQiU",
             "hz": "144",
             "percent": 100
+        },
+        {
+            "user": "blazer",
+            "link": "https://www.youtube.com/watch?v=iu24iegMPpQ",
+            "hz": "120",
+            "percent": 100
         }
     ]
 }
