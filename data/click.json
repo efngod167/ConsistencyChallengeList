@@ -56,6 +56,13 @@
             "link": "https://www.youtube.com/watch?v=m30cuXBXwnU",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "d0sU",
+            "link": "https://www.youtube.com/watch?v=Ubpw8Ke-YPg",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
