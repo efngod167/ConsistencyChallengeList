@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/watch?v=xFHisePlMFM",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "gloosy",
+            "link": "https://www.youtube.com/watch?v=hiQRtOJWt8Q",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
