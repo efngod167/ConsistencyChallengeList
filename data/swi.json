@@ -43,6 +43,13 @@
             "link": "https://www.youtube.com/watch?v=m30cuXBXwnU",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "gloosy",
+            "link": "https://cdn.discordapp.com/attachments/1343528787601657926/1368526948375986176/XRecorder_Edited_20250504_03.mp4?ex=68188b8a&is=68173a0a&hm=27cbe73942e1b6671ef4794b34ad7ae80a8d4670dbfa0cbe63f914ad4be4410a&",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
