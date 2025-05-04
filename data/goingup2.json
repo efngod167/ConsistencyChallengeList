@@ -99,6 +99,13 @@
             "link": "https://www.youtube.com/watch?v=zzSciXKoEwY",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "blazer",
+            "link": "https://www.youtube.com/watch?v=Zq-gYw3WDSk",
+            "hz": "120",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
