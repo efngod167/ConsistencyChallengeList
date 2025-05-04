@@ -75,6 +75,12 @@
             "link": "https://www.youtube.com/watch?v=TDhPle-y414",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "heitorfbd",
+            "link": "https://www.youtube.com/watch?v=My8dQXUqZUA",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
