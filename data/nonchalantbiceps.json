@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60-360",
     "records": [
+        {
+            "user": "GDSlaughter",
+            "link": "https://www.youtube.com/watch?v=xFHisePlMFM",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
