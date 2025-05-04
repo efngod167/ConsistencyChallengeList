@@ -50,6 +50,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://www.youtube.com/watch?v=6qGaK9aQ3Eg",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
