@@ -70,6 +70,12 @@
             "hz": "120",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "LaMaxWander",
+            "link": "https://www.youtube.com/watch?v=04YB7pEjnoE",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
