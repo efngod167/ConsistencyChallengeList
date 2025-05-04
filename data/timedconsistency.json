@@ -56,6 +56,13 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "d0sU",
+            "link": "https://www.youtube.com/watch?v=ec3rLmehBvQ",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
