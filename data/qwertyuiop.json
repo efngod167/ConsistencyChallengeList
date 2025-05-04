@@ -54,7 +54,15 @@
             "user": "blazer",
             "link": "https://www.youtube.com/watch?v=iu24iegMPpQ",
             "hz": "120",
-            "percent": 100
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "d0sU",
+            "link": "https://www.youtube.com/watch?v=Ubpw8Ke-YPg",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
