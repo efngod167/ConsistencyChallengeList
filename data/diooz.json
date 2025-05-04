@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240",
     "records": [
+        {
+            "user": "Nyan Cat",
+            "link": "https://www.youtube.com/watch?v=MVqvnX5q-74",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
