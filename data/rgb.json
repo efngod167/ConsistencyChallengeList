@@ -43,6 +43,13 @@
             "link": "https://www.youtube.com/watch?v=xFHisePlMFM",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "gloosy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1368552470858567761",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
