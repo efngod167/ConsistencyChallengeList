@@ -44,6 +44,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Huzaza",
+            "link": "https://www.youtube.com/watch?v=lN4WafbSc70",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
