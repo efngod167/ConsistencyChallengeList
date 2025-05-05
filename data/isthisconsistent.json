@@ -75,6 +75,12 @@
             "link": "https://www.youtube.com/watch?v=kQltGRjVVHw",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "ellie!",
+            "link": "https://www.youtube.com/watch?v=l9cGh70gxAg",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
