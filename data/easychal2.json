@@ -6,7 +6,7 @@
     "verifier": "pixelfactorial",
     "verification": "https://www.youtube.com/watch?v=7UpbQw5Y65E",
     "percentToQualify": "100",
-    "fps": "CBF",
+    "fps": "60-360",
     "records": [
     ]
 }
