@@ -1,6 +1,6 @@
-import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
-import Spinner from '../components/Spinner.js';
+import { fetchLeaderboard } from "../content.js";
+import { localize } from "../util.js";
+import Spinner from "../components/Spinner.js";
 
 export default {
   components: { Spinner },
@@ -9,12 +9,12 @@ export default {
     loading: true,
     selected: 0,
     err: [],
-    searchQuery: "" // for filtering the leaderboard
+    searchQuery: "", // for filtering the leaderboard
   }),
   computed: {
     filteredLeaderboard() {
       if (!this.searchQuery) return this.leaderboard;
-      return this.leaderboard.filter(entry =>
+      return this.leaderboard.filter((entry) =>
         entry.user &&
         entry.user.toLowerCase().includes(this.searchQuery.toLowerCase())
       );
@@ -29,16 +29,16 @@ export default {
       }
       // Find original rank in the full leaderboard
       let idx = this.leaderboard.findIndex(
-        e => e.user === this.selectedEntry.user
+        (e) => e.user === this.selectedEntry.user
       );
       return idx >= 0 ? idx + 1 : this.selected + 1;
-    }
+    },
   },
   watch: {
     // Whenever the search query changes, reset the selected index.
     searchQuery() {
       this.selected = 0;
-    }
+    },
   },
   async mounted() {
     const [leaderboard, err] = await fetchLeaderboard();
@@ -68,7 +68,9 @@ export default {
           <table class="board">
             <tr v-for="(entry, i) in filteredLeaderboard" :key="i">
               <td class="rank">
-                <p class="type-label-lg">#{{ i + 1 }}</p>
+                <p class="type-label-lg">
+                  #{{ leaderboard.findIndex(e => e.user === entry.user) + 1 }}
+                </p>
               </td>
               <td class="total">
                 <p class="type-label-lg">{{ localize(entry.total) }}</p>
@@ -143,5 +145,5 @@ export default {
         </div>
       </div>
     </main>
-  `
+  `,
 };
