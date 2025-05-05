@@ -23,7 +23,7 @@ export default {
     errors: [],
     searchQuery: "",
     roleIconMap,
-    store
+    store,
   }),
   computed: {
     filteredList() {
@@ -43,33 +43,33 @@ export default {
       if (!this.selectedLevel) return this.selected + 1;
       return (
         this.list.findIndex(
-          item => item[0] && item[0].id === this.selectedLevel.id
+          (item) => item[0] && item[0].id === this.selectedLevel.id
         ) + 1
       );
-    }
+    },
   },
   watch: {
     // Reset the selected index when the search query changes.
     searchQuery() {
       this.selected = 0;
-    }
+    },
   },
   methods: {
     embed,
     score,
     getOriginalRank(level) {
       let index = this.list.findIndex(
-        item => item[0] && item[0].id === level.id
+        (item) => item[0] && item[0].id === level.id
       );
       return index >= 0 ? index + 1 : this.selected + 1;
-    }
+    },
   },
   async mounted() {
     this.list = await fetchList();
     this.editors = await fetchEditors();
     if (!this.list) {
       this.errors = [
-        "Failed to load list. Retry in a few minutes or notify list staff."
+        "Failed to load list. Retry in a few minutes or notify list staff.",
       ];
     } else {
       this.errors.push(
@@ -96,12 +96,16 @@ export default {
         <table class="list" v-if="filteredList.length">
           <tr v-for="(item, i) in filteredList" :key="i">
             <td class="rank">
-              <p v-if="i + 1 <= 100" class="type-label-lg">#{{ i + 1 }}</p>
+              <p v-if="getOriginalRank(item[0]) <= 100" class="type-label-lg">
+                #{{ getOriginalRank(item[0]) }}
+              </p>
               <p v-else class="type-label-lg">Legacy</p>
             </td>
             <td class="level" :class="{ 'active': selected === i, 'error': !item[0] }">
               <button @click="selected = i">
-                <span class="type-label-lg">{{ item[0]?.name || \`Error (\${item[1]}.json)\` }}</span>
+                <span class="type-label-lg">
+                  {{ item[0]?.name || \`Error (\${item[1]}.json)\` }}
+                </span>
               </button>
             </td>
           </tr>
@@ -116,7 +120,11 @@ export default {
           <ul class="stats">
             <li>
               <div class="type-title-sm">Points when completed</div>
-              <p>{{ score(getOriginalRank(selectedLevel), 100, selectedLevel.percentToQualify) }}</p>
+              <p>
+                {{
+                  score(getOriginalRank(selectedLevel), 100, selectedLevel.percentToQualify)
+                }}
+              </p>
             </li>
             <li>
               <div class="type-title-sm">ID</div>
@@ -132,8 +140,12 @@ export default {
             </li>
           </ul>
           <h2>Records</h2>
-          <p v-if="selectedIndexInFullList <= 75"><strong>{{ selectedLevel.percentToQualify }}%</strong> or better to qualify</p>
-          <p v-else-if="selectedIndexInFullList <= 150"><strong>100%</strong> or better to qualify</p>
+          <p v-if="selectedIndexInFullList <= 75">
+            <strong>{{ selectedLevel.percentToQualify }}%</strong> or better to qualify
+          </p>
+          <p v-else-if="selectedIndexInFullList <= 150">
+            <strong>100%</strong> or better to qualify
+          </p>
           <p v-else>This level does not accept new records.</p>
           <table class="records">
             <tr v-for="record in selectedLevel.records" class="record">
@@ -162,7 +174,10 @@ export default {
             <p class="error" v-for="error of errors">{{ error }}</p>
           </div>
           <div class="og">
-            <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+            <p class="type-label-md">
+              Website layout made by
+              <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a>
+            </p>
           </div>
           <template v-if="editors">
             <h3>List Editors</h3>
@@ -180,11 +195,15 @@ export default {
           <p>Have either source audio or clicks/taps in the video. Edited audio only does not count</p>
           <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
           <p>You cannot include spam based parts (applies to the cps rule) in your level.</p>
-          <p>You’re allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.</p>
-          <p>CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.</p>
+          <p>
+            You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.
+          </p>
+          <p>
+            CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
+          </p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
     </main>
-  `
+  `,
 };
