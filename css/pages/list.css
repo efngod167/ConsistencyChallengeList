@@ -126,9 +126,17 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
-/* Search bar styling – appears only at the top of the list container */
+.page-list .list-container {
+    padding-inline: 1rem;
+    display: flex;
+    flex-direction: column; 
+}
+
 .page-list .list-container .search-bar {
-    margin-bottom: 1rem; /* space between search bar and list table */
+    margin-bottom: 1rem;
+    width: 100%;
+    position: relative;
+    z-index: 1; 
 }
 
 .page-list .list-container .search-bar input {
@@ -147,4 +155,5 @@
     border-color: var(--color-primary);
     box-shadow: 0 0 4px var(--color-primary);
 }
+
 
