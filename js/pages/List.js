@@ -24,60 +24,52 @@ export default {
             <div class="list-container">
                 <!-- Search Bar -->
                 <div class="search-bar">
-                    <input
-                        type="text"
-                        v-model="searchQuery"
-                        placeholder="Search levels..."
-                    />
+                    <input type="text" v-model="searchQuery" placeholder="Search levels..." />
                 </div>
-                <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in filteredList" :key="i">
+                <table class="list" v-if="filteredList.length">
+                    <tr v-for="(item, i) in filteredList" :key="i">
                         <td class="rank">
                             <p v-if="i + 1 <= 100" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
+                        <td class="level" :class="{ 'active': selected === i, 'error': !item[0] }">
                             <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                                <span class="type-label-lg">{{ item[0]?.name || \`Error (\${item[1]}.json)\` }}</span>
                             </button>
                         </td>
                     </tr>
                 </table>
                 <p v-if="filteredList.length === 0">No levels match your search.</p>
             </div>
-            <div class="level-container">
-                <div class="level" v-if="level">
-                    <h1>{{ level.name }}</h1>
-                    <LevelAuthors 
-                        :author="level.author" 
-                        :creators="level.creators" 
-                        :verifier="level.verifier">
-                    </LevelAuthors>
+            <div class="level-container" v-if="selectedLevel">
+                <div class="level">
+                    <h1>{{ selectedLevel.name }}</h1>
+                    <LevelAuthors :author="selectedLevel.author" :creators="selectedLevel.creators" :verifier="selectedLevel.verifier"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p>{{ score(getOriginalRank(selectedLevel), 100, selectedLevel.percentToQualify) }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <p>{{ selectedLevel.id }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">FPS</div>
-                            <p>{{ level.fps || 'Any' }}</p>
+                            <p>{{ selectedLevel.fps || 'Any' }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">VERSION</div>
-                            <p>{{ level.version || 'Any' }}</p>
+                            <p>{{ selectedLevel.version || 'Any' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
+                    <p v-if="selectedIndexInFullList <= 75"><strong>{{ selectedLevel.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else-if="selectedIndexInFullList <= 150"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
-                        <tr v-for="record in level.records" class="record">
+                        <tr v-for="record in selectedLevel.records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>
@@ -93,9 +85,9 @@ export default {
                         </tr>
                     </table>
                 </div>
-                <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
-                </div>
+            </div>
+            <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
+                <p>(ノಠ益ಠ)ノ彡┻━┻</p>
             </div>
             <div class="meta-container">
                 <div class="meta">
@@ -108,7 +100,7 @@ export default {
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
-                            <li v-for="editor in editors">
+                            <li v-for="editor in editors" :key="editor.name">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
@@ -116,30 +108,14 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <p>
-                        Every level must be consistency based.
-                    </p>
-                    <p>
-                        Maximum CPS for your level must not be above 10.
-                    </p>
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.
-                    </p>
-                    <p>
-                        You cannot include spam based parts (applies to the cps rule) in your level.
-                    </p>
-                    <p>
-                        You’re allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.
-                    </p>
-                    <p>
-                        CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we no longer accept records for them.
-                    </p>
+                    <p>Every level must be consistency based.</p>
+                    <p>Maximum CPS for your level must not be above 10.</p>
+                    <p>Have either source audio or clicks/taps in the video. Edited audio only does not count</p>
+                    <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
+                    <p>You cannot include spam based parts (applies to the cps rule) in your level.</p>
+                    <p>You’re allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.</p>
+                    <p>CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.</p>
+                    <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
                 </div>
             </div>
         </main>
@@ -150,63 +126,62 @@ export default {
         loading: true,
         selected: 0,
         errors: [],
+        searchQuery: "",
         roleIconMap,
-        store,
-        searchQuery: "" // New data property for search
+        store
     }),
     computed: {
-        level() {
-            return this.list[this.selected][0];
-        },
-        // New computed property to filter the list based on search input.
         filteredList() {
-            if (!this.searchQuery) {
-                return this.list;
-            }
+            if (!this.searchQuery) return this.list;
             return this.list.filter(([level, err]) => {
                 if (!level || !level.name) return false;
                 return level.name.toLowerCase().includes(this.searchQuery.toLowerCase());
             });
         },
-        video() {
-            if (!this.level.showcase) {
-                return embed(this.level.verification);
-            }
-    
-            return embed(
-                this.toggledShowcase
-                    ? this.level.showcase
-                    : this.level.verification
-            );
+        selectedLevel() {
+            return this.filteredList[this.selected]
+                ? this.filteredList[this.selected][0]
+                : null;
         },
+        // Optional: compute the original index in the full list for proper viewing
+        selectedIndexInFullList() {
+            if (!this.selectedLevel) return this.selected + 1;
+            return (
+                this.list.findIndex(
+                    item => item[0] && item[0].id === this.selectedLevel.id
+                ) + 1
+            );
+        }
+    },
+    methods: {
+        embed,
+        score,
+        getOriginalRank(level) {
+            let index = this.list.findIndex(
+                item => item[0] && item[0].id === level.id
+            );
+            return index >= 0 ? index + 1 : this.selected + 1;
+        }
     },
     async mounted() {
-        // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
-    
-        // Error handling
+
         if (!this.list) {
             this.errors = [
-                "Failed to load list. Retry in a few minutes or notify list staff.",
+                "Failed to load list. Retry in a few minutes or notify list staff."
             ];
         } else {
             this.errors.push(
                 ...this.list
                     .filter(([_, err]) => err)
-                    .map(([_, err]) => {
-                        return `Failed to load level. (${err}.json)`;
-                    })
+                    .map(([_, err]) => \`Failed to load level. (\${err}.json)\`)
             );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.");
             }
         }
-    
+
         this.loading = false;
-    },
-    methods: {
-        embed,
-        score,
-    },
+    }
 };
