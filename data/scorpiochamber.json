@@ -69,7 +69,13 @@
             "link": "https://www.youtube.com/watch?v=VDa86VYTy2Y",
             "hz": "120",
             "percent": 100,
-            "mobile": "true"
+            "mobile": "true",
+        },
+        {
+            "user": "Przenmysław Woliński",
+            "link": "https://www.youtube.com/watch?v=EAoAua57Sxg",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
