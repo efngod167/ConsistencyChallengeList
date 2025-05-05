@@ -91,3 +91,28 @@
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
+
+.page-leaderboard .board-container .search-bar {
+    margin-bottom: 1rem;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.page-leaderboard .board-container .search-bar input {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    border: 1px solid var(--color-border, #ccc);
+    border-radius: 0.5rem;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+.page-leaderboard .board-container .search-bar input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 4px var(--color-primary);
+}
+
