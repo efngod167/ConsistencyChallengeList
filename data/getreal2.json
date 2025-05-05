@@ -50,6 +50,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "M4nia",
+            "link": "https://www.youtube.com/watch?v=JCOIypsPkSM",
+            "hz": "144",
+            "percent": 100
         }
     ]
 }
