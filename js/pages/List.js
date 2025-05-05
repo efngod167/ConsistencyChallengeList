@@ -22,8 +22,16 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
+                <!-- Search Bar -->
+                <div class="search-bar">
+                    <input
+                        type="text"
+                        v-model="searchQuery"
+                        placeholder="Search levels..."
+                    />
+                </div>
                 <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+                    <tr v-for="([level, err], i) in filteredList" :key="i">
                         <td class="rank">
                             <p v-if="i + 1 <= 100" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
@@ -35,11 +43,16 @@ export default {
                         </td>
                     </tr>
                 </table>
+                <p v-if="filteredList.length === 0">No levels match your search.</p>
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <LevelAuthors 
+                        :author="level.author" 
+                        :creators="level.creators" 
+                        :verifier="level.verifier">
+                    </LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
@@ -54,7 +67,7 @@ export default {
                             <div class="type-title-sm">FPS</div>
                             <p>{{ level.fps || 'Any' }}</p>
                         </li>
-                            <li>
+                        <li>
                             <div class="type-title-sm">VERSION</div>
                             <p>{{ level.version || 'Any' }}</p>
                         </li>
@@ -74,7 +87,7 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <td class="">
+                            <td>
                                 <p>{{ record.hz }}</p>
                             </td>
                         </tr>
@@ -138,17 +151,28 @@ export default {
         selected: 0,
         errors: [],
         roleIconMap,
-        store
+        store,
+        searchQuery: "" // New data property for search
     }),
     computed: {
         level() {
             return this.list[this.selected][0];
         },
+        // New computed property to filter the list based on search input.
+        filteredList() {
+            if (!this.searchQuery) {
+                return this.list;
+            }
+            return this.list.filter(([level, err]) => {
+                if (!level || !level.name) return false;
+                return level.name.toLowerCase().includes(this.searchQuery.toLowerCase());
+            });
+        },
         video() {
             if (!this.level.showcase) {
                 return embed(this.level.verification);
             }
-
+    
             return embed(
                 this.toggledShowcase
                     ? this.level.showcase
@@ -160,7 +184,7 @@ export default {
         // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
-
+    
         // Error handling
         if (!this.list) {
             this.errors = [
@@ -178,7 +202,7 @@ export default {
                 this.errors.push("Failed to load list editors.");
             }
         }
-
+    
         this.loading = false;
     },
     methods: {
