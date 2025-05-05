@@ -6,7 +6,7 @@
     "verifier": "Zxentirix",
     "verification": "https://www.youtube.com/watch?v=niZcVrNkxkY",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": "60-360",
     "records": [
     ]
 }
