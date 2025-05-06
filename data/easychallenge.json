@@ -88,6 +88,12 @@
             "link": "https://www.youtube.com/watch?v=6YuQ_DuVrXU",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "heitorfbd",
+            "link": "https://www.youtube.com/watch?v=B_TaFeaSSTA",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
