@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/live/cMjEA4mtdEs",
             "hz": "360",
             "percent": 100
+        },
+        {
+            "user": "GDSlaughter",
+            "link": "https://www.youtube.com/watch?v=haUcXPiXQI4",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
