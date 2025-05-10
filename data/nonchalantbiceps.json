@@ -33,6 +33,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "blightedcoconut",
+            "link": "https://www.youtube.com/watch?v=rpnVns8GD_4",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
