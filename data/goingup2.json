@@ -143,6 +143,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "X3M",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1370733586604621885/MedalTVGeometryDash20250510170314-1746878678-1746878724.mp4?ex=682092a2&is=681f4122&hm=c2f37d98968e328849cb8f4b8fd1d677e2c0ab0e84baf893cb25a8fa900bde51&",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
