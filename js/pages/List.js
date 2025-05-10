@@ -196,7 +196,7 @@ export default {
           <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
           <p>You cannot include spam based parts (applies to the cps rule) in your level.</p>
           <p>
-            You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.
+            You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.
           </p>
           <p>
             CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
