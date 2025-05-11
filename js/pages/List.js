@@ -199,7 +199,7 @@ export default {
             You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.
           </p>
           <p>
-            CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
+            CBF records are allowed for the list, however physics bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.
           </p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
