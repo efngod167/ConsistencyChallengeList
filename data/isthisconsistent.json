@@ -129,6 +129,13 @@
             "link": "https://youtu.be/NBrT8zG2yc4?si=_dXNKpKq1AJ1Wmsj",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "ZenosSins",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1371945858454519918/copy_5BE7027F-04FC-4A45-B2B3-B5B097CAF188.mov?ex=6824fba6&is=6823aa26&hm=c7652a4280dfe5476139a9b156e2785561d0ea30b94be80e7695662c1c1f0624&",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
