@@ -131,6 +131,12 @@
             "link": "https://www.youtube.com/watch?v=-F3XEI8URbI",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "pastel",
+            "link": "https://www.youtube.com/watch?v=uGR8AMCL5s0",
+            "hz": "180",
+            "percent": 100
         }
     ]
 }
