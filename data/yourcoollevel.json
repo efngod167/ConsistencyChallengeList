@@ -1,0 +1,13 @@
+{
+    "id": 118466735,
+    "name": "mycoolconsistency",
+    "author": "heitorfbd",
+    "creators": ["heitorfbd"],
+    "verifier": "heitorfbd",
+    "verification": "https://www.youtube.com/watch?v=jM-pbuPLZVg",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+    "records": [
+    ]
+}
