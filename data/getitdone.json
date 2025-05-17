@@ -6,7 +6,13 @@
     "verifier": "blightedcoconut",
     "verification": "https://www.youtube.com/watch?v=xBllBamdb3c",
     "percentToQualify": "100",
-    "fps": "60-360",
+    "fps": "60-240",
     "records": [
+        {
+            "user": "SonotavoloDS",
+            "link": "https://www.youtube.com/watch?v=ZT82Huo3C4E":
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
