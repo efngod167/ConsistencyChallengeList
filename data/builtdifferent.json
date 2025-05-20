@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240-360",
     "records": [
+        {
+            "user": "FogMello",
+            "link": "https://youtu.be/wPyr0HiF6Rk?si=oSs_kz-MjpFDPPWb",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
