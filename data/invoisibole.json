@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=9TwIWKzwCJ8",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Saturn",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1374714931428982784/0521.mp4?ex=682f0e8c&is=682dbd0c&hm=ab96d845b26c8f5551b99cce2f83cedf1a83b65d214f834a5e2b9ded96e66e4d&",
+            "hz": "144",
+            "percent": 100
         }
     ]
 }
