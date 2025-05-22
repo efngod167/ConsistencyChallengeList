@@ -118,6 +118,12 @@
             "link": "https://www.youtube.com/watch?v=Gc3WN32T3sg",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "finn",
+            "link": "https://youtu.be/hHdrzbO0A5k?si=O0_sICbczyco60Li",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
