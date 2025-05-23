@@ -9,5 +9,11 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
+	{
+		"user": "blightedcoconut",
+		"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375542477775310898/daei.mp4?ex=68321143&is=6830bfc3&hm=71957302b8fb0d5b06a46587469779a657a767c47ed999b343c9ac9ca89eccfb&",
+		"hz": "240",
+		"percent": 100
+	}
     ]
 }
