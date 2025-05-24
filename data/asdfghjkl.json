@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60-240",
     "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375759846267420722/ASDFGHJKL.mp4?ex=6832dbb3&is=68318a33&hm=2fb4f8db32f7630a7b99c4cd6a2090bf9605ab947a816b7743ff207572839d51&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
