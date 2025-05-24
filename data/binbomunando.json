@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "dejid",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375843538058870896/binbomunando_100.mp4?ex=683329a5&is=6831d825&hm=57f46e7dd4d79e1e25cf44a607c7013af7246581b950b284c0c244b73de4b400&",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=SqS8O9VUrf4",
+            "hz": "60",
+            "percent": 100
+        },
     ]
 }
