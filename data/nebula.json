@@ -1,0 +1,13 @@
+{
+    "id": 119404660,
+    "name": "nebula",
+    "author": "Finnleef",
+    "creators": ["Finnleef"],
+    "verifier": "finn",
+    "verification": "https://www.youtube.com/watch?v=BU0kbSInxBc",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+    "records": [
+    ]
+}
