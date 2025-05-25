@@ -201,7 +201,7 @@ export default {
           <p>
             CBF records are allowed for the list, however physics bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.
           </p>
-          <p>Alternating levels above 8 CPS will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Consistency God" and "Diamond Blade End x20".
+          <p>Alternating levels above 8 CPS will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Diamond Blade End x20".
           </p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
