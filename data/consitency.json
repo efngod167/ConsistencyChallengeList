@@ -32,6 +32,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375616600551719012/Untitled_video_15.mp4?ex=6832564b&is=683104cb&hm=dc9218acf49a8268ea8279669752cef57df2be36885cfe758ace5e1c911e2549&",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "finn",
+		    "link": "https://www.youtube.com/watch?v=rMY55_lxqrw",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
