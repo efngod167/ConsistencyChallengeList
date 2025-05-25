@@ -44,6 +44,12 @@
 		    "link": "https://www.youtube.com/watch?v=leyK_2bg3CI",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "finn",
+		    "link": "https://www.youtube.com/watch?v=rMY55_lxqrw",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
