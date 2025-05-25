@@ -26,6 +26,12 @@
 		"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375543990660894833/silent_wave_challeng.mp4?ex=683212ab&is=6830c12b&hm=b8f00518bad57bb5b0d6801d852d902e5a70ba676c79082c165de6fdd82480b4&",
 		"hz": "240",
 		"percent": 100
+	    },
+	    {
+		    "user": "finn",
+		    "link": "https://www.youtube.com/watch?v=rMY55_lxqrw",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
