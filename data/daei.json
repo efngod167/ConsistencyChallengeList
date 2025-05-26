@@ -50,6 +50,12 @@
 		    "link": "https://www.youtube.com/watch?v=rMY55_lxqrw",
 		    "hz": "144",
 		    "percent": 100
-	    }
+	    },
+     {
+            "user": "SonotavoloDS",
+            "link": "https://youtu.be/kA0BYWV95PE?si=ogLDjuqscesjm0dK",
+            "hz": "75",
+            "percent": 100
+     }
     ]
 }
