@@ -155,6 +155,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "ultra821man",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1376363438757908500/Untitled_video_6.mp4?ex=68350dd7&is=6833bc57&hm=72284548ffd9cebf153c372f441bf0dfe1f9e321d0e8f8406425fb749ae7d89b&",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
