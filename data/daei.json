@@ -56,6 +56,13 @@
             "link": "https://youtu.be/kA0BYWV95PE?si=ogLDjuqscesjm0dK",
             "hz": "75",
             "percent": 100
+     },
+     {
+            "user": "ZenosSins",
+            "link": "https://youtu.be/BgN8L_is4Lk?si=LxEKwvr6hxoyBQgt",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
      }
     ]
 }
