@@ -130,6 +130,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Guzzy",
+            "link": "https://youtu.be/61UB3ODEyWY",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
