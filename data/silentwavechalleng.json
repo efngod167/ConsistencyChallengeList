@@ -32,6 +32,13 @@
 		    "link": "https://www.youtube.com/watch?v=rMY55_lxqrw",
 		    "hz": "144",
 		    "percent": 100
-	    }
+	    },
+     {
+      "user": "Joacuhh",
+      "link": "https://youtu.be/je47y6H4ppE?si=Un0Vnr5a4mnrfo1B",
+      "hz": "CBF",
+      "percent": 100,
+      "mobile": "true"
+     }
     ]
 }
