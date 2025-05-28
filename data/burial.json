@@ -2,9 +2,9 @@
     "id": 73095789,
     "name": "burial",
     "author": "Slimi",
-    "creators": [],
-    "verifier": "Slimi",
-    "verification": "",
+    "creators": ["Slimi"],
+    "verifier": "kloone",
+    "verification": "https://youtu.be/VrNBsLvbis0?feature=shared",
     "percentToQualify": "100",
     "fps": "240-360",
     "records": [
