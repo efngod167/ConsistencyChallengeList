@@ -138,10 +138,10 @@
             "percent": 100
         },
         {
-		    "user": "lStrawb",
-		    "link": "https://www.youtube.com/watch?v=GfQsimfQsmQ",
-		    "hz": "CBF",
-		    "percent": 100
-	    }
+		"user": "lStrawb",
+		"link": "https://www.youtube.com/watch?v=GfQsimfQsmQ",
+		"hz": "CBF",
+		"percent": 100
+	}
     ]
 }
