@@ -191,6 +191,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "lStrawb",
+            "link": "https://www.youtube.com/shorts/Y5uHVR_nVRE",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
