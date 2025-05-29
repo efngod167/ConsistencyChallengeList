@@ -9,17 +9,17 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
-	{
-		"user": "blightedcoconut",
-		"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375542518275637248/consitency_test.mp4?ex=6832114c&is=6830bfcc&hm=ebfd3807b7597231ac31ebd99548bc61a1033f549522c244d900ad37bad1a163&",
-		"hz": "240",
-		"percent": 100
-	},
 	    {
-		"user": "Sadisyourlife",
-		"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375547396355784724/redpandacompress__.mp4?ex=683215d7&is=6830c457&hm=7673b26dea5f48164db46e04c60c76afa409de6314ce7227aacce2fc318d4434&",
-		"hz": "240",
-		"percent": 100
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375542518275637248/consitency_test.mp4?ex=6832114c&is=6830bfcc&hm=ebfd3807b7597231ac31ebd99548bc61a1033f549522c244d900ad37bad1a163&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375547396355784724/redpandacompress__.mp4?ex=683215d7&is=6830c457&hm=7673b26dea5f48164db46e04c60c76afa409de6314ce7227aacce2fc318d4434&",
+		    "hz": "240",
+		    "percent": 100
 	    },
 	    {
 		    "user": "Saturn",
