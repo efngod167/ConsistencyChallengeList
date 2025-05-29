@@ -203,6 +203,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1376353641010696313/Untitled_video_5.mp4?ex=683504b7&is=6833b337&hm=12af55acca85d4be0400cd9704cf26d9b9b5f7199a97e9ccf38334228f874b07&",
             "hz": "240",
             "percent": 100
-        }
+        },
+        {
+		    "user": "lStrawb",
+		    "link": "https://www.youtube.com/watch?v=GfQsimfQsmQ",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
