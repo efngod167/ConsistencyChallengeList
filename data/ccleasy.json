@@ -136,6 +136,12 @@
             "link": "https://youtu.be/61UB3ODEyWY",
             "hz": "240",
             "percent": 100
-        }
+        },
+        {
+		    "user": "lStrawb",
+		    "link": "https://www.youtube.com/watch?v=GfQsimfQsmQ",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
