@@ -9,5 +9,11 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1373339632925671535/1373366879879696476/blades.mp4?ex=683aa1d4&is=68395054&hm=b1483b2e7cd7564056bffb0e0e86e5f02f182e1bec9f86980816049718b9dbd6&",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
