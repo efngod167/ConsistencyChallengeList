@@ -161,6 +161,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=LgWzGPmTS-E",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
