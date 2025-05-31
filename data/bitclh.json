@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=DKXiAbJkUgM",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/live/sFAGObOh6SE?si=FBY_EvOnWLCbNE-c&t=11944",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
