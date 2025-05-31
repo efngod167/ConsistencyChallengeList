@@ -9,5 +9,11 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1378390928548696165/184cf1fa7f9e4afc.mp4?ex=683c6e16&is=683b1c96&hm=e86e8dd60a3a64507f4d4b3d030102fb1e39f3961879039afda5ff8f806b2667&",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
