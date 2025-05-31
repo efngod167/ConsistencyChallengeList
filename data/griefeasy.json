@@ -9,7 +9,7 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
-	       {
+	{
             "user": "Sadisyourlife",
             "link": "https://www.youtube.com/watch?v=9TwIWKzwCJ8",
             "hz": "240",
@@ -19,6 +19,12 @@
             "user": "ad3usgmd",
             "link": "https://youtu.be/RjTAUbx8ssU?si=2dNLLUfxywcIjOu5",
             "hz": "240",
+            "percent": 100
+        },
+	{
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=LgWzGPmTS-E",
+            "hz": "CBF",
             "percent": 100
         }
     ]
