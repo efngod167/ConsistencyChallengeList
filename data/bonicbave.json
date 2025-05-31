@@ -26,6 +26,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1377040012734107800/0527.mp4?ex=683783f3&is=68363273&hm=43588d6e9e20c87ec214a66ce1efd11875af382a8a7c1ff0bf80aa1dea58b88a&",
             "hz": "144",
             "percent": 100
-     }
+     },
+	    {
+            "user": "dejid",
+            "link": "https://www.youtube.com/watch?v=G2pmPlCqqms",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
