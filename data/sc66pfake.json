@@ -58,11 +58,11 @@
             "percent": 100
         },
         {
-		    "user": "chillguy73",
-		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375769433770823721/8mb.video-Bi3-bn7ltImd.mp4?ex=6832e4a1&is=68319321&hm=354f3dac548dec06f19fd8ba07a4dfcd53f2e15d3857068e63b49be5cd842fa5&",
-		    "hz": "CBF",
-		    "percent": 100
-	       },
+		"user": "chillguy73",
+		"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1375769433770823721/8mb.video-Bi3-bn7ltImd.mp4?ex=6832e4a1&is=68319321&hm=354f3dac548dec06f19fd8ba07a4dfcd53f2e15d3857068e63b49be5cd842fa5&",
+		"hz": "CBF",
+		"percent": 100
+	},
         {
             "user": "ad3usgmd",
             "link": "https://youtu.be/RjTAUbx8ssU?si=2dNLLUfxywcIjOu5",
@@ -73,6 +73,12 @@
             "user": "ultra821man",
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1377034242722107412/Untitled_video_10.mp4?ex=68377e93&is=68362d13&hm=cf31989b13686eb5df5bdad0e30baa1510d772419f7d496c838a389a3343d83f&",
             "hz": "240",
+            "percent": 100
+        },
+	{
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=LgWzGPmTS-E",
+            "hz": "CBF",
             "percent": 100
         }
     ]
