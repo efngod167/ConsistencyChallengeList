@@ -44,6 +44,12 @@
             "link": "https://www.youtube.com/watch?v=LgWzGPmTS-E",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "dejid",
+            "link": "https://www.youtube.com/watch?v=G2pmPlCqqms",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
