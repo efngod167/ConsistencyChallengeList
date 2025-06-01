@@ -25,6 +25,12 @@
             "link": "https://youtu.be/RjTAUbx8ssU?si=2dNLLUfxywcIjOu5",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "spark",
+            "link": "https://www.youtube.com/watch?v=7nLUsrQ5OH0",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
