@@ -111,6 +111,12 @@
             "link": "https://www.youtube.com/watch?v=LgWzGPmTS-E",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "Champ",
+            "link": "https://www.youtube.com/watch?v=d08nspHCo1c",
+            "hz": "120",
+            "percent": 100
         }
     ]
 }
