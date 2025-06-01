@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=v0UBCBSWB28",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Champ",
+            "link": "https://www.youtube.com/watch?v=p5wXCASuKko",
+            "hz": "120",
+            "percent": 100
         }
     ]
 }
