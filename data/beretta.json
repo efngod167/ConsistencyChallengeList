@@ -1,0 +1,13 @@
+{
+    "id": 117571241,
+    "name": "Beretta",
+    "author": "sparktwo",
+    "creators": ["sparktwo"],
+    "verifier": "spark",
+    "verification": "https://www.youtube.com/watch?v=Io1DZIKxd8Q",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+    "records": [
+    ]
+}

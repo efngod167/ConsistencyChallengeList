@@ -1,0 +1,13 @@
+{
+    "id": 119842226,
+    "name": "ufogenesis",
+    "author": "pixelfactorial",
+    "creators": ["qgap"],
+    "verifier": "qgap",
+    "verification": "https://www.youtube.com/watch?v=aKEf31UZXVA",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+    "records": [
+    ]
+}
