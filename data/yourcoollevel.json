@@ -57,6 +57,12 @@
             "hz": "120",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "ZenosSins",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1379203589485887538/0602_1.mp4?ex=683f62f0&is=683e1170&hm=aaaf1144555998cf49e3e655779aeb8d2a74ad899ff502709c327bb0bf9a0890&",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
