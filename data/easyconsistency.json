@@ -14,6 +14,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1379059363783770164/easy_c.mp4?ex=683edc9e&is=683d8b1e&hm=d32cc3f6558e1720a0ef59b0091de1839e27539dde8e42103e6c23d6dcd2affa&",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Saturn",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1379194111252365355/0602_1.mp4?ex=683f5a1c&is=683e089c&hm=fd34c7c0487ebe42372cde11db9989bfa984bf5e2d34f3866448085f75444726&",
+            "hz": "144",
+            "percent": 100
+        }
     ]
 }
