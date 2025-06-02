@@ -20,6 +20,13 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1379194111252365355/0602_1.mp4?ex=683f5a1c&is=683e089c&hm=fd34c7c0487ebe42372cde11db9989bfa984bf5e2d34f3866448085f75444726&",
             "hz": "144",
             "percent": 100
+        },
+        {
+            "user": "Fernando",
+            "link": "https://youtu.be/x-gEsietubc?si=7LR8Nvk-R1acQgYS",
+            "hz": "120",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
