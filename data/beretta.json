@@ -14,6 +14,12 @@
             "link": "https://youtu.be/5W52BWBC_L8?si=hAoQcIZd1mvSwej_",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1379058740862648360/beretta.mp4?ex=683edc09&is=683d8a89&hm=d3fc332c9471c68784892a32ed42c1c77320e84d6b36091581aa9333c560817d&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
