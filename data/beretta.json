@@ -20,6 +20,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1379058740862648360/beretta.mp4?ex=683edc09&is=683d8a89&hm=d3fc332c9471c68784892a32ed42c1c77320e84d6b36091581aa9333c560817d&",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1379129950875025448/2.mp4?ex=683f1e5b&is=683dccdb&hm=95387b069eaf1c3e27543f5587fa37d5e9b1259a48a1f25449ffbf5aaeb664f4&",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
