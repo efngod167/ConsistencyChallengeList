@@ -55,6 +55,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1374112553730310164/0519_101.mp4?ex=682cdd8a&is=682b8c0a&hm=eb1fe5dcd2593e71321722e0621df25a4dd2e88e670d6aa1aa9ea48fd33fd97f&",
             "hz": "144",
             "percent": 100
-        }
+        },
+        {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
