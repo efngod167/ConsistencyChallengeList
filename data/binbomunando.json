@@ -31,6 +31,13 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "60",
 		    "percent": 100
+	    },
+	    {
+		    "user": "IsntPhoenix",
+		    "link": "https://www.youtube.com/watch?v=2DTkdSEh3Lc",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
