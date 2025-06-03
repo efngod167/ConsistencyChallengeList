@@ -81,6 +81,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1379214829083951284/0602_2.mp4?ex=683f6d67&is=683e1be7&hm=fe0cb4d1c1fc9cc60e4758d1838a19c4e1a18af7cd480640dc4956d0e7ac31d8&",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+        {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
