@@ -122,6 +122,13 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "IsntPhoenix",
+            "link": "https://youtu.be/Tic2Ds0C-1g?si=fhWdpvMBRsecm0h3",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
