@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=ahpwjn48U18",
             "hz": "240",
             "percent": 100
-        }
+        },
+        {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
