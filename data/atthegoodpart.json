@@ -20,6 +20,12 @@
             "link": "https://youtu.be/gHobFSM1jvE",
             "hz": "144",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
