@@ -81,6 +81,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "finn",
+            "link": "https://youtu.be/UN74yXpGCIo?si=XQjNfyp3NhfyqTmT",
+            "hz": "144",
+            "percent": 100
         }
     ]
 }
