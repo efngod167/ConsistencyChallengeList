@@ -63,6 +63,12 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "chillguy73",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1379506069004615841/bandicam_2025-06-04_00-02-54-544.mp4?ex=68407ca4&is=683f2b24&hm=114dff11d56ef83a5122158f032a1cbf8e4d028a14f9a90155f6d4fd2bfeae9a&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
