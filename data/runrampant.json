@@ -110,6 +110,12 @@
             "link": "https://www.youtube.com/watch?v=KKO9ZE7FXJo",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
