@@ -129,6 +129,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/4fKwSpZnbyE?si=9RMhtw6vhBkhmdyP",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
