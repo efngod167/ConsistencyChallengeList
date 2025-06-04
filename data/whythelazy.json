@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://youtu.be/3vZqvpbjxx4?si=rScN3m5pXkZBh0KQ",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
