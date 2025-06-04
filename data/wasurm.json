@@ -74,6 +74,12 @@
 		    "link": "https://www.youtube.com/watch?v=9ZvJXv8nyUM",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "tubo",
+            "link": "https://youtu.be/EAAaIlXppOI?si=64HXgyenzoN4iaWv",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
