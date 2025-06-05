@@ -80,6 +80,12 @@
             "link": "https://youtu.be/4fKwSpZnbyE?si=9RMhtw6vhBkhmdyP",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "kap1195",
+		    "link": "https://www.youtube.com/watch?v=BnRXP3-CU34",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
