@@ -138,6 +138,10 @@ export default {
               <div class="type-title-sm">VERSION</div>
               <p>{{ selectedLevel.version || 'Any' }}</p>
             </li>
+            <li>
+              <div class="type-title-sm">AlTERNATING</div>
+              <p>{{ selectedLevel.alternating || 'No' }}</p>
+            </li>
           </ul>
           <h2>Records</h2>
           <p v-if="selectedIndexInFullList <= 75">
