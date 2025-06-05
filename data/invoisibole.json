@@ -117,6 +117,12 @@
             "link": "https://youtu.be/EAAaIlXppOI?si=64HXgyenzoN4iaWv",
             "hz": "240",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Mando",
+		    "link": "https://www.youtube.com/watch?v=aWuytt2pHnE",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
