@@ -6,7 +6,7 @@
     "verifier": "kloone",
     "verification": "https://youtu.be/VrNBsLvbis0?feature=shared",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": "60-360",
     "records": [
         {
             "user": "GDSlaughter",
@@ -30,6 +30,12 @@
 		    "user": "PureL",
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1380167085229084884/2.mp4?ex=6842e443&is=684192c3&hm=e1eb191172c90de5adb1c36d74050c7212db5993dae68593be02233388d2047f&",
+		    "hz": "360",
 		    "percent": 100
 	    }
     ]
