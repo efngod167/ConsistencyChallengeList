@@ -7,6 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=NNlqNMHAAf0",
     "percentToQualify": "100",
     "fps": "60-360",
+	 "alternating": "Yes",
     "records": [
         {
             "user": "Frozix",
