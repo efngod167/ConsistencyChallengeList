@@ -86,6 +86,12 @@
 		    "link": "https://youtu.be/PErgIqifuRI",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "LinCalc",
+		    "link": "https://www.youtube.com/watch?v=W5jGa3xFyn8",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
