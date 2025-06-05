@@ -75,6 +75,12 @@
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1379890899110072432",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Mando",
+		    "link": "https://www.youtube.com/watch?v=8iWQofcnVXA",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
