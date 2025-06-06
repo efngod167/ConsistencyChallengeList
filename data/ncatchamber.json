@@ -61,6 +61,12 @@
 		    "link": "https://www.youtube.com/watch?v=z2AZHTavGz8",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Stratonymous",
+            "link": "https://www.youtube.com/watch?v=oT-JgKeBzys",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
