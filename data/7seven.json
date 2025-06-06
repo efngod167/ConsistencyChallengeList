@@ -147,6 +147,12 @@
 		    "link": "https://youtu.be/9uSLeCaG49c",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Thommy",
+		    "link": "https://www.youtube.com/watch?v=8eImgJHzGdY",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
