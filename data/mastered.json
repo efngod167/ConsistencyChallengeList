@@ -26,6 +26,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1380262120951910440/a6d71c1dcc7399a2.mp4?ex=68433cc5&is=6841eb45&hm=70dd7022eae27cf664513319050fe37351964c658ceea3be62bf9943f5bb43d0&",
             "hz": "240",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "mxstic",
+		    "link": "https://cdn.discordapp.com/attachments/1365699456892272640/1380017888496193609/Untitled_video_-_Made_with_Clipchamp_13.mp4?ex=6843aad0&is=68425950&hm=4adb3b1be51ba3d122d9e5f51fe1413e03400d3e447e78096976a02f52e29ef9&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
