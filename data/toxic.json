@@ -50,6 +50,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1379919571255033947/0604_2.mp4?ex=6841fdbf&is=6840ac3f&hm=c4f10644cebeb3c19e0973367daae24951872d07eeca9932df6a331d4d7f882c&",
             "hz": "240",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1380449776860135455",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
