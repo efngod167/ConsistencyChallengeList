@@ -32,6 +32,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699456892272640/1380017888496193609/Untitled_video_-_Made_with_Clipchamp_13.mp4?ex=6843aad0&is=68425950&hm=4adb3b1be51ba3d122d9e5f51fe1413e03400d3e447e78096976a02f52e29ef9&",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Thommy",
+            "link": "https://youtu.be/AefmqB_x0_0",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
