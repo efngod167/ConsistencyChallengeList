@@ -44,6 +44,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1380647689682685972/Untitled_video_1.mp4?ex=6844a3dc&is=6843525c&hm=030f891707ed6e2944e32790fa7f02b1ccc58f559b47d9e31c69e9360247b32f&",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+	    {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=MShFPMOFHYA",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
