@@ -141,6 +141,12 @@
 		    "link": "https://www.youtube.com/watch?v=5TT2mvSGHyk",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Przemysław Woliński",
+            "link": "https://youtu.be/MBrnObQxvj0",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
