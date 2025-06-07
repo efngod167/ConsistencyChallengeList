@@ -55,6 +55,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1379915851993710632/06042.mp4?ex=6841fa48&is=6840a8c8&hm=4504b7545932845da9f96fb6c1e0525b997288274596703725b038f51977ed72&",
             "hz": "144",
             "percent": 100
+        },
+	    {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=MShFPMOFHYA",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
