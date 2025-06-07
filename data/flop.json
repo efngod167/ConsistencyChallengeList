@@ -7,6 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=DL9TB7e9XRo",
     "percentToQualify": "100",
     "fps": "360",
+    "version": "2.1",
     "records": [
         {
             "user": "GDSlaughter",
@@ -29,6 +30,12 @@
         {
             "user": "Sadisyourlife",
             "link": "https://youtu.be/e7d63qi7fOY?si=-oCwX_fuSKmA4c_a",
+            "hz": "360",
+            "percent": 100
+        },
+        {
+            "user": "M4n1a",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1380661507741974558/Untitled_video_-_Made_with_Clipchamp.mp4?ex=6844b0ba&is=68435f3a&hm=b8e3dabd4a24fa0ac48e3b0b03c2771a214465d6ead257e3c677ec47eac915c2&",
             "hz": "360",
             "percent": 100
         }
