@@ -9,5 +9,11 @@
     "fps": "60-360",
     "alternating": "No",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/PsOfS2xf_sM",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
