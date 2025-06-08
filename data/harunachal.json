@@ -1,0 +1,13 @@
+{
+    "id": 00000000,
+    "name": "haruna challenge",
+    "author": "NotXoti",
+    "creators": ["NotXoti"],
+    "verifier": "Haruna",
+    "verification": "https://youtu.be/8EAMu3Eg7fQ",
+    "percentToQualify": "100",
+    "fps": "144-240",
+	"version": "2.2",
+    "records": [
+    ]
+}
