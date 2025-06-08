@@ -62,6 +62,12 @@
 		    "link": "https://www.youtube.com/watch?v=XzjlB1vHnb4",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "masterace30",
+            "link": "https://youtu.be/fm0jTmfO87M",
+            "hz": "CBF,
+            "percent": 100
+        }
     ]
 }
