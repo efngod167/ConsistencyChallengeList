@@ -96,7 +96,7 @@ export default {
         <table class="list" v-if="filteredList.length">
           <tr v-for="(item, i) in filteredList" :key="i">
             <td class="rank">
-              <p v-if="getOriginalRank(item[0]) <= 100" class="type-label-lg">
+              <p v-if="getOriginalRank(item[0]) <= 150" class="type-label-lg">
                 #{{ getOriginalRank(item[0]) }}
               </p>
               <p v-else class="type-label-lg">Legacy</p>
