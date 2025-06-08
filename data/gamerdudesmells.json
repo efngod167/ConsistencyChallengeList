@@ -13,6 +13,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1381166241527365705/Replay_2025-06-08_17-00-00_-_Trim.mp4?ex=684686cc&is=6845354c&hm=f9dd438e3d86aac3d6f8df4ad9cf46f8d65f822b6964e9574f927db96cd42d17&",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/RzQtahlxVRc?si=Bnd1mEy2xoL4adEC",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
