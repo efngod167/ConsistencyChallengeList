@@ -56,6 +56,12 @@
 		    "link": "https://www.youtube.com/watch?v=YrqnvJOdXE4",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "nensa",
+            "link": "https://youtu.be/mYKzoZzQYz8?si=a_hYll7DWCSqYpm7",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
