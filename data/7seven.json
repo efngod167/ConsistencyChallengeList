@@ -153,6 +153,12 @@
 		    "link": "https://www.youtube.com/watch?v=8eImgJHzGdY",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Bro",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1381203115809968208/VID-20250608-WA0000.mp4?ex=6846a924&is=684557a4&hm=470183d9e09d8d14370902ea036e4d4623aa8b8eba19954dcb2c09276f1df03f&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
