@@ -215,6 +215,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Thommy",
+            "link": "https://youtu.be/ip-I5Tz3dhE",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
