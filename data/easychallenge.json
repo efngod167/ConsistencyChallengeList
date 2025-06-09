@@ -198,6 +198,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "kap1195",
+            "link": "https://youtu.be/ymV7rdc3BZw?si=Tsft4Cpk2vpzVvlk",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
