@@ -62,6 +62,12 @@
 		    "link": "https://www.youtube.com/watch?v=LgWzGPmTS-E",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "ML_Lauchzwiebel",
+            "link": "https://youtu.be/ytdMxhYU6nk",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
