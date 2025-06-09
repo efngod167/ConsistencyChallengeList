@@ -289,6 +289,13 @@
             "link": "https://youtu.be/ytdMxhYU6nk",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Iskra",
+            "link": "https://youtu.be/0CZXjhk5oIo?si=0OLNKkyG5cHsh4sN",
+            "hz": "120",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
