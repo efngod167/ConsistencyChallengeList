@@ -95,12 +95,6 @@
             "percent": 100
         },
         {
-            "user": "Przemysław Woliński",
-            "link": "https://www.youtube.com/watch?v=zzSciXKoEwY",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
             "user": "blazer",
             "link": "https://www.youtube.com/watch?v=Zq-gYw3WDSk",
             "hz": "120",
@@ -264,6 +258,13 @@
             "link": "https://youtu.be/ip-I5Tz3dhE",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "slim shady",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1381429088681459853/YouCut_20250608_202432031.mp4?ex=68477b98&is=68462a18&hm=87be48634b28c9a40a13cc1aad7055a00cd81848cdabc91bf4cd75ce1c31b081&",
+            "hz": "90",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
