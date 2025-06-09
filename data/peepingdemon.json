@@ -32,6 +32,12 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "94",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "nensa",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1381590460987871343/Replay_2025-06-09_20-58-34_-_Trim.mp4?ex=684811e2&is=6846c062&hm=480909c1485d1acce7cbed5965a05b7ddfa16c3bb5fb83b28e92d0746fe624ae&",
+            "hz": "94",
+            "percent": 100
+        }
     ]
 }
