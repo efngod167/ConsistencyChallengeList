@@ -252,6 +252,12 @@
             "hz": "120",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "YukaGMD",
+            "link": "https://www.youtube.com/watch?v=Fkk-FqzPvaM",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
