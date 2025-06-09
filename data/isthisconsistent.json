@@ -227,6 +227,12 @@
             "link": "https://youtube.com/shorts/seQWkLzS5XI?feature=share",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "Nojnis",
+            "link": "https://youtu.be/fvYM6B0jLt0",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
