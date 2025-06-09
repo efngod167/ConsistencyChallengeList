@@ -9,5 +9,11 @@
     "fps": "80",
 	"version": "2.1",
     "records": [
+        {
+            "user": "nensa",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1381527448713170966",
+            "hz": "80",
+            "percent": 100
+        }
     ]
 }
