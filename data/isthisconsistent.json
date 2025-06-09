@@ -65,12 +65,6 @@
             "mobile": "true"
         },
         {
-            "user": "Przemysław Woliński",
-            "link": "https://www.youtube.com/watch?v=Bs953ygROWY",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
             "user": "heitorfbd",
             "link": "https://www.youtube.com/watch?v=kQltGRjVVHw",
             "hz": "60",
@@ -220,6 +214,12 @@
             "user": "Thommy",
             "link": "https://youtu.be/ip-I5Tz3dhE",
             "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "masterace30",
+            "link": "https://youtu.be/ydqVP2qFGSg?si=U8Cukbh_PBRIgYnL",
+            "hz": "CBF",
             "percent": 100
         }
     ]
