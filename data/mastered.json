@@ -81,6 +81,12 @@
             "hz": "CBF",
             "percent": 100,
             "mobile": "true"
-        }
+        },
+	    {
+		    "user": "arisy",
+		    "link": "https://www.youtube.com/watch?v=nOuCcDb4NUU",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
