@@ -129,6 +129,13 @@
             "link": "https://youtu.be/ytdMxhYU6nk",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "OnlyMitka",
+            "link": "https://www.youtube.com/watch?v=mYXhESijRAo",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
