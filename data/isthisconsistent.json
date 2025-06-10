@@ -270,6 +270,13 @@
             "link": "https://youtu.be/rYi5iA2m_hM",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "Crepuscule",
+            "link": "https://youtu.be/dAP9_4brnLU?si=tm-xJq2_6FZxIbUS",
+            "hz": "90",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
