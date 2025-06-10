@@ -251,6 +251,13 @@
 		    "link": "https://medal.tv/games/geometry-dash/clips/ksB139AjWDhVgvIFG?invite=cr-MSxHR2wsMzYwMzA5MzU1",
 		    "hz": "144",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "Crepuscule",
+            "link": "https://youtu.be/dAP9_4brnLU?si=tm-xJq2_6FZxIbUS",
+            "hz": "90",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
