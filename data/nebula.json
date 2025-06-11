@@ -117,6 +117,13 @@
 		    "hz": "90",
 		    "percent": 100,
 		    "mobile": "true"
-	    }
+	    },
+        {
+            "user": "AsterisQ",
+            "link": "https://youtu.be/-aHld-37qmg",
+            "hz": "200",
+            "percent": 100
+        }
+
     ]
 }
