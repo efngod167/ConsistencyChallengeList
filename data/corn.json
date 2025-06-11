@@ -51,6 +51,12 @@
             "hz": "90",
             "percent": 100,
             "mobile": "true"
-        }
+        },
+	    {
+		    "user": "Zimfly",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1382336223921705141/corn.mp4?ex=684ac86e&is=684976ee&hm=907c5677236ef06d87a37077d9182c66f82de5d12c4a51bcd8eb5b74e92c3123&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
