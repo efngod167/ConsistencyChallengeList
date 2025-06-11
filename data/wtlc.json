@@ -136,6 +136,13 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
-        }
+        },
+        {
+		    "user": "Crepuscule",
+		    "link": "https://www.youtube.com/watch?v=hG98UjPDLXY",
+		    "hz": "90",
+		    "percent": 100,
+		    "mobile": "true"
+	    }
     ]
 }
