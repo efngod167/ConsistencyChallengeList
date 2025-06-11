@@ -107,6 +107,12 @@
 		    "hz": "CBF",
 		    "percent": 100,
 		    "mobile": "true"
-	    }
+	    },
+        {
+            "user": "Snale Lorde",
+            "link": "https://youtube.com/watch?v=uQWk_QlVmlU&si=ZJTINjpFi8EiX0Lq",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
