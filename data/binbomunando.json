@@ -50,6 +50,12 @@
 		    "link": "https://www.youtube.com/watch?v=XzjlB1vHnb4",
 		    "hz": "60",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/ZAHdSrKWnMU",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
