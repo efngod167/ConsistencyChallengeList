@@ -118,6 +118,12 @@
 		    "hz": "60",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "AbeSpinach",
+		    "link": "https://youtu.be/ZgUv3-Pojv8",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
