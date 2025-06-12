@@ -216,6 +216,13 @@
 		    "link": "https://youtu.be/ryPFv2A7uHM",
 		    "hz": "240",
 		    "percent": 100,
+	    },
+	    {
+		    "user": "OnlyMitka",
+		    "link": "https://www.youtube.com/watch?v=SUxGj8JXaCg",
+		    "hz": "CBF",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
