@@ -123,6 +123,12 @@
             "link": "https://youtu.be/-aHld-37qmg",
             "hz": "200",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "AbeSpinach",
+		    "link": "https://youtu.be/B3hUpwMnmhg",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
