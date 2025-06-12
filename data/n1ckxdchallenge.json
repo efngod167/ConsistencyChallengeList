@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60-360",
     "records": [
+            {
+                    "user": "nensa",
+                    "link": "https://media.discordapp.net/attachments/1365699456892272640/1381633260219531365/Replay_2025-06-09_23-56-28_-_Trim.mp4?ex=684c2e3e&is=684adcbe&hm=9f1fe7298e9be8143cd7fb32a66387d09f4c415982a5ab1230d0b2003cde70ba&",
+                    "hz": "CBF",
+                    "percent": 100
+            }
     ]
 }
