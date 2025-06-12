@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "No",
     "records": [
+            {
+                    "user": "nensa",
+                    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1382745400401723433",
+                    "hz": "CBF",
+                    "percent": 100
+            }
     ]
 }
