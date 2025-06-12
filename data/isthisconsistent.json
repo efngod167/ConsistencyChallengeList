@@ -290,6 +290,13 @@
             "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1382593910370603099/06124.mp4?ex=684bb86b&is=684a66eb&hm=79e789006c8407f4055f0908485d5d529728060c3d5c074f7fa787c52367b0ca&",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Scientist Baldi",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1382637615483977768/YouCut_20250612_042719871.mp4?ex=684be11f&is=684a8f9f&hm=498fa28892cc65b5407b95b1cff96f7d297184c95da385b3cfec2d7fe9476587&",
+            "hz": "120",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
