@@ -202,6 +202,13 @@
             "link": "https://youtu.be/ytdMxhYU6nk",
             "hz": "240",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Crepuscule",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1382668607854739537/mobizen_20250611_162034.mp4?ex=684bfdfc&is=684aac7c&hm=768de3152fb93e7e7c11967cd5278f93735d0ccc2d098c10f598e3d3f22235a0&",
+		    "hz": "90",
+		    "percent": 100,
+		    "mobile": "true"
+	    }
     ]
 }
