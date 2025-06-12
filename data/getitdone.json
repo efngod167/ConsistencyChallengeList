@@ -135,6 +135,13 @@
             "link": "https://youtu.be/sJ3NbeCtDrA",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "OnlyMitka",
+		    "link": "https://www.youtube.com/watch?v=SUxGj8JXaCg",
+		    "hz": "CBF",
+		    "percent": 100,
+		    "mobile": "true"
+	    }
     ]
 }
