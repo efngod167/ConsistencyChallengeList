@@ -117,6 +117,13 @@
             "hz": "CBF",
             "percent": 100,
 	    "mobile": "true"
+        },
+	{
+            "user": "cloudyxd",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1382398938690224331/XRecorder_20250611_01.mp4?ex=684bab96&is=684a5a16&hm=d135d2c75d25c75a7322e0fa5ec342ad9db7a8ceab881ea64ccf569798e5c17c&",
+            "hz": "CBF",
+            "percent": 100,
+	    "mobile": "true"
         }
     ]
 }
