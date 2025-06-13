@@ -3,7 +3,7 @@
     "name": "spoovi never clear",
     "author": "spoovi",
     "creators": ["spoovi"],
-    "verifier": "SaturnSpeaks",
+    "verifier": "Saturn",
     "verification": "https://www.youtube.com/watch?v=zWAe92S98MI",
     "percentToQualify": "100",
     "fps": "240",
