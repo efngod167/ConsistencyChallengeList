@@ -279,6 +279,13 @@
 		    "link": "https://www.youtube.com/watch?v=iIBB4FjAam8",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+	    {
+		    "user": "boykisser721",
+		    "link": "discord.com",
+		    "hz": "312",
+		    "percent": 100,
+		    "mobile": "true"
+		    }
     ]
 }
