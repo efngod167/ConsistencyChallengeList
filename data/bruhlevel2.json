@@ -279,13 +279,6 @@
 		    "link": "https://www.youtube.com/watch?v=iIBB4FjAam8",
 		    "hz": "CBF",
 		    "percent": 100
-	    },
-	    {
-		    "user": "itzpixelation",
-		    "link": "youtube.com",
-		    "hz": "65",
-		    "percent": 100,
-		    "mobile": "true"
 	    }
     ]
 }
