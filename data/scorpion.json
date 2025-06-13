@@ -1,0 +1,13 @@
+{
+    "id": 120306170,
+    "name": "Scorpion",
+    "author": "Phroggo",
+    "creators": ["Phroggo"],
+    "verifier": "LegendsNeverDie",
+    "verification": "https://www.youtube.com/watch?v=X8ko1X0i8lo",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+    "records": [
+    ]
+}
