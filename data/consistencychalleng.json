@@ -2,8 +2,8 @@
     "id": 120357632,
     "name": "consistency challenge",
     "author": "stratonymous",
-    "creators": [],
-    "verifier": "stratonymous",
+    "creators": ["stratonymous"],
+    "verifier": "Stratonymous",
     "verification": "https://www.youtube.com/watch?v=XVkRzenV3aI",
     "percentToQualify": "100",
     "fps": "60-240",
@@ -38,6 +38,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/ksCFvMleYJrI-myVT?invite=cr-MSxQMHAsMzYwMzA5MzU1",
             "hz": "144",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://www.youtube.com/watch?v=s9om4DJfDVY",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
