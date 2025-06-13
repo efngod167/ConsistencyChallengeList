@@ -26,6 +26,12 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Saturn",
+		    "link": "https://youtu.be/aQQ1khJJuG8",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
