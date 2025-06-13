@@ -9,5 +9,11 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1383100725978206460/notconsistentwave.mp4?ex=684d906d&is=684c3eed&hm=c046871161fc13ec1a6211e970bf883019e49cb91542d72299201e9445bec515&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
