@@ -209,6 +209,12 @@
 		    "hz": "90",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "Powerball20",
+		    "link": "https://www.youtube.com/watch?v=gt6d0hEAK0c",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
