@@ -14,6 +14,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1383104653092192397/Replay_2025-06-08_23-34-01_-_Trim.mp4?ex=684d9416&is=684c4296&hm=7434fa4c15d9c33d773555c0c737adf8a041b92a98f3f594d3cd8ac7ea27ab9d&",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Saturn",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1383120940589645864/0613_4.mp4?ex=684da341&is=684c51c1&hm=f9a94acf28f818f4839b36052e60ffa345ecbe1122776116a896e46d41ea7103&",
+		    "hz": "144",
+		    "percent": 100
+	    }
     ]
 }
