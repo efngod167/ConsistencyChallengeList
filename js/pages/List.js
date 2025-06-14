@@ -203,6 +203,7 @@ export default {
           <p>CBF records are allowed for the list, however physics bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
           <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Diamond Blade End x20".</p>
           <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time" and "Drunk Punch".</p>
+          <p>If you were banned from the server due to a reason or few, you are still allowed to submit your records and levels by directly messaging list staff (pixelfactorial, frozixgd, blightedcoconut_05273 or sadisyourlife.).</p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
