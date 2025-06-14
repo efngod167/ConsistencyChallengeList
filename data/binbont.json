@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "No",
     "records": [
+	    {
+		    "user": "aelzfr",
+		    "link": "https://www.youtube.com/watch?v=4w8xvosrBGs",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
