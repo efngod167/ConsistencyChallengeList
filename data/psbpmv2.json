@@ -14,6 +14,12 @@
             "link": "https://media.discordapp.net/attachments/1365699473732276316/1381331382407794848/PSBPM_V2.mp4?ex=68472099&is=6845cf19&hm=1fa52176e3a5cf798a4934dd0b3a789f92b00e53d836b10ac8e6c95e2b456043&",
             "hz": "240",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Duelo",
+		    "link": "https://youtu.be/0H0VJClpLwc",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
