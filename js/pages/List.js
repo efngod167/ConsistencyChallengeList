@@ -202,7 +202,7 @@ export default {
           <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
           <p>CBF records are allowed for the list, however physics bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
           <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Diamond Blade End x20".</p>
-          <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time" and "Drunk Punch".</p>
+          <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time" and "Drunk Punch".</p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
