@@ -204,30 +204,6 @@ export default {
         score,
         embed,
         getFontColour,
-        getDemonRating(){
-            const currentLevel = this.level; // Use the computed property
-
-            // The v-if="level?.rating" in the template ensures this function is called
-            // only when level and level.rating are truthy.
-            // We still need to ensure level.difficulty is valid.
-            if (!currentLevel || typeof currentLevel.difficulty !== 'number' || !currentLevel.rating) {
-                 console.warn("getDemonRating: Conditions not met (level, difficulty, or rating missing/invalid).", currentLevel);
-                 return '/assets/demonfaces/default.png'; // Fallback image
-            }
-
-            const difficultyNames = ["easy", "medium", "hard", "insane", "extreme"];
-            if (currentLevel.difficulty < 0 || currentLevel.difficulty >= difficultyNames.length) {
-                console.warn("getDemonRating: Invalid difficulty index.", currentLevel.difficulty);
-                return '/assets/demonfaces/default.png';
-            }
-            const difficultyPrefix = difficultyNames[currentLevel.difficulty];
-
-            // Assuming currentLevel.rating is a suffix string like "Demon".
-            // It's guaranteed to be truthy here due to the template's v-if="level?.rating".
-            const ratingSuffix = currentLevel.rating;
-
-            const demonFaceFileName = difficultyPrefix + ratingSuffix;
-            return `/assets/demonfaces/${demonFaceFileName}.png`;
         }
     },
 };
