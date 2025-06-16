@@ -1,0 +1,118 @@
+.page-list-packs .pack-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.page-list-packs .pack-selector button {
+  padding: 0.75rem 1.25rem;
+  background-color: var(--color-background);
+  color: var(--color-on-background);
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.page-list-packs .pack-selector button:hover {
+  background-color: var(--color-background-hover);
+  color: var(--color-on-background-hover);
+}
+
+.page-list-packs .pack-selector button.active {
+  background-color: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+.page-list-packs {
+  display: grid;
+  grid-template-columns: minmax(24rem, 2fr) 3fr;
+  column-gap: 2rem;
+  max-width: 80rem;
+  margin: 0 auto;
+  height: 100%;
+  padding-block: 2rem;
+}
+
+.page-list-packs > div {
+  overflow-y: auto;
+}
+
+.page-list-packs .list-container {
+  padding-inline: 1rem;
+}
+
+.page-list-packs .list {
+  width: 100%;
+  table-layout: auto;
+}
+
+.page-list-packs .list .rank {
+  text-align: end;
+  padding-right: 1rem;
+}
+
+.page-list-packs .list .level {
+  width: 100%;
+}
+
+.page-list-packs .list .level button {
+  width: 100%;
+  text-align: start;
+  background-color: var(--color-background);
+  color: var(--color-on-background);
+  border: none;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.page-list-packs .list .level button:hover {
+  background-color: var(--color-background-hover);
+  color: var(--color-on-background-hover);
+}
+
+.page-list-packs .list .level.active button {
+  background-color: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+.page-list-packs .level-container {
+  padding-right: 2rem;
+  max-width: 48rem;
+}
+
+.page-list-packs .level {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.page-list-packs .level-authors {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  grid-auto-rows: max-content;
+  gap: 1rem;
+}
+
+.page-list-packs .video {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.page-list-packs .stats {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  gap: 2rem;
+}
+
+.page-list-packs .stats li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
