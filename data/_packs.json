@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Starter Pack",
+    "id": "starter-pack",
+    "levels": ["level1-id", "level2-id", "level3-id"]
+  },
+  {
+    "name": "Insane Challenges",
+    "id": "insane-challenges",
+    "levels": ["level5-id", "level8-id"]
+  }
+]
