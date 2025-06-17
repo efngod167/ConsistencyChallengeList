@@ -170,7 +170,7 @@ export default {
         </div>
       </div>
       <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-        <p>The mods fucked up message them cause they dont know how to add levels thanks - aelz</p>
+        
       </div>
       <div class="meta-container">
         <div class="meta">
