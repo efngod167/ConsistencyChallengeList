@@ -122,6 +122,12 @@
             "link": "https://youtu.be/mYKzoZzQYz8?si=a_hYll7DWCSqYpm7",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Scientist Baldi",
+		    "link": "https://youtu.be/_e77hoaWZx8?feature=shared",
+		    "hz": "120",
+		    "percent": 100
+	    }
     ]
 }
