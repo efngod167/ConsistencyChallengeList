@@ -148,7 +148,7 @@ export default {
             <strong>{{ selectedLevel.percentToQualify }}%</strong> or better to qualify
           </p>
           <p v-else-if="selectedIndexInFullList <= 150">
-            <strong>100%</strong> or better to qualify
+            <strong>100%</strong> to qualify
           </p>
           <p v-else>This level does not accept new records.</p>
           <table class="records">
