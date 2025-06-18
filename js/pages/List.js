@@ -145,7 +145,7 @@ export default {
           </ul>
           <h2>Records</h2>
           <p v-if="selectedIndexInFullList <= 75">
-            <strong>{{ selectedLevel.percentToQualify }}%</strong> or better to qualify
+            <strong>{{ selectedLevel.percentToQualify }}%</strong> to qualify
           </p>
           <p v-else-if="selectedIndexInFullList <= 150">
             <strong>100%</strong> to qualify
