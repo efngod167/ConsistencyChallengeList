@@ -62,6 +62,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1384244675527049276/Arm_Killer.mov?ex=6851b9d0&is=68506850&hm=5585f21d8b57671371fd5e72893949043639ae933178f36fa4f495e32df47f5f&",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "RandomMonkey",
+		    "link": "https://www.youtube.com/watch?v=__w5xjGBa9w",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
