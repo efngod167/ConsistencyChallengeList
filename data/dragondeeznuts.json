@@ -38,6 +38,12 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "RandomMonkey",
+		    "link": "https://www.youtube.com/watch?v=__w5xjGBa9w",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
