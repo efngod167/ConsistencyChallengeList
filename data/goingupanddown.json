@@ -157,6 +157,12 @@
 		    "link": "https://youtu.be/vYGq2pdycno",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=DI54E_loMvE&ab_channel=Andras9912GD",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
