@@ -1,0 +1,14 @@
+{
+    "id": 121250252,
+    "name": "Wave consistency inv",
+    "author": "WithinGD",
+    "creators": [],
+    "verifier": "WithinGD",
+    "verification": "https://www.youtube.com/watch?v=ULo35IEXgUk",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+	"alternating": "Yes",
+    "records": [
+    ]
+}
