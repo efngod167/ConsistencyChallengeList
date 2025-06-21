@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "Yes",
     "records": [
+	    {
+		    "user": "blightedcoconut"
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1385919667784122368/wave_consistency_invis.mp4?ex=6857d1c5&is=68568045&hm=cd10ec1c1b9245064805cdf7993a3e74c1abc453e32f1301e85703c5011e8757&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
