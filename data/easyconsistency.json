@@ -190,6 +190,12 @@
 		    "link": "https://www.youtube.com/watch?v=_HOmcwrTrqY&list=PLbqDWHfDbHrwKaOOFPTB6zKCd_yvIKLdM&index=2&pp=iAQB",
 		    "hz": "144",
 		    "percent": 100
+	    },
+	    {
+		    "user": "FranPes",
+		    "link": "https://youtu.be/m1JCKp_oCas",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
