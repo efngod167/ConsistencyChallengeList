@@ -147,6 +147,12 @@
 		    "link": "https://www.youtube.com/watch?v=ZVxPLKWVvYE",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "flaped",
+		    "link": "https://www.youtube.com/watch?v=dm63HBizv2w",
+		    "hz": "60",
+		    "percent": 100
 	    }
     ]
 }
