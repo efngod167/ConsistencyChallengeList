@@ -74,6 +74,12 @@
 		    "link": "https://youtu.be/kAMeOJJVIRk?feature=shared",
 		    "hz": "120",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Blainicorn",
+		    "link": "https://www.youtube.com/watch?v=VTgdEhefbWE",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
