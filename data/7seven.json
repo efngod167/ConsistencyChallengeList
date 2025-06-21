@@ -280,6 +280,12 @@
 		    "link": "https://www.youtube.com/watch?v=IkrySd-UFys&list=PL9323fnN7CNMOkpTB_Nh6_lcPv2xsJIYw&index=1",
 		    "hz": "144",
 		    "percent": 100
+	    },
+	    {
+		    "user": "gltchgmd",
+		    "link": "https://youtu.be/2ChBZZFdzEo",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
