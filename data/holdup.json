@@ -14,6 +14,12 @@
             "link": "https://youtu.be/POye1D-A27Q",
             "hz": "CBF",
             "percent": 100
-            }
+            },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=KtjrGQ8mH9M&list=PLbqDWHfDbHrwKaOOFPTB6zKCd_yvIKLdM&index=8&pp=iAQB",
+		    "hz": "144",
+		    "percent": 100
+	    }
     ]
 }
