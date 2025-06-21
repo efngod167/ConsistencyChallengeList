@@ -9,5 +9,11 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1385916774947487754/lucagmd_challenge.mp4?ex=6857cf14&is=68567d94&hm=00b123a17d7b4bfaa958f1263199680026af9244ee5a9ded202db95c64bc7ef7&",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
