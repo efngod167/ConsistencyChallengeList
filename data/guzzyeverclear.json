@@ -207,6 +207,12 @@
 		    "link": "https://www.youtube.com/watch?v=XVpb1aEgm1M",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Jambizzy",
+		    "link": "https://www.youtube.com/watch?v=ZGd2DFO2mUI",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
