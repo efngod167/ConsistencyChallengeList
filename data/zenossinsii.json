@@ -44,6 +44,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1386239834653331526/Replay_2025-06-05_18-09-16_-_Trim.mp4?ex=6858fbf3&is=6857aa73&hm=0b383cd003acc83da8704c0b13a5867034d6f270000bb2db6f0d4cda31086eba&",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Duelo",
+		    "link": "https://www.youtube.com/watch?v=Fli-p6UgAkY",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
