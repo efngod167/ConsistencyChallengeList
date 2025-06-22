@@ -153,6 +153,12 @@
 		    "hz": "120",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "DeathNight77",
+		    "link": "https://www.youtube.com/watch?v=rQYhJOw34eE",
+		    "hz": "165",
+		    "percent": 100
 	    }
     ]
 }
