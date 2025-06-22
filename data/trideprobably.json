@@ -267,6 +267,12 @@
 		    "link": "https://www.youtube.com/live/QAMMHWksOQc",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "finni 1505",
+		    "link": "https://www.youtube.com/watch?v=wdTPENm_w5Y",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
