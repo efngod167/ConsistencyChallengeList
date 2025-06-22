@@ -111,6 +111,12 @@
             "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1386332396592300094/Replay_2025-06-22_22-31-52_-_Trim.mp4?ex=68595228&is=685800a8&hm=3d8933ae3363ced44be6146564f9c9a99aaf33dbb8b1f8684b348eb08a6c396e&",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "Archie Macdonald",
+		    "link": "https://youtu.be/yshepYWdZoo",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
