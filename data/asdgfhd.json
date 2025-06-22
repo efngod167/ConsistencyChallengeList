@@ -86,6 +86,12 @@
 		    "link": "https://www.youtube.com/watch?v=ZGd2DFO2mUI",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "kenzie",
+		    "link": "https://youtu.be/jPElBLW6JC0",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
