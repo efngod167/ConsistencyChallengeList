@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "No",
     "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1386382924118757497/cygun.mp4?ex=68598136&is=68582fb6&hm=45e0b3c6df6eb12c79099011531de5ae63e164a4a4558f4e99cbfaa5d7603df9&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
