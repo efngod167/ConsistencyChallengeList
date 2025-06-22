@@ -196,7 +196,7 @@ export default {
           <h3>List Requirements</h3>
           <p>Every level must be consistency based.</p>
           <p>Maximum CPS for your level must not reach or be above 10.</p>
-          <p>Have either source audio or clicks/taps in the video. Edited audio only does not count</p>
+          <p>There must be clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
           <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
           <p>You cannot include spam based parts (applies to the cps rule) in your level.</p>
           <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
