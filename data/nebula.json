@@ -213,6 +213,12 @@
 		    "link": "https://youtu.be/s88UoWA9Xt0",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Duelo",
+		    "link": "https://www.youtube.com/watch?v=0PffY7wbL6U",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
