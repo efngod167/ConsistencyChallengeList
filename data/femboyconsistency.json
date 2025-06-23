@@ -86,6 +86,12 @@
 		    "link": "https://www.youtube.com/watch?v=0-7zNJ1nW10",
 		    "hz": "144",
 		    "percent": 100
+	    },
+	    {
+		    "user": "ScriptSnack",
+		    "link": "https://youtu.be/VCeCAWYYJME",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
