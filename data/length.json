@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "No",
     "records": [
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=kXBfM5rqF5M",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
