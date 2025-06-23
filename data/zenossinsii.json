@@ -50,6 +50,12 @@
 		    "link": "https://www.youtube.com/watch?v=Fli-p6UgAkY",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "ScriptSnack",
+		    "link": "https://youtu.be/yRIoJcTb6uI",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
