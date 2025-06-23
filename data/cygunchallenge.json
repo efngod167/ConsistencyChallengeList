@@ -1,9 +1,9 @@
 {
     "id": 120923888,
     "name": "cygun challenge",
-    "author": "Felmixxxxxx",
-    "creators": ["Felmixxxxxx"],
-    "verifier": "Felmixxxxxx",
+    "author": "Felmixxxxx",
+    "creators": ["Felmixxxxx"],
+    "verifier": "Felmixxxxx",
     "verification": "https://youtu.be/d_FnXqdzbLw",
     "percentToQualify": "100",
     "fps": "60-240",
@@ -20,6 +20,12 @@
 		    "user": "Greencookie",
 		    "link": "https://youtu.be/wkggRF8oGBU",
 		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=kXBfM5rqF5M",
+		    "hz": "240",
 		    "percent": 100
 	    }
     ]
