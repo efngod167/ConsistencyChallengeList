@@ -359,6 +359,12 @@
 		    "link": "https://youtube.com/clip/UgkxGCwim4BoqNTxPNSaPmAF7Q1vRfyBVEa-?si=S9bXPrYvCheifvZj",
 		    "hz": "144",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Maverick",
+		    "link": "https://www.youtube.com/watch?v=AlSsK-5RUGI",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
