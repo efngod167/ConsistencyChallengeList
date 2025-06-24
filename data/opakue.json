@@ -189,6 +189,12 @@
 		    "link": "https://www.youtube.com/watch?v=QbKLyiGjpYg&feature=youtu.be",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "between",
+		    "link": "https://www.youtube.com/watch?v=dH0AWoNRAY8",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
