@@ -158,6 +158,12 @@
 		    "link": "https://www.youtube.com/watch?v=3ubqFnAPvRE",
 		    "hz": "144",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Thursday",
+		    "link": "https://www.youtube.com/watch?v=byYe8JxpKBQ",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
