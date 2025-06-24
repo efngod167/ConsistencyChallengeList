@@ -285,6 +285,12 @@
 		    "link": "https://www.youtube.com/watch?v=AkIzcwL-4jY",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Thursday",
+		    "link": "https://www.youtube.com/watch?v=6GursTSCvA0",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
