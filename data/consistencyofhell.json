@@ -184,6 +184,13 @@
 		    "link": "https://www.youtube.com/watch?v=6GursTSCvA0",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Scientist Baldi",
+		    "link": "https://youtu.be/A-I2DLrxkh0?feature=shared",
+		    "hz": "120",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
