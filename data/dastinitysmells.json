@@ -92,6 +92,12 @@
 		    "link": "https://www.youtube.com/watch?v=mBf4UMadRFw",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Duelo",
+		    "link": "https://www.youtube.com/watch?v=llexlsW-n54",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
