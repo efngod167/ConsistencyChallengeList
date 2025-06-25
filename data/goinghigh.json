@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "No",
     "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387421651435651122/GeometryDash_2025-06-25_17-17-31-655.mp4?ex=685d489a&is=685bf71a&hm=283c15240b87562321ff7f041074f7cb42a71282132033e32e63497ca4543194&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
