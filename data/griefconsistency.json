@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60-360",
     "records": [
+        {
+            "user": "Duelo",
+            "link": "https://youtu.be/gSsWhbNa1Tg",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
