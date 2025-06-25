@@ -122,6 +122,12 @@
 		    "link": "https://youtu.be/IuM8i8eoA5k",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "nexia",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387434201120243742/06251.mp4?ex=685d544a&is=685c02ca&hm=f44ab4f207cdb8023c05e9a5118e167e03a9b689bc9e80ac4b8a371903a98425&",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
