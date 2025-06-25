@@ -104,6 +104,12 @@
 		    "link": "https://youtu.be/NhnuJo9oIuA",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "luxxers",
+		    "link": "https://www.youtube.com/watch?v=wJOC5VA3Czk",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
