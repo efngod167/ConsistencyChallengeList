@@ -261,6 +261,12 @@
 		    "link": "https://www.youtube.com/watch?v=molg9LI_0HI",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://youtu.be/VtAsGgES4aA",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
