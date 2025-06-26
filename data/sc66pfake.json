@@ -347,6 +347,13 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387496305038856233/148_sc66p_is_rng_based.mp4?ex=685d8e21&is=685c3ca1&hm=b3f420774b01a48ad04ab13558bc8b50c3a5ec2453f4c081db497cf1b18f3c68&",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "R3YNOX_",
+		    "link": "https://youtu.be/rD9_F9AMeCk",
+		    "hz": "120",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
