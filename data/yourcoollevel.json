@@ -2,7 +2,7 @@
     "id": 118466735,
     "name": "mycoolconsistency",
     "author": "heitorfbd",
-    "creators": ["heitorfbd"],
+    "creators": [],
     "verifier": "heitorfbd",
     "verification": "https://www.youtube.com/watch?v=jM-pbuPLZVg",
     "percentToQualify": "100",
@@ -104,6 +104,12 @@
 		    "user": "Duelo",
 		    "link": "https://www.youtube.com/watch?v=Nqw4PNtWxME",
 		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=jTGI5OitlPI",
+		    "hz": "144",
 		    "percent": 100
 	    }
     ]
