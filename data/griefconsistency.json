@@ -19,6 +19,12 @@
             "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387420988588691506/GeometryDash_2025-06-25_17-14-43-656.mp4?ex=685d47fc&is=685bf67c&hm=f0c9165608335db19f9492fd19ec339d5cdcd20ca5269daed020cb3484ccae44&",
             "hz": "240",
             "percent": 100
-        }
+        },
+        {
+		    "user": "StockUniverse",
+		    "link": "https://www.youtube.com/watch?v=7hOiEWGRgZw",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
