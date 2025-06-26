@@ -238,6 +238,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387494518517141555/142_get_it_get_it_done.mp4?ex=685d8c77&is=685c3af7&hm=757fb7529a13558a39308ba3096959101b4c13e731c6e1cdf8d9cfe2cc626f51&",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "fnmgd",
+            "link": "https://youtu.be/5mKnvZ-MD-g?si=xtXvmFwG3z87DjhM",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
