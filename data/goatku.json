@@ -98,6 +98,12 @@
 		    "link": "https://www.youtube.com/watch?v=7hOiEWGRgZw",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Archie Macdonald",
+		    "link": "https://youtu.be/xHBYlfB9S00",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
