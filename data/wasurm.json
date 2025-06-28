@@ -189,6 +189,12 @@
 		    "hz": "CBF",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://www.youtube.com/watch?v=2tv46yvhJ9E",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
