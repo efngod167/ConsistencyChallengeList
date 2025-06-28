@@ -56,6 +56,12 @@
             "link": "https://youtu.be/ZAHdSrKWnMU",
             "hz": "60",
             "percent": 100
-        }
+        },
+	    {
+		    "user": "uwoGD",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1388381061012131991/Geometry_Dash_2025.06.27_-_20.58.20.13.DVR.mp4?ex=6860c61f&is=685f749f&hm=1f3f80ce504800a83e164ffa0b9a913ca1daf1f26b0d26f8d70add3d6031c517&",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
