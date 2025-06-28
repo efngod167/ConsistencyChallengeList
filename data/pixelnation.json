@@ -116,6 +116,12 @@
 		    "link": "https://www.youtube.com/watch?v=twSEl_HKMKM",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://www.youtube.com/watch?v=ZC8VY09g4TE",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
