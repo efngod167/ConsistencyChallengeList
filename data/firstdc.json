@@ -21,7 +21,7 @@
 		    "hz": "240",
 		    "percent": 100
 	    },
-	    	     {
+	    {
 		    "user": "Sadisyourlife",
 		    "link": "https://www.youtube.com/watch?v=BOCNgIB45Pw",
 		    "hz": "240",
@@ -96,6 +96,12 @@
 	    {
 		    "user": "FoldedZero",
 		    "link": "https://www.youtube.com/watch?v=twSEl_HKMKM",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Lol_amaZon",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kAVz5vpPM_OtJYyfs?invite=cr-MSxVQUQsMjI2NjE4MDcx",
 		    "hz": "CBF",
 		    "percent": 100
 	    }
