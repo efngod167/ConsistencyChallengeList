@@ -50,6 +50,12 @@
 		    "link": "https://www.youtube.com/watch?v=dxdv2REpSd8",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "apl",
+		    "link": "https://youtu.be/rby4BfRnWfM",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
