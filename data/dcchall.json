@@ -9,18 +9,12 @@
     "fps": "60-240",
     "version": "2.2",
     "records": [
-{
-"user": "SpeedhackJacyGD",
-"link": "https://www.youtube.com/watch?v=PY4lnKrZ1Vo",
-"hz": "CBF",
-"percent": 100
-},
-{
-"user": "zavet",
-"link": "https://medal.tv/ru/games/geometry-dash/clips/kBVeoqIQTD_6CFFQi?invite=cr-MSw5VjUsMzc4Nzk0ODQ5",
-"hz": "CBF",
-"percent": 100
-},
+        {
+            "user": "SpeedhackJacyGD",
+            "link": "https://www.youtube.com/watch?v=PY4lnKrZ1Vo",
+            "hz": "CBF",
+            "percent": 100
+        },
         {
             "user": "Fentanyl",
             "link": "https://medal.tv/games/geometry-dash/clips/kBT44kNxVQuhuSFXT?invite=cr-MSxZbnEsMTkwNjk4ODYw",
@@ -45,17 +39,17 @@
             "hz": "CBF",
             "percent": 100
         },
-{
-"user": "spuster2137",
-"link": "https://youtu.be/JGK073TXyPo?si=h77n3o0kAb-rYSdp",
-"hz": "CBF",
-"percent": 100
-},
         {
-"user": "Rashi",
-"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1390790915873837147",
-"hz": "240",
-"percent": 100
-}
+            "user": "spuster2137",
+            "link": "https://youtu.be/JGK073TXyPo?si=h77n3o0kAb-rYSdp",
+            "hz": "CBF",
+            "percent": 100
+            },
+        {
+            "user": "Rashi",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1390790915873837147",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
