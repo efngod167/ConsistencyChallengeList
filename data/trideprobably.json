@@ -9,10 +9,10 @@
     "fps": "60-360",
     "records": [
         {
-        "user": "galbeni7",
-        "link": "https://www.youtube.com/watch?v=cTUmOzzPew8",
-        "hz": "CBF",
-        "percent": 100
+            "user": "galbeni7",
+            "link": "https://www.youtube.com/watch?v=cTUmOzzPew8",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Frozix",
@@ -128,7 +128,7 @@
 		    "link": "https://www.youtube.com/watch?v=PmJc3C4nBCs",
 		    "hz": "CBF",
 		    "percent": 100
-	    },
+	},
 	    {
 		    "user": "PureL",
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
@@ -217,12 +217,6 @@
 	    {
 		    "user": "Moderatepine",
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1384631326187061309/IMG_3680.mov?ex=685321e9&is=6851d069&hm=53fa8a9cecc2d0a2d7825b359098f7d8ac9e60bcb123826594a5c4264b2ff75a&",
-		    "hz": "CBF",
-		    "percent": 100
-	    },
-	    {
-		    "user": "zavet",
-		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1385862953214939209",
 		    "hz": "CBF",
 		    "percent": 100
 	    },
