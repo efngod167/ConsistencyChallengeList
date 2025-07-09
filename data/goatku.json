@@ -122,6 +122,12 @@
 		    "link": "https://www.youtube.com/watch?v=yFkK5J8IUNc",
 		    "hz": "60",
 		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/TC-RYh7asD8",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
