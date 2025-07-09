@@ -227,6 +227,12 @@
 		    "link": "https://m.youtube.com/watch?v=oC1P6r8nENg",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/TC-RYh7asD8",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
