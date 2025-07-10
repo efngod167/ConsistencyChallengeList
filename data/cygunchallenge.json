@@ -39,6 +39,12 @@
 		    "link": "https://youtu.be/R1X3MGczilU",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Digital",
+		    "link": "https://www.youtube.com/watch?v=kztjoxrF8NA",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
