@@ -9,5 +9,11 @@
     "fps": "144",
 	"version": "2.1",
     "records": [
+	    {
+		    "user": "FogMello",
+		    "link": "https://youtu.be/ufeAjDjAOh4?si=CXqrGuN3blFltx-2",
+		    "hz": "144",
+		    "percent": 100
+	    }
     ]
 }
