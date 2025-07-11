@@ -14,6 +14,12 @@
         	"link": "https://www.youtube.com/watch?v=gXetogepuZo",
         	"hz": "240",
         	"percent": 100
+            },
+	    {
+        	"user": "F1xed",
+        	"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1393356686336725052/video-output-2C2D3FC6-E7CF-439A-8E0A-7B480A88B53B-1.mov?ex=6872e009&is=68718e89&hm=dfb4176235f0e9420da575a5cfc11db7ad9c05e4ff37113c09ac94dedd6178af&",
+        	"hz": "120",
+        	"percent": 100
             }
     ]
 }
