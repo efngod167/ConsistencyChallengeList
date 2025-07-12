@@ -304,6 +304,13 @@
       "hz": "120",
       "percent": 100,
       "mobile": "true"
-     }
+     },
+	    {
+      		"user": "Nuridin_T3B",
+      		"link": "https://youtu.be/vEVmY2P5J7Y?si=MXWfz0s6CxH5v9eH",
+      		"hz": "60",
+      		"percent": 100,
+      		"mobile": "true"
+            }
     ]
 }
