@@ -26,6 +26,19 @@
 		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1393412355999793315",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "aRcMX",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1393412355999793315",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Nuridin_T3B",
+		    "link": "https://youtu.be/rwC5whCj7VU?si=dBI2l-0jyHBGfvDq",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
