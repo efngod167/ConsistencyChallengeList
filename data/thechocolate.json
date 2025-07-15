@@ -62,6 +62,12 @@
             	"link": "https://youtu.be/PsRSuWw6hIM",
             	"hz": "165",
             	"percent": 100
+            },
+	    {
+            	"user": "Andras9912",
+            	"link": "https://www.youtube.com/watch?v=f-8x26oGMng",
+            	"hz": "144",
+            	"percent": 100
             }
     ]
 }
