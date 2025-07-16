@@ -324,6 +324,12 @@
 		    "hz": "CBF",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=57edLh66q1E",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
