@@ -189,6 +189,12 @@
 		    "hz": "60",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://www.youtube.com/watch?v=SB-ixvb9Elo",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
