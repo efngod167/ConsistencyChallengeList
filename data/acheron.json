@@ -20,6 +20,12 @@
             	"link": "https://www.youtube.com/watch?v=lQcB4rCeAz4",
             	"hz": "144",
             	"percent": 100
-            }
+            },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=IGrm_ix_gJg",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
