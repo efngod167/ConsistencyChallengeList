@@ -9,5 +9,11 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395740066273296384",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
