@@ -1,7 +1,7 @@
 {
     "id": 120576631,
     "name": "nap",
-    "author": "stratonymous",
+    "author": "Stratonymous",
     "creators": [],
     "verifier": "Stratonymous",
     "verification": "https://youtu.be/i2hrkSfi3uU",
@@ -54,6 +54,12 @@
 	    {
 		    "user": "MiRPacK19",
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1395819140891283466/8mb.video-gk3-ap2n1H61.mp4?ex=687bd560&is=687a83e0&hm=7a5ff188cdcc02220adb2c553016600f0439846a47e2859894c93e00385f2a87&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Benjam0035",
+		    "link": "https://www.youtube.com/watch?v=Om8ovHYuPF8",
 		    "hz": "CBF",
 		    "percent": 100
 	    }
