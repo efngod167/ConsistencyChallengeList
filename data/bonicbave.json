@@ -164,6 +164,12 @@
 		    "link": "https://www.youtube.com/watch?v=Om8ovHYuPF8",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Lefty",
+		    "link": "https://youtu.be/8d9an7HW5T4",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
