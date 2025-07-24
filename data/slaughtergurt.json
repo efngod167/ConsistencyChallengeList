@@ -44,6 +44,12 @@
 		    "link": "https://youtu.be/ZY111q90Fw4",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "originset",
+		    "link": "https://www.youtube.com/watch?v=d4D8dXiQMNg",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
