@@ -9,5 +9,11 @@
     "fps": "144",
 	"version": "2.1",
     "records": [
+	{
+        	"user": "V10lence",
+        	"link": "https://youtu.be/vPRFxacB_ag",
+        	"hz": "144",
+        	"percent": 100
+        }
     ]
 }
