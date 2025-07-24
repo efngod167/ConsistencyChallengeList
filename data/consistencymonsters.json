@@ -14,6 +14,12 @@
         	"link": "https://www.youtube.com/watch?v=gXetogepuZo",
         	"hz": "CBF",
         	"percent": 100
-            }
+            },
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/Z4zS-AHbuek",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
