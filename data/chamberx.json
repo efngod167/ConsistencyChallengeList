@@ -50,6 +50,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1395865407096623174/9d0b4b60a710ae37.mp4?ex=687c0076&is=687aaef6&hm=d0ac90bc3c593a0166defc8562da65a6a8661d0f08cd5039651360fdf8fc1b4d&",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://youtu.be/lu5VKMg2itA",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
