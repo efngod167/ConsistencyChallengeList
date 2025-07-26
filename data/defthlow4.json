@@ -79,6 +79,12 @@
             "link": "https://youtu.be/8d9an7HW5T4",
             "hz": "240",
             "percent": 100
-        }
+        },
+        {
+		    "user": "galbeni7",
+		    "link": "https://www.youtube.com/watch?v=qUGHWuPeXRw",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
