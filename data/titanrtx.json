@@ -15,10 +15,16 @@
 		    "hz": "144",
 		    "percent": 100
 	    },
-	    	     {
+	    {
 		    "user": "Sadisyourlife",
 		    "link": "https://www.youtube.com/watch?v=BOCNgIB45Pw",
 		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ybVfADOXX3s",
+		    "hz": "CBF",
 		    "percent": 100
 	    }
     ]
