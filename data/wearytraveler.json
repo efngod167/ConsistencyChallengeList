@@ -15,6 +15,12 @@
 		    "hz": "60",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "fobwaka",
+		    "link": "https://www.youtube.com/watch?v=ieeUkkvLWpE",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
