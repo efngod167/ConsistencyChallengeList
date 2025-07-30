@@ -127,6 +127,12 @@
 		    "link": "https://www.youtube.com/live/gKYY8wj8q94",
 		    "hz": "60",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Lefty",
+		    "link": "https://youtu.be/5oXylRrM1Fk",
+		    "hz": "60",
+		    "percent": 100
 	    }
     ]
 }
