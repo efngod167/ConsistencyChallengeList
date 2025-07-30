@@ -69,6 +69,12 @@
 		    "link": "https://www.youtube.com/live/gKYY8wj8q94",
 		    "hz": "60",
 		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://www.youtube.com/watch?v=yCTApdVIiaM",
+		    "hz": "60",
+		    "percent": 100
 	    }
     ]
 }
