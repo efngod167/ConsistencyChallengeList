@@ -56,6 +56,12 @@
 		    "link": "https://www.youtube.com/live/gKYY8wj8q94",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "$nowmane",
+		    "link": "https://youtu.be/vLS50eSop-w",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
