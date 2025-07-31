@@ -26,6 +26,12 @@
 		    "link": "https://www.youtube.com/watch?v=4qNTEvRWzv0",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "조세현",
+		    "link": "https://youtu.be/8jCttZV63go",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
