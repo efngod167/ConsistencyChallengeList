@@ -75,6 +75,12 @@
 		    "link": "https://www.youtube.com/watch?v=yCTApdVIiaM",
 		    "hz": "60",
 		    "percent": 100
+	    },
+	    {
+		    "user": "FogMello",
+		    "link": "https://www.youtube.com/watch?v=6bG1sNg6_ls&ab_channel=FogMello",
+		    "hz": "60",
+		    "percent": 100
 	    }
     ]
 }
