@@ -14,6 +14,12 @@
             "link": "https://www.youtube.com/watch?v=1BwUWLDEh4c",
             "hz": "CBF",
             "percent": 100
+        },
+	{
+            "user": "TheBlueElephant",
+            "link": "https://youtu.be/qPU6HcJFaQQ",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
