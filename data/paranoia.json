@@ -39,6 +39,12 @@
 		    "hz": "60",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
