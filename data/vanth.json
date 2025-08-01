@@ -44,6 +44,12 @@
 		    "link": "https://www.youtube.com/watch?v=qUGHWuPeXRw",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "spark",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699456892272640/1400827604508086312",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
