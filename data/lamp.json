@@ -80,6 +80,12 @@
 		    "link": "https://youtu.be/0IQvHzAQZ4U",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "FogMello",
+		    "link": "https://www.youtube.com/watch?v=6bG1sNg6_ls&ab_channel=FogMello",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
