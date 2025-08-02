@@ -79,6 +79,12 @@
 		    "link": "https://www.youtube.com/watch?v=cmdF8_rXS2I",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1401248723316772915/MedalTVGeometryDash20250802130052-tr-edit_1.mp4?ex=688f9611&is=688e4491&hm=f0905139b556410e9f02591231eb43602a7a66705987cf001744d80d441ef179&",
+		    "hz": "CBF",
+		    "percent": 100
+	}
     ]
 }
