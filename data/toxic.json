@@ -242,6 +242,13 @@
 		    "link": "https://www.youtube.com/watch?v=GLCgaLcKJaM",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Joacuhh",
+		    "link": "https://youtu.be/mQoHaWmKpf4?si=Joacuhh",
+		    "hz": "CBF",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
