@@ -92,6 +92,12 @@
 		    "link": "https://www.youtube.com/watch?v=6bG1sNg6_ls&ab_channel=FogMello",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Xed",
+		    "link": "https://www.youtube.com/shorts/bLXR7XNoJ2Q",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
