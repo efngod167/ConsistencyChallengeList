@@ -92,6 +92,13 @@
 		    "link": "https://youtu.be/UINjw55dP2o",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Scientist Baldi",
+		    "link": "https://youtu.be/Glr636SdwOU?si=pctGFgiGmQ8nsOD-",
+		    "hz": "120",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
