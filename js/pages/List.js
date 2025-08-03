@@ -200,12 +200,11 @@ export default {
           <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
           <p>You cannot include spam based parts (applies to the CPS rule) in your level.</p>
           <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
-          <p>CBF records are allowed for the list, however physics bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
+          <p>CBF records are allowed for the list, however Physics Bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
           <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
           <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
           <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Diamond Blade End x20", "Wave consistency inv" and "Scorpion".</p>
           <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv" and "Invisible eight".</p>
-          <p>If you were banned from the server due to a reason or few, you are still allowed to submit your records and levels by directly messaging list staff (pixelfactorial, galbereal, blightedcoconut_05273, sadisyourlife. or saturn_55004).</p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
