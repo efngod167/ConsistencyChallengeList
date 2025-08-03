@@ -100,6 +100,12 @@
 		    "hz": "120",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1401703277246156951/MedalTVGeometryDash20250803190509-tr-edit_1.mp4?ex=68913d67&is=688febe7&hm=841055b787113a8388fcd5c30e1353a1af90223b478d4b70a15e3227efc4f9f4&",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
