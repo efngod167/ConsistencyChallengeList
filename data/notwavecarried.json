@@ -104,6 +104,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1401832014423789588/Replay_2025-08-04_17-31-08_-_Trim.mp4?ex=6891b54d&is=689063cd&hm=5d7510975dc406e7d90448686da6f964c4aa12f940fff30db8161bae0cab2bef&",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "geo",
+		    "link": "https://www.youtube.com/watch?v=nhjvBF8fXis",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
