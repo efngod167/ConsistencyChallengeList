@@ -50,6 +50,12 @@
 		    "link": "https://www.youtube.com/watch?v=RaA049W3wgI&ab_channel=FogMello",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+	    {
+		    "user": "geo",
+		    "link": "https://www.youtube.com/watch?v=nhjvBF8fXis",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
