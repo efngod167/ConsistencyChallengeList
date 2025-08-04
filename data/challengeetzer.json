@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240-360",
     "records": [
+        {
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/kPvi6yqhFO7zPGDYW?invite=cr-MSxHVWMsMjMzODMwODYy&v=7",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
