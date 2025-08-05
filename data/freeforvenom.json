@@ -140,6 +140,12 @@
 		    "link": "https://www.youtube.com/watch?v=yCTApdVIiaM",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=xClS8-5iiNA",
+		    "hz": "144",
+		    "percent": 100
 	    }
     ]
 }
