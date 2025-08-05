@@ -146,6 +146,12 @@
 		    "link": "https://www.youtube.com/watch?v=xClS8-5iiNA",
 		    "hz": "144",
 		    "percent": 100
+	    },
+	    {
+		    "user": "pat 8",
+		    "link": "https://youtu.be/k_3jzMtVaAI",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
