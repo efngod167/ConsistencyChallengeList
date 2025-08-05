@@ -170,6 +170,12 @@
 		    "link": "https://www.youtube.com/watch?v=nhjvBF8fXis",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "spark",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1402341074663510117/NOTCONSISTENTWAVENAH.mp4?ex=68938f66&is=68923de6&hm=48f57327e7b65d1ab45790d3aebc40eb75714675aa5325a77b36472890a43d9f&",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
