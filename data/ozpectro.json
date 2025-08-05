@@ -20,10 +20,16 @@
             "hz": "360",
             "percent": 100
         },
-	    {
+	{
 		    "user": "pixelfactorial",
 		    "link": "https://youtu.be/sfZGkF1T11Q",
 		    "hz": "360",
+		    "percent": 100
+        },
+	{
+		    "user": "geo",
+		    "link": "https://youtu.be/oUtzGckv1bo",
+		    "hz": "240",
 		    "percent": 100
         }
     ]
