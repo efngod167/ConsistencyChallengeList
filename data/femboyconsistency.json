@@ -290,6 +290,13 @@
 		    "link": "https://youtu.be/cJuHrThgx3U",
 		    "hz": "240",
 		    "percent": 100
+	    },
+	    {
+		    "user": "WowwedTheMobile",
+		    "link": "https://youtu.be/hqDfxPuOZt0?si=IvUdUQXLKCHJ2mH0",
+		    "hz": "120",
+		    "percent": 100,
+		    "mobile": "true"
 	    }
     ]
 }
