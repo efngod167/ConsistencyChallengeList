@@ -50,6 +50,12 @@
 		    "link": "https://www.youtube.com/watch?v=7BnacD9NQ_U",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/fhvU8AyDZU4",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
