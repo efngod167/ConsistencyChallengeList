@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=6bG1sNg6_ls&ab_channel=FogMello",
             "hz": "CBF",
             "percent": 100
+        },
+		{
+            "user": "Duelo",
+            "link": "https://youtu.be/4xdohC5WTWY",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
