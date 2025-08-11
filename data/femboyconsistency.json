@@ -297,6 +297,12 @@
 		    "hz": "120",
 		    "percent": 100,
 		    "mobile": "true"
+	    },
+		{
+		    "user": "kaeme",
+		    "link": "https://youtu.be/YZ0SEq6rvaM?si=XVDAzsJbDp4AfEj9",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
