@@ -9,5 +9,11 @@
     "fps": "60-240",
 	"version": "2.2",
     "records": [
+		{
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1404587631597064423/MedalTVGeometryDash20250811180844-tr-edit_1.mp4?ex=689bbbab&is=689a6a2b&hm=33130a7d020f111ff4b9c79296320930076b8db838c027253f652a432907b4ad&",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
