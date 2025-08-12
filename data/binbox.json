@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1404585543756677161/MedalTVGeometryDash20250811175937-tr-edit_1.mp4?ex=689bb9b9&is=689a6839&hm=646bd0d48242d90a8b862bb3c7d30f362ec4ea18e544b06c6d797a06877b343c&",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
