@@ -121,6 +121,12 @@
 		    "link": "https://www.youtube.com/watch?v=CKHxeVMBmNo",
 		    "hz": "144",
 		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://youtu.be/cayRtLuzvcU",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
