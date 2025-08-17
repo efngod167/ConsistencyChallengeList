@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+		    "user": "Ewen",
+		    "link": "https://youtu.be/w0usw25P6B4",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
