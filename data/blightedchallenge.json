@@ -6,6 +6,7 @@
     "verifier": "nensa",
     "verification": "https://youtu.be/k3CWRSkICNk",
     "percentToQualify": "100",
+	"fps": "240",
 	"version": "2.2",
     "records": [
     ]
