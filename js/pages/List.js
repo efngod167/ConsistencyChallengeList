@@ -205,7 +205,7 @@ export default {
           <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
           <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
           <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "DIAMOND BLADE END x20", "Wave consistency inv", "Scorpion", "Kitty Chamber" and "DIAMOND BLADE ENDx50".</p>
-          <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv", "Invisible eight" and "Gesticulating Grey".</p>
+          <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv", "Invisible eight", "Gesticulating Grey" and "Unnamed 854766543987".</p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
