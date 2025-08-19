@@ -193,20 +193,22 @@ export default {
               </li>
             </ol>
           </template>
-          <h3>List Requirements</h3>
-          <p>Every level must be consistency based.</p>
-          <p>Maximum CPS for your level must not reach or be above 10.</p>
-          <p>There must be clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
-          <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
-          <p>You cannot include spam based parts (applies to the CPS rule) in your level.</p>
-<p>You are allowed to make dupes of challenges, if it's an extension or a level repeated specific times in a row, whatever is considered a dupe. If the level has more than 2 dupes on the list, we would have to remove the easier level from it, depending on how low it has been placed at.</p>
-          <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
-          <p>CBF records are allowed for the list, however Physics Bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
-          <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
-          <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
-          <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "DIAMOND BLADE END x20", "Wave consistency inv", "Scorpion", "Kitty Chamber" and "DIAMOND BLADE ENDx50".</p>
-          <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv", "Invisible eight", "Gesticulating Grey" and "Unnamed 854766543987".</p>
-          <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
+        <h3>Level Requirements</h3>
+        <p>Every level must be consistency based.</p>
+        <p>Maximum CPS for your level must not reach or be above 10.</p>
+		    <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
+        <p>You cannot include spam based parts (applies to the CPS rule) in your level.</p>
+		    <p>You are allowed to make dupes of challenges, if it's an extension or a level repeated specific times in a row, whatever is considered a dupe. If the level has more than 2 dupes on the list, we would have to remove the easier level from it, depending on how low it has been placed at.</p>
+		    <h3>Submission Requirements</h3>
+        <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
+        <p>CBF records are allowed for the list, however Physics Bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
+        <p>You're only allowed to use Physics Bypass when the level is FPS Locked (for ex. Binbo X) and can be played on either both versions or only 2.2. This does not mean fixes for 2.1 FPS Locked levels are allowed for 2.2.</p>
+        <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
+		    <p>There must be clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
+        <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
+        <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "DIAMOND BLADE END x20", "Wave consistency inv", "Scorpion", "Kitty Chamber" and "DIAMOND BLADE ENDx50".</p>
+        <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv", "Invisible eight", "Gesticulating Grey" and "Unnamed 854766543987".</p>
+        <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
     </main>
