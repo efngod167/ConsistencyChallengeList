@@ -55,6 +55,12 @@
 		    "link": "https://www.youtube.com/watch?v=6bG1sNg6_ls&ab_channel=FogMello",
 		    "hz": "240",
 		    "percent": 100
+	    },
+		{
+		    "user": "galbeni7",
+		    "link": "https://youtu.be/7w-KM9H9fIM",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
