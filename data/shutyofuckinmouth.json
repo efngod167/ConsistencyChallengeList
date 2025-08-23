@@ -49,6 +49,13 @@
 			"link": "https://www.youtube.com/watch?v=-G0QNEnc9qg",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "TheRealTyrael",
+			"link": "https://youtu.be/fcvq_30WN6E?si=ggx2w2Y56LffooXA",
+			"hz": "CBF",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
