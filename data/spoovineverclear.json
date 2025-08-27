@@ -50,6 +50,12 @@
 		    "link": "https://youtu.be/w0usw25P6B4",
 		    "hz": "240",
 		    "percent": 100
+	    },
+		{
+		    "user": "spoovi",
+		    "link": "https://www.youtube.com/watch?v=tSvhnaIwqFo",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
