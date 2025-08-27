@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/PBuEdJweV2Q",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
