@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+            "user": "shafikdabest",
+            "link": "https://youtu.be/YtrY_7-Puxg",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
