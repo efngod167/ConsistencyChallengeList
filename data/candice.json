@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+            "user": "KeCsan",
+            "link": "https://www.youtube.com/watch?v=ESBuTI_I-ZY",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
