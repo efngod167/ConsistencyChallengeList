@@ -9,11 +9,5 @@
 	"version": "2.2",
 	"alternating": "Yes",
     "records": [
-		{
-		    "user": "kyubd",
-		    "link": "https://youtu.be/Wtf2xitnneI",
-		    "hz": "CBF",
-		    "percent": 100
-	    }
     ]
 }
