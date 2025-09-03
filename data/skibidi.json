@@ -9,6 +9,11 @@
   "fps": "60",
 	"version": "2.2",
 	"alternating": "No",
-    "records": [
+    "records": [	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://youtu.be/7tSZ1XxEPpY",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
