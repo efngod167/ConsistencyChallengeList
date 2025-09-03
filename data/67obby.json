@@ -6,6 +6,11 @@
     "verifier": "MiRPacK19",
     "verification": "https://www.youtube.com/watch?v=olDixUx0nIg",
     "percentToQualify": "100",
-    "records": [
+    "records": [		{
+		    "user": "Sadisyourlife",
+		    "link": "https://youtu.be/7tSZ1XxEPpY",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
