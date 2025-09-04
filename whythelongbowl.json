@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/35tK8cCFRz0",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "bananas",
+            "link": "https://cdn.discordapp.com/attachments/1343528787601657926/1401970269249077529/MedalTVGeometryDash20250804124515-tr-edit_1.mp4?ex=68ba6bcf&is=68b91a4f&hm=e93337ea095b281e3aa7d5b4b1ebc80b091eecda6585a30d13f051ab6cb61e03&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
