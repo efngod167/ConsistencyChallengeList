@@ -8,5 +8,11 @@
     "percentToQualify": "100",
   "fps": "144",
     "records": [
+        {
+		    "user": "Sadisyourlife",
+		    "link": "https://youtu.be/wobX6dATGOI",
+		    "hz": "144",
+		    "percent": 100
+	    }
     ]
 }
