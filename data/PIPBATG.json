@@ -8,5 +8,17 @@
     "percentToQualify": "100",
 	"fps": "240",
     "records": [
+		{
+			"user": "blightedcoconut",
+			"link": "https://cdn.discordapp.com/attachments/1365699456892272640/1396930828637835315/GeometryDash_2025-07-21_23-03-24-042.mp4?ex=68be7ff7&is=68bd2e77&hm=8fd7fe0ad8d444ac5b754d6165ca247f4e990b944d331349cb190711a91c7211&",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://cdn.discordapp.com/attachments/1365699456892272640/1396930130537877524/2025-07-21_20-57-58_online-video-cutter.com.mp4?ex=68be7f50&is=68bd2dd0&hm=af9b54a54ff60c42ba0dd82ba66ff1be0d85e025f48ba537873c46b37252f494&",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
