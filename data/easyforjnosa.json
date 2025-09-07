@@ -9,5 +9,17 @@
 	"version": "2.2",
   "fps": "60",
     "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1414259594095624334/2025-09-07_16-41-58.mp4?ex=68beeb62&is=68bd99e2&hm=81ebbde56deeae44fd76d4e20ea2832e6d0c1bcd2d724306b81f976a7b1e870b&",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "blightedcoconut",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1414260742990860308/bandicam_2025-09-07_18-46-17-050.mp4?ex=68beec74&is=68bd9af4&hm=68e76d4df2535a350c5bcf4b485308aacd79c00f139263cab1bd536c21c4cf3e&",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
