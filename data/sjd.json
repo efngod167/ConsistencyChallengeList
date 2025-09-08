@@ -25,6 +25,12 @@
 		    "link": "https://www.youtube.com/watch?v=JPLWWUqg3tw",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+		{
+		    "user": "tFluffy",
+		    "link": "https://www.youtube.com/watch?v=thzWJb5mOy4",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
