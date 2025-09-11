@@ -6,7 +6,7 @@
     "verifier": "Seismic",
     "verification": "https://youtu.be/hS5z6shvtd4",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": ">300",
     "version": "2.1",
     "records": [
         {
