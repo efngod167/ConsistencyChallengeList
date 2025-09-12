@@ -3,34 +3,9 @@
     "name": "DIAMOND BLADE END x20",
     "author": "BensonGD",
     "creators": ["IcEDCave, AdobeAnimate, BensonGD"],
-    "verifier": "BensonGD",
-    "verification": "https://www.youtube.com/watch?v=NNlqNMHAAf0",
+    "verifier": "kyubd",
+    "verification": "https://www.youtube.com/watch?v=0s6knXgbaFA",
     "percentToQualify": "100",
-	 "alternating": "Yes",
     "records": [
-        {
-            "user": "Frozix",
-            "link": "https://www.youtube.com/watch?v=kyYChEVmM6I",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
-		    "user": "PureL",
-		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
-		    "hz": "240",
-		    "percent": 100
-	    },
-	    {
-		    "user": "The16FigureLimit",
-		    "link": "https://www.youtube.com/watch?v=w9mte1to_LI",
-		    "hz": "240",
-		    "percent": 100
-	    },
-	    {
-		    "user": "pixelfactorial",
-		    "link": "https://www.youtube.com/watch?v=sPXrmX2sPzg",
-		    "hz": "300",
-		    "percent": 100
-	    }
     ]
 }
