@@ -3,11 +3,10 @@
     "name": "Kitty Chamber",
     "author": "therealbenc16",
     "creators": ["therealbenc16"],
-    "verifier": "The16FigureLimit",
-    "verification": "https://youtu.be/rRseX0A_vTc",
+    "verifier": "kyubd",
+    "verification": "https://www.youtube.com/watch?v=Wtf2xitnneI",
     "percentToQualify": "100",
 	"version": "2.2",
-	"alternating": "Yes",
     "records": [
     ]
 }
