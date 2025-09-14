@@ -56,6 +56,12 @@
 		    "link": "https://www.youtube.com/watch?v=MTMFcviXIAE",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+		{
+            "user": "luna",
+            "link": "https://youtu.be/P4-6ykdNXE0",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
