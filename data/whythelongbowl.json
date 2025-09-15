@@ -6,6 +6,7 @@
     "verifier": "StockUniverse",
     "verification": "https://youtu.be/35tK8cCFRz0",
     "percentToQualify": "100",
+	"version": "2.2",
     "records": [
         {
             "user": "bananas",
