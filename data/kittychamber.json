@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+			"user": "luna",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1417097196926533683/kitty.mp4?ex=68c93e1c&is=68c7ec9c&hm=7dfb4d5c7cb40d27c2ac787f2cdc35ae08f1077900b9a7c630fad973958d0844&",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
