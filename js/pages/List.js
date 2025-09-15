@@ -204,7 +204,7 @@ export default {
         <p>CBF records are allowed for the list, however Physics Bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
         <p>You're only allowed to use Physics Bypass when the level is FPS Locked (for ex. Binbo X) and can be played on either both versions or only 2.2. This does not mean fixes for 2.1 FPS Locked levels are allowed for 2.2.</p>
         <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
-		    <p>There must be clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
+		    <p>There must be a cheat indicator with clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
         <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
         <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Wave consistency inv", "Scorpion", and "DIAMOND BLADE ENDx50".</p>
         <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv", "Invisible eight", "Gesticulating Grey", "Unnamed 854766543987", and "tueml cereal".</p>
