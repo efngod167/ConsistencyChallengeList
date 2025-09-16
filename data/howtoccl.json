@@ -7,11 +7,17 @@
     "verification": "https://youtu.be/F1h_ZWJfYsg",
     "percentToQualify": "100",
     "records": [
-      {
+        {
           "user": "Blissbee",
           "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1417014702495629465",
           "hz": "CBF",
           "percent": 100
-      }
+        },
+        {
+          "user": "pixelfactorial",
+          "link": "https://youtu.be/YnIO_9_dYe8",
+          "hz": "CBF",
+          "percent": 100
+        }
     ]
 }
