@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+		    "user": "nensa",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1418654933745533059/Replay_2025-09-20_03-45-28_-_Trim.mp4?ex=68cee8dd&is=68cd975d&hm=6e4135003c47cf109b5cc0b3a7d16f189aaac171a1dc97acaad88de3290bc59c&",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
     ]
 }
