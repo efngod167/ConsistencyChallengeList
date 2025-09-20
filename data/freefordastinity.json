@@ -14,6 +14,18 @@
         	"link": "https://youtu.be/7D_YpvPhcLg",
         	"hz": "240",
         	"percent": 100
+        },
+		{
+        	"user": "Voidspawn",
+        	"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1419090750305472542/Untitled_video_-_Made_with_Clipchamp_3.mp4?ex=68d07ec0&is=68cf2d40&hm=823745e8458dd63b92cfaed8b1346b176935e4df6c62308e622043e8835fb9a3&",
+        	"hz": "100",
+        	"percent": 100
+        },
+		{
+        	"user": "kyubd",
+        	"link": "https://youtu.be/5zc0Obew3zI",
+        	"hz": "CBF",
+        	"percent": 100
         }
     ]
 }
