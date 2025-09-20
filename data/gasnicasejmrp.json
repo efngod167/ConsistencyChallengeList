@@ -9,5 +9,11 @@
     "fps": "240",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Blissbee",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1418793589408006265/2025-09-19_19-52-06.mp4?ex=68cf69ff&is=68ce187f&hm=df2f3694d91257d53b183782ae54a99bb1bed604898726ff13fd3aa756e47417&",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
