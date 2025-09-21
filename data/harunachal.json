@@ -44,6 +44,12 @@
 		    "link": "https://www.youtube.com/watch?v=5fFwLEf9DNM",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/odeESqoaZBQ",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
