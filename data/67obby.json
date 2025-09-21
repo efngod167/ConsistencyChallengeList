@@ -35,6 +35,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1418516719059603457/67.mp4?ex=68ce6824&is=68cd16a4&hm=5b1f2d9df3be079aecba08a3cee65510b635fe93a1eaaf1e46a004c611874c70&",
 		    "hz": "240",
 		    "percent": 100
+	    },
+		{
+		    "user": "pixelfactorial",
+		    "link": "https://www.youtube.com/watch?v=eSrx6bgxRAg",
+		    "hz": "240",
+		    "percent": 100
 	    }
     ]
 }
