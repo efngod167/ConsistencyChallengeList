@@ -34,7 +34,13 @@
         },
 		{
 			"user": "Kai_The_Guy",
-			"link": "https://medal.tv/games/geometry-dash/clips/lad2aDSwUDnWzJEG3?invite=cr-MSxlQUssNDM0MTUwNjg2&v=35".
+			"link": "https://medal.tv/games/geometry-dash/clips/lad2aDSwUDnWzJEG3?invite=cr-MSxlQUssNDM0MTUwNjg2&v=35",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "puked",
+			"link": "https://youtu.be/JLKUzMnzQyg",
 			"hz": "240",
 			"percent": 100
 		}
