@@ -1,8 +1,8 @@
 {
     "id": 122402753,
     "name": "Party Time",
-    "author": "Phroggo",
-    "creators": ["Phroggo"],
+    "author": "PhroggoDude",
+    "creators": ["PhroggoDude"],
     "verifier": "Phroggo",
     "verification": "https://www.youtube.com/watch?v=Lq8QAtacphA",
     "percentToQualify": "100",
@@ -31,6 +31,12 @@
             "link": "https://youtu.be/l-9SG19-UK8",
             "hz": "144",
             "percent": 100
-        }
+        },
+		{
+			"user": "Kai_The_Guy",
+			"link": "https://medal.tv/games/geometry-dash/clips/lad2aDSwUDnWzJEG3?invite=cr-MSxlQUssNDM0MTUwNjg2&v=35".
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
