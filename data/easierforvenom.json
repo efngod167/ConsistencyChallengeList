@@ -120,6 +120,12 @@
             "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1417026139955925086/2025-09-15_01-51-15.mp4?ex=68c8fbee&is=68c7aa6e&hm=c6635e5c384360014914d85b35cf19173e3e55032f4a71a6ea342505fef26792&",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=jGT-ku9pc9Q",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
