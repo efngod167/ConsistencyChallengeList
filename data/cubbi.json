@@ -20,6 +20,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1419304432709140520/Untitled_video_-_Made_with_Clipchamp_8.mp4?ex=68d145c2&is=68cff442&hm=c779b79606db81cff90c2b2b16474093b76d811b001f5d25e1e6048ab67e28f2&",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=D3T-8tobyHk",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
