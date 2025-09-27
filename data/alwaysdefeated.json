@@ -14,6 +14,12 @@
             "link": "https://youtu.be/7D_YpvPhcLg",
             "hz": "60",
             "percent": 100
-        }
+        },
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=1OR8NgGW23E",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
