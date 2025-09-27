@@ -9,5 +9,11 @@
     "fps": "240",
 	"version": "2.2",
     "records": [
+		{
+            "user": "pixelfactorial",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1421555553225670706/2025-09-27_19-50-02_online-video-cutter.com.mp4?ex=68d97647&is=68d824c7&hm=b979687ac8c4340f8742e5ca7d182cf3de4430d3dc5063dab2d5803e8dbf2123&",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
