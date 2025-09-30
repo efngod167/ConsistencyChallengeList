@@ -19,6 +19,12 @@
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
 		    "hz": "CBF",
 		    "percent": 100
+	    },
+		{
+		    "user": "bananas",
+		    "link": "https://www.youtube.com/watch?v=aatyRaaBlMc",
+		    "hz": "CBF",
+		    "percent": 100
 	    }
     ]
 }
