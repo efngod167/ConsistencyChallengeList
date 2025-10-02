@@ -61,6 +61,12 @@
         "link": "https://youtu.be/0QztHLXa_o0",
         "hz": "CBF",
         "percent": 100
-      }
+      },
+		{
+        	"user": "tFluffy",
+        	"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1414460227914305597/nonchalant_arms.mp4?ex=68df4a3d&is=68ddf8bd&hm=516506004979616ee8ac1d47d127ef502c79d444c3842d1fa8063e8a1c2f4de9&",
+        	"hz": "240",
+        	"percent": 100
+      	}
     ]
 }
