@@ -49,6 +49,12 @@
         "link": "https://youtu.be/0QztHLXa_o0",
         "hz": "CBF",
         "percent": 100
-      }
+      },
+		{
+        	"user": "tFluffy",
+        	"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1423241712813477991/silent_clutterfunk.mp4?ex=68df98a2&is=68de4722&hm=726ccb194d18792863352883368897a300c0a3531548d9115ee34c7e86f94a59&",
+        	"hz": "240",
+        	"percent": 100
+      	}
     ]
 }
