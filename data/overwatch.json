@@ -85,6 +85,12 @@
 			"link": "https://www.youtube.com/watch?v=eSrx6bgxRAg",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1423256331120279703/ow.mp4?ex=68dfa640&is=68de54c0&hm=fef648565a6bb4e11499dceeabc8e45861356770a53fac619d4cda86e6364b36&",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
