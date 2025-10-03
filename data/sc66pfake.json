@@ -365,6 +365,12 @@
 		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387806144101224700/Untitled_video_-_Made_with_Clipchamp_21.mp4?ex=685eaeb0&is=685d5d30&hm=79cef733e08ef6d36461a5cdc8289114a8066a9f0e1477322b638654ebe905d3&",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "ClawBuckle",
+			"link": "https://www.youtube.com/watch?v=qCIA_CHWVdg",
+			"hz": "150",
+			"percent": 100
+		}
     ]
 }
