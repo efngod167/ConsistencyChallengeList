@@ -121,6 +121,12 @@
 		    "link": "https://youtu.be/TC-RYh7asD8",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "ClawBuckle",
+			"link": "https://www.youtube.com/watch?v=cosYjSfMRew",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
