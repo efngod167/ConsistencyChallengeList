@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 "alternating": "Yes",
     "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtube.com/shorts/t-h1EhqYrVA",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
