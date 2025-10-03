@@ -289,6 +289,12 @@
 		    "link": "https://www.youtube.com/watch?v=oM_CF-_wdas",
 		    "hz": "CBF",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "ClawBuckle",
+			"link": "https://www.youtube.com/watch?v=zYePg93o8F0",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
