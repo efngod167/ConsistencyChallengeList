@@ -1,0 +1,13 @@
+{
+    "id": 125973101,
+    "name": "The Second Variant",
+    "author": "Lunikay",
+    "creators": ["Lunikay"],
+    "verifier": "luna",
+    "verification": "https://www.youtube.com/watch?v=29hre1fx0D0",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+    ]
+}
