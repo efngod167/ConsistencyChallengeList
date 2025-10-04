@@ -68,6 +68,12 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "FJKR",
+			"link": "https://medal.tv/ru/games/geometry-dash/clips/levuIsCxwRyd27Vry?invite=cr-MSx5cm4sNDM2Nzg5MDc5&v=23",
+			"hz": "200",
+			"percent": 100
 		}
     ]
 }
