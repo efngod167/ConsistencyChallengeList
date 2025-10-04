@@ -61,6 +61,13 @@
 			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1422328220908392581/2025-09-29_17-03-16.mp4?ex=68dc45e1&is=68daf461&hm=1fed368a97ec6baed93982f5b85775bfb0948e28dd07fadfba1661d7bc6cc5ee&",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "fiesty",
+			"link": "https://youtu.be/5N7CtREoXjw?si=xSWkYNDYS3wYw1u8",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
