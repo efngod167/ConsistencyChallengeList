@@ -126,7 +126,13 @@
 		{
 			"user": "ClawBuckle",
 			"link": "https://youtu.be/ZAHdSrKWnMU",
-			"hz": "240",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "opakue",
+			"link": "https://youtu.be/iviKp6G77e4",
+			"hz": "60",
 			"percent": 100
 		}
     ]
