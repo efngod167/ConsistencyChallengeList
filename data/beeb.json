@@ -130,6 +130,12 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
-		}
+		},
+		{
+            "user": "opakue",
+            "link": "https://youtu.be/b6r_ZcrpFig",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
