@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/vxSnDXAeGlU",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "pat 8",
+            "link": "https://youtu.be/i4V2Kw7GWpU",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
