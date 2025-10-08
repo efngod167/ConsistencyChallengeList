@@ -38,6 +38,9 @@ export default {
     this.packs = packsData;
     this.loading = false;
   },
+  methods: {
+    embed,
+  },
   template: `
     <main v-if="loading">
       <Spinner></Spinner>
