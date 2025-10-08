@@ -207,7 +207,7 @@ input[type="number"],
     display: table;
 }
 
-p,
+p, button,
 .type-body {
     font-family: "Lexend Deca", sans-serif;
     font-size: 17.1428571429px;
