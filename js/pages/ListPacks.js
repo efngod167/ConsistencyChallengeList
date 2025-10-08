@@ -67,7 +67,7 @@ export default {
           >
             <td class="rank">
               <p class="type-label-lg">
-                #{{ getOriginalRank(levelId) }}
+                #{{ i + 1 }}
               </p>
             </td>
             <td
