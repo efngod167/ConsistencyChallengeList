@@ -38,6 +38,9 @@ export default {
     this.packs = packsData;
     this.loading = false;
   },
+  methods: {
+    embed,
+  },
   template: `
     <main v-if="loading">
       <Spinner></Spinner>
@@ -64,7 +67,7 @@ export default {
           >
             <td class="rank">
               <p class="type-label-lg">
-                #{{ getOriginalRank(levelId) }}
+                #{{ i + 1 }}
               </p>
             </td>
             <td

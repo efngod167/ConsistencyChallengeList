@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Beginner Frame Perfect Pack",
+        "points": 100,
+        "levels": []
+    },
+    {
+        "name": "Advanced Frame Perfect Pack",
+        "points": 500,
+        "levels": []
+    },
+    {
+        "name": "Expert Frame Perfect Pack",
+        "points": 1500,
+        "levels": []
+    },
+    {
+        "name": "Beginner Fast Consistency Pack",
+        "points": 50,
+        "levels": []
+    },
+    {
+        "name": "Advanced Fast Consistency Pack",
+        "points": 100,
+        "levels": []
+    },
+    {
+        "name": "Expert Fast Consistency Pack",
+        "points": 250,
+        "levels": []
+    },
+    {
+        "name": "Master Fast Consistency Pack",
+        "points": 500,
+        "levels": []
+    },
+    {
+        "name": "Clear Pack",
+        "points": 200,
+        "levels": []
+    },
+    {
+        "name": "Beginner Tight Consistency Pack",
+        "points": 50,
+        "levels": []
+    },
+    {
+        "name": "Intermediate Tight Consistency Pack",
+        "points": 100,
+        "levels": []
+    },
+    {
+        "name": "Advanced Tight Consistency Pack",
+        "points": 250,
+        "levels": []
+    },
+    {
+        "name": "Expert Tight Consistency Pack",
+        "points": 500,
+        "levels": []
+    },
+    {
+        "name": "Master Tight Consistency",
+        "points": 1000,
+        "levels": []
+    },
+    {
+        "name": "Cube Consistency",
+        "points": 100,
+        "levels": []
+    },
+    {
+        "name": "JoinMolten Pack",
+        "points": 750,
+        "levels": []
+    },
+    {
+        "name": "Beginner opakue pack",
+        "points": 150,
+        "levels": []
+    },
+    {
+        "name": "Advanced opakue pack",
+        "points": 300,
+        "levels": []
+    }
+]
