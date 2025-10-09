@@ -1,1 +1,151 @@
-[{"name":"Beginner Frame Perfect Pack","levels":[123326609,122084302,122344815,125321943]},{"name":"Intermediate Frame Perfect Pack","levels":[125917630,120511707,92626183,92523890]},{"name":"Advanced Frame Perfect Pack","levels":[118678793,119402283,121874329,120558379]},{"name":"Expert Frame Perfect Pack","levels":[124738643,123321446,67771969,120893031]},{"name":"Master Frame Perfect Pack","levels":[72156571,121069427,118719503,121489446]},{"name":"Beginner Fast Consistency Pack","levels":[67077687,69012849,120357632,72418376,118275422,121250252,120292589]},{"name":"Intermediate Fast Consistency Pack","levels":[121012901,119136846,118384029,76781618,118433163]},{"name":"Advanced Fast Consistency Pack","levels":[120511707,76661225,71289378,107421813,118715326,80836606]},{"name":"Expert Fast Consistency Pack","levels":[83376275,120169031,119742024,67814369]},{"name":"Master Fast Consistency Pack","levels":[122451205,125982326,67284832]},{"name":"Beginner Cube Consistency Pack","levels":[121548965,120295690,122812104,120596510,121488721]},{"name":"Advanced Cube Consistency Pack","levels":[122206866,123643496,123042986,120921614,121599556]},{"name":"Master Cube Consistency Pack","levels":[124230768,121686510,123649398,122831760,125973101]},{"name":"Clear Pack","levels":[119629228,76920719,120775941,76781618,119253312]}]
+[
+  {
+    "name": "Beginner Frame Perfect Pack",
+    "color": "#5bd3ff",
+    "levels": [
+      123326609,
+      122084302,
+      122344815,
+      125321943
+    ]
+  },
+  {
+    "name": "Intermediate Frame Perfect Pack",
+    "color": "#3db6e2",
+    "levels": [
+      125917630,
+      120511707,
+      92626183,
+      92523890
+    ]
+  },
+  {
+    "name": "Advanced Frame Perfect Pack",
+    "color": "#26a2cf",
+    "levels": [
+      118678793,
+      119402283,
+      121874329,
+      120558379
+    ]
+  },
+  {
+    "name": "Expert Frame Perfect Pack",
+    "color": "#0c86b2",
+    "levels": [
+      124738643,
+      123321446,
+      67771969,
+      120893031
+    ]
+  },
+  {
+    "name": "Master Frame Perfect Pack",
+    "color": "#055d7e",
+    "levels": [
+      72156571,
+      121069427,
+      118719503,
+      121489446
+    ]
+  },
+  {
+    "name": "Beginner Fast Consistency Pack",
+    "color": "#bdf024",
+    "levels": [
+      67077687,
+      69012849,
+      120357632,
+      72418376,
+      118275422,
+      121250252,
+      120292589
+    ]
+  },
+  {
+    "name": "Intermediate Fast Consistency Pack",
+    "color": "#bde24f",
+    "levels": [
+      121012901,
+      119136846,
+      118384029,
+      76781618,
+      118433163
+    ]
+  },
+  {
+    "name": "Advanced Fast Consistency Pack",
+    "color": "#c1d87b",
+    "levels": [
+      120511707,
+      76661225,
+      71289378,
+      107421813,
+      118715326,
+      80836606
+    ]
+  },
+  {
+    "name": "Expert Fast Consistency Pack",
+    "color": "#b3c382",
+    "levels": [
+      83376275,
+      120169031,
+      119742024,
+      67814369
+    ]
+  },
+  {
+    "name": "Master Fast Consistency Pack",
+    "color": "#c6cdb1",
+    "levels": [
+      122451205,
+      125982326,
+      67284832
+    ]
+  },
+  {
+    "name": "Beginner Cube Consistency Pack",
+    "color": "#20fb37",
+    "levels": [
+      121548965,
+      120295690,
+      122812104,
+      120596510,
+      121488721
+    ]
+  },
+  {
+    "name": "Advanced Cube Consistency Pack",
+    "color": "#60c56b",
+    "levels": [
+      122206866,
+      123643496,
+      123042986,
+      120921614,
+      121599556
+    ]
+  },
+  {
+    "name": "Master Cube Consistency Pack",
+    "color": "#31933b",
+    "levels": [
+      124230768,
+      121686510,
+      123649398,
+      122831760,
+      125973101
+    ]
+  },
+  {
+    "name": "Clear Pack",
+    "color": "#ff8000",
+    "levels": [
+      119629228,
+      76920719,
+      120775941,
+      76781618,
+      119253312
+    ]
+  }
+]

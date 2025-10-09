@@ -53,6 +53,7 @@ export default {
           :key="pack.id"
           :class="{ active: index === selectedPackIndex }"
           @click="selectedPackIndex = index; selectedLevelIndex = 0"
+          :style="{ '--color-background': pack.color }"
         >
           {{ pack.name }}
         </button>
