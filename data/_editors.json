@@ -33,5 +33,10 @@
         "role": "dev",
         "name": "aelzfr",
         "link": "https://www.youtube.com/@aelzfr"
+    },
+    {
+        "role": "dev",
+        "name": "snail",
+        "link": "https://github.com/snailmusic"
     }
 ]
