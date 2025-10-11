@@ -9,5 +9,11 @@
     "fps": "240",
 	"version": "2.2",
     "records": [
+		{
+		    "user": "nensa",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1426625408610205876/Replay_2025-10-12_03-38-02_-_Trim.mp4?ex=68ebe7f2&is=68ea9672&hm=70522c018b6dd421b56477af29449fba76f58afbe543f16c1778e692d1decd93&",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
