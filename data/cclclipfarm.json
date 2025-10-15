@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+            "user": "BlissBee",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1428136406915747880/2025-10-15_17-31-12.mp4?ex=68f1672c&is=68f015ac&hm=4994bc77a7f62465d500675a4a58f1dca0cda17a45e4c587e2f36a386c760821&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
