@@ -14,6 +14,18 @@
             "link": "https://www.youtube.com/watch?v=BNcjXQfi6tg",
             "hz": "60",
             "percent": 100
+        },
+		{
+            "user": "pixelfactorial",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1428461851389460622/8mb.video-kq3-62PucThl.mp4?ex=68f29644&is=68f144c4&hm=f395bf5b14cedcc44257225144054466a866db5f735b3275ecd43e4c5f1f26d8&",
+            "hz": "60",
+            "percent": 100
+        },
+		{
+            "user": "BlissBee",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1428472623502725161/2025-10-16_15-57-42.mp4?ex=68f2a04d&is=68f14ecd&hm=992ad7ce2b3328e62bfaaed0a93a56ed0b405c4f12f12be8a7a832a35517c357&",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
