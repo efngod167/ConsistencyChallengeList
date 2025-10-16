@@ -9,5 +9,11 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
+		{
+            "user": "INITIAL",
+            "link": "https://www.youtube.com/watch?v=BNcjXQfi6tg",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
