@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=U0HAE1-0Csw",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1430984933480071278/8mb.video-3FS-R8rRyCge.mp4?ex=68fbc412&is=68fa7292&hm=b2ecbc5f2a70af7e8f212ad87507bf1bce27c225bf36ba8834f8bf0889c87a39&",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
