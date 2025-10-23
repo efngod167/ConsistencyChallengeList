@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+            "user": "tFluffy",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1430712270534480046/zoek_C2.mp4?ex=68fac622&is=68f974a2&hm=6f1e642191277086258f69451058d23fbcf39d6c87314b7ebf5d3e99be5b2ddf&",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
