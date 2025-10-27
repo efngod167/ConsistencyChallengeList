@@ -3,17 +3,11 @@
     "name": "Spider Consicenfity",
     "author": "4096Tristan",
     "creators": ["4096Tristan"],
-    "verifier": "Bob",
-    "verification": "https://youtu.be/509NHnMAGLA?si=vdcMwPvLD96Or3eW",
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/1BV5yX9t_dY",
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
-		{
-		    "user": "pixelfactorial",
-		    "link": "https://youtu.be/1BV5yX9t_dY",
-		    "hz": "240",
-		    "percent": 100
-	    },
 		{
 		    "user": "bananas",
 		    "link": "https://medal.tv/games/geometry-dash/clips/kWZ72W8VyFZz7ZNyC?invite=cr-MSw2VEIsMjMzODMwODYy",
