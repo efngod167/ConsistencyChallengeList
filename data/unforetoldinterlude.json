@@ -6,7 +6,6 @@
     "verifier": "qwertyokbomb",
     "verification": "https://youtu.be/WFSZOyAGC9Q",
     "percentToQualify": "100",
-    "fps": "240",
 	"version": "2.2",
     "records": [
 		{
@@ -14,6 +13,12 @@
 			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1421557980826173490/2025-09-27_20-03-02.mp4?ex=68d97889&is=68d82709&hm=b8bf2a2e1b01fbe3d3a146d1e0020889ea71f6ac56183673a2884020e82ffde2&",
 			"hz": "240",
 			"percent": 100
-	    }
+	    },
+		{
+			"user": "leucovorin",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1432775838931095814",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
