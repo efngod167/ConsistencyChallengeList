@@ -2,7 +2,7 @@
     "id": 79749651,
     "name": "bitclh challenge",
     "author": "Vantasia",
-    "creators": [],
+    "creators": ["ozpectro, Vantasia"],
     "verifier": "Vantasia",
     "verification": "https://www.youtube.com/watch?v=VAEcggNleLY",
     "percentToQualify": "100",
@@ -131,6 +131,12 @@
 		{
 			"user": "INITIAL",
 			"link": "https://www.youtube.com/watch?v=2pQ4Dh33a3E",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1367827798978465814",
 			"hz": "CBF",
 			"percent": 100
 		}
