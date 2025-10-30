@@ -30,7 +30,8 @@
 			"user": "Blessed GD",
 			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1433308344470470706/SVID_20251030_120554_1.mp4?ex=690437ea&is=6902e66a&hm=b9c34ed40cdf1666ef4d7fdae5653f076af13f58fdf2474058383a7ce98074db&",
 			"hz": "CBF",
-			"percent": 100
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
