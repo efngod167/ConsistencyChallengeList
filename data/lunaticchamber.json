@@ -1,18 +1,12 @@
 {
-    "id": 125982326,
+    "id": 127136340,
     "name": "Lunatic Chamber",
-    "author": "Lunikay",
-    "creators": ["Lunikay"],
-    "verifier": "luna",
+    "author": "Lunikay, BlissBee",
+    "creators": ["Lunikay, BlissBee"],
+    "verifier": "BlissBee",
     "verification": "https://youtu.be/fSHFq8Pw7MY",
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
-		{
-		    "user": "BlissBee",
-		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1421060009583706132/2025-09-26_05-02-37.mp4?ex=68d7a8c4&is=68d65744&hm=3f79364d53a488694c1b47729930e9bc593c23981b66b8bc60a4eebaa7ae0de3&",
-		    "hz": "CBF",
-		    "percent": 100
-	    }
     ]
 }
