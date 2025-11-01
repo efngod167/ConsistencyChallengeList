@@ -5,6 +5,7 @@
     "creators": ["ManiaGTC"],
     "verifier": "Dastinity",
     "verification": "https://www.youtube.com/watch?v=6AVrDFoi4Ro",
+	"version": "2.2",
     "percentToQualify": "100",
     "records": [
         {
@@ -29,6 +30,12 @@
 			"user": "tFluffy",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434094713106989056",
 			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "BlissBee",
+			"link": "https://discord.com/channels/@me/1417363117343637514/1434111311662419989",
+			"hz": "CBF",
 			"percent": 100
 		}
     ]
