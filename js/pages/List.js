@@ -144,10 +144,10 @@ export default {
             </li>
           </ul>
           <h2>Records</h2>
-          <p v-if="selectedIndexInFullList <= 75">
+          <p v-if="selectedIndexInFullList <= 100">
             <strong>{{ selectedLevel.percentToQualify }}%</strong> to qualify
           </p>
-          <p v-else-if="selectedIndexInFullList <= 150">
+          <p v-else-if="selectedIndexInFullList <= 200">
             <strong>100%</strong> to qualify
           </p>
           <p v-else>This level does not accept new records.</p>
