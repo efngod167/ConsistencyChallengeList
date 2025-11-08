@@ -93,6 +93,12 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "shreck0",
+			"link": "https://medal.tv/games/geometry-dash/clips/lsNe1OLPuTeTwSH9c?invite=cr-MSxYN1UsNDA4NDQ0ODM3&v=15",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
