@@ -4,9 +4,15 @@
     "author": "Nyan Cat",
     "creators": [],
     "verifier": "Nyan Cat",
-    "verification": "https://youtu.be/VPNTbCTThjg?si=_UPDakZmNvNQRXEG",
+    "verification": "https://youtu.be/VPNTbCTThjg",
     "percentToQualify": "100",
     "fps": "240",
     "records": [
+        {
+            "user": "Trademodius",
+            "link": "https://youtu.be/0z9degauVtQ",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
