@@ -75,6 +75,12 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://www.youtube.com/watch?v=HTP1AbNFeh8",
+			"hz": "60",
+			"percent": 100
 		}
     ]
 }
