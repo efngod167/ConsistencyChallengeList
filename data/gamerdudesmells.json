@@ -6,7 +6,7 @@
     "verifier": "Possfur",
     "verification": "https://www.youtube.com/watch?v=1iuBmvGVidk",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": "240",
     "records": [
         {
 		    "user": "nensa",
@@ -173,6 +173,12 @@
 		{
 			"user": "tFluffy",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433741103886106768",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Trademodius",
+			"link": "https://youtu.be/fVjIl0RbDGo",
 			"hz": "CBF",
 			"percent": 100
 		}
