@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Trademodius",
+			"link": "https://youtu.be/fVjIl0RbDGo",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
