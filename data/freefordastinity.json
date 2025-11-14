@@ -69,6 +69,12 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "chemicaltax35",
+			"link": "https://www.youtube.com/watch?v=7b4gtht8XP8",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
