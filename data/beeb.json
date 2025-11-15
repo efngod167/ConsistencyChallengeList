@@ -149,6 +149,13 @@
             "link": "https://www.youtube.com/watch?v=7W1zOKXoVL8",
             "hz": "60",
             "percent": 100
-        }
+        },
+		{
+			"user": "Nuridin_T3b",
+			"link": "https://youtu.be/vLLLhiccc18?si=KU13XNi8BY3MpPlv",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
+		}
     ]
 }
