@@ -109,6 +109,12 @@
 			"link": "https://www.youtube.com/watch?v=mdFHNlXunkY",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/IR8RlVo-mbQ",
+			"hz": "360",
+			"percent": 100
 		}
     ]
 }
