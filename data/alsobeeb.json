@@ -50,6 +50,13 @@
 			"link": "https://youtu.be/6_rt3afqG-E",
 			"hz": "60",
 			"percent": 100
+		},
+		{
+			"user": "Nuridin_T3b",
+			"link": "https://youtu.be/623G-ppqTZk",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
