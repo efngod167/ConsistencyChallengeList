@@ -170,11 +170,11 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-  {
-   "user": "fzxqoe",
-   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1441202601541632175",
-   "hz": "CBF",
-   "percent": 100
+  		{
+  			 "user": "fzxqoe",
+  			 "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1441202601541632175",
+   			 "hz": "CBF",
+			 "percent": 100
   }
     ]
 }
