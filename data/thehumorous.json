@@ -9,6 +9,12 @@
     "fps": "240-360",
     "records": [
         {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1439650544498249771",
+            "hz": "360",
+            "percent": 100
+        },
+        {
             "user": "bananas",
             "link": "https://medal.tv/games/geometry-dash/clips/lwsDINCeNetOgkz5Y?invite=cr-MSxPSjEsMjMzODMwODYy&v=21",
             "hz": "CBF",
