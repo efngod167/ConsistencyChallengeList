@@ -32,17 +32,23 @@
 			"hz": "240",
 			"percent": 100
 		},
-  {
-   "user": "bananas",
-   "link": "https://youtu.be/oGht76NePzQ?si=dbQftUfwLvKZ7b2G",
-   "hz": "CBF",
-   "percent": 100
-  },
+  		{
+  			"user": "bananas",
+   			"link": "https://youtu.be/oGht76NePzQ?si=dbQftUfwLvKZ7b2G",
+   			"hz": "CBF",
+   			"percent": 100
+  		},
 		{
-   "user": "Trademodius",
-   "link": "https://www.youtube.com/watch?v=bFXIfUKheTg&t=2s",
-   "hz": "CBF",
-   "percent": 100
-  }
+   			"user": "Trademodius",
+   			"link": "https://www.youtube.com/watch?v=bFXIfUKheTg&t=2s",
+   			"hz": "CBF",
+   			"percent": 100
+  		},
+		{
+   			"user": "Cyzyex",
+   			"link": "https://streamable.com/ao3dvi",
+   			"hz": "CBF",
+   			"percent": 100
+  		}
     ]
 }
