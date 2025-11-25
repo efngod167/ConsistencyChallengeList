@@ -117,6 +117,12 @@
    			"link": "https://www.youtube.com/watch?v=0xNtuvF_HBM",
    			"hz": "165",
    			"percent": 100
+  		},
+		{	
+   			"user": "IsaX3",
+   			"link": "https://www.youtube.com/watch?v=dCGBl5zNIWA",
+   			"hz": "240",
+   			"percent": 100
   		}
     ]
 }
