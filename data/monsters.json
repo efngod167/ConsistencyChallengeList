@@ -1,0 +1,18 @@
+{
+    "id": 123461589,
+    "name": "monsterseatingthesun",
+    "author": "Nuridint3b",
+    "creators": ["Nuridint3b"],
+    "verifier": "Nuridin_T3b",
+    "verification": "https://www.youtube.com/watch?v=QlUktu3mWYA",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1413152423412764744",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}
