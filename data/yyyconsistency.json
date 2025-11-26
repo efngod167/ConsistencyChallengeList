@@ -1,0 +1,19 @@
+{
+    "id": 119380727,
+    "name": "yyy consistency",
+    "author": "blightedcoconut",
+    "creators": ["KaiGuy, blightedcoconut"],
+    "verifier": "blightedcoconut",
+    "verification": "https://www.youtube.com/watch?v=U2GlNchg8V4",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+	{
+		"user": "Trademodius",
+		"link": "https://www.youtube.com/watch?v=bFXIfUKheTg",
+		"hz": "CBF",
+		"percent": 100
+	}
+    ]
+}

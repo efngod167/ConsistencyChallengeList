@@ -1,17 +1,13 @@
 {
-    "id": 123461589,
-    "name": "monsterseatingthesun",
-    "author": "Nuridint3b",
-    "creators": ["Nuridint3b"],
-    "verifier": "Nuridin_T3b",
-    "verification": "https://www.youtube.com/watch?v=QlUktu3mWYA",
+    "id": 126880940,
+    "name": "monsters",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/fBtv9rqYcSs",
     "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
     "records": [
-        {
-		    "user": "Sadisyourlife",
-		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1413152423412764744",
-		    "hz": "240",
-		    "percent": 100
-	    }
     ]
 }
