@@ -9,5 +9,11 @@
     "fps": "128",
 	"version": "2.1",
     "records": [
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/requested/clips/lAuxTd1zocc2yQ8ig?invite=cr-MSw3QXQsMjMzODMwODYy&v=12",
+			"hz": "128",
+			"percent": 100
+		}
     ]
 }
