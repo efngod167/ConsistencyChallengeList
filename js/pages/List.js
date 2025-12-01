@@ -203,7 +203,7 @@ export default {
 		    <h3>Submission Requirements</h3>
         <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
         <p>CBF records are allowed for the list, however Physics Bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.</p>
-        <p>You're only allowed to use Physics Bypass when the level is FPS Locked (for ex. Binbo X) and can be played on either both versions or only 2.2. This does not mean fixes for 2.1 FPS Locked levels are allowed for 2.2.</p>
+        <p>You're only allowed to use Physics Bypass (or Frame Extrapolation if on Mega Hack v9) when the level is FPS Locked (for ex. Binbo X) and can be played on either both versions or only 2.2. This does not mean fixes for 2.1 FPS Locked levels are allowed for 2.2.</p>
         <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
 		<p>There must be a cheat indicator with clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
         <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
