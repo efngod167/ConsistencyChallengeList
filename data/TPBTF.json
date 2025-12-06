@@ -9,5 +9,11 @@
     "fps": "",
     "version": "2.2",
     "records": [
-      ]
-      }
+        {
+		    "user": "ClawBuckle",
+		    "link": "https://youtu.be/KIjVz-SKlBA",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}
