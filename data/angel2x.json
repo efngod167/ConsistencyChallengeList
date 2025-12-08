@@ -6,7 +6,13 @@
     "verifier": "finni 1505",
     "verification": "https://medal.tv/de/games/geometry-dash/clips/lpjlkaXfHnkREn3Zj?invite=cr-MSxTUnUsMzY5MjUzOTQw&v=19",
     "percentToQualify": "100",
-	"version": "",
+	"version": "2.2",
     "records": [
+		{
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1447660554071052382",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
