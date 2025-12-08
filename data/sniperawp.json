@@ -6,7 +6,14 @@
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/Epd2xuLTeRI",
     "percentToQualify": "100",
+	"fps": "240",
 	"version": "2.2",
     "records": [
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/de/games/geometry-dash/clips/lF1a4CJoKBgO8r_2-?invite=cr-MSwybDksMzY5MjUzOTQw&v=11",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
