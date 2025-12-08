@@ -5,11 +5,18 @@
     "creators": [],
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/cMOMQmdX7K0",
+    "fps": "240-360",
     "percentToQualify": "100",
     "records": [
         {
             "user": "INITIAL",
             "link": "https://youtu.be/sHGZCRKE5fA",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1447660270989082826",
             "hz": "CBF",
             "percent": 100
         }
