@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/89U3ta1dgiQ",
     "percentToQualify": "100",
   "fps": "",
-	"version": "",
+	"version": "2.2",
     "records": [
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=Xgqd-mDXuaI",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
     }
