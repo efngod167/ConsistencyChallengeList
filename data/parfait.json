@@ -6,8 +6,14 @@
     "verifier": "MiRPacK19",
     "verification": "https://www.youtube.com/watch?v=y308Ff7faAs",
     "percentToQualify": "100",
-  "fps": "60",
+  	"fps": "60",
 	"version": "2.2",
     "records": [
+		{
+		    "user": "blightedcoconut",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1448291224032383048",
+		    "hz": "60",
+		    "percent": 100
+	    }
     ]
 }
