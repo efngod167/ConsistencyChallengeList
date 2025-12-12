@@ -15,6 +15,11 @@
         "link": "https://www.youtube.com/@justaguy8255"
     },
     {
+        "role": "admin",
+        "name": "bananas",
+        "link": "https://www.youtube.com/@JTWlol"
+    },
+    {
         "role": "helper",
         "name": "Saturn",
         "link": "https://www.youtube.com/@Saturnth"
@@ -28,11 +33,6 @@
         "role": "helper",
         "name": "MiRPacK19",
         "link": "https://www.youtube.com/@mirpack19"
-    },
-    {
-        "role": "helper",
-        "name": "bananas",
-        "link": "https://www.youtube.com/@JTWlol"
     },
     {
         "role": "helper",
