@@ -6,7 +6,7 @@
     "verifier": "sax",
     "verification": "https://youtu.be/sh3wTScTct8",
     "percentToQualify": "100",
-  "fps": 240,
+  "fps": "240",
 	"version": "2.2",
     "records": [
     ]
