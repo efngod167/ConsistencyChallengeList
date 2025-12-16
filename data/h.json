@@ -159,11 +159,17 @@
 			"hz": "240",
 			"percent": 100
 		},
-   {
-    "user": "MrCreeperGMD",
-    "link": "https://youtu.be/K2xNWIvz4hI",
-    "hz": "240",
-    "percent": 100
-   }
+   		{
+    		"user": "MrCreeperGMD",
+    		"link": "https://youtu.be/K2xNWIvz4hI",
+    		"hz": "240",
+    		"percent": 100
+   		},
+		{
+    		"user": "JULIANO",
+    		"link": "https://youtu.be/tIFKMhdKN24",
+    		"hz": "240",
+    		"percent": 100
+   		}
     ]
 }
