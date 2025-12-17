@@ -6,8 +6,14 @@
     "verifier": "bananas",
     "verification": "https://www.youtube.com/watch?v=lZl-O7m7O0Q",
     "percentToQualify": "100",
-  "fps": "120",
+  	"fps": "120",
 	"version": "2.2",
     "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1450617653059129620",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
