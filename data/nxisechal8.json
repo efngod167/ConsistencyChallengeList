@@ -6,8 +6,14 @@
     "verifier": "nensa",
     "verification": "https://youtu.be/ExaC_z7auZ4",
     "percentToQualify": "100",
-  "fps": "CBF",
+  	"fps": "CBF",
 	"version": "2.2",
     "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1450628261666361486",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
