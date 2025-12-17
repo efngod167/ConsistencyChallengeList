@@ -6,8 +6,14 @@
     "verifier": "finni 1505",
     "verification": "https://medal.tv/de/games/geometry-dash/clips/lqviFdKuZ40vc7Pu4?invite=cr-MSxmcE4sMzY5MjUzOTQw",
     "percentToQualify": "100",
-  "fps": "240",
+  	"fps": "240",
 	"version": "2.2",
     "records": [
+		{
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/lINzF0elARPZCRnEr?invite=cr-MSxXZTUsMjMzODMwODYy&v=9",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
