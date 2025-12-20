@@ -6,7 +6,8 @@
     "verifier": "Vantasia",
     "verification": "https://youtu.be/iwA0VsSKhww",
     "percentToQualify": "100",
-	"fps": "240-360",
+	"fps": "240",
+	"version": "2.2",
     "records": [
     ]
 }
