@@ -9,5 +9,11 @@
     "fps": "165",
 	"version": "2.1",
     "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1453329229537218610",
+			"hz": "165",
+			"percent": 100
+		}
     ]
 }
