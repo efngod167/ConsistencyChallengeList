@@ -2,12 +2,12 @@
     "id": 129751486,
     "name": "chaos of nightmares",
     "author": "fzxqoe",
-    "creators": [],
-    "verifier": "fzxqoe",
+    "creators": ["fzxqoe"],
+    "verifier": "maxf",
     "verification": "https://youtube.com/shorts/9J3qfgUu2Ag",
     "percentToQualify": "100",
 "fps": "150",
-	"version": "2.1",
+	"version": "2.2",
     "records": [
     ]
 }
