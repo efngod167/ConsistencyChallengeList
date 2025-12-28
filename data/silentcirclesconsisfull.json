@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "version": "2.2",
     "records": [
+        {
+			"user": "Nyan Cat",
+			"link": "https://www.youtube.com/watch?v=F-dwU1dQZGs",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
