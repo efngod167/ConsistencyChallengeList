@@ -127,6 +127,12 @@
     "link": "https://www.youtube.com/watch?v=poAPGMCiEZc",
     "hz": "240",
     "percent": 100
-   }
+   },
+		{
+			"user": "Nyan Cat",
+			"link": "https://www.youtube.com/watch?v=F-dwU1dQZGs",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
