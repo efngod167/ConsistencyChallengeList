@@ -14,6 +14,12 @@
 			"link": "https://youtu.be/B6PTRfJo2ZU",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "Nyan Cat",
+			"link": "https://www.youtube.com/watch?v=z3emalvdfY4",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
