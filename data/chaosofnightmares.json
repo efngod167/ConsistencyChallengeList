@@ -9,5 +9,17 @@
 "fps": "150",
 	"version": "2.2",
     "records": [
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/lNJfd56Pdm0oDf3y9?invite=cr-MSxlWncsMjMzODMwODYy&v=13",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1454989869033062420",
+			"hz": "150",
+			"percent": 100
+		}
     ]
 }
