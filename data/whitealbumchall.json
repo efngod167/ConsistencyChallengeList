@@ -6,7 +6,6 @@
     "verifier": "nensa",
     "verification": "https://youtu.be/Ei8DobZAHn4",
     "percentToQualify": "100",
-	"fps": "240",
 	"version": "2.2",
     "records": [
 		{
@@ -14,6 +13,12 @@
 		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1423228673573785612",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "timayunkers",
+			"link": "https://www.youtube.com/watch?v=oLlvX0lhwfg",
+			"hz": "180",
+			"percent": 100
+		}
     ]
 }
