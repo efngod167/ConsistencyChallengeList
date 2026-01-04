@@ -140,6 +140,12 @@
 			"link": "https://www.youtube.com/watch?v=bFXIfUKheTg&t=2s",
 			"hz": "60",
 			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://youtu.be/I1YbF0IBVDo",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
