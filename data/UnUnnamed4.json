@@ -17,7 +17,7 @@
 		{
 			"user": "INITIAL",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1455602868039188726",
-			"hz": "240",
+			"hz": "CBF",
 			"percent": 100
 		},
 		{
@@ -25,6 +25,12 @@
 			"link": "https://medal.tv/games/geometry-dash/clips/lSggsMHh43stauC5d?invite=cr-MSxTM2ssNDgwODQ1MDQx",
 			"hz": "CBF",
 			"percent": 100
-		}
+		},
+  {
+   "user": "ZenosSins",
+   "link": "https://youtu.be/2vbCmyesA4o",
+   "hz": "240",
+   "percent": 100
+  }
     ]
 }
