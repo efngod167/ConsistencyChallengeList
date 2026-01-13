@@ -21,11 +21,17 @@
 		    "hz": "144",
 		    "percent": 100
 	    },
-    {
-     "user": "Sadisyourlife",
-     "link": "https://www.youtube.com/watch?v=3ARzROD7s9U",
-     "hz": "144",
-     "percent": 100
-    }
+    	{
+     		"user": "Sadisyourlife",
+     		"link": "https://www.youtube.com/watch?v=3ARzROD7s9U",
+     		"hz": "144",
+     		"percent": 100
+    	},
+		{
+     		"user": "Maxr",
+     		"link": "https://www.youtube.com/watch?v=ZOYs1BL0TYg",
+     		"hz": "144",
+     		"percent": 100
+    	}
     ]
 }
