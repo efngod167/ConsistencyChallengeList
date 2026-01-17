@@ -49,6 +49,12 @@
 			"link": "https://www.youtube.com/watch?v=Wtp236BRCVw",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "cool gamer dude",
+			"link": "https://www.youtube.com/watch?v=xi0kQHMeTbI",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
