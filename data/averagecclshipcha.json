@@ -102,7 +102,13 @@
 		{
 			"user": "Txco",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1462122873136353526",
-			"hz": "240",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "7apriL",
+			"link": "https://youtu.be/TdebRAxv2lo",
+			"hz": "120",
 			"percent": 100
 		}
     ]
