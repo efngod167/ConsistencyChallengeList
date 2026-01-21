@@ -110,6 +110,13 @@
 			"link": "https://youtu.be/TdebRAxv2lo",
 			"hz": "120",
 			"percent": 100
+		},
+		{
+			"user": "Symm.",
+			"link": "https://www.youtube.com/watch?v=5mT84KLY9Uk",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
