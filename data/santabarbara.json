@@ -9,5 +9,11 @@
     "fps": "75",
 	"version": "2.2",
     "records": [
+		{
+			"user": "MiRPacK19",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1467074983527190594",
+			"hz": "75",
+			"percent": 100
+		}
     ]
 }
