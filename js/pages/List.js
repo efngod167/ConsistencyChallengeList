@@ -195,7 +195,7 @@ export default {
           </template>
         <h3>Level Requirements</h3>
         <p>Every level must be consistency based.</p>
-        <p>Maximum CPS for your level must not reach or be above 10.</p>
+        <p>The maximum CPS for your level cannot exceed 9.5 or higher.</p>
 		<p>Your level must be under 30 seconds.</p>
 		<p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
         <p>You cannot include spam based parts (applies to the CPS rule) in your level.</p>
