@@ -9,5 +9,11 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/srxxC3WCQd0",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
