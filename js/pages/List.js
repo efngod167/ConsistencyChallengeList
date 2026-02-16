@@ -194,7 +194,7 @@ export default {
             </ol>
           </template>
         <h3>Level Requirements</h3>
-        <h1>Your level <p>must be consistency based.</p> A good example of a Consistency Challenge is DIOOZ by JoinMolten, and a bad example is true binjus chal by uwoGD.</h1>
+        <p>Your level <h5>must be consistency based.</h5> A good example of a Consistency Challenge is <h5>DIOOZ</h5> by JoinMolten, and a bad example is <h5>true binjus chal</h5> by uwoGD.</p>
         <p>The maximum CPS for your level cannot exceed 9.5 or higher.</p>
 		<p>Your level must be under 30 seconds.</p>
 		<p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
