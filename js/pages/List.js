@@ -206,7 +206,7 @@ export default {
         <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level is cube and the player is <b>not using</b> CBF/CBS.</p>
 		<p>There <b>must be</b> a Cheat Indicator with clicks/taps in your completion/submission, however you are not allowed to use Geode mods, such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> as they're considered click sounds.</p>
         <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
-        <p>Alternating levels that were verified with single-tapping <b>will not be</b> allowed on the list as a submission/record, exception being that you're fine with allowing Alternating for your level.</p>
+        <p>Alternating levels that were verified with single-tapping is <b>not allowed</b>. This rule is an exception, if you're fine with allowing Alternating for your level.</p>
         <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>.</p>
         <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
