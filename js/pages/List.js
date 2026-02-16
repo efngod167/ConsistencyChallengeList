@@ -195,20 +195,19 @@ export default {
           </template>
         <h3>Level Requirements</h3>
         <p>Your level <b>must be consistency based.</b> A good example of a Consistency Challenge is <b>DIOOZ</b> by JoinMolten, and a bad example is <b>true binjus chal</b> by uwoGD.</p>
-        <p>The maximum CPS for your level cannot exceed 9.5 or higher.</p>
-		<p>Your level must be under 30 seconds.</p>
-		<p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
-        <p>You cannot include spam based parts (applies to the CPS rule) in your level.</p>
-		<p>You are allowed to make dupes of challenges, if it's an extension or a level repeated specific times in a row, whatever is considered a dupe. If the level has more than 2 dupes on the list, we would have to remove the easier level from it, depending on how low it has been placed at.</p>
+        <p>The maximum CPS for your level <b>cannot</b> exceed 9.5 or higher.</p>
+		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seoconds.</p>
+		<p>If your level contains inappropriate content/elements such as suggestive art, swastikas, slurs etc. <b>it will not be added.</b> This rule also applies to controversies, for ex. <b>Epstein Files.</b></p>
+        <p>You <b>cannot</b> include spam based parts (regarding the CPS rule) in your level.</p>
+		<p>You are allowed to make dupes of challenges, if it's either an extension or a level repeated set times in a row, whatever can be considered a dupe. If the level has more than 2 dupes on the list, the easier level would have to be removed unless it's on the Legacy List.</p>
 		    <h3>Submission Requirements</h3>
-        <p>You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.</p>
-        <p>CBF/CBM records are allowed for the list, however Physics Bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS. If you don't know how to downgrade versions, you'll be provided with <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial</a>. If you have any issues, contact staff in the server.</p>
-        <p>You're only allowed to use Physics Bypass (or Frame Extrapolation if on Mega Hack v9) when the level is FPS Locked (for ex. Binbo X) and can be played on either both versions or only 2.2. This does not mean fixes for 2.1 FPS Locked levels are allowed for 2.2.</p>
-        <p>Cube Challenges are not allowed to be beaten with CBF, but with the FPS required for the level.</p>
-		<p>There must be a cheat indicator with clicks/taps in your completion/submission, however you are not allowed to use "Click Sounds" or "Click Sounds Lite" in Geode as they're click sounds, not real clicks.</p>
-        <p>NoClip Accuracy completions are ABSOLUTELY not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
-        <p>Alternating levels will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Wave consistency inv", "Scorpion" and "Free for Dastinity".</p>
-        <p>You are allowed to use Show Hitboxes on death, but your record will be denied if you use it for levels that are hard to see or are invisible, such as "haruna challenge", "Psbpm v2", "Alec Challenge", "tims time", "Drunk Punch", "Wave consistency inv", "Invisible eight", "Gesticulating Grey", "Unnamed 854766543987", and "tueml cereal".</p>
+        <p>FPS Bypass is allowed <b>as long as you're not</b> bypassing above 360 FPS or under 60 FPS. Physics Bypass, however, isn't allowed. This rule doesn't apply to levels possible <b>only</b> on set framerate.</p>
+		<p>Each level has a stated version that you can play the level on. If you're making a 2.2 fix of a 2.1 level, it would not be allowed due to Physics Changes. If you don't know how to downgrade versions, you'll be provided with <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial.</a> If you have any issues, make sure to contact staff.</p>
+        <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level uses the cube gamemode.</p>
+		<p>There <b>must be</b> a Cheat Indicator with clicks/taps in your completion/submission, however you are not allowed to use Geode mods, such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> as they're considered click sounds.</p>
+        <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
+        <p>Alternating levels that were verified with single-tapping <b>will not be</b> allowed on the list as a submission/record, exception being that you're fine with allowing Alternating for your level.</p>
+        <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>.</p>
         <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
