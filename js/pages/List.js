@@ -203,7 +203,7 @@ export default {
 		    <h3>Submission Requirements</h3>
         <p>FPS Bypass is allowed <b>as long as you're not</b> bypassing above 360 FPS or under 60 FPS. Physics Bypass, however, isn't allowed. This rule doesn't apply to levels possible <b>only</b> on set framerate.</p>
 		<p>Each level has a stated version that you can play the level on. If you're making a 2.2 fix of a 2.1 level, it would not be allowed due to Physics Changes. If you don't know how to downgrade versions, you'll be provided with <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial.</a> If you have any issues, make sure to contact staff.</p>
-        <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level uses the cube gamemode.</p>
+        <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level is cube and the player is <b>not using</b> CBF/CBS.</p>
 		<p>There <b>must be</b> a Cheat Indicator with clicks/taps in your completion/submission, however you are not allowed to use Geode mods, such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> as they're considered click sounds.</p>
         <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered cheating and is an advantage to make the level "easier".</p>
         <p>Alternating levels that were verified with single-tapping <b>will not be</b> allowed on the list as a submission/record, exception being that you're fine with allowing Alternating for your level.</p>
