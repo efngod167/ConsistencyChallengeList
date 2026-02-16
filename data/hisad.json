@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=mER_PhhHviU",
             "hz": "128",
             "percent": 100
-        }
+        },
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/sAujqgrxRV4",
+			"hz": "128",
+			"percent": 100
+		}
     ]
 }
