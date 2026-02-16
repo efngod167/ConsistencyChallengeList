@@ -16,11 +16,17 @@
 		    "hz": "180",
 		    "percent": 100
 	    },
-     {
-      "user": "liti1113",
-      "link": "https://youtu.be/yhjaZoWFyBo?si=H92L8vWqbtIS2PXN",
-      "hz": "180",
-      "percent": 100
-     }
+     	{
+      		"user": "liti1113",
+      		"link": "https://youtu.be/yhjaZoWFyBo?si=H92L8vWqbtIS2PXN",
+      		"hz": "180",
+      		"percent": 100
+     	},
+		{
+      		"user": "Maxr",
+      		"link": "https://www.youtube.com/watch?v=r_3D6vnqlNI",
+      		"hz": "180",
+      		"percent": 100
+     	}
     ]
 }
