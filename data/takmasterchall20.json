@@ -50,6 +50,12 @@
 			"link": "https://www.youtube.com/watch?v=4lbfH2YIF00",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtube.com/shorts/AIungtzGPLk",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
