@@ -32,8 +32,6 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
-
-    font-family: Helvetica, Arial, sans-serif;
 }
 
 header,
