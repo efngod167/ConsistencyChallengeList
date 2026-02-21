@@ -3,17 +3,11 @@
     "name": "pappa fappa",
     "author": "7ex",
     "creators": [],
-    "verifier": "7ex",
-    "verification": "https://youtu.be/MlkzpkSOHaY?si=2Rj4qXML9UbC1giB",
+    "verifier": "GDSlaughter",
+    "verification": "https://www.youtube.com/watch?v=xFHisePlMFM",
     "percentToQualify": "100",
     "fps": "240-360",
     "records": [
-        {
-            "user": "GDSlaughter",
-            "link": "https://www.youtube.com/watch?v=xFHisePlMFM",
-            "hz": "CBF",
-            "percent": 100
-        },
         {
 		    "user": "PureL",
 		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
