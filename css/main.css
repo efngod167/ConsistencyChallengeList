@@ -32,6 +32,8 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 header,
@@ -39,10 +41,7 @@ main {
     background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
-    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
-            16em,
-            1fr
-        );
+    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em, 1fr);
     column-gap: 2rem;
 }
 
@@ -53,12 +52,14 @@ header {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
+
 @media screen and (min-width: 1366px) {
     header {
         display: grid;
         padding-inline: 0;
     }
 }
+
 header .logo {
     justify-self: end;
     align-self: center;
@@ -66,6 +67,7 @@ header .logo {
     align-items: flex-end;
     gap: 1rem;
 }
+
 header .nav {
     flex: 1;
 }
@@ -77,6 +79,7 @@ main {
     grid-template-rows: minmax(0, 1fr);
     column-gap: 2rem;
 }
+
 main > div {
     overflow-y: auto;
 }
