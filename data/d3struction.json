@@ -40,8 +40,14 @@
 			"percent": 100
 		},
 		{
-			"user": "Luke",
+			"user": "luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/m9a6hZUaSZts9xHUa?invite=cr-MSxEMUgsMzAwMTE3NTc5&v=8",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "Maxr",
+			"link": "https://youtu.be/8wvTxqUoaLI",
 			"hz": "120",
 			"percent": 100
 		}
