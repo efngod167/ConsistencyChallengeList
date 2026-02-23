@@ -6,7 +6,6 @@
     "verifier": "blightedcoconut",
     "verification": "https://youtu.be/UmYlg2naQ_4",
     "percentToQualify": "100",
-    "fps": "",
     "version": "2.2",
     "records": [
         {
@@ -72,6 +71,12 @@
 		{
 			"user": "finni 1505",
 			"link": "https://medal.tv/de/games/geometry-dash/clips/lKEjwQhgmfwsOwF-j?invite=cr-MSw5NkQsMzY5MjUzOTQw&v=14",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Maxr",
+			"link": "https://medal.tv/games/geometry-dash/clips/maaD3FGTjg8_D8Oqc?invite=cr-MSxQTkMsNDc0NzU4NTcw&v=15",
 			"hz": "CBF",
 			"percent": 100
 		}
