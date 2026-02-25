@@ -203,13 +203,15 @@ export default {
 		<p>You are allowed to make dupes of challenges, if it's either an extension or a level repeated set times in a row, whatever can be considered a dupe. If the level has more than 2 dupes on the list, the easier level would have to be removed unless it's on the Legacy List.</p>
 		<h4>Submission Requirements</h4>
         <p>FPS Bypass is allowed <b>as long as you're not</b> bypassing above 360 FPS or under 60 FPS. Physics Bypass, however, isn't allowed. This rule doesn't apply to levels possible <b>only</b> on set framerate.</p>
-		<p>Each level has a stated version that you can play the level on. If you're making a 2.2 fix of a 2.1 level, it would not be allowed due to Physics Changes. If you don't know how to downgrade versions, you'll be provided with <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial.</a> If you have any issues, make sure to contact staff.</p>
+		<p>Each level has a stated version that you can play the level on. If you're making a 2.2 fix of a 2.1 level, it would not be allowed due to physics changes. If you don't know how to downgrade versions, you'll be provided with <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial.</a> If you have any issues, make sure to contact staff.</p>
         <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level is cube and the player is <b>not using</b> CBF/CBS.</p>
 		<p>Before submitting, you <b>must</b> include an FPS/CPS Counter and a Cheat Indicator for legitimacy purposes. This applies to any version of Geometry Dash, unless you play without any mods and use the 2.2 built-in FPS Bypass. Mods that play sounds of clicking such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> aren't allowed, as the clicks don't come from your input device.</p>
         <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered illegitimate towards the list.</p>
         <p>Alternating levels that were verified with single-tapping is <b>not allowed</b>. This rule is an exception, if you're fine with allowing Alternating for your level.</p>
         <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>.</p>
         <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
+		<h4>Allowed Hacks</h4>
+		<p>If you want to make sure if some of the hacks that you use in your mod menu are allowed or not allowed, we will provide a sheet <a style="color: #03bafc" href="https://docs.google.com/spreadsheets/d/1s57VjhT-o9xGz-wYekG9jzxyFDtZkrRAVZxvFQrSMYE/edit?gid=1738567657#gid=1738567657">here</a> to check if one of the hacks you are using is again, either allowed or not allowed. If you want to report any issues or ask questions, ask the staff members. The sheet will be kept updated, so everything you see is not final!</p>
         </div>
       </div>
     </main>
