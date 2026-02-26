@@ -9,5 +9,12 @@
     "fps": "120",
 	"version": "2.2",
     "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1475911138012037323",
+			"hz": "120",
+			"percent": 100
+		}
     ]
+
 }
