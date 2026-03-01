@@ -9,5 +9,23 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1468684402987896912",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/m3jVZwaClWrsTIq5q",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1477711457075466330",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
