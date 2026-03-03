@@ -104,7 +104,7 @@ export default {
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
 
-       // Remove user "finni1505" from leaderboard
+       // Remove user "bananas" from leaderboard
     const filteredLeaderboard = leaderboard.filter(entry => 
         entry.user !== "finni1505"
     );
