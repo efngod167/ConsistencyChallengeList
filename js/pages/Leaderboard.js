@@ -15,8 +15,40 @@ export default {
         loading: true,
         selected: 0,
         err: [],
+        "searchQuery: "", // for filtering the leaderboard
     }),
-    template: `
+    },
+    selectedEntry() {
+      // Only return a selected item if it exists in the filtered leaderboard.
+      return this.filteredLeaderboard[this.selected] || null;
+    },
+    selectedRank() {
+      if (!this.selectedEntry) {
+        return "-";
+      }
+      // Find original rank in the full leaderboard
+      let idx = this.leaderboard.findIndex(
+        (e) => e.user === this.selectedEntry.user
+      );
+      return idx >= 0 ? idx + 1 : this.selected + 1;
+    },
+  },
+  watch: {
+    // Whenever the search query changes, reset the selected index.
+    searchQuery() {
+      this.selected = 0;
+    },
+  },
+  async mounted() {
+    const [leaderboard, err] = await fetchLeaderboard();
+    this.leaderboard = leaderboard;
+    this.err = err;
+    this.loading = false;
+  },
+  methods: {
+    localize,
+  },
+        template: `
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
