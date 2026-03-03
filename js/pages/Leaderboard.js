@@ -106,7 +106,7 @@ export default {
 
        // Remove user "bananas" from leaderboard
     const filteredLeaderboard = leaderboard.filter(entry => 
-        entry.user !== "finni1505"
+        entry.user !== "bananas"
     );
 
     this.leaderboard = filteredLeaderboard;
