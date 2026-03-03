@@ -7,6 +7,9 @@ export default {
     components: {
         Spinner,
     },
+    
+
+    
     data: () => ({
         leaderboard: [],
         loading: true,
@@ -97,14 +100,22 @@ export default {
             return this.leaderboard[this.selected];
         },
     },
+    
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
-        this.leaderboard = leaderboard;
+
+       // Remove user "finni1505" from leaderboard
+    const filteredLeaderboard = leaderboard.filter(entry => 
+        entry.user !== "finni1505"
+    );
+
+    this.leaderboard = filteredLeaderboard;
+        this.selected = 0;
         this.err = err;
-        // Hide loading spinner
         this.loading = false;
     },
+
     methods: {
         localize,
     },
-}
+};
