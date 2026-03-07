@@ -9,5 +9,11 @@
     "fps": "120",
 	"version": "2.2",
     "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://www.youtube.com/live/zDl1j3Z9TIg?si=OiBNpoTVxjX3xt5t&t=15671",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
