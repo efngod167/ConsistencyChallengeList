@@ -1,5 +1,5 @@
 {
-    "id": 132304023 132304122,
+    "id": "132304023 132304122",
     "name": "reanimated",
     "author": "hypeytw",
     "creators": ["hypeytw, Zis76"],
@@ -16,4 +16,5 @@
 		"percent": 100
 	}
     ]
+
 }
