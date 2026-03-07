@@ -1,0 +1,19 @@
+{
+    "id": 132304023 132304122,
+    "name": "reanimated",
+    "author": "hypeytw",
+    "creators": ["hypeytw, Zis76"],
+    "verifier": "Maxr",
+    "verification": "https://youtu.be/DuJ4eyHdboM",
+    "percentToQualify": "100",
+    "fps": "120",
+	"version": "2.2",
+    "records": [
+	{
+		"user": "pixelfactorial",
+		"link": "https://youtu.be/1euGpTyCzXw",
+		"hz": "120",
+		"percent": 100
+	}
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 125152961,
+    "name": "bowm challenge",
+    "author": "Pentamery",
+    "creators": [],
+    "verifier": "Pentamery",
+    "verification": "https://youtu.be/6MqIng7UPoQ",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	{
+		"user": "pixelfactorial",
+		"link": "https://youtu.be/xx926aXsum4",
+		"hz": "CBF",
+		"percent": 100
+	}
+    ]
+}

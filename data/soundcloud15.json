@@ -1,0 +1,19 @@
+{
+    "id": 132578982,
+    "name": "SoundCloud 15",
+    "author": "ZenosSins",
+    "creators": ["UFokinWotM8, DubbyBall, unifiedgd, ZenosSins"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/sItcWp_N724",
+    "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
+    "records": [
+	{
+		"user": "pixelfactorial",
+		"link": "https://youtu.be/1KzmCnVcwug",
+		"hz": "60",
+		"percent": 100
+	}
+    ]
+}
