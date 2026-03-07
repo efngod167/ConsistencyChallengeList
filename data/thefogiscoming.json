@@ -9,5 +9,11 @@
     "fps": "240-360",
 	"version": "2.1",
     "records": [
+		{
+			"user": "maxf",
+			"link": "https://youtube.com/shorts/5hWtdqVy_os?si=lfSfKGsZ3cUX0keS",
+			"hz": "360",
+			"percent": 100
+		}
     ]
 }
