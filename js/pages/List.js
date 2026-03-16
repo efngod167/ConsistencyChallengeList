@@ -195,7 +195,7 @@ export default {
           </template>
         <h4>Level Requirements</h4>
         <p>Your level <b>must be consistency based.</b> A good example of a consistency challenge is <b>DIOOZ</b> by JoinMolten, and a bad example is <b>true binjus chal</b> by uwoGD.</p>
-		<p>The minimum amount of clicks & releases your challenge can have is 4. Anything below that <b>doesn't qualify</b> as a consistency challenge.</p>
+		<p>The minimum amount of clicks or releases your challenge can have is 4. Anything below that <b>doesn't qualify</b> as a consistency challenge.</p>
         <p>The maximum CPS for your level <b>cannot</b> exceed 9.5 or higher.</p>
 		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seoconds.</p>
 		<p>If your level contains inappropriate content/elements such as suggestive art, swastikas, slurs etc. <b>it will not be added.</b> This rule also applies to controversies, for ex. <b>Epstein Files.</b></p>
