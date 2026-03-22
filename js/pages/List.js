@@ -197,7 +197,7 @@ export default {
         <p>Your level <b>must be consistency based.</b> A good example of a consistency challenge is <b>DIOOZ</b> by JoinMolten, and a bad example is <b>true binjus chal</b> by uwoGD. Challenges that repeat a specific part of the level aren't allowed, as they aren't really considered a consistency challenge.</p>
 		<p>The minimum amount of clicks or releases your challenge can have is 4. Anything below that <b>doesn't qualify</b> as a consistency challenge.</p>
         <p>The maximum CPS for your level <b>cannot</b> exceed 9.5 or higher.</p>
-		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seoconds.</p>
+		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seconds.</p>
 		<p>If your level contains inappropriate content/elements such as suggestive art, swastikas, slurs etc. <b>it will not be added.</b> This rule also applies to controversies, for ex. <b>Epstein Files.</b></p>
         <p>You <b>cannot</b> include spam based parts (regarding the CPS rule) in your level.</p>
 		<p>You are allowed to make dupes of challenges, if it's either an extension or a level repeated set times in a row, whatever can be considered a dupe. If the level has more than 2 dupes on the list, the easier level would have to be removed unless it's on the Legacy List.</p>
