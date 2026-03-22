@@ -1,0 +1,19 @@
+{
+    "id": 133998718,
+    "name": "Hi hello hi",
+    "author": "hypeytw",
+    "creators": [],
+    "verifier": "Maxr",
+    "verification": "https://youtu.be/dBzb2e5sNcs",
+    "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
+    "records": [
+	{
+		"user": "pixelfactorial",
+		"link": "https://www.youtube.com/watch?v=1euGpTyCzXw",
+		"hz": "60",
+		"percent": 100
+	}
+    ]
+}

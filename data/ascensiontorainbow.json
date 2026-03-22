@@ -1,0 +1,19 @@
+{
+    "id": 132425981,
+    "name": "ascension to rainbow",
+    "author": "pixelfactorial",
+    "creators": ["fzxqoe"],
+    "verifier": "maxf",
+    "verification": "https://www.youtube.com/watch?v=YqZHLTqCeTA",
+    "percentToQualify": "100",
+    "fps": "150",
+	"version": "2.1",
+    "records": [
+	{
+		"user": "pixelfactorial",
+		"link": "https://www.youtube.com/watch?v=1euGpTyCzXw",
+		"hz": "150",
+		"percent": 100
+	}
+    ]
+}
