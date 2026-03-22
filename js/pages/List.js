@@ -184,7 +184,7 @@ export default {
             </p>
           </div>
           <template v-if="editors">
-            <h3>List Editors</h3>
+            <h4>List Editors</h4>
             <ol class="editors">
               <li v-for="editor in editors" :key="editor.name">
                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -194,7 +194,7 @@ export default {
             </ol>
           </template>
         <h4>Level Requirements</h4>
-        <p>Your level <b>must be consistency based.</b> A good example of a consistency challenge is <b>DIOOZ</b> by JoinMolten, and a bad example is <b>true binjus chal</b> by uwoGD.</p>
+        <p>Your level <b>must be consistency based.</b> A good example of a consistency challenge is <b>DIOOZ</b> by JoinMolten, and a bad example is <b>true binjus chal</b> by uwoGD. Challenges that repeat a specific part of the level aren't allowed, as they aren't really considered a consistency challenge.</p>
 		<p>The minimum amount of clicks or releases your challenge can have is 4. Anything below that <b>doesn't qualify</b> as a consistency challenge.</p>
         <p>The maximum CPS for your level <b>cannot</b> exceed 9.5 or higher.</p>
 		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seoconds.</p>
@@ -208,7 +208,7 @@ export default {
 		<p>Before submitting, you <b>must</b> include an FPS/CPS Counter and a Cheat Indicator for legitimacy purposes. This applies to any version of Geometry Dash, unless you play without any mods and use the 2.2 built-in FPS Bypass. Mods that play sounds of clicking such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> aren't allowed, as the clicks don't come from your input device.</p>
         <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered illegitimate towards the list.</p>
         <p>Alternating levels that were verified with single-tapping is <b>not allowed</b>. This rule is an exception, if you're fine with allowing Alternating for your level.</p>
-        <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>.</p>
+        <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>. If you're unsure if the level you're playing allows Show Hitboxes on Death, make sure to ask staff members!</p>
         <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
 		<h4>Allowed Hacks</h4>
 		<p>If you want to make sure if some of the hacks that you use in your mod menu are allowed or not allowed, we will provide a sheet <a style="color: #03bafc" href="https://docs.google.com/spreadsheets/d/1s57VjhT-o9xGz-wYekG9jzxyFDtZkrRAVZxvFQrSMYE/edit?gid=1738567657#gid=1738567657">here</a> to check if one of the hacks you are using is again, either allowed or not allowed. If you want to report any issues or ask questions, ask the staff members. The sheet will be kept updated, so everything you see is not final!</p>
