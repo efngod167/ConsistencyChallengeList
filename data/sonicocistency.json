@@ -4,16 +4,10 @@
     "author": "nensa",
     "creators": ["Dyson9, nensa"],
     "verifier": "nensa",
-    "verification": "https://youtu.be/L9siypwZPqs",
+    "verification": "https://youtu.be/kP8fYF-qEao",
     "percentToQualify": "100",
     "fps": "240",
 	"version": "2.2",
     "records": [
-		{
-			"user": "Nyan Cat",
-			"link": "https://www.youtube.com/watch?v=z3emalvdfY4",
-			"hz": "CBF",
-			"percent": 100
-		}
     ]
 }
