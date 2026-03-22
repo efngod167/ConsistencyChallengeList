@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=shR4r_hzsD4",
             "hz": "240",
             "percent": 100
+		},
+		{
+            "user": "nensa",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1485256132397236365/Replay_2026-03-22_22-24-52_-_Trim.mp4?ex=69c13410&is=69bfe290&hm=a4b43a748e6b7edd4d99878136d9d13c4e6092f759f9a7fa8962a360dc2113c0&",
+            "hz": "240",
+            "percent": 100
 		}
     ]
 }
