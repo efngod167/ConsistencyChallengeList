@@ -9,11 +9,17 @@
     "fps": "150",
 	"version": "2.1",
     "records": [
-	{
-		"user": "pixelfactorial",
-		"link": "https://www.youtube.com/watch?v=1euGpTyCzXw",
-		"hz": "150",
-		"percent": 100
-	}
+		{
+			"user": "pixelfactorial",
+			"link": "https://www.youtube.com/watch?v=1euGpTyCzXw",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/requested/clips/m8NzUA9lBIAENwRzH?invite=cr-MSw2ak4sMjMzODMwODYy&v=15",
+			"hz": "150",
+			"percent": 100
+		}
     ]
 }
