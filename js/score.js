@@ -1,7 +1,7 @@
 /**
  * Numbers of decimal digits to round to
  */
-const scale = 0;
+const scale = 3;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
