@@ -10,7 +10,7 @@ export function embed(video) {
 }
 
 export function localize(num) {
-    return num.toLocaleString(undefined, { minimumFractionDigits: 3 });
+    return num.toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 });
 }
 
 export function getThumbnailFromId(id) {
