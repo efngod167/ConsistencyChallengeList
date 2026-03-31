@@ -25,6 +25,16 @@
         "link": "https://www.youtube.com/@mirpack19"
     },
     {
+        "role": "hepler",
+        "name": "bananas",
+        "link": "https://www.youtube.com/@JTWlol"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },  
+    {
         "role": "dev",
         "name": "aelzfr",
         "link": "https://www.youtube.com/@aelzfr"
@@ -33,5 +43,10 @@
         "role": "dev",
         "name": "snail",
         "link": "https://github.com/snailmusic"
+    },
+    {
+        "role": "dev",
+        "name": "pixelfactorial",
+        "link": "https://www.youtube.com/@pixelfactorial"
     }
 ]
