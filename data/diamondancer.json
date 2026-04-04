@@ -6,14 +6,20 @@
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/89U3ta1dgiQ",
     "percentToQualify": "100",
-  "fps": "",
+  	"fps": "",
 	"version": "2.2",
     "records": [
-		{
-			"user": "INITIAL",
-			"link": "https://www.youtube.com/watch?v=Xgqd-mDXuaI",
-			"hz": "CBF",
-			"percent": 100
-		}
-    ]
+			{
+				"user": "INITIAL",
+				"link": "https://www.youtube.com/watch?v=Xgqd-mDXuaI",
+				"hz": "CBF",
+				"percent": 100
+			},
+			{
+				"user": "Celewooga",
+				"link": "https://www.youtube.com/watch?v=T4O78KIeSM0",
+				"hz": "240",
+				"percent": 100
+			}
+    	]
     }
