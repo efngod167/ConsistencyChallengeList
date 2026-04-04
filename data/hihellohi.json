@@ -9,11 +9,17 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
-	{
-		"user": "pixelfactorial",
-		"link": "https://www.youtube.com/watch?v=1euGpTyCzXw",
-		"hz": "60",
-		"percent": 100
-	}
+		{
+			"user": "pixelfactorial",
+			"link": "https://www.youtube.com/watch?v=1euGpTyCzXw",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/mpgSJ7Ro7c04OqzP-?invite=cr-MSxsNTMsMjMzODMwODYy&v=12",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
