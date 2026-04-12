@@ -9,5 +9,23 @@
     "fps": "240",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mtIij92ER3jgF6Ifh?invite=cr-MSxYOHcsMzAwMTE3NTc5&v=8",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtube.com/shorts/FvuDK22UzFs?si=ToBsP7IwbCTpF6EF",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/fr/games/geometry-dash/clips/mtYEwDRYTi9s-wngg?invite=cr-MSxGelIsNTk3MTY0MTcw&v=6",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
