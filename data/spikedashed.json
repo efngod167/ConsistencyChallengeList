@@ -9,5 +9,11 @@
     "fps": "360",
 	"version": "2.1",
     "records": [
+		{
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/1euGpTyCzXw",
+		    "hz": "360",
+		    "percent": 100
+	    }
     ]
 }
