@@ -9,11 +9,17 @@
     "fps": "120",
 	"version": "2.2",
     "records": [
-   {
-    "user": "liti1113",
-    "link": "https://youtu.be/J-UOuxWd-w0",
-    "hz": "120",
-    "percent": 100
-   }
+   		{
+    		"user": "liti1113",
+    		"link": "https://youtu.be/J-UOuxWd-w0",
+    		"hz": "120",
+    		"percent": 100
+   		},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/fr/games/geometry-dash/clips/myYlzyTqePAGq2s0g?invite=cr-MSw4YWgsNTk3MTY0MTcw&v=11",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
