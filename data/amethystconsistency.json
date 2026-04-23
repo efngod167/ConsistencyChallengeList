@@ -171,11 +171,18 @@
 			"hz": "240",
 			"percent": 100
 		},
-{
-"user": "2OO3",
-"link": "https://youtu.be/0sI4kt0XUVw",
-"hz": "CBS",
-"percent": 100
-}
+		{
+			"user": "2OO3",
+			"link": "https://youtu.be/0sI4kt0XUVw",
+			"hz": "CBS",
+			"percent": 100
+		},
+		{
+			"user": "nofarts",
+			"link": "https://youtu.be/BmOGRU-qRCc?si=1BvfZef4fRDZdk_M",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
+		}
     ]
 }
