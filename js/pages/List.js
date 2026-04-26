@@ -195,6 +195,7 @@ export default {
           </template>
         <h4>Level Requirements</h4>
         <p>Your level <b>must be consistency based.</b> A good example of a consistency challenge is <b>DIOOZ</b> by JoinMolten, and a bad example is <b>true binjus chal</b> by uwoGD. Challenges that repeat a specific part of the level aren't allowed, as they aren't really considered a consistency challenge.</p>
+		<p>There needs to be some effort put into your levels, as layouts aren't really allowed.</p>
 		<p>The minimum amount of clicks or releases your challenge can have is 4. Anything below that <b>doesn't qualify</b> as a consistency challenge.</p>
         <p>The maximum CPS for your level <b>cannot</b> exceed 9.5 or higher.</p>
 		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seconds.</p>
