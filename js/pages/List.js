@@ -199,15 +199,15 @@ export default {
 		<p>The minimum amount of clicks or releases your challenge can have is 4. Anything below that <b>doesn't qualify</b> as a consistency challenge.</p>
         <p>The maximum CPS for your level <b>cannot</b> exceed 9.5 or higher.</p>
 		<p>Your level <b>must be</b> under 30 seconds. Due to this rule, dupes such as <b>Ain Shams Self</b> have been removed for being above 30 seconds.</p>
-		<p>If your level contains inappropriate content/elements such as suggestive art, swastikas, slurs etc. <b>it will not be added.</b> This rule also applies to controversies, for ex. <b>Epstein Files.</b></p>
+		<p>If your level contains inappropriate content/elements such as suggestive art, swastikas, slurs etc. <b>it will not be added.</b> This rule also applies to controversies, for ex. <b>The Epstein Files.</b></p>
         <p>You <b>cannot</b> include spam based parts (regarding the CPS rule) in your level.</p>
 		<p>You are allowed to make dupes of challenges, if it's either an extension or a level repeated set times in a row, whatever can be considered a dupe. If the level has more than 2 dupes on the list, the easier level would have to be removed unless it's on the Legacy List.</p>
 		<h4>Submission Requirements</h4>
-        <p>FPS Bypass is allowed <b>as long as you're not</b> bypassing above 360 FPS or under 60 FPS. Physics Bypass, however, isn't allowed. This rule doesn't apply to levels possible <b>only</b> on set framerate.</p>
+        <p>FPS Bypass is allowed <b>as long as you're not</b> bypassing above 360 FPS or under 60 FPS. Physics Bypass, however, isn't allowed. This rule doesn't apply to levels possible <b>only</b> on listed framerate.</p>
 		<p>Each level has a stated version that you can play the level on. If you're making a 2.2 fix of a 2.1 level, it would not be allowed due to physics changes. If you don't know how to downgrade versions, you'll be provided with <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial.</a> If you have any issues, make sure to contact staff.</p>
         <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level is cube and the player is <b>not using</b> CBF/CBS.</p>
 		<p>Before submitting, you <b>must</b> include an FPS/CPS Counter and a Cheat Indicator for legitimacy purposes. This applies to any version of Geometry Dash, unless you play without any mods and use the 2.2 built-in FPS Bypass. Mods that play sounds of clicking such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> aren't allowed, as the clicks don't come from your input device.</p>
-        <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered illegitimate towards the list.</p>
+        <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered illegitimate towards the list, hence "NoClip" in the name.</p>
         <p>Alternating levels that were verified with single-tapping is <b>not allowed</b>. This rule is an exception, if you're fine with allowing Alternating for your level.</p>
         <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>. If you're unsure if the level you're playing allows Show Hitboxes on Death, make sure to ask staff members!</p>
         <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
