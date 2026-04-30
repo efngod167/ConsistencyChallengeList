@@ -38,12 +38,12 @@
 		    "hz": "CBF",
 		    "percent": 100
 	    },
-     {
-        "user": "ad3usgmd",
-        "link": "https://youtu.be/0QztHLXa_o0",
-        "hz": "CBF",
-        "percent": 100
-      },
+     	{
+        	"user": "ad3usgmd",
+        	"link": "https://youtu.be/0QztHLXa_o0",
+        	"hz": "CBF",
+        	"percent": 100
+      	},
 		{
         	"user": "tFluffy",
         	"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1423241714960826378",
@@ -65,6 +65,12 @@
 		{
 			"user": "maxf",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1446889505431879780",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mBAuVaLvxj2Cip4p7?invite=cr-MSxCNDgsMzAwMTE3NTc5&v=13",
 			"hz": "CBF",
 			"percent": 100
 		}
