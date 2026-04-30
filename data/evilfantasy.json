@@ -26,12 +26,12 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-     {
-        "user": "ad3usgmd",
-        "link": "https://youtu.be/0QztHLXa_o0",
-        "hz": "CBF",
-        "percent": 100
-      },
+     	{
+        	"user": "ad3usgmd",
+        	"link": "https://youtu.be/0QztHLXa_o0",
+        	"hz": "CBF",
+        	"percent": 100
+      	},
 		{
         	"user": "pixelfactorial",
 	        "link": "https://youtu.be/E7qkGDUCCoA",
@@ -53,6 +53,12 @@
 		{
 			"user": "INITIAL",
 			"link": "https://www.youtube.com/watch?v=_VulhdkXE3o",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mBzFpgfJ0aZgepnu3?invite=cr-MSxhSWIsMzAwMTE3NTc5&v=19",
 			"hz": "CBF",
 			"percent": 100
 		}
