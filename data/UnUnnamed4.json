@@ -26,16 +26,22 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-  {
-   "user": "ZenosSins",
-   "link": "https://youtu.be/2vbCmyesA4o",
-   "hz": "240",
-   "percent": 100
-  },
+  		{
+   			"user": "ZenosSins",
+   			"link": "https://youtu.be/2vbCmyesA4o",
+   			"hz": "240",
+   			"percent": 100
+  		},
 		{
 			"user": "bunkerbustergd",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1490056956818489465",
 			"hz": "CBS",
+			"percent": 100
+		},
+		{
+			"user": "zfwblueberries",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1499371829666775041",
+			"hz": "240",
 			"percent": 100
 		}
     ]
