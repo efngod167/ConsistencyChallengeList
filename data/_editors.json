@@ -6,6 +6,11 @@
     },
     {
         "role": "owner",
+        "name": "tFluffy",
+        "link": "https://www.youtube.com/channel/UCrl1b2P94n21Z3CEVHhFO6Q"
+    },
+    {
+        "role": "admin",
         "name": "Sadisyourlife",
         "link": "https://www.youtube.com/@justaguy8255"
     },
@@ -13,11 +18,6 @@
         "role": "admin",
         "name": "blightedcoconut",
         "link": "https://www.youtube.com/@Blightedcoconut"
-    },
-    {
-        "role": "admin",
-        "name": "tFluffy",
-        "link": "https://www.youtube.com/channel/UCrl1b2P94n21Z3CEVHhFO6Q"
     },
     {
         "role": "helper",
