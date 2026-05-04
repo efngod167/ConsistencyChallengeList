@@ -6,7 +6,7 @@
     "verifier": "blightedcoconut",
     "verification": "https://www.youtube.com/watch?v=0ciKJLhMUU0",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": "240/360",
     "records": [
         {
             "user": "tFluffy",
