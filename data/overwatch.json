@@ -6,7 +6,7 @@
     "verifier": "cqua",
     "verification": "https://youtu.be/QGlxnxdBaR0",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": "240/360",
     "records": [
         {
             "user": "ad3usgmd",
