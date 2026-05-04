@@ -148,11 +148,17 @@
 			"hz": "120",
 			"percent": 100
 		},
-  {
-   "user": "starr",
-   "link": "https://medal.tv/games/geometry-dash/clips/maKFkVfW4-K01JpMC?invite=cr-MSw0TmksMjgyNjcwNDU4&v=14",
-   "hz": "120",
-   "percent": 100
-  }
+  		{
+   			"user": "starr",
+   			"link": "https://medal.tv/games/geometry-dash/clips/maKFkVfW4-K01JpMC?invite=cr-MSw0TmksMjgyNjcwNDU4&v=14",
+   			"hz": "120",
+   			"percent": 100
+  		},
+		{
+			"user": "Piskotataller",
+			"link": "https://medal.tv/games/geometry-dash/clips/mCxrGIJhv_peUQQac?invite=cr-MSxwdjUsNDYwMTk0ODYz",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
