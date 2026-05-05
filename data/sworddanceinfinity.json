@@ -20,12 +20,12 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-  {
-   "user": "Velance",
-   "link": "https://youtu.be/5CJ3y2tSztI",
-   "hz": "240",
-   "percent": 100
-  },
+  		{
+   			"user": "Velance",
+   			"link": "https://youtu.be/5CJ3y2tSztI",
+   			"hz": "240",
+   			"percent": 100
+  		},
 		{
 			"user": "Dylanadv",
 			"link": "https://medal.tv/games/geometry-dash/clips/l3oawglgZDFzdxpAQ?invite=cr-MSxiRXgsNDIzNjQ4MTc4&v=180",
@@ -41,6 +41,12 @@
 		{
 			"user": "Caxew",
 			"link": "https://www.youtube.com/watch?v=Ks6rUNE8fqk",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "pat 8",
+			"link": "https://medal.tv/games/geometry-dash/clips/mDQ68BAYYO0qZPSwU?invite=cr-MSxTU2MsMjYwNTQ5MzQ5&v=32",
 			"hz": "CBF",
 			"percent": 100
 		}
