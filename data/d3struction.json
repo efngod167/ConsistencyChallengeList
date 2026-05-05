@@ -51,9 +51,15 @@
 			"hz": "120",
 			"percent": 100
 		},
-			{
+		{
 			"user": "Bread[GD]",
 			"link": "https://www.youtube.com/watch?v=hA7ufgsZyIQ",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "FoldedZero",
+			"link": "https://youtu.be/qaTjEKwaN-Q",
 			"hz": "120",
 			"percent": 100
 		}
