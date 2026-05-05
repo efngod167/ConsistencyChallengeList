@@ -13,8 +13,8 @@
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1426315639798239324",
             "hz": "CBF",
             "percent": 100
-            },
-            {
+        },
+        {
             "user": "Sadisyourlife",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1426611376830414868",
             "hz": "CBF",
@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=HfAdzGufu24",
             "hz": "240",
             "percent": 100
-        }
+        },
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mDE8jC68rSUwkrB5m?invite=cr-MSxjRlIsMzAwMTE3NTc5&v=11",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
