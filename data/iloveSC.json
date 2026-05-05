@@ -6,12 +6,18 @@
     "verifier": "INITIAL",
     "verification": "https://youtu.be/rcXf1Y4ycgA",
     "percentToQualify": "100",
-"fps": "75",
+	"fps": "75",
 	"version": "2.2",
     "records": [
 		{
 			"user": "pixelfactorial",
 			"link": "https://www.youtube.com/watch?v=5I1glN72_A0",
+			"hz": "75",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mDd5bwRrQBBRIPCT6?invite=cr-MSx1YzIsMzAwMTE3NTc5&v=10",
 			"hz": "75",
 			"percent": 100
 		}
