@@ -30,6 +30,21 @@
         "link": "https://www.youtube.com/@JTWlol"
     },
     {
+        "role": "helper",
+        "name": "Luke",
+        "link": "https://medal.tv/u/bulol"
+    },
+    {
+        "role": "helper",
+        "name": "Taget",
+        "link": "https://www.youtube.com/@mTaget"
+    },
+    {   
+        "role": "helper",
+        "name": "aimdox",
+        "link": "https://www.youtube.com/"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
