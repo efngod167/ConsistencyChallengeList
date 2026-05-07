@@ -80,6 +80,14 @@
 			"link": "https://www.youtube.com/watch?v=liEcAYiSSJs",
 			"hz": "240",
 			"percent": 100
+			
+		},		
+        {
+           "user": "Luke",
+           "link": "https://medal.tv/games/geometry-dash/clips/mETOa4UXc2DDCu0Sl",
+           "hz": "240",
+           "percent": 100
+	
 		}
     ]
 }
