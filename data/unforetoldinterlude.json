@@ -38,6 +38,11 @@
 			"hz": "240",
 			"percent": 100
 
-		}
-	]
+		}, 
+		{ 	"user": "INITIAL",	
+ 			"link": "https://medal.tv/fr/games/geometry-dash/clips/mG01jxlqJz-zfwnma?invite=cr-MSw5eXEsNTk3MTY0MTcw&v=14",
+			 "hz": "240", 
+			"percent": 100 
+		} 
+	] 
 }
