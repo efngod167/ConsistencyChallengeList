@@ -171,7 +171,19 @@
  			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1502870889467871262",
  			"hz": "CBF", 
 			"percent": 100 
-		} 
+		},
+		{ 
+			"user": "ginger8an",	
+ 			"link": "https://youtu.be/UdNFxmhW2mU",
+ 			"hz": "240", 
+			"percent": 100 
+		},
+		{ 
+			"user": "waldek808",	
+ 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1504955038680879137",
+ 			"hz": "60", 
+			"percent": 100 
+		}
 	] 
 }
 
