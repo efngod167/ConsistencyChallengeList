@@ -98,11 +98,17 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-{
-"user": "JayGol",
-"link": "https://medal.tv/games/geometry-dash/clips/mFfq3gHA0H3ZGuLDG?invite=cr-MSw2c2EsNTc1MDM1OTI1",
-"hz": "CBF",
-"percent": 100
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mFfq3gHA0H3ZGuLDG?invite=cr-MSw2c2EsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{ 
+			"user": "Doggo294",	
+ 			"link": "https://www.youtube.com/watch?v=15pRA9Nq1qA",
+ 			"hz": "240", 
+			"percent": 100 
 		}
 	]
 } 
