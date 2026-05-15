@@ -6,7 +6,7 @@
     "verifier": "nensa",
     "verification": "https://youtu.be/Dep2iA6g6gU",
     "percentToQualify": "100",
-    "fps": "240-360",
+    "fps": "240/360",
     "records": [
         {
             "user": "bananas",
@@ -84,6 +84,12 @@
 			"user": "Luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/mDF4BCWdTnINx298T?invite=cr-MSxvUUIsMzAwMTE3NTc5&v=9",
 			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1504563084751011940",
+			"hz": "240",
 			"percent": 100
 		}
     ]
