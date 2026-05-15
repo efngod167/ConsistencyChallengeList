@@ -8,13 +8,13 @@
 	"version": "2.2",
     "percentToQualify": "100",
     "records": [
-        		{
+        {
 			"user": "bananas",
 			"link": "https://medal.tv/games/geometry-dash/clips/kPxrpdaZXaZozpHNX",
 			"hz": "CBF",
 			"percent": 100
 		},
-				{
+		{
 		    "user": "Sadisyourlife",
 		    "link": "https://youtu.be/7tSZ1XxEPpY",
 		    "hz": "CBF",
@@ -33,11 +33,11 @@
 			"percent": 100
 		},
 		{
-		 "user": "INITIAL",
+		 	"user": "INITIAL",
 			"link": "https://www.youtube.com/watch?v=mQ5b5QA1dsI",
 			"hz": "240",
 			"percent": 100
-			},
+		},
 		{
 			"user": "galbeni7",
 			"link": "https://www.youtube.com/live/56RjOzVvnaI",
@@ -50,11 +50,11 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-{
-"user": "maxf",
-"link": "https://youtube.com/shorts/xtxj_G2LnxE?si=oju9IJg2vKwkDwvo",
-"hz": "CBF",
-"percent": 100
+		{
+			"user": "maxf",
+			"link": "https://youtube.com/shorts/xtxj_G2LnxE?si=oju9IJg2vKwkDwvo",
+			"hz": "CBF",
+			"percent": 100
 		}
 	]
 } 
