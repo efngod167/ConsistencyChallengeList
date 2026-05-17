@@ -69,6 +69,12 @@
 "hz": "240",
 "percent": 100
 			
-		}
-    ]
+		}, 
+		{ 
+			"user": "mmaxf",	
+ 			"link": "https://youtu.be/Sb2eEQseWmA",
+ 			"hz": "240", 
+			"percent": 100 
+		} 
+	] 
 }
