@@ -21,17 +21,23 @@
 			"hz": "88",
 			"percent": 100
 
-      },
-      {
+      	},
+		{
+           "user": "bananas",
+           "link": "https://medal.tv/games/geometry-dash/clips/mJJ3nvMv3Bmy-JgMZ?invite=cr-MSxVYkssMjMzODMwODYy&v=8",
+           "hz": "88",
+           "percent": 100
+		},
+      	{
             "user": "Luke",
             "link": "https://medal.tv/games/geometry-dash/clips/mJMvOmiEgWJAhns8V?invite=cr-MSxZSVEsMzAwMTE3NTc5&v=9",
             "hz": "88",
             "percent": 100
-},
-{
-"user": "maxf",
-"link": "https://youtu.be/fUhfoZBBa7Y",
-"hz": "88",
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/fUhfoZBBa7Y",
+			"hz": "88",
 			"percent": 100
 		}
     ]
