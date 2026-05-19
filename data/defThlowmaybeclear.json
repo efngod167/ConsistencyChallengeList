@@ -31,13 +31,18 @@
 			"link": "https://medal.tv/games/geometry-dash/clips/mDA8YKD794kCusCpT?invite=cr-MSxRU2ksMzAwMTE3NTc5&v=21",
 			"hz": "CBF",
 			"percent": 100
-		
 		}, 
 		{ 
 			"user": "tFluffy",	
  			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1505418672746004562",
  			"hz": "240", 
 			"percent": 100 
-		} 
+		},
+		{
+           "user": "bananas",
+           "link": "https://medal.tv/games/geometry-dash/clips/mJIzwN8lxU6drp81P?invite=cr-MSxFcEEsMjMzODMwODYy&v=20",
+           "hz": "CBF",
+           "percent": 100
+		}
 	] 
 }
