@@ -33,18 +33,18 @@
 			"hz": "240",
 			"percent": 100
 		},
-  {
-   "user": "borissimo",
-   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1458942736211378281",
-   "hz": "144",
-   "percent": 100
-  },
-  {
-   "user": "ZenosSins",
-   "link": "https://youtu.be/tHk4fvJ2OI8",
-   "hz": "240",
-   "percent": 100
-  },
+  		{
+   			"user": "borissimo",
+   			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1458942736211378281",
+   			"hz": "144",
+   			"percent": 100
+  		},
+  		{
+   			"user": "ZenosSins",
+   			"link": "https://youtu.be/tHk4fvJ2OI8",
+   			"hz": "240",
+   			"percent": 100
+  		},
 		{
 			"user": "kooka",
 			"link": "https://youtu.be/04tiDgUIUQ8",
@@ -111,7 +111,13 @@
 			"link": "https://www.youtube.com/watch?v=A3Lw-MzCHgY",
 			"hz": "239",
 			"percent": 100
-		} 
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/mIyLFL30yowgaQntX?invite=cr-MSxmUGksMjMzODMwODYy&v=16",
+			"hz": "240",
+			"percent": 100
+		}
 	] 
 }
 
