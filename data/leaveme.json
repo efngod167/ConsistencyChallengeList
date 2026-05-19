@@ -8,9 +8,8 @@
     "percentToQualify": "100",
     "fps": "60",
 	"version": "2.2",
-    "records": [
-     
-	{ 
+    "records": [ 
+		{ 
 			"user": "pixelfactorial",	
  			"link": "https://youtu.be/r7TDdWJm6xE",
  			"hz": "60", 
@@ -28,10 +27,12 @@
            "link": "https://medal.tv/games/geometry-dash/clips/mJhxbQEwT5brq3J7U?invite=cr-MSxyaXksMzAwMTE3NTc5&v=6",
            "hz": "60",
            "percent": 100
-
-
-
-			
-		} 
+		},
+		{
+           "user": "bananas",
+           "link": "https://medal.tv/games/geometry-dash/clips/mKaBYet7huGiVVvMq?invite=cr-MSx6M1MsMjMzODMwODYy&v=7",
+           "hz": "60",
+           "percent": 100
+		}
 	] 
 }
