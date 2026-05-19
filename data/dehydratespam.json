@@ -30,7 +30,13 @@
  			"link": "https://youtu.be/I2P7EFwadmo",
  			"hz": "CBF", 
 			"percent": 100 
-		} 
+		},
+		{
+           "user": "bananas",
+           "link": "https://medal.tv/games/geometry-dash/clips/mKauPqe9q38kwryNs?invite=cr-MSxwZ2YsMjMzODMwODYy&v=19",
+           "hz": "240",
+           "percent": 100
+		}
 	] 
 }
 
