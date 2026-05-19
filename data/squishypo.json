@@ -105,6 +105,12 @@
  			"hz": "COS", 
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "Stumbongd",
+			"link": "https://www.youtube.com/watch?v=A3Lw-MzCHgY",
+			"hz": "239",
+			"percent": 100
 		} 
 	] 
 }
