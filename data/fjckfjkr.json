@@ -80,7 +80,13 @@
 			"user": "ginger8an",	
  			"link": "https://youtu.be/qJQsNZZdFWs",
  			"hz": "240", 
-			"percent": 100 
+			"percent": 100
+		},
+		{
+			"user": "Travioli",
+			"link": "https://youtu.be/FJqM1ptkD2k",
+			"hz": "240",
+			"percent": 100
 		} 
 	] 
 }
