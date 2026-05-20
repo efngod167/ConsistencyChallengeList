@@ -26,13 +26,18 @@
 			"link": "https://medal.tv/games/geometry-dash/clips/mDe2GtNJjdfGJVELk?invite=cr-MSwwMHEsMzAwMTE3NTc5&v=19",
 			"hz": "240",
 			"percent": 100
-		
 		}, 
 		{ 
 			"user": "tFluffy",	
  			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1505411151750631526",
 			"hz": "240", 
 			"percent": 100 
-		} 
+		},
+		{
+			"user": "Stumbongd",
+			"link": "https://www.youtube.com/watch?v=4gJK9kSbaS4",
+			"hz": "240",
+			"percent": 100
+		}
 	] 
 }
