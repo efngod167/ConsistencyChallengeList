@@ -25,7 +25,13 @@
  			"link": "https://youtu.be/I2P7EFwadmo",
 			"hz": " CBF", 
 			"percent": 100 
-		} 
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/yP4BncjZ4Ks?si=jv7aXlnKhGdyyiWE",
+			"hz": "CBF",
+			"percent": 100
+		}
 	] 
 }
 
