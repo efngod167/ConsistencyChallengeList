@@ -62,13 +62,12 @@
 			"link": "https://medal.tv/games/geometry-dash/clips/mEfItVLXGrRKW6zYh?invite=cr-MSx6emssNDMyMzU1MDM3&v=13",
 			"hz": "240",
 			"percent": 100
-},
-{
-"user": "Luke",
-"link": "https://medal.tv/games/geometry-dash/clips/mEOxQbHXtbGJ6hGth",
-"hz": "240",
-"percent": 100
-			
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mEOxQbHXtbGJ6hGth",
+			"hz": "240",
+			"percent": 100
 		}, 
 		{ 
 			"user": "maxf",	
@@ -87,6 +86,12 @@
 			"link": "https://youtu.be/FJqM1ptkD2k",
 			"hz": "240",
 			"percent": 100
-		} 
+		},
+		{
+			"user": "botoffd",
+			"link": "https://www.youtube.com/watch?v=m0d5hecWoQg",
+			"hz": "240",
+			"percent": 100
+		}
 	] 
 }
