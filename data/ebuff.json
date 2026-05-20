@@ -15,7 +15,7 @@
             "hz": "240",
             "percent": 100
         },
-	{
+		{
             "user": "Greencookie",
             "link": "https://youtu.be/ONQftqGmyRA",
             "hz": "240",
@@ -54,6 +54,12 @@
 		{
 			"user": "TIMAYUNKERS",
 			"link": "https://www.youtube.com/watch?v=sOms-Au9Wf4",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Stumbongd",
+			"link": "https://www.youtube.com/watch?v=k6VZzeCuezw",
 			"hz": "240",
 			"percent": 100
 		}
