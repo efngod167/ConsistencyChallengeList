@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/fr/games/geometry-dash/clips/mKq6v1tm0_7ajsyco?invite=cr-MSx2V2EsNTk3MTY0MTcw&v=15",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
