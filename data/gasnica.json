@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240",
     "records": [
+		{
+			"user": "finni 1505",
+			"link": "https://www.youtube.com/watch?v=-EXF8kmQJdo",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
