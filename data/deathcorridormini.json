@@ -93,12 +93,12 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-  {
-   "user": "Spectr",
-   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1457234115689709569",
-   "hz": "CBF",
-   "percent": 100
-  },
+  		{
+   			"user": "Spectr",
+   			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1457234115689709569",
+   			"hz": "CBF",
+   			"percent": 100
+  		},
 		{
 			"user": "JayGol",
 			"link": "https://youtu.be/I1YbF0IBVDo",
@@ -143,7 +143,7 @@
 		},
 		{
 			"user": "martinlutherdash5",
-			"link": "https://www.youtube.com/watch?v=-EXF8kmQJdo",
+			"link": "https://youtu.be/0GMt1iEL8Gg",
 			"hz": "CBF",
 			"percent": 100
 		}
