@@ -67,7 +67,13 @@
  			"link": "https://www.youtube.com/watch?v=vi2aVUkr6zQ",
  			"hz": "CBF", 
 			"percent": 100 
-		} 
+		},
+		{ 
+			"user": "Luke",	
+ 			"link": "https://medal.tv/games/geometry-dash/clips/mMXDrWiW3FDNaVoDn?invite=cr-MSxKeW4sMzAwMTE3NTc5&v=16",
+ 			"hz": "CBF", 
+			"percent": 100 
+		}
 	] 
 } 
 
