@@ -6,8 +6,14 @@
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/beiuiZmYNuk",
     "percentToQualify": "100",
-  "fps": "240",
+  	"fps": "240",
 	"version": "2.2",
     "records": [
+		{
+		    "user": "INITIAL",
+		    "link": "https://medal.tv/games/geometry-dash/clips/mNL1pYgUX4g-S0D2v?invite=cr-MSxTWUEsNTk3MTY0MTcw",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
