@@ -224,6 +224,13 @@
 		    "link": "https://youtu.be/b-uwlbuNnfM?si=aotScPy8-Typ-F4H",
 		    "hz": "CBS",
 		    "percent": 100
+	    },
+		{
+		    "user": "KostasGMD",
+		    "link": "https://youtu.be/tevgRT_Vfl8?is=Z82FI8WBMuPGcZwd",
+		    "hz": "CBS",
+		    "percent": 100,
+			"mobile": "true"
 	    }
 	] 
 } 
