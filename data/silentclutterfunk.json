@@ -94,9 +94,9 @@
 		}, 
 		{ 
 			"user": "MiRPacK19",	
- 			"link": "CBF",
- 			"hz": "https://discord.com/channels/1342438507527802901/1365699473732276316/1508787294273015909", 
-		"percent": 100 
+ 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1508787294273015909",
+ 			"hz": "CBF", 
+			"percent": 100 
 		} 
 	] 
 } 
