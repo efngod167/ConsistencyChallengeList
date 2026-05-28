@@ -86,6 +86,12 @@
    			"hz": "CBF",
    			"percent": 100,
 			"mobile": "true"
+  		},
+		{
+   			"user": "flim",
+   			"link": "https://www.youtube.com/watch?v=zKs1WnNXqmc",
+   			"hz": "240",
+   			"percent": 100
   		}
 	]
 } 
