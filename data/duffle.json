@@ -196,11 +196,8 @@
            "link": "https://www.youtube.com/watch?v=UtyFvk7J0Jk",
            "hz": "240",
            "percent": 100
-
-
-
-			}, 
-			{ 
+		}, 
+		{ 
 			"user": "phan7838",	
  			"link": "https://youtu.be/ii8lDSu2XyA",
  			"hz": "CBF", 
@@ -211,13 +208,19 @@
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1507747122647404736",
 			"hz": "60",
 			"percent": 100
-       },
+       	},
 		{
 			"user": "Fridich",
 			"link": "https://www.youtube.com/watch?v=KwxXu_3qD8c",
 			"hz": "240",
 			"percent": 100
-       }
+       	},
+		{
+			"user": "Stolb",
+			"link": "https://youtu.be/wT7orWFXvRw",
+			"hz": "CBF",
+			"percent": 100
+       	}
 	] 
 }
 
