@@ -73,7 +73,12 @@
 			"link": "https://youtu.be/FJqM1ptkD2k",
 			"hz": "144",
 			"percent": 100
-	    }
+	    }, 
+		{ 
+			"user": "Quoaz",	
+ 			"link": "https://youtu.be/f18a6KcfLqc?si=L3l5LkaIIaLMHR4I",
+ 			"hz": "240", 
+			"percent": 100 
+		} 
 	] 
-}
-
+} 
