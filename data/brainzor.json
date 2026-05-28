@@ -79,6 +79,12 @@
            "link": "https://youtu.be/l8R2n6jlDvM?si=AONmdp7QJd8LJLG1",
            "hz": "CBS",
            "percent": 100 
+		},
+	  	{
+           "user": "hexdzfr",
+           "link": "https://www.youtube.com/watch?v=d58DUx7e3HQ",
+           "hz": "CBF",
+           "percent": 100 
 		}
 	]
 } 
