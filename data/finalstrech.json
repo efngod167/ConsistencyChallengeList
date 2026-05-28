@@ -6,7 +6,7 @@
     "verifier": "V10lence",
     "verification": "https://youtu.be/ij5uZ63Plh8",
     "percentToQualify": "100",
-  "fps": "144",
+  	"fps": "144",
 	"version": "2.1",
     "records": [
         {
@@ -38,6 +38,12 @@
 			"link": "https://youtu.be/PxtNK1OPaug",
 			"hz": "144",
 			"percent": 100
-		}
+		},
+		{
+		    "user": "INITIAL",
+		    "link": "https://medal.tv/games/geometry-dash/clips/mNPW3xdYwmOt4gZGC?invite=cr-MSxRVUEsNTk3MTY0MTcw&v=18",
+		    "hz": "144",
+		    "percent": 100
+	    }
     ]
 }
