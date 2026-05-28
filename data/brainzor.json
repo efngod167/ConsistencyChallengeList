@@ -25,56 +25,61 @@
 		    "hz": "240",
 		    "percent": 100
 	    },
-	  {
+	  	{
 		  "user": "Atticus813",
 		  "link": "https://www.youtube.com/watch?v=H-U4_tNAURQ",
 		  "hz": "240",
 		  "percent": 100
-	  },
-	  {
+	  	},
+	  	{
 			"user": "Nuridin_T3b",
 			"link": "https://youtu.be/K2jQu_M9rMY",
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
 		},
-	  {
+	  	{
 		  "user": "FJKR",
 		  "link": "https://medal.tv/ru/games/geometry-dash/clips/lxVnHYp6KjVhcMfXi?invite=cr-MSxjVVQsNDM2Nzg5MDc5&v=24",
 		  "hz": "240",
 		  "percent": 100
-	   },
-{
-"user": "Taget",
-"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1501810806801694751",
-"hz": "240",
-"percent": 100
-	},
-{
-"user": "JayGol",
-"link": "https://medal.tv/games/geometry-dash/clips/mEVM5ly9sT_dEzPVT?invite=cr-MSxtMnAsNTc1MDM1OTI1",
-"hz": "CBF",
-"percent": 100
+	   	},
+		{
+			"user": "Taget",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1501810806801694751",
+			"hz": "240",
+			"percent": 100
 		},
-	  {
-"user": "Luke",
-"link": "https://medal.tv/games/geometry-dash/clips/mICri6jWHDjiuvFFO?invite=cr-MSxqeXQsMzAwMTE3NTc5&v=12",
-"hz": "240",
-"percent": 100
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mEVM5ly9sT_dEzPVT?invite=cr-MSxtMnAsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
 		},
-	  {
-"user": "INITIAL",
-"link": "https://medal.tv/games/geometry-dash/clips/mJfLtL9QcbTrzVh7k?invite=cr-MSxQZ0UsNTk3MTY0MTcw",
-"hz": "CBF",
-"percent": 100
+	  	{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mICri6jWHDjiuvFFO?invite=cr-MSxqeXQsMzAwMTE3NTc5&v=12",
+			"hz": "240",
+			"percent": 100
 		},
-	  {
-		  "commentbymirpack19": "the guy who did this shit above should be hanged",
+	  	{
+			"user": "INITIAL",
+			"link": "https://medal.tv/games/geometry-dash/clips/mJfLtL9QcbTrzVh7k?invite=cr-MSxQZ0UsNTk3MTY0MTcw",
+			"hz": "CBF",
+			"percent": 100
+		},
+	  	{
 		  "user": "okrungd",
 		  "link": "https://youtu.be/gWnZkRJ7eE0",
 		  "hz": "CBF",
 		  "percent": 100
-	   }
+	   	},
+	  	{
+           "user": "echoXD",
+           "link": "https://youtu.be/l8R2n6jlDvM?si=AONmdp7QJd8LJLG1",
+           "hz": "CBS",
+           "percent": 100 
+		}
 	]
 } 
 
