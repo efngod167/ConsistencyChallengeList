@@ -79,6 +79,12 @@
  			"link": "https://www.youtube.com/watch?v=vi2aVUkr6zQ",
  			"hz": "60", 
 			"percent": 100 
+    }, 
+		{ 
+			"user": "chillguy73",	
+ 			"link": "https://www.youtube.com/watch?v=W-BUDFimxXM",
+ 			"hz": "60", 
+			"percent": 100
 		} 
 	] 
 } 
