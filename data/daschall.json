@@ -85,6 +85,12 @@
 			"link": "https://youtu.be/aQVxT-CFhMQ",
 			"hz": "CBF",
 			"percent": 100
+		}, 
+		{ 
+			"user": "hinek",	
+ 			"link": "https://www.youtube.com/watch?v=n2si0J5xc9g",
+ 			"hz": "240", 
+			"percent": 100
        	}
 	] 
 } 
