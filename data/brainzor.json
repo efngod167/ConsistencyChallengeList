@@ -84,6 +84,12 @@
            "user": "hexdzfr",
            "link": "https://www.youtube.com/watch?v=d58DUx7e3HQ",
            "hz": "CBF",
+           "percent": 100
+      },
+	  	{
+           "user": "Oskaranosec",
+           "link": "https://youtu.be/P9PelCKFeyc?si=sb6BJ03w93kRUzhy",
+           "hz": "165",
            "percent": 100 
 		}
 	]
