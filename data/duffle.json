@@ -232,6 +232,12 @@
 			"link": "https://www.youtube.com/watch?v=kxiKhTeQ2SU",
 			"hz": "CBS",
 			"percent": 100
+    },
+		{
+			"user": "Oskaranosec",
+			"link": "https://youtu.be/FfMBvx3Fl2A?si=I6bWzzZkDy7oXDbv",
+			"hz": "165",
+			"percent": 100
        	}
 	] 
 }
