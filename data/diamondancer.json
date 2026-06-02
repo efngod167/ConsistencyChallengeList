@@ -31,7 +31,13 @@
 				"user": "finni 1505",	
  				"link": "https://www.youtube.com/watch?v=vi2aVUkr6zQ",
  				"hz": "CBF", 
-				"percent": 100 
+				"percent": 100
+      },
+		  {
+			  "user": "tFluffy",
+			  "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1510909845698646066/dd.mp4?ex=6a1fd972&is=6a1e87f2&hm=1781704e5aed2506521a2bd1810e924eb7f8857f181964a352605d803ae17dab&",
+			  "hz": "CBF",
+			  "percent": 100
 		} 
 	] 
 } 
