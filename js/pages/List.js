@@ -208,7 +208,7 @@ export default {
         <p>Click Between Frames/Click on Steps/Click Between Steps/Click Between MoonFrosts records are allowed, unless the level is cube and the player is <b>not using</b> CBF/CBS.</p>
 		<p>Before submitting, you <b>must</b> include an FPS/CPS Counter and a Cheat Indicator for legitimacy purposes. This applies to any version of Geometry Dash, unless you play without any mods and use the 2.2 built-in FPS Bypass. Mods that play sounds of clicking such as <b>Click Sounds</b> or <b>Click Sounds Lite</b> aren't allowed, as the clicks don't come from your input device.</p>
         <p>NoClip Accuracy completions/verifications are <b>ABSOLUTELY</b> not allowed, as it is considered illegitimate towards the list, hence "NoClip" in the name.</p>
-        <p>Alternating levels that were verified with single-tapping is <b>not allowed</b>. This rule is an exception if your level is 2-Player.</p>
+        <p>Alternating is <b>not allowed</b>. This rule is an exception if your level is 2-Player.</p>
         <p>You are allowed to use Show Hitboxes on Death, but your record will be denied if you use it for levels that are hard to see or are invisible, for ex. <b>tueml cereal</b>. If you're unsure if the level you're playing allows Show Hitboxes on Death, make sure to ask staff members!</p>
         <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
 		<h4>Allowed Hacks</h4>
