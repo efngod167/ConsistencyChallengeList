@@ -141,6 +141,12 @@
 			"link": "https://www.youtube.com/watch?v=EBU7OaMNgLE",
 			"hz": "60",
 			"percent": 100
-		}
+		},
+		{
+			"user": "randompersonig",
+			"link": "https://youtu.be/abFncyFbQVY",
+			"hz": "200",
+			"percent": 100
+       	}
     ]
 }
