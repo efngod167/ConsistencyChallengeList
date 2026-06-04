@@ -190,8 +190,8 @@
 			"hz": "120",
 			"percent": 100
 
-       },
-       {
+       	},
+	    {
            "user": "StumbonGD",
            "link": "https://www.youtube.com/watch?v=UtyFvk7J0Jk",
            "hz": "240",
@@ -220,19 +220,25 @@
 			"link": "https://youtu.be/wT7orWFXvRw",
 			"hz": "CBF",
 			"percent": 100
-			},
+		},
+		{
+			"user": "echoXD",
+			"link": "https://youtu.be/Iu9NeiWmFyE?si=m0A75dm68_e-5xpi",
+			"hz": "CBS",
+			"percent": 100
+		},
 		{
 			"user": "RxndomDude",
 			"link": "https://youtu.be/Tu-JVUhdC1U",
 			"hz": "240",
 			"percent": 100
-    },
+    	},
 		{
 			"user": "ImOneLuckyDucky",
 			"link": "https://www.youtube.com/watch?v=kxiKhTeQ2SU",
 			"hz": "60",
 			"percent": 100
-    },
+    	},
 		{
 			"user": "Oskaranosec",
 			"link": "https://youtu.be/FfMBvx3Fl2A?si=I6bWzzZkDy7oXDbv",
