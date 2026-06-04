@@ -37,12 +37,18 @@
 			"link": "https://medal.tv/games/geometry-dash/clips/mEPSOr8t71c5Q13pz?invite=cr-MSxmamssNTc1MDM1OTI1",
 			"hz": "240",
 			"percent": 100
-
 		}, 
-		{ 	"user": "INITIAL",	
+		{ 	
+			"user": "INITIAL",	
  			"link": "https://medal.tv/fr/games/geometry-dash/clips/mG01jxlqJz-zfwnma?invite=cr-MSw5eXEsNTk3MTY0MTcw&v=14",
 			 "hz": "240", 
 			"percent": 100 
-		} 
+		},
+		{ 	
+			"user": "Lightning:3",	
+ 			"link": "https://www.youtube.com/watch?v=yRinxuboAfI",
+			 "hz": "240", 
+			"percent": 100 
+		}
 	] 
 }
