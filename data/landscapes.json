@@ -37,6 +37,12 @@
  			"link": "https://www.youtube.com/watch?v=X-9CqPcCwjI",
  			"hz": "CBS", 
 			"percent": 100 
+		},
+		{ 
+			"user": "Cosmeeto",	
+ 			"link": "https://www.youtube.com/watch?v=YNoJzuZQelw",
+ 			"hz": "CBF", 
+			"percent": 100 
 		}
     ]
 }
