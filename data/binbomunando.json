@@ -170,6 +170,12 @@
 			"link": "https://www.youtube.com/watch?v=OUrDylRF-pA",
 			"hz": "60",
 			"percent": 100
+		},
+		{ 
+			"user": "PengusP",	
+ 			"link": "https://youtu.be/AFoF5EmiOz4",
+ 			"hz": "60", 
+			"percent": 100 
 		}
     ]
 }
