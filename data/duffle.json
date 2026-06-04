@@ -233,7 +233,7 @@
 			"hz": "120",
 			"percent": 100,
 			"mobile": "true"
-    },
+    	},
 		{
 			"user": "ImOneLuckyDucky",
 			"link": "https://www.youtube.com/watch?v=kxiKhTeQ2SU",
@@ -244,6 +244,12 @@
 			"user": "Oskaranosec",
 			"link": "https://youtu.be/FfMBvx3Fl2A?si=I6bWzzZkDy7oXDbv",
 			"hz": "165",
+			"percent": 100
+       	},
+		{
+			"user": "Geezy",
+			"link": "https://youtu.be/AgsdD9JBleU",
+			"hz": "240",
 			"percent": 100
        	}
 	] 
