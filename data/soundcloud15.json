@@ -9,24 +9,24 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
-	{
-		"user": "pixelfactorial",
-		"link": "https://youtu.be/1KzmCnVcwug",
-		"hz": "60",
-		"percent": 100
-	},
-	{
-		"user": "Sadisyourlife",
-		"link": "https://canary.discord.com/channels/1342438507527802901/1462447030776627435/1468563448957898845",
-		"hz": "60",
-		"percent": 100
-	},
-	{
-		"user": "Luke",
-		"link": "https://medal.tv/games/geometry-dash/clips/mIQVi7v24I5WE0ptx?invite=cr-MSxNc0ksMzAwMTE3NTc5&v=14",
-		"hz": "60",
-		"percent": 100
-	},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/1KzmCnVcwug",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://canary.discord.com/channels/1342438507527802901/1462447030776627435/1468563448957898845",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mIQVi7v24I5WE0ptx?invite=cr-MSxNc0ksMzAwMTE3NTc5&v=14",
+			"hz": "60",
+			"percent": 100
+		},
 		{
 			"user": "MiRPacK19",
 			"link": "https://youtu.be/cL3-CxKFdIc",
@@ -38,6 +38,12 @@
 			"link": "https://medal.tv/ru/games/geometry-dash/clips/mMBoR0zpnYqZFI1xc?invite=cr-MSxaY3QsMjMzODMwODYy&v=11",
 			"hz": "60",
 			"percent": 100
-		}
+		},
+		{
+			"user": "ZenosSins",
+			"link": "https://youtu.be/QD15moWnQtw?si=286w3UsJyH3PuGbq",
+			"hz": "60",
+			"percent": 100
+       	}
     ]
 }
