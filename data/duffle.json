@@ -251,6 +251,13 @@
 			"link": "https://youtu.be/AgsdD9JBleU",
 			"hz": "240",
 			"percent": 100
+       	},
+		{
+			"user": "Veta",
+			"link": "https://youtu.be/zAgfIWhlBAk?si=aXnv-A0VHUsTB6q0",
+			"hz": "COS",
+			"percent": 100,
+			"mobile": "true"
        	}
 	] 
 }
