@@ -115,6 +115,12 @@
  			"link": "https://www.youtube.com/watch?v=LGB75mV7yKE",
  			"hz": "240", 
 			"percent": 100 
-		} 
+		},
+		{ 
+			"user": "PengusP",	
+ 			"link": "https://youtu.be/3t2vSftXCB0",
+ 			"hz": "CBF", 
+			"percent": 100 
+		}
 	] 
 }
