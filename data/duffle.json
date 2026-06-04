@@ -258,6 +258,12 @@
 			"hz": "COS",
 			"percent": 100,
 			"mobile": "true"
+       	},
+		{
+			"user": "randompersonig",
+			"link": "https://youtu.be/z0OFLmNZzao",
+			"hz": "200",
+			"percent": 100
        	}
 	] 
 }
