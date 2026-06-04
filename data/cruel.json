@@ -9,5 +9,11 @@
     "fps": "60",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mOkuWDkD4VHt1U3zr?invite=cr-MSxyWjYsMzAwMTE3NTc5&v=12",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
