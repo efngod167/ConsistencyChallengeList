@@ -80,6 +80,13 @@
 			"link": "https://youtu.be/sGcZFB5fv_Y",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "KostasGMD",
+			"link": "https://youtu.be/fWPz6kTviSQ?is=BTxEtBIO0-pzu9O8",
+			"hz": "CBS",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
