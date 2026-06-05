@@ -74,6 +74,12 @@
  			"hz": "CBF", 
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "pot2",
+			"link": "https://youtu.be/sGcZFB5fv_Y",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
