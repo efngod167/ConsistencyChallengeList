@@ -72,7 +72,8 @@
 			"user": "ImagineNugget67",	
  			"link": "https://youtu.be/13wStmuJWrA",
  			"hz": "CBF", 
-			"percent": 100 
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
