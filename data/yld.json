@@ -6,14 +6,10 @@
     "verifier": "Spazesmeow",
     "verification": "https://youtu.be/v1f2-RlAQ50",
     "percentToQualify": "100",
-    "fps": "240",
+    "fps": "120",
 	"version": "2.2",
     "records": [
-		{ 
-			"user": "Luke",	
- 			"link": "https://medal.tv/games/geometry-dash/clips/mOHtgmQGWWpE1TJJg?invite=cr-MSxzNFgsMzAwMTE3NTc5&v=7",
- 			"hz": "240", 
-			"percent": 100 
+		{
 		}
     ]
 }
