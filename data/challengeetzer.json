@@ -115,6 +115,12 @@
  			"link": "https://www.youtube.com/watch?v=Gohfyqcsluw",
  			"hz": "240", 
 			"percent": 100 
+		},
+		{
+			"user": "ennea",
+			"link": "https://youtu.be/ZIjJBBm6Geo",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
