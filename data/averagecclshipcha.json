@@ -237,6 +237,13 @@
 			"link": "https://youtu.be/N7PuexhsZzE",
 			"hz": "120",
 			"percent": 100
-       	}
+       	},
+		{
+			"user": "Cyclone",
+			"link": "https://youtu.be/aSZZBgpJ2w4?si=Qmn11MA3ukOpYchp",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
+		}
     ]
 }
