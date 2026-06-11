@@ -180,6 +180,12 @@
  			"hz": "CBS", 
 			"percent": 100,
 			"mobile": "true"
+		},
+		{ 
+			"user": "SniederGD",	
+ 			"link": "https://youtube.com/shorts/posoXGQHcbQ?is=Pwu84XT087V7_S3M",
+ 			"hz": "60", 
+			"percent": 100 
 		}
     ]
 }
