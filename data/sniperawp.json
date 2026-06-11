@@ -9,7 +9,7 @@
 	"fps": "240",
 	"version": "2.2",
     "records": [
-{
+		{
             "user": "INITIAL",
             "link": "https://youtu.be/sHGZCRKE5fA",
             "hz": "CBF",
@@ -50,6 +50,12 @@
            "link": "https://medal.tv/es/games/geometry-dash/clips/mK8FNk6n33BQAPVEQ?invite=cr-MSxGZVEsNTk1NjcwMjcw&v=12",
            "hz": "240",
            "percent": 100
+		},
+		{
+			"user": "ennea",
+			"link": "https://youtu.be/U1X2I0uSQTw",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
