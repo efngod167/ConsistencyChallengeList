@@ -256,6 +256,18 @@
 			"link": "https://www.youtube.com/watch?v=XxJwhbC9yVQ",
 			"hz": "120",
 			"percent": 100
-       	}
+       	},
+		{
+			"user": "Amine GmD",
+			"link": "https://youtu.be/PZ3KJNaSNM4",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/mTD5EPXCXJlTuLv8E?invite=cr-MSxyY3IsMjMzODMwODYy&v=13",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
