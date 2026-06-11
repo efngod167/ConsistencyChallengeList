@@ -54,6 +54,12 @@
            "user": "echoXD",
            "link": "https://youtu.be/YLWEA1wkkqs?si=HqpSopQELqERbL4k",
            "hz": "CBS",
+           "percent": 100
+},
+		{
+           "user": "INITIAL",
+           "link": "https://youtu.be/gFGGjIlUWYk",
+           "hz": "CBF",
            "percent": 100 
 		}
 	]
