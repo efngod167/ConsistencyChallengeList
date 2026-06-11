@@ -164,12 +164,12 @@
    			 "hz": "CBF",
 			 "percent": 100
   		},
-    {
-     "user": "K1xzzz",
-     "link": "https://youtu.be/E1HQTKV9I7o",
-     "hz": "240",
-     "percent": 100
-    },
+    	{
+     		"user": "K1xzzz",
+     		"link": "https://youtu.be/E1HQTKV9I7o",
+     		"hz": "240",
+     		"percent": 100
+    	},
 		{
 			"user": "Nickyv146",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1448501012816990278",
@@ -185,6 +185,12 @@
 		{
 			"user": "Luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/mRdsNX4bhibJfsdfv?invite=cr-MSxKa2csMzAwMTE3NTc5&v=12",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ojay",
+			"link": "https://www.youtube.com/watch?v=76VRZRQp4lM",
 			"hz": "CBF",
 			"percent": 100
 		}
