@@ -178,7 +178,8 @@
 			"user": "HandsGD",	
  			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1514433801697099836",
  			"hz": "CBS", 
-			"percent": 100 
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
