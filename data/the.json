@@ -97,6 +97,12 @@
  			"link": "https://www.youtube.com/watch?si=AB62ubR-Bs5jQP-0&v=MsJgwr_m6-0&feature=youtu.be",
 		    "hz": "CBS", 
 			"percent": 100 
+		},
+		{ 
+			"user": "Supergglol",	
+ 			"link": "https://www.youtube.com/watch?v=IoTdz1qYGqY",
+ 			"hz": "240", 
+			"percent": 100 
 		}
 	] 
 }
