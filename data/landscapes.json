@@ -124,6 +124,12 @@
 "hz": "60",
 "percent": 100,
 "mobile": "true"
+},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/zaYaFnQ8Org",
+			"hz": "CBF",
+			"percent": 100
 }
     ]
 }
