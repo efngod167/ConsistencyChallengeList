@@ -250,12 +250,18 @@
  			"hz": "CBF", 
 			"percent": 100 
 		},
-{
-"user": "PengusP",
-"link": "https://youtu.be/ubfHjo8tfJQ",
-"hz": "CBF",
-"percent": 100
-}
+		{
+			"user": "PengusP",
+			"link": "https://youtu.be/ubfHjo8tfJQ",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "2OO3",
+			"link": "https://youtu.be/QV4X_9l_5xI",
+			"hz": "CBF",
+			"percent": 100
+		}
 	] 
 } 
 
