@@ -9,5 +9,11 @@
     "fps": "120",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Stumbongd",
+			"link": "https://youtu.be/AR6_IkhQhpo",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
