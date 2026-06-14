@@ -98,11 +98,17 @@
  			"hz": "CBF", 
 			"percent": 100 
 		},
-{
-"user": "2OO3",
-"link": "https://youtu.be/uila3uLLCw8",
-"hz": "CBF",
-"percent": 100
-}
+		{
+			"user": "2OO3",
+			"link": "https://youtu.be/uila3uLLCw8",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ennea",
+			"link": "https://youtu.be/B_vcdmLuzR4",
+			"hz": "CBF",
+			"percent": 100
+		}
 	] 
 } 
