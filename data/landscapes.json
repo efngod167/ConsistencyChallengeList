@@ -210,6 +210,12 @@
 			"link": "https://www.youtube.com/watch?v=XnIitxHSPXI",
 			"hz": "CBS",
 			"percent": 100
+		},
+		{
+			"user": "2OO3",
+			"link": "https://youtu.be/k6NulM7ntCs",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
