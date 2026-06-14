@@ -33,10 +33,10 @@
             "percent": 100
         },
 	    {
-	    "user": "Stratonymous",
-	    "link": "https://medal.tv/games/geometry-dash/clips/ku7EGC1ZhSMKmAlz6?invite=cr-MSxGaXEsNTI1OTEzNQ",
-	    "hz": "CBF",
-	    "percent": 100
+	    	"user": "Stratonymous",
+	    	"link": "https://medal.tv/games/geometry-dash/clips/ku7EGC1ZhSMKmAlz6?invite=cr-MSxGaXEsNTI1OTEzNQ",
+	    	"hz": "CBF",
+	    	"percent": 100
 	    },
 	    {
 		    "user": "Maxius",
@@ -240,6 +240,12 @@
 			"user": "freyaii",
 			"link": "https://medal.tv/games/geometry-dash/clips/mU3U0nHxHddTxI3uu?invite=cr-MSw0b3IsNTg3NDU4MDcx",
 			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "pot",
+			"link": "https://medal.tv/games/geometry-dash/clips/mUjppDQzJ-f3eJ8pM?invite=cr-MSxpeXEsNDU0MjU3NzY4",
+			"hz": "240",
 			"percent": 100
 		}
 	]
