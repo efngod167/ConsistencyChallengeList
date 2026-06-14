@@ -223,6 +223,12 @@
 			"hz": "120",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "coder296",
+			"link": "https://www.youtube.com/watch?v=mQzVeB2DJ64",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
