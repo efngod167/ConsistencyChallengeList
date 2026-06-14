@@ -216,6 +216,13 @@
 			"link": "https://youtu.be/k6NulM7ntCs",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "astuopu",
+			"link": "https://youtube.com/watch?v=btNKJLWtezA&si=EDIOMhH0RUkMV8K1",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
