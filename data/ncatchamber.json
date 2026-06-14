@@ -62,19 +62,19 @@
             "hz": "240",
             "percent": 100
         },
-	{
+		{
             "user": "StockUniverse",
             "link": "https://youtu.be/eY27jYS3cZ8",
             "hz": "240",
             "percent": 100
         },
-	{
+		{
             "user": "DevTigr",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1391531077730041967",
             "hz": "CBF",
             "percent": 100
         },
-	{
+		{
             "user": "Sol-XSL",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1391914947255992433",
             "hz": "CBF",
@@ -192,6 +192,12 @@
 			"user": "ojay",
 			"link": "https://www.youtube.com/watch?v=76VRZRQp4lM",
 			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "noobyguy1",
+			"link": "https://youtu.be/KLJxnzwAdKw?is=8EpXnrkK7AIta9k3",
+			"hz": "240",
 			"percent": 100
 		}
     ]
