@@ -67,7 +67,7 @@
 		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1401248723954303056",
 		    "hz": "CBF",
 		    "percent": 100
-	},
+		},
         {
             "user": "FoldedZero",
             "link": "https://youtu.be/5cbCWAeBgd4",
@@ -135,11 +135,11 @@
 			"percent": 100
 		},
 		{
-   "user": "Trademodius",
-   "link": "https://www.youtube.com/watch?v=bFXIfUKheTg&t=2s",
-   "hz": "CBF",
-   "percent": 100
-  },
+   			"user": "Trademodius",
+   			"link": "https://www.youtube.com/watch?v=bFXIfUKheTg&t=2s",
+   			"hz": "CBF",
+   			"percent": 100
+  		},
 		{
 			"user": "Nyan Cat",
 			"link": "https://www.youtube.com/watch?v=z3emalvdfY4",
@@ -179,6 +179,12 @@
 		{
 			"user": "Diviner",
 			"link": "https://youtu.be/XbQWStUDguM?si=UTWQ9ZJ0qzRu0ovH",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "noobyguy1",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1515060857841647647",
 			"hz": "CBF",
 			"percent": 100
 		}
