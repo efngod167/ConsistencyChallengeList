@@ -261,6 +261,12 @@
 			"link": "https://youtu.be/QV4X_9l_5xI",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+           "user": "pixelfactorial",
+           "link": "https://www.youtube.com/live/lEH5AYBfcXM",
+           "hz": "360",
+           "percent": 100
 		}
 	] 
 } 
