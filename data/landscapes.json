@@ -265,6 +265,13 @@
 			"link": "https://www.youtube.com/watch?v=ehE9o4xHmV4",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{ 
+			"user": "derm",	
+ 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1516059977704538174",
+ 			"hz": "60", 
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
