@@ -127,6 +127,12 @@
            "link": "https://youtu.be/7CQ1Bls8SqI",
            "hz": "CBF",
            "percent": 100
+		},
+		{
+			"user": "embryo",
+			"link": "https://www.youtube.com/watch?v=lOQPLGHz63k",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
