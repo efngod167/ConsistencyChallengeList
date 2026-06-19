@@ -37,6 +37,12 @@
            "link": "https://www.youtube.com/live/lEH5AYBfcXM",
            "hz": "CBF",
            "percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/qhDi4y2IoW8",
+			"hz": "240",
+			"percent": 100
 		}
 	] 
 }
