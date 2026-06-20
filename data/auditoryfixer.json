@@ -17,10 +17,16 @@
 	    },
 		{
 		   
-		    "user": "Luke",
-		    "link": "https://medal.tv/games/geometry-dash/clips/mOnrI2iXl_FiTA0cZ?invite=cr-MSxBVkssMzAwMTE3NTc5&v=14",
+		    "user": "Bananas",
+		    "link": "https://www.youtube.com/watch?v=j3hzNDE6BcE",
 		    "hz": "120",
 		    "percent": 100
-	    }
-    ]
-}
+	   }, 
+	   { 
+			"user": "Luke",	
+ 			"link": "https://medal.tv/games/geometry-dash/clips/mOnrI2iXl_FiTA0cZ?invite=cr-MSxhajIsMzAwMTE3NTc5&v=14",
+ 			"hz": "120", 
+			"percent": 100 
+		} 
+	] 
+} 
