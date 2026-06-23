@@ -49,12 +49,12 @@
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1477413650162778213",
 			"hz": "CBF",
 			"percent": 100
-	},
-{
-"user": "Maxf",
-"link": "https://youtube.com/shorts/xtxj_G2LnxE?si=oju9IJg2vKwkDwvo",
-"hz": "CBF",
-"percent": 100
+		},
+		{
+			"user": "Maxf",
+			"link": "https://youtube.com/shorts/xtxj_G2LnxE?si=oju9IJg2vKwkDwvo",
+			"hz": "CBF",
+			"percent": 100
 		},
 		{
 			"user": "Luke",
@@ -67,6 +67,12 @@
  			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1508539785692581929",
  			"hz": "CBF", 
 			"percent": 100 
-		} 
+		},
+		{
+			"user": "Stumbongd",
+			"link": "https://youtu.be/fgooS4q_3uc",
+			"hz": "CBF",
+			"percent": 100
+		}
 	] 
 } 
