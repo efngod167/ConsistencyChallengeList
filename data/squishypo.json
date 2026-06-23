@@ -142,7 +142,13 @@
 			"link": "https://www.youtube.com/watch?v=cnawbR4eeJs",
 			"hz": "144",
 			"percent": 100
-		}
+		}, 
+		{ 
+			"user": "Sadisyourlife",	
+ 			"link": "240",
+ 			"hz": "https://www.youtube.com/watch?v=MjgIarlR5RA", 
+			"percent": 100 
+		} 
 	] 
-}
+} 
 
