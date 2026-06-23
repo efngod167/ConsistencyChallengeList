@@ -26,10 +26,10 @@
 		    "percent": 100
 	    },
 	  	{
-		  "user": "Atticus813",
-		  "link": "https://www.youtube.com/watch?v=H-U4_tNAURQ",
-		  "hz": "240",
-		  "percent": 100
+		  	"user": "Atticus813",
+		  	"link": "https://www.youtube.com/watch?v=H-U4_tNAURQ",
+		  	"hz": "240",
+		  	"percent": 100
 	  	},
 	  	{
 			"user": "Nuridin_T3b",
@@ -39,10 +39,10 @@
 			"mobile": "true"
 		},
 	  	{
-		  "user": "FJKR",
-		  "link": "https://medal.tv/ru/games/geometry-dash/clips/lxVnHYp6KjVhcMfXi?invite=cr-MSxjVVQsNDM2Nzg5MDc5&v=24",
-		  "hz": "240",
-		  "percent": 100
+		  	"user": "FJKR",
+		  	"link": "https://medal.tv/ru/games/geometry-dash/clips/lxVnHYp6KjVhcMfXi?invite=cr-MSxjVVQsNDM2Nzg5MDc5&v=24",
+		  	"hz": "240",
+		  	"percent": 100
 	   	},
 		{
 			"user": "Taget",
@@ -69,10 +69,10 @@
 			"percent": 100
 		},
 	  	{
-		  "user": "okrungd",
-		  "link": "https://youtu.be/gWnZkRJ7eE0",
-		  "hz": "CBF",
-		  "percent": 100
+		  	"user": "okrungd",
+		  	"link": "https://youtu.be/gWnZkRJ7eE0",
+		  	"hz": "CBF",
+		  	"percent": 100
 	   	},
 	  	{
            "user": "echoXD",
@@ -109,6 +109,12 @@
            "link": "https://youtu.be/YWf3qtiBKD8",
            "hz": "240",
            "percent": 100
+		},
+	  	{
+			"user": "VortexsharkGD",
+			"link": "https://youtube.com/shorts/E7TXh00VXoc?si=B8jSg-Vp4l73Okq-",
+			"hz": "120",
+			"percent": 100
 		}
 	]
 } 
