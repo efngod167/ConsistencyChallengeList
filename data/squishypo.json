@@ -145,8 +145,8 @@
 		}, 
 		{ 
 			"user": "Sadisyourlife",	
- 			"link": "240",
- 			"hz": "https://www.youtube.com/watch?v=MjgIarlR5RA", 
+ 			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+ 			"hz": "240", 
 			"percent": 100 
 		},
 		{
