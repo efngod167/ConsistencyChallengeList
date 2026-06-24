@@ -74,10 +74,16 @@
            "percent": 100
 		}, 
 		{ 
-		"user": "maxf",	
- 		"link": "https://youtu.be/JSFgLnz-YeY",
- 		"hz": "CBF", 
-		"percent": 100 
-		} 
+			"user": "maxf",	
+ 			"link": "https://youtu.be/JSFgLnz-YeY",
+ 			"hz": "CBF", 
+			"percent": 100 
+		},
+		{ 
+			"user": "Stumbongd",	
+ 			"link": "https://youtu.be/paMB8uhF354",
+ 			"hz": "240", 
+			"percent": 100 
+		}
 	] 
 } 
