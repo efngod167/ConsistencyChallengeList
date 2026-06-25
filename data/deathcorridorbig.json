@@ -39,7 +39,7 @@
 			"link": "https://www.youtube.com/watch?v=5ebbnDA1dG8",
 			"hz": "CBF",
 			"percent": 100
-    },
+    	},
 		{
 			"user": "ClawBuckle",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1512576590767198328",
@@ -49,6 +49,12 @@
         {
 			"user": "JayGol",
 			"link": "https://medal.tv/games/geometry-dash/clips/mSTdj4GEeHAwP07KM?invite=cr-MSx4MHMsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://medal.tv/games/geometry-dash/clips/mZjZQyLWGRZ6Fi9oq?invite=cr-MSx5UE8sMjcwNDA2NTcx&v=14",
 			"hz": "CBF",
 			"percent": 100
 		}
