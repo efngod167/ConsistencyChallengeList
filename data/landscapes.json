@@ -272,6 +272,12 @@
  			"hz": "60", 
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "Wytrend",
+			"link": "https://medal.tv/games/geometry-dash/clips/mZlFeo7fIZTsh8UX2?invite=cr-MSxYZ3QsNDg5MzM5MzMx",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
