@@ -10,7 +10,12 @@
     "version": "2.1",
     "records": [
         {
-            
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/FB8jUavluJI",
+            "hz": "120",
+            "percent": 100
+        },
+        {
             "user": "bananas",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1408209860264202391",
             "hz": "120",
