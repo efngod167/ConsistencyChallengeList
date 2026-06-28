@@ -308,6 +308,13 @@
 			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{ 
+			"user": "Dagungeman",	
+ 			"link": "https://youtu.be/Cw812g66m0w?si=pcqvv1q2tro38ijL",
+ 			"hz": "CBF", 
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
