@@ -55,12 +55,18 @@
            "link": "https://youtu.be/YLWEA1wkkqs?si=HqpSopQELqERbL4k",
            "hz": "CBS",
            "percent": 100
-},
+		},
 		{
            "user": "INITIAL",
            "link": "https://youtu.be/gFGGjIlUWYk",
            "hz": "CBF",
            "percent": 100 
+		},
+		{
+			"user": "Stumbongd",
+			"link": "https://youtu.be/ttH_b1N6Kd0",
+			"hz": "240",
+			"percent": 100
 		}
 	]
 } 
