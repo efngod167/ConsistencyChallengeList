@@ -309,6 +309,12 @@
 			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
 			"hz": "240",
 			"percent": 100
+		},
+		{		 
+			"user": "HeloNSX",	
+ 			"link": "https://youtu.be/9qXijzEscQE",
+ 			"hz": "CBF", 
+			"percent": 100 
 		}
     ]
 }
