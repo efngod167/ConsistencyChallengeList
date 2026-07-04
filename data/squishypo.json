@@ -160,6 +160,13 @@
 			"link": "https://youtu.be/rD-oxeQ0dmc",
 			"hz": "240",
 			"percent": 100
+		},
+		{ 
+			"user": "Nuridin_T3b",	
+ 			"link": "https://youtu.be/wMwICgpWH-4?is=rCwnMjBZ-5s3yFyo",
+ 			"hz": "COS", 
+			"percent": 100,
+			"mobile": "true"
 		}
 	] 
 } 
