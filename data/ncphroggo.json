@@ -6,8 +6,14 @@
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/g2YoQvhr5WI",
     "percentToQualify": "100",
-  "fps": "240",
+  	"fps": "240",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Stumbongd",
+			"link": "https://youtu.be/iAcaepTPLdI",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
