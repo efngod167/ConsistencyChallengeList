@@ -74,11 +74,17 @@
 			"hz": "CBF",
 			"percent": 100
 		},
-{
-"user": "Stumbongd",
-"link": "https://youtu.be/Ek1nRir-4bQ",
-"hz": "239",
-"percent": 100
-}
+		{
+			"user": "Stumbongd",
+			"link": "https://youtu.be/Ek1nRir-4bQ",
+			"hz": "239",
+			"percent": 100
+		},
+		{
+			"user": "FoldedZero",
+			"link": "https://www.youtube.com/watch?v=vtO66t8Tup4",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
