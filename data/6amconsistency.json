@@ -38,7 +38,13 @@
  			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
 			"hz": "60", 
 			"percent": 100 
-		} 
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/games/geometry-dash/clips/n2eGzUODb3_PaTjEj?invite=cr-MSxDRlgsNTk3MTY0MTcw&v=15",
+			"hz": "60",
+			"percent": 100
+		}
 	] 
 } 
 
