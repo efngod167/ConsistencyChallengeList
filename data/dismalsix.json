@@ -9,5 +9,11 @@
     "fps": "120",
 	"version": "2.2",
     "records": [
+		{
+			"user": "luke",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1523816396750848151",
+			"hz": "120",
+			"percent": 100
+		}
     ]
 }
