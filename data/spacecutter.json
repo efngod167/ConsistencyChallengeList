@@ -9,5 +9,17 @@
     "fps": "240",
 	"version": "2.2",
     "records": [
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/n415Y9LL9sRkq1iAJ?invite=cr-MSw5elQsMzAwMTE3NTc5&v=25",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/n40VKiyJQ_nnay4-_?invite=cr-MSxndjcsNTc1MDM1OTI1",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
