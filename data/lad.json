@@ -8,17 +8,23 @@
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
-	   {
+	   	{
 		   "user": "Luke",
 		   "link": "https://medal.tv/games/geometry-dash/clips/n3WQlUI2X5JM8Ykst?invite=cr-MSxtWnosMzAwMTE3NTc5&v=16",
 		   "hz": "CBF",
 		   "percent": 100
-	   },
-		 {
+	   	},
+		{
 		   "user": "tyler",
 		   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1523982544964685925",
 		   "hz": "CBF",
 		   "percent": 100
-	   }
+	   	},
+		{
+		   "user": "finni 1505",
+		   "link": "https://medal.tv/games/screen-capture/clips/n468Nf6GE_IY2_fGo?invite=cr-MSxvOHYsMzY5MjUzOTQw",
+		   "hz": "240",
+		   "percent": 100
+	   	}
 	]
 }
