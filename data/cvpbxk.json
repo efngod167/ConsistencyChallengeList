@@ -44,7 +44,13 @@
  			"link": "https://youtu.be/MjgIarlR5RA",
  			"hz": "CBF", 
 			"percent": 100 
-		} 
+		},
+		{ 
+			"user": "Stumbongd",	
+ 			"link": "https://www.youtube.com/watch?v=FYad9D4CHUQ",
+ 			"hz": "CBF", 
+			"percent": 100 
+		}
 	] 
 } 
 
