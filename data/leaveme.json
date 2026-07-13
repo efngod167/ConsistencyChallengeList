@@ -77,10 +77,16 @@
 			"percent": 100 
 		},
 		{ 
-			"user": "stumbonGD",	
+			"user": "StumbonGD",	
  			"link": "https://youtu.be/DSzbksZuq7k",
  			"hz": "60", 
 			"percent": 100 
+		},
+		{
+			"user": "FoldedZero",
+			"link": "https://youtu.be/olaH9Oo1Jv8",
+			"hz": "60",
+			"percent": 100
 		}
 	] 
 } 
