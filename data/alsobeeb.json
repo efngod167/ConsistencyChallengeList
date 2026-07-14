@@ -59,8 +59,14 @@
 			"mobile": "true"
 		},
 		{
-			"user": "luke",
+			"user": "Luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/lTazEwbRTlD2SdUrU?invite=cr-MSx1M0QsMzAwMTE3NTc5&v=13",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "acheron",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1526450936124276797",
 			"hz": "60",
 			"percent": 100
 		}
