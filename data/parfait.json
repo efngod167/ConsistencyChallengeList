@@ -98,7 +98,13 @@
  			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1526179180230742078",
  			"hz": "60", 
 			"percent": 100 
-		} 
+		},
+		{ 
+			"user": "42russ",	
+ 			"link": "https://www.youtube.com/watch?v=-KkCAVwB3-U",
+ 			"hz": "60", 
+			"percent": 100 
+		}
 	] 
 } 
 
