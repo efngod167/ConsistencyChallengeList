@@ -8,6 +8,7 @@
     "percentToQualify": "100",
   	"version": "2.1",
     "fps": "120",
+	"CBF": "No",
     "records": [
         {
             "user": "nensa",
