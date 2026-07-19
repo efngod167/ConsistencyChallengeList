@@ -10,7 +10,7 @@
 	"version": "2.2",
 	"CBF": "No",
     "records": [
-				{
+		{
             "user": "tFluffy",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1445657957231759480",
             "hz": "60",
@@ -21,14 +21,12 @@
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1470072092236972246",
 			"hz": "60",
 			"percent": 100
-
 		},
         {
             "user": "Luke",
             "link": "https://medal.tv/games/geometry-dash/clips/mG82blRn4t-R8S1-g?invite=cr-MSxlNFUsMzAwMTE3NTc5&v=11",
             "hz": "60",
             "percent": 100
-
 		}
     ]
 }
