@@ -6,8 +6,9 @@
     "verifier": "tFluffy",
     "verification": "https://youtu.be/vXolfw1nkJc",
     "percentToQualify": "100",
-"fps": "203",
+	"fps": "203",
 	"version": "2.2",
+	"CBF": "No",
     "records": [
 		   {
             "user": "pixelfactorial",
