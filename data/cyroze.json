@@ -8,12 +8,13 @@
     "percentToQualify": "100",
     "fps": "240",
     "version": "2.2",
+	"CBF": "No",
     "records": [
-  {
-   "user": "ClawBuckle",
-   "link": "https://youtu.be/J8v8-_hoWp4",
-   "hz": "240",
-   "percent": 100
+  		{
+   			"user": "ClawBuckle",
+   			"link": "https://youtu.be/J8v8-_hoWp4",
+   			"hz": "240",
+   			"percent": 100
 		},
 		{
 			"user": "Luke",
