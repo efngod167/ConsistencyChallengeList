@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "fps": "180",
 	"version": "2.2",
-	"alternating": "No",
+	"CBF": "No",
     "records": [
 	    {
 		    "user": "FogMello",
