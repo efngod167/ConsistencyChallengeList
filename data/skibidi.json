@@ -6,10 +6,11 @@
     "verifier": "MiRPacK19",
     "verification": "https://youtu.be/HtbZEumWiVU",
     "percentToQualify": "100",
-  "fps": "60",
+  	"fps": "60",
 	"version": "2.2",
-	"alternating": "No",
-    "records": [	    {
+	"CBF": "No",
+    "records": [	    
+		{
 		    "user": "Sadisyourlife",
 		    "link": "https://youtu.be/7tSZ1XxEPpY",
 		    "hz": "60",
