@@ -19,7 +19,13 @@
  			"link": "https://youtu.be/I2P7EFwadmo",
 		    "hz": "CBF", 
 			"percent": 100 
-		} 
+		},
+		{ 
+			"user": "StumbonGD",	
+ 			"link": "https://www.youtube.com/watch?v=r8NpPAD9FU4",
+		    "hz": "CBF", 
+			"percent": 100 
+		}
 	] 
 }
 
