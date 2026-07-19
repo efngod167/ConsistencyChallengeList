@@ -8,12 +8,19 @@
     "percentToQualify": "100",
   	"fps": "240",
 	"version": "2.2",
+	"CBF": "No",
     "records": [
 		{
 		    "user": "INITIAL",
 		    "link": "https://medal.tv/games/geometry-dash/clips/mNL1pYgUX4g-S0D2v?invite=cr-MSxTWUEsNTk3MTY0MTcw",
 		    "hz": "240",
 		    "percent": 100
-	    }
+	    },
+		{
+			"user": "Sadisyourlife",
+			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
