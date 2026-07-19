@@ -8,6 +8,7 @@
     "percentToQualify": "100",
     "fps": "90",
 	"version": "2.2",
+	"CBF": "No",
     "records": [
 		{ 
 			"user": "pixelfactorial",	
