@@ -316,6 +316,12 @@
 			"hz": "CBF",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "aelzfr",
+			"link": "https://www.youtube.com/live/aeLgHjbLo4g",
+			"hz": "CBF",
+			"percent": 100
 		}
 	] 
 } 
