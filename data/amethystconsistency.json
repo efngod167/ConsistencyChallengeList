@@ -364,6 +364,13 @@
 			"link": "https://m.youtube.com/watch?v=wByBrbYY8o0",
 			"hz": "120",
 			"percent": 100
+		},
+		{
+			"user": "iyhhghuri",
+			"link": "https://youtu.be/iDb_cKHSQt4?si=hQqA-YGGzAXU1GhM",
+			"hz": "CBF",
+			"percent": 100,
+			"mobile": "true",
 		}
     ]
 }
