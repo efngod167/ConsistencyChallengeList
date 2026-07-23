@@ -20,6 +20,11 @@
         "link": "https://www.youtube.com/@Blightedcoconut"
     },
     {
+        "role": "admin",
+        "name": "finni 1505",
+        "link": "https://www.youtube.com/@finni1505"
+    },
+    {
         "role": "helper",
         "name": "MiRPacK19",
         "link": "https://www.youtube.com/@mirpack19"
@@ -43,11 +48,6 @@
         "role": "helper",
         "name": "StumbonGD",
         "link": "https://www.youtube.com/@stumbongd"
-    },
-    {
-        "role": "helper",
-        "name": "finni 1505",
-        "link": "https://www.youtube.com/@finni1505"
     },
     {
         "role": "dev",
