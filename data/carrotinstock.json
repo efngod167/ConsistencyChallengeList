@@ -171,6 +171,12 @@
 			"link": "https://www.youtube.com/live/aeLgHjbLo4g",
 			"hz": "60",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/zbqPIPNBv_U",
+			"hz": "60",
+			"percent": 100
 		}
 	] 
 } 
