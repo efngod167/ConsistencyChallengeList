@@ -183,9 +183,15 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/oI4_GEr_CcM",
 			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Ethanj190",
+			"link": "https://youtu.be/CBDQfjxRPUI?si=RLVBPuRRewOCpH7C",
+			"hz": "CBF",
 			"percent": 100
 		}
     ]
