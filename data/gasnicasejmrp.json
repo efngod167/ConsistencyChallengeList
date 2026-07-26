@@ -76,7 +76,7 @@
 			"percent": 100
 		},
 		{
-			"user": "Stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/Nc7HkVQcRmw",
 			"hz": "CBF",
 			"percent": 100
@@ -102,6 +102,12 @@
 		{
 			"user": "fobwaka",
 			"link": "https://www.youtube.com/watch?v=C3wSVmONj5g",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "IrysGD",
+			"link": "https://www.youtube.com/watch?v=gMsKnaVumJE",
 			"hz": "CBF",
 			"percent": 100
 		}
