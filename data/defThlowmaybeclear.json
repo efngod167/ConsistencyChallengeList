@@ -51,7 +51,7 @@
            "percent": 100
 		},
 		{
-			"user": "Stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/5HqWfbAlNvg",
 			"hz": "236",
 			"percent": 100
@@ -59,6 +59,12 @@
 		{
 			"user": "Sadisyourlife",
 			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "CoffeeChips",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1530797726558846976",
 			"hz": "CBF",
 			"percent": 100
 		}
