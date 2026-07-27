@@ -25,7 +25,13 @@
 		{
 			"user": "Luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/mWYNG8ObMzG85UDbN",
-			"hz": "60",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "stumbongd",
+			"link": "https://youtu.be/kK4KggivjFE",
+			"hz": "120",
 			"percent": 100
 		}
     ]
