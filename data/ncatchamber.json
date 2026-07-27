@@ -213,7 +213,7 @@
 			"percent": 100
 		},
 		{
-			"user": "Stumbongd",
+			"user": "StumbonGD",
 			"link": "https://www.youtube.com/watch?v=MomKaOnGDh4",
 			"hz": "CBF",
 			"percent": 100
@@ -251,6 +251,12 @@
 		{
 			"user": "acheron",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1529378309727715338",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "pot",
+			"link": "https://medal.tv/games/geometry-dash/clips/nckW53RREDsk_066n?invite=cr-MSxWVFgsNDU0MjU3NzY4",
 			"hz": "CBF",
 			"percent": 100
 		}
