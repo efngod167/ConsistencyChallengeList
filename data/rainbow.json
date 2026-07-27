@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"CBF": "Yes",
     "records": [
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/games/geometry-dash/clips/ncqfsH25EooDogtAC?invite=cr-MSw4QTQsMzY5MjUzOTQw",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
