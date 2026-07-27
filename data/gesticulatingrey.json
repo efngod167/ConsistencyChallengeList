@@ -124,9 +124,15 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/u2DfL8Z3YvA",
 			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "quidward",
+			"link": "https://medal.tv/games/geometry-dash/clips/ncyYc00ZhVgqQ7ONd?invite=cr-MSx2TVosNjcwODcxMTcz",
+			"hz": "CBF",
 			"percent": 100
 		}
     ]
