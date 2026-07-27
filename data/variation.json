@@ -10,5 +10,11 @@
 	"version": "2.2",
 "CBF": "no",
     "records": [
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nccLB892xuuuTPRvc",
+			"hz": "240",
+			"percent": 100
+		}
 ]
 }
