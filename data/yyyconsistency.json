@@ -73,6 +73,12 @@
 			"user": "stumbonGD",	
  			"link": "https://youtu.be/PZrzLf4chbQ",
  			"hz": "CBF", 
+			"percent": 100
+},
+		{		 
+			"user": "Something",	
+ 			"link": "https://youtu.be/8ZFZjMGuCJI",
+ 			"hz": "CBF", 
 			"percent": 100 
 		}
     ]
