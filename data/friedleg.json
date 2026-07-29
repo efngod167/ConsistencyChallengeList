@@ -10,6 +10,12 @@
 	"version": "2.1",
 	"CBF": "No",
     "records": [
+		 {
+		    "user": "Caleger",
+		    "link": "https://www.youtube.com/watch?v=iuDMdHjD_JE",
+		    "hz": "144",
+		    "percent": 100
+	    },
 	    {
 		    "user": "FogMello",
 		    "link": "https://youtu.be/ufeAjDjAOh4?si=CXqrGuN3blFltx-2",
