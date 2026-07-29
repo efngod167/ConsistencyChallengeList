@@ -130,7 +130,7 @@
 			"percent": 100
 		},
 		{
-           "user": "Stumbongd",
+           "user": "StumbonGD",
            "link": "https://www.youtube.com/watch?v=F7m4YAl1kD8",
            "hz": "CBF",
            "percent": 100
@@ -210,6 +210,12 @@
 		{
 			"user": "IrysGD",
 			"link": "https://www.youtube.com/watch?v=30CcQyS8zrQ",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "quidward",
+			"link": "https://medal.tv/games/geometry-dash/clips/nd3rWcSpZ9UIIM4EX?invite=cr-MSxhckosNjcwODcxMTcz",
 			"hz": "CBF",
 			"percent": 100
 		}
