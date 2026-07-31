@@ -27,7 +27,13 @@
             "link": "https://medal.tv/fr/games/geometry-dash/clips/mJfjtIsfjD6UXgn6N?invite=cr-MSwxUmwsNTk3MTY0MTcw&v=13",
             "hz": "120", 
             "percent": 100 
-        } 
-    ] 
-}
+		},
+		{ 
+			"user": "clawbuckle",	
+ 			"link": "https://youtu.be/YysMuuiGorU",
+ 			"hz": "120", 
+		    "percent": 100 
+		}
+	] 
+} 
 
