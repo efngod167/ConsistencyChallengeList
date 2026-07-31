@@ -196,7 +196,7 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/1-_Ejd6pkZ8",
 			"hz": "CBF",
 			"percent": 100
@@ -204,6 +204,12 @@
 		{
 			"user": "Noicy",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1532483806865653830",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Saturn",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1532623141870899312",
 			"hz": "CBF",
 			"percent": 100
 		}
