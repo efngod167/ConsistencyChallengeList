@@ -70,7 +70,7 @@
 			"percent": 100 
 		},
 		{		 
-			"user": "stumbonGD",	
+			"user": "StumbonGD",	
  			"link": "https://youtu.be/PZrzLf4chbQ",
  			"hz": "CBF", 
 			"percent": 100
@@ -80,6 +80,12 @@
  			"link": "https://youtu.be/8ZFZjMGuCJI",
  			"hz": "CBF", 
 			"percent": 100 
+		},
+		{
+			"user": "cube guy",
+			"link": "https://youtube.com/shorts/LuYeU4TC2L0?si=RoxJw_3IuJPaHPzG",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
