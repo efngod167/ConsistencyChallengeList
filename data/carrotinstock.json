@@ -119,7 +119,7 @@
 			"percent": 100
 		},
 		{		 
-			"user": "Stumbongd",	
+			"user": "StumbonGD",	
  			"link": "https://youtu.be/L1KJ1cl6CFM",
  			"hz": "60", 
 			"percent": 100 
@@ -175,6 +175,12 @@
 		{
 			"user": "something",
 			"link": "https://youtu.be/zbqPIPNBv_U",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "gngrr",
+			"link": "https://medal.tv/games/geometry-dash/clips/nfjAtsIdxUMMErv7v?invite=cr-MSx2ZHUsMjg4OTg5Nzc0",
 			"hz": "60",
 			"percent": 100
 		}
