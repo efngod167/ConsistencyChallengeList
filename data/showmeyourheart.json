@@ -65,7 +65,7 @@
 			"percent": 100 
 		},
 		{ 
-			"user": "Stumbongd",	
+			"user": "StumbonGD",	
  			"link": "https://www.youtube.com/watch?v=bv1iCWiptEM",
  			"hz": "240", 
 			"percent": 100 
@@ -115,6 +115,12 @@
 		{
 			"user": "noobyguy1",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1533599336758378530",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Mrplatas",
+			"link": "https://youtu.be/ls5Brh-qYDo",
 			"hz": "240",
 			"percent": 100
 		}
