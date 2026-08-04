@@ -10,6 +10,12 @@
     "version": "2.1",
 	"CBF": "No",
     "records": [
+		        {
+            "user": "MM9000",
+            "link": "https://youtu.be/aor0L4ySnOY?si=sZfgRioW47coVnFl",
+            "hz": "120",
+            "percent": 100
+        },
 		{
             "user": "Vantasia",
             "link": "https://www.youtube.com/watch?v=ig9mWqnZnnM",
@@ -19,12 +25,6 @@
         {
             "user": "PaperGuy",
             "link": "https://www.youtube.com/watch?v=S_jwHUqQyT4",
-            "hz": "120",
-            "percent": 100
-        },
-        {
-            "user": "MM9000",
-            "link": "https://youtu.be/aor0L4ySnOY?si=sZfgRioW47coVnFl",
             "hz": "120",
             "percent": 100
         },
