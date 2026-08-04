@@ -155,7 +155,7 @@
 			"percent": 100 
 		},
 		{		 
-			"user": "Stumbongd",	
+			"user": "StumbonGD",	
  			"link": "https://youtu.be/PQOXLcBOCew",
  			"hz": "240", 
 			"percent": 100 
@@ -200,6 +200,12 @@
 		{
 			"user": "MrPlatas",
 			"link": "https://medal.tv/games/geometry-dash/clips/neAj2Nqr21CHKT6ln?invite=cr-MSxyRFcsNTc1NDU2Mjgy",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Gab",
+			"link": "https://medal.tv/games/geometry-dash/clips/nfBLM6gNWTmYBUYZt?invite=cr-MSxBUlAsNzI0MjcyMTg3",
 			"hz": "240",
 			"percent": 100
 		}
