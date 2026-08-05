@@ -39,7 +39,7 @@
 			"percent": 100
 		},
 		{
-			"user": "Stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/7BThxbGU6aY",
 			"hz": "240",
 			"percent": 100
@@ -97,6 +97,13 @@
 			"link": "https://www.youtube.com/watch?v=N1UA45GF57U",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/0hxTejx5ses?is=-KOQpqBD9phy7V8c",
+			"hz": "CBS",
+			"percent": 100,
+			"mobile": "true"
 		}
 	] 
 } 
