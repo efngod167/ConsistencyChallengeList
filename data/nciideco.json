@@ -2,11 +2,17 @@
     "id": 130773113,
     "name": "Nice Challenge",
     "author": "StumbonGD",
-    "creators": ["JoinMolten, pengus, StumbonGD"],
+    "creators": ["JoinMolten, Pengus, StumbonGD"],
     "verifier": "StumbonGD",
     "verification": "https://youtu.be/-rwwBgC_nOw",
     "percentToQualify": "100",
     "fps": "240",
     "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/neqoe40cOPEEx0woL?invite=cr-MSx1eXQsNTc1MDM1OTI1",
+            "hz": "CBF",
+            "percent": 100
+        }
 ]
 }
