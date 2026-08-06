@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/GazfoVuiLHI",
     "percentToQualify": "100",
 	"version": "2.2",
-"fps": "240",
-"CBF": "No",
+	"fps": "240",
+	"CBF": "No",
     "records": [
 		{
 			"user": "Bruv961",
@@ -71,10 +71,10 @@
 			"percent": 100
 		},
 		{
-			"user": "gngrr",
-			"link": "https://medal.tv/games/geometry-dash/clips/ngCiEuJfyhdY21WXf?invite=cr-MSxSZFIsMjg4OTg5Nzc0",
+			"user": "LuminexDee",
+			"link": "https://medal.tv/games/geometry-dash/clips/ngCavDnFn4v6PIPrp?invite=cr-MSx4MU4sMjIyNDcyMTY4",
 			"hz": "240",
 			"percent": 100
 		}
-]
+	]
 }
