@@ -88,7 +88,7 @@
 			"percent": 100
 		},
 		{
-           "user": "Stumbongd",
+           "user": "StumbonGD",
            "link": "https://youtu.be/GkUCmqkpxB8",
            "hz": "240",
            "percent": 100
@@ -112,6 +112,12 @@
             "hz": "CBS",
             "percent": 100,
             "mobile": "true"
-        }
+        },
+		{
+			"user": "LuminexDee",
+			"link": "https://medal.tv/games/geometry-dash/clips/ngBCU9EWciN4hXYhQ?invite=cr-MSw2OXEsMjIyNDcyMTY4",
+			"hz": "240",
+			"percent": 100
+		}
 	]
 } 
