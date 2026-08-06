@@ -10,10 +10,10 @@
 	"version": "2.2",
     "records": [
         {
-        "user": "Sadisyourlife",
-        "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1426611326620405800",
-        "hz": "CBF",
-        "percent": 100
+        	"user": "Sadisyourlife",
+        	"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1426611326620405800",
+        	"hz": "CBF",
+        	"percent": 100
         },
         {
 			"user": "tFluffy",
@@ -26,7 +26,6 @@
 			"link": "https://youtu.be/fVjIl0RbDGo",
 			"hz": "CBF",
 			"percent": 100
-
 		},
         {
            "user": "Luke",
@@ -64,12 +63,18 @@
 			"link": "https://youtu.be/AvipJejp96c",
 			"hz": "240",
 		    "percent": 100
-},
+		},
 		{		 
 			"user": "Something",	
  			"link": "https://youtu.be/z77WW1UIlTY",
  			"hz": "CBF", 
 			"percent": 100 
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/watch?v=TA6gu1Lgwmg",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
