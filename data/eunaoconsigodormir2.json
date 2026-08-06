@@ -117,6 +117,13 @@
 			"link": "https://medal.tv/games/geometry-dash/clips/n9ZCsKmCFi9JbQQ7S?invite=cr-MSxpc1IsNTc1MDM1OTI1",
 			"hz": "60",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/Dg0TUnuoGSc?is=FqSFED_nTI-gYiEX",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
