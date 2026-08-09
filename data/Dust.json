@@ -52,7 +52,7 @@
 			"percent": 100
 		},
 		{
-			"user": "Stumbongd",
+			"user": "StumbonGD",
 			"link": "https://www.youtube.com/watch?v=NVKkBLYAM_s",
 			"hz": "CBF",
 			"percent": 100
@@ -61,6 +61,12 @@
 			"user": "ImSaturnN",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1533538973354561637",
 			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1536063657455386725",
+			"hz": "240",
 			"percent": 100
 		}
     ]
