@@ -6,7 +6,11 @@ export function getYoutubeIdFromUrl(url) {
 }
 
 export function embed(video) {
-    return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
+    if (video.includes("medal.tv")) {
+        return video;
+    } else {
+        return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
+    }
 }
 
 export function localize(num) {
