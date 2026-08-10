@@ -3,11 +3,17 @@
     "name": "Tomate",
     "author": "nSolar",
     "creators": ["nSolar"],
-    "verifier": "OverGD",
-    "verification": "https://www.youtube.com/watch?v=MlxE0Xu0vQE",
+    "verifier": "Nyan Cat",
+    "verification": "https://www.youtube.com/watch?v=gKagmkplR7g",
     "percentToQualify": "100",
     "fps": "240",
 	"CBF": "Yes",
     "records": [
-]
+		{
+			"user": "OverGD",
+			"link": "https://www.youtube.com/watch?v=MlxE0Xu0vQE",
+			"hz": "CBF",
+			"percent": 100
+		}	
+	]
 }
