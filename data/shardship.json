@@ -71,10 +71,16 @@
 			"percent": 100
 			},
 		{ 
-			"user": "Stumbongd",	
+			"user": "StumbonGD",	
  			"link": "https://youtu.be/PKlrRzZAXkw",
  			"hz": "60", 
 			"percent": 100 
+		},
+		{
+			"user": "DJ DETH MAN",
+			"link": "https://www.youtube.com/watch?v=fm8jhGQtWR0",
+			"hz": "60",
+			"percent": 100
 		}
     ]
 }
