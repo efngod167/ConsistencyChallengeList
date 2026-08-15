@@ -11,8 +11,14 @@
 	"CBF": "No",
     "records": [
 		{
-			"user": "Stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/AR6_IkhQhpo",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/K089o14tJUg",
 			"hz": "120",
 			"percent": 100
 		}
