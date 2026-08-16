@@ -8,8 +8,14 @@
     "percentToQualify": "100",
 "fps": "240",
 	"version": "2.2",
-"CBF": "no",
+"CBF": "No",
     "records": [
+		{
+			"user": "ZenosSins",
+			"link": "https://youtu.be/ohd01JlWjWo",
+			"hz": "240",
+			"percent": 100
+		},
 		{
 			"user": "Luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/nccLB892xuuuTPRvc",
