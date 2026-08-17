@@ -143,7 +143,7 @@ export default {
               <p>{{ selectedLevel.CBF || 'Yes' }}</p>
             </li>
           </ul>
-          <h2>Records</h2>
+          <h2>Records ({{ level.records.length }})</h2>
           <p v-if="selectedIndexInFullList <= 100">
             <strong>{{ selectedLevel.percentToQualify }}%</strong> to qualify
           </p>
