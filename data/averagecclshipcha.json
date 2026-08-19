@@ -424,7 +424,8 @@
 			"user": "Saul521",
 			"link": "https://youtu.be/3uhG-BRuvM0?si=R-jscJucIpATL-B0",
 			"hz": "120",
-			"percent": 100
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
