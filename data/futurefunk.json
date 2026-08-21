@@ -136,6 +136,12 @@
 			"hz": "240",
 			"percent": 100,
 			"mobile": true
+		},
+		{
+			"user": "plumplim",
+			"link": "https://www.youtube.com/watch?v=C3MRdlFywoQ",
+			"hz": "240",
+			"percent": 100
 		}
 	]
 }
