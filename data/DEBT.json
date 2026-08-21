@@ -10,5 +10,17 @@
 "fps": "120",
 	"CBF": "No",
     "records": [
+		{
+			"user": "aimdox",
+			"link": "https://medal.tv/games/geometry-dash/clips/nlfomV5TbuxBM2KlF?invite=cr-MSxneHYsNTM1MjQyMzcy",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nl6w44md6TUlbSjJg?invite=cr-MSx4YnksNTc1MDM1OTI1",
+			"hz": "120",
+			"percent": 100
+		}
 ]
 }
