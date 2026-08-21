@@ -9,5 +9,11 @@
 	"version": "2.2",
 	"CBF": "Yes",
     "records": [
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1540397520079818752/1540400470504382505",
+			"hz": "CBF",
+			"percent": 100
+		}
 ]
 }
