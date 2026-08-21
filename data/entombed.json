@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"CBF": "No",
     "records": [
+		{
+			"user": "ClawBuckle",
+			"link": "https://youtu.be/JvXjGmXOi5M",
+			"hz": "240",
+			"percent": 100
+		}
 ]
 }
