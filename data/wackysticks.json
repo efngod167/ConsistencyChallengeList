@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"CBF": "No",
     "records": [
-]
+		{
+			"user": "jaygol",
+			"link": "https://medal.tv/games/geometry-dash/clips/niVtdiBG3I5nJGyNn?invite=cr-MSxJcWIsNTc1MDM1OTI1",
+			"hz": "180",
+			"percent": 100
+		}
+    ]
 }
