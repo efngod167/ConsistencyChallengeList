@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"CBF": "No",
     "records": [
+		{
+			"user": "JayGol",
+			"link": "https://youtu.be/_oKvjCfI1Ow",
+			"hz": "144",
+			"percent": 100
+		}
 ]
 }
