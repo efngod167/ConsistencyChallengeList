@@ -170,6 +170,12 @@
 			"link": "https://youtu.be/Mxg2nzrxchc?si=GnNLmd3F-bKYMVsr",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/R67T0pXiDDA",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
