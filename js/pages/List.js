@@ -147,7 +147,7 @@ export default {
               <p>{{ selectedLevel.CBF || 'Yes' }}</p>
             </li>
             <li>
-              <div class="type-title-sm">Main Gameplay</div>
+              <div class="type-title-sm">Main Gamemode</div>
               <p>{{ selectedLevel.type }}</p>
             </li>
           </ul>
