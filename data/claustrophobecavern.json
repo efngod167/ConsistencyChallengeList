@@ -7,14 +7,15 @@
     "verification": "https://www.youtube.com/watch?v=aeVL1KPBVHI",
     "percentToQualify": "100",
     "fps": "80",
-	"version": "2.2",
-	"CBF": "No",
+    "version": "2.2",
+    "CBF": "No",
     "records": [
-		{
-			"user": "thebacon_gamer",
-			"link": "https://medal.tv/games/geometry-dash/clips/maJyBB1OyLHBOutkX?invite=cr-MSxvWjEsMjcwNDA2NTcx&v=15",
-			"hz": "80",
-			"percent": 100
-		}
-    ]
+        {
+            "user": "thebacon_gamer",
+            "link": "https://medal.tv/games/geometry-dash/clips/maJyBB1OyLHBOutkX?invite=cr-MSxvWjEsMjcwNDA2NTcx&v=15",
+            "hz": "80",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

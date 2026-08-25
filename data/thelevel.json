@@ -2,43 +2,46 @@
     "id": 146571826,
     "name": "The Level",
     "author": "pengus",
-    "creators": ["pengus"],
+    "creators": [
+        "pengus"
+    ],
     "verifier": "iamkyouki",
     "verification": "https://www.youtube.com/watch?v=M66V9Iiu7Mw",
     "percentToQualify": "100",
-  	"fps": "120",
-	"version": "2.2",
-	"CBF": "No",
+    "fps": "120",
+    "version": "2.2",
+    "CBF": "No",
     "records": [
-		{
-			"user": "JayGol",
-			"link": "https://medal.tv/games/geometry-dash/clips/nl7fyqKDMIrwZrIOJ?invite=cr-MSxHODEsNTc1MDM1OTI1",
-			"hz": "120",
-			"percent": 100
-		},
-		{
-			"user": "maxf",
-			"link": "https://youtu.be/teRDkUHy8Dw",
-			"hz": "120",
-			"percent": 100
-		},
-		{
-			"user": "INITIAL",
-			"link": "https://youtu.be/8WtNnx6ryOQ",
-			"hz": "120",
-			"percent": 100
-		},
-		{
-			"user": "quidward",
-			"link": "https://medal.tv/games/geometry-dash/clips/nmYcxe8JfN7JTVOge?invite=cr-MSxMZXQsNjcwODcxMTcz",
-			"hz": "120",
-			"percent": 100
-		},
-		{
-			"user": "StumbonGD",
-			"link": "https://youtu.be/1aaGnMtC4f8",
-			"hz": "120",
-			"percent": 100
-		}
-]
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/nl7fyqKDMIrwZrIOJ?invite=cr-MSxHODEsNTc1MDM1OTI1",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "maxf",
+            "link": "https://youtu.be/teRDkUHy8Dw",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/8WtNnx6ryOQ",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "quidward",
+            "link": "https://medal.tv/games/geometry-dash/clips/nmYcxe8JfN7JTVOge?invite=cr-MSxMZXQsNjcwODcxMTcz",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "StumbonGD",
+            "link": "https://youtu.be/1aaGnMtC4f8",
+            "hz": "120",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

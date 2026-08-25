@@ -2,13 +2,15 @@
     "id": 146330225,
     "name": "abomination startpos",
     "author": "blightedcoconut",
-    "creators": ["blightedcoconut"],
+    "creators": [
+        "blightedcoconut"
+    ],
     "verifier": "NoobyGuy1",
     "verification": "https://youtu.be/HOaFAKi9qjM",
     "percentToQualify": "100",
     "fps": "240",
-	"version": "2.2",
-	"CBF": "No",
-    "records": [
-]
+    "version": "2.2",
+    "CBF": "No",
+    "records": [],
+    "type": "wave"
 }

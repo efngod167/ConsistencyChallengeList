@@ -7,19 +7,20 @@
     "verification": "https://youtu.be/FQ4saHPOeBE",
     "percentToQualify": "100",
     "fps": "240",
-	"version": "2.2",
+    "version": "2.2",
     "records": [
-    	{
-			"user": "tFluffy",
-			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1510909860777295953",
-			"hz": "CBF",
-			"percent": 100
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1510909860777295953",
+            "hz": "CBF",
+            "percent": 100
         },
-		{
-			"user": "finni 1505",
-			"link": "https://medal.tv/games/geometry-dash/clips/ncluLEPqwXLKKz3YL?invite=cr-MSxDR08sMzY5MjUzOTQw",
-			"hz": "CBF",
-			"percent": 100
-		}
-    ]
+        {
+            "user": "finni 1505",
+            "link": "https://medal.tv/games/geometry-dash/clips/ncluLEPqwXLKKz3YL?invite=cr-MSxDR08sMzY5MjUzOTQw",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

@@ -2,7 +2,9 @@
     "id": 121069427,
     "name": "BILLY NOT REALLY",
     "author": "pixelfactorial",
-    "creators": ["pixelfactorial"],
+    "creators": [
+        "pixelfactorial"
+    ],
     "verifier": "nensa",
     "verification": "https://www.youtube.com/watch?v=TFmQKqeGx4Q",
     "percentToQualify": "100",
@@ -46,5 +48,6 @@
             "hz": "120",
             "percent": 100
         }
-    ]
+    ],
+    "type": "wave"
 }

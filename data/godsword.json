@@ -7,14 +7,15 @@
     "verification": "https://youtu.be/cqUPODvVQEM",
     "percentToQualify": "100",
     "fps": "120",
-	"version": "2.2",
-  "CBF": "No",
+    "version": "2.2",
+    "CBF": "No",
     "records": [
-		{
-			"user": "NoobyGuy1",
-			"link": "https://youtu.be/PbWJqT2kn2E",
-			"hz": "120",
-			"percent": 100
-   }
-    ]
+        {
+            "user": "NoobyGuy1",
+            "link": "https://youtu.be/PbWJqT2kn2E",
+            "hz": "120",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

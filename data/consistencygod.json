@@ -80,5 +80,6 @@
             "hz": "CBF",
             "percent": 100
         }
-    ]
+    ],
+    "type": "wave"
 }

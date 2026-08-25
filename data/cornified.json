@@ -2,13 +2,15 @@
     "id": 131351721,
     "name": "cornification",
     "author": "blightedcoconut",
-    "creators": ["blightedcoconut"],
+    "creators": [
+        "blightedcoconut"
+    ],
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/McL4RGbs2Pc",
     "percentToQualify": "100",
-	"version": "2.2",
-"CBF": "No",
-"fps": "120",
-    "records": [
-]
+    "version": "2.2",
+    "CBF": "No",
+    "fps": "120",
+    "records": [],
+    "type": "wave"
 }

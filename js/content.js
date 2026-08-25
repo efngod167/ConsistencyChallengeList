@@ -1,4 +1,5 @@
 import { round, score } from './score.js';
+import { detectType } from './util.js';
 
 /**
  * Path to directory containing `_list.json` and all levels
@@ -14,10 +15,12 @@ export async function fetchList() {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
+                    const type = level.type || detectType(path, level.name);
                     return [
                         {
                             ...level,
                             path,
+                            type,
                             records: level.records.sort(
                                 (a, b) => b.percent - a.percent,
                             ),

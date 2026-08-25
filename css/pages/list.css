@@ -20,6 +20,16 @@
 .page-list .list .level {
     width: 100%;
 }
+.page-list .list .type-icon-cell {
+    padding-left: 0.75rem;
+    vertical-align: middle;
+}
+.page-list .list .type-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: block;
+    filter: var(--icon-filter, none);
+}
 .page-list .list .level button {
     background-color: var(--color-background);
     color: var(--color-on-background);

@@ -2,36 +2,39 @@
     "id": 75346847,
     "name": "Fourty",
     "author": "Yolomodeboom",
-    "creators": ["Yolomodeboom"],
+    "creators": [
+        "Yolomodeboom"
+    ],
     "verifier": "OverGD",
     "verification": "https://www.youtube.com/watch?v=MlxE0Xu0vQE",
     "percentToQualify": "100",
     "fps": "240",
-	"CBF": "Yes",
+    "CBF": "Yes",
     "records": [
-		{
-			"user": "JayGol",
-			"link": "https://medal.tv/games/geometry-dash/clips/ngF3nlGV8K7Z-CxfN?invite=cr-MSxuSXosNTc1MDM1OTI1",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "luke",
-			"link": "https://medal.tv/games/geometry-dash/clips/nh3KfcGOr3I8kg86h?invite=cr-MSxzQnAsMzAwMTE3NTc5",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "finni 1505",
-			"link": "https://medal.tv/games/geometry-dash/clips/niVPgCUkmnWkWkU8i?invite=cr-MSx5TXgsMzY5MjUzOTQw",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "INITIAL",
-			"link": "https://youtu.be/UkFuL3-FoJ4",
-			"hz": "CBF",
-			"percent": 100
-		}
-	]
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/ngF3nlGV8K7Z-CxfN?invite=cr-MSxuSXosNTc1MDM1OTI1",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "luke",
+            "link": "https://medal.tv/games/geometry-dash/clips/nh3KfcGOr3I8kg86h?invite=cr-MSxzQnAsMzAwMTE3NTc5",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "finni 1505",
+            "link": "https://medal.tv/games/geometry-dash/clips/niVPgCUkmnWkWkU8i?invite=cr-MSx5TXgsMzY5MjUzOTQw",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/UkFuL3-FoJ4",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

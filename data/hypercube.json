@@ -2,25 +2,28 @@
     "id": 140404749,
     "name": "Hypercube",
     "author": "Savarinaw",
-    "creators": ["Savarinaw"],
+    "creators": [
+        "Savarinaw"
+    ],
     "verifier": "pot",
     "verification": "https://youtu.be/_oKvjCfI1Ow",
     "percentToQualify": "100",
-  	"fps": "144",
-	"version": "2.2",
-	"CBF": "No",
+    "fps": "144",
+    "version": "2.2",
+    "CBF": "No",
     "records": [
-		{
-			"user": "JayGol",
-			"link": "https://youtu.be/_oKvjCfI1Ow",
-			"hz": "144",
-			"percent": 100
-		},
-		{
-			"user": "INITIAL",
-			"link": "https://youtu.be/8WtNnx6ryOQ",
-			"hz": "144",
-			"percent": 100
-		}
-]
+        {
+            "user": "JayGol",
+            "link": "https://youtu.be/_oKvjCfI1Ow",
+            "hz": "144",
+            "percent": 100
+        },
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/8WtNnx6ryOQ",
+            "hz": "144",
+            "percent": 100
+        }
+    ],
+    "type": "cube"
 }
