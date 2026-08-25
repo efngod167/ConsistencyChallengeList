@@ -40,3 +40,27 @@ export function shuffle(array) {
 
     return array;
 }
+
+const typeRules = [
+    { type: 'spider', patterns: [/spider/i] },
+    { type: 'ship', patterns: [/ship/i]},
+    { type: 'wave', patterns: [/wave/i] },
+    { type: 'ufo', patterns: [/ufo/i] },
+    { type: 'robot', patterns: [/robot/i]},
+    { type: 'ball', patterns: [/ball/i]},
+    { type: 'cube', patterns: [/cube/i]},
+];
+
+export function detectType(filename, levelName) {
+    const combined = `${filename || ''} ${levelName || ''}`;
+    for (const rule of typeRules) {
+        for (const pattern of rule.patterns) {
+            if (pattern.test(combined)) {
+                return rule.type;
+            }
+        }
+    }
+    return 'cube';
+}
+
+export const typeIcon = (type) => `/assets/${type}.png`;

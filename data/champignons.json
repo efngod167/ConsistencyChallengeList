@@ -2,7 +2,9 @@
     "id": 126250187,
     "name": "champignons potato",
     "author": "blightedcoconut",
-    "creators": ["ad3usgmd"],
+    "creators": [
+        "ad3usgmd"
+    ],
     "verifier": "ad3usgmd",
     "verification": "https://www.youtube.com/watch?v=Ib5bHumk1tM",
     "percentToQualify": "100",
@@ -27,5 +29,6 @@
             "hz": "CBF",
             "percent": 100
         }
-    ]
+    ],
+    "type": "wave"
 }

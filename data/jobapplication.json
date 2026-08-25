@@ -2,13 +2,15 @@
     "id": 120309003,
     "name": "Job Application",
     "author": "PhroggoDude",
-    "creators": ["PhroggoDude"],
+    "creators": [
+        "PhroggoDude"
+    ],
     "verifier": "ClawBuckle",
     "verification": "https://www.youtube.com/watch?v=euPq2xVTDvI",
     "percentToQualify": "100",
     "fps": "240",
-	"version": "2.2",
-	"CBF": "No",
-    "records": [
-    ]
+    "version": "2.2",
+    "CBF": "No",
+    "records": [],
+    "type": "ball"
 }

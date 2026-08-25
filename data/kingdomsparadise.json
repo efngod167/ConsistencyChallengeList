@@ -2,7 +2,9 @@
     "id": 128947442,
     "name": "Kingdoms Paradise",
     "author": "blightedcoconut",
-    "creators": ["blightedcoconut"],
+    "creators": [
+        "blightedcoconut"
+    ],
     "verifier": "Sadisyourlife",
     "verification": "https://www.youtube.com/watch?v=TTVZL7cQNLg",
     "percentToQualify": "100",
@@ -21,25 +23,25 @@
             "link": "https://medal.tv/games/geometry-dash/clips/mCMI7u3zaSkoWCLSq?invite=cr-MSxDM2csMzAwMTE3NTc5&v=15",
             "hz": "120",
             "percent": 100
-        }, 
-        { 
-            "user": "INITIAL",	
+        },
+        {
+            "user": "INITIAL",
             "link": "https://medal.tv/fr/games/geometry-dash/clips/mJfjtIsfjD6UXgn6N?invite=cr-MSwxUmwsNTk3MTY0MTcw&v=13",
-            "hz": "120", 
-            "percent": 100 
-		},
-		{ 
-			"user": "Clawbuckle",	
- 			"link": "https://youtu.be/vI3ISSz2R98?si=Jmr3rW4aG8Pe09-V",
- 			"hz": "120", 
-		    "percent": 100 
-		},
-		{
-			"user": "aelzfr",
-			"link": "https://medal.tv/games/geometry-dash/clips/nfh850X4fJY10T04N?invite=cr-MSxwcXosNjc0NzUyNjU0",
-			"hz": "120",
-			"percent": 100
-		}
-	] 
-} 
-
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "Clawbuckle",
+            "link": "https://youtu.be/vI3ISSz2R98?si=Jmr3rW4aG8Pe09-V",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "link": "https://medal.tv/games/geometry-dash/clips/nfh850X4fJY10T04N?invite=cr-MSxwcXosNjc0NzUyNjU0",
+            "hz": "120",
+            "percent": 100
+        }
+    ],
+    "type": "ship"
+}

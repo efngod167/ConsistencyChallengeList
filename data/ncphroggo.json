@@ -2,19 +2,22 @@
     "id": 124998907,
     "name": "Sakupen Cube",
     "author": "PhroggoDude",
-    "creators": ["PhroggoDude"],
+    "creators": [
+        "PhroggoDude"
+    ],
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/g2YoQvhr5WI",
     "percentToQualify": "100",
-  	"fps": "240",
-	"version": "2.2",
-	"CBF": "No",
+    "fps": "240",
+    "version": "2.2",
+    "CBF": "No",
     "records": [
-		{
-			"user": "StumbonGD",
-			"link": "https://youtu.be/iAcaepTPLdI",
-			"hz": "240",
-			"percent": 100
-		}
-    ]
+        {
+            "user": "StumbonGD",
+            "link": "https://youtu.be/iAcaepTPLdI",
+            "hz": "240",
+            "percent": 100
+        }
+    ],
+    "type": "cube"
 }

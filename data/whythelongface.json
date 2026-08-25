@@ -2,30 +2,33 @@
     "id": 134474523,
     "name": "WHY THE LONG FACE",
     "author": "pixelfactorial",
-    "creators": ["KaotikJumper, UFokinWotM8, pixelfactorial"],
+    "creators": [
+        "KaotikJumper, UFokinWotM8, pixelfactorial"
+    ],
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/BEoLcyJJIwE",
     "percentToQualify": "100",
     "fps": "240",
-	"version": "2.2",
+    "version": "2.2",
     "records": [
-		{
-			"user": "bananas",
-			"link": "https://www.youtube.com/watch?v=Za-UcK8UMqs",
-			"hz": "CBF",
-			"percent": 100
-	    },
-	    {
-		    "user": "ClawBuckle",
-		    "link": " https://youtu.be/GAhlhUJdJBg",
-		    "hz": "240",
-		    "percent": 100
-	    },
-		{
-			"user": "JayGol",
-			"link": "https://medal.tv/games/geometry-dash/clips/niXWLIMlbEQgjx05H?invite=cr-MSxHM3EsNTc1MDM1OTI1",
-			"hz": "CBF",
-			"percent": 100
-		}
-    ]
+        {
+            "user": "bananas",
+            "link": "https://www.youtube.com/watch?v=Za-UcK8UMqs",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": " https://youtu.be/GAhlhUJdJBg",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/niXWLIMlbEQgjx05H?invite=cr-MSxHM3EsNTc1MDM1OTI1",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

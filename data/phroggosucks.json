@@ -2,7 +2,9 @@
     "id": 127556092,
     "name": "acid consistency",
     "author": "PhroggoDude",
-    "creators": ["PhroggoDude"],
+    "creators": [
+        "PhroggoDude"
+    ],
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/610G3OgxXRk",
     "percentToQualify": "100",
@@ -10,11 +12,12 @@
     "version": "2.2",
     "CBF": "No",
     "records": [
-		{
-			"user": "StumbonGD",
-			"link": "https://youtu.be/guoU20LvlB4",
-			"hz": "240",
-			"percent": 100
-		}
-    ]
+        {
+            "user": "StumbonGD",
+            "link": "https://youtu.be/guoU20LvlB4",
+            "hz": "240",
+            "percent": 100
+        }
+    ],
+    "type": "ball"
 }

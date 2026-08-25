@@ -2,39 +2,40 @@
     "id": 121489446,
     "name": "Auditory fixer",
     "author": "pixelfactorial",
-    "creators": ["JoinMolten, nensa"],
+    "creators": [
+        "JoinMolten, nensa"
+    ],
     "verifier": "nensa",
     "verification": "https://youtu.be/E4R1tcg5G4A",
     "percentToQualify": "100",
     "fps": "120",
-	"version": "2.1",
-	"CBF": "No",
+    "version": "2.1",
+    "CBF": "No",
     "records": [
-		{
-		    "user": "pixelfactorial",
-		    "link": "https://youtu.be/qE5Pz_3y2-8",
-		    "hz": "120",
-		    "percent": 100
-	    },
-		{
-		   
-		    "user": "Bananas",
-		    "link": "https://www.youtube.com/watch?v=j3hzNDE6BcE",
-		    "hz": "120",
-		    "percent": 100
-	   }, 
-	   { 
-			"user": "Luke",	
- 			"link": "https://medal.tv/games/geometry-dash/clips/mOnrI2iXl_FiTA0cZ?invite=cr-MSxhajIsMzAwMTE3NTc5&v=14",
- 			"hz": "120", 
-			"percent": 100 
-		},
-		{
-			"user": "JayGol",
-			"link": "https://medal.tv/games/requested/clips/nfopPrAityP4IncN_?invite=cr-MSxFTG4sNTc1MDM1OTI1",
-			"hz": "120",
-			"percent": 100
-		}
-	] 
-} 
-
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/qE5Pz_3y2-8",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "Bananas",
+            "link": "https://www.youtube.com/watch?v=j3hzNDE6BcE",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "Luke",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOnrI2iXl_FiTA0cZ?invite=cr-MSxhajIsMzAwMTE3NTc5&v=14",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/requested/clips/nfopPrAityP4IncN_?invite=cr-MSxFTG4sNTc1MDM1OTI1",
+            "hz": "120",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
+}

@@ -2,25 +2,28 @@
     "id": 145413584,
     "name": "Entombed",
     "author": "pengus",
-    "creators": ["pengus"],
+    "creators": [
+        "pengus"
+    ],
     "verifier": "PengusP",
     "verification": "https://youtu.be/GUPYU48lN-g",
     "percentToQualify": "100",
-  	"fps": "240",
-	"version": "2.2",
-	"CBF": "No",
+    "fps": "240",
+    "version": "2.2",
+    "CBF": "No",
     "records": [
-		{
-			"user": "ClawBuckle",
-			"link": "https://youtu.be/JvXjGmXOi5M",
-			"hz": "240",
-			"percent": 100
-		},
-		{
-			"user": "noobyguy1",
-			"link": "https://discord.com/channels/1342438507527802901/1540472703453241425/1540472703453241425",
-			"hz": "240",
-			"percent": 100
-		}
-]
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/JvXjGmXOi5M",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "noobyguy1",
+            "link": "https://discord.com/channels/1342438507527802901/1540472703453241425/1540472703453241425",
+            "hz": "240",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

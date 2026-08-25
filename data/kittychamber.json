@@ -2,41 +2,44 @@
     "id": 122451205,
     "name": "Kitty Chamber",
     "author": "therealbenc16",
-    "creators": ["therealbenc16"],
+    "creators": [
+        "therealbenc16"
+    ],
     "verifier": "kyubd",
     "verification": "https://www.youtube.com/watch?v=Wtf2xitnneI",
     "percentToQualify": "100",
-	"version": "2.2",
+    "version": "2.2",
     "records": [
-		{
-			"user": "luna",
-			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1417097198109458524",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "bananas",
-			"link": "https://medal.tv/games/geometry-dash/clips/lo9ADfVWXNFNkOllN?invite=cr-MSxVN0EsMjMzODMwODYy&v=26",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "galbeni7",
-			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1432765298364256378",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "Thebacon_gamer",
-			"link": "https://www.youtube.com/watch?v=qK2NtnOxQdk",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
-			"user": "MiRPacK19",
-			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1465779106317602989",
-			"hz": "CBF",
-			"percent": 100
-		}
-    ]
+        {
+            "user": "luna",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1417097198109458524",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/lo9ADfVWXNFNkOllN?invite=cr-MSxVN0EsMjMzODMwODYy&v=26",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "galbeni7",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1432765298364256378",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Thebacon_gamer",
+            "link": "https://www.youtube.com/watch?v=qK2NtnOxQdk",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1465779106317602989",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ],
+    "type": "wave"
 }

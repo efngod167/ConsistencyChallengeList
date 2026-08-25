@@ -1,5 +1,5 @@
 import { store } from "../main.js";
-import { embed } from "../util.js";
+import { embed, typeIcon } from "../util.js";
 import { score } from "../score.js";
 import { fetchEditors, fetchList } from "../content.js";
 import Spinner from "../components/Spinner.js";
@@ -24,6 +24,7 @@ export default {
     searchQuery: "",
     roleIconMap,
     store,
+    typeIcon,
   }),
   computed: {
     filteredList() {
@@ -108,6 +109,9 @@ export default {
                 </span>
               </button>
             </td>
+            <td class="type-icon-cell" v-if="getOriginalRank(item[0]) <= 200">
+              <img v-if="item[0]" class="type-icon" :src="typeIcon(item[0].type)" :alt="item[0].type" :title="item[0].type">
+            </td>
           </tr>
         </table>
         <p v-if="filteredList.length === 0">No levels match your search.</p>
@@ -141,6 +145,10 @@ export default {
             <li>
               <div class="type-title-sm">CBF</div>
               <p>{{ selectedLevel.CBF || 'Yes' }}</p>
+            </li>
+            <li>
+              <div class="type-title-sm">Main Gameplay</div>
+              <p>{{ selectedLevel.type }}</p>
             </li>
           </ul>
           <h2>Records</h2>
