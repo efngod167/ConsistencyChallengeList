@@ -460,7 +460,8 @@
 			"user": "Velocity150",
 			"link": "https://youtu.be/Z9T8sKpGVHc?si=fro6c4-nSaD83u5h",
 			"hz": "CBS",
-			"percent": 100
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
