@@ -259,6 +259,12 @@
 			"link": "https://www.youtube.com/watch?v=bIKNTE-GZrs",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "PushLastName",
+			"link": "https://www.youtube.com/watch?v=xq4S74JHulQ",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
