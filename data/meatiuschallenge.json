@@ -462,6 +462,12 @@
 			"hz": "CBS",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "Nekvakv",
+			"link": "https://www.youtube.com/watch?v=eyedmIxj_Ak",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
