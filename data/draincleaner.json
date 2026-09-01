@@ -144,10 +144,17 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/ObI8nbz1ZPE",
 			"hz": "60",
 			"percent": 100
+		},
+		{
+			"user": "Sunuly",
+			"link": "https://discord.com/channels/1342438507527802901/1544213105670758400/1544213105670758400",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
 		}
 	] 
 } 
