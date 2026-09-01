@@ -79,6 +79,12 @@
 			"link": "https://youtu.be/bM3_fUeHMKg?si=gI8B54ahkJTg5Rd4",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/c7dECaPmq4s",
+			"hz": "CBF",
+			"percent": 100
 		}
 	] 
 } 
