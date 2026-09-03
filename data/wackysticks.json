@@ -11,7 +11,7 @@
 	"CBF": "No",
     "records": [
 		{
-			"user": "jaygol",
+			"user": "JayGol",
 			"link": "https://medal.tv/games/geometry-dash/clips/niVtdiBG3I5nJGyNn?invite=cr-MSxJcWIsNTc1MDM1OTI1",
 			"hz": "180",
 			"percent": 100
@@ -79,6 +79,12 @@
 		{
 			"user": "INITIAL",
 			"link": "https://youtu.be/Skj9R65d664",
+			"hz": "180",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nlkw97Pv4Gh72w_9l?invite=cr-MSxKZWksMzAwMTE3NTc5",
 			"hz": "180",
 			"percent": 100
 		}
