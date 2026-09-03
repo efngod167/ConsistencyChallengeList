@@ -200,7 +200,13 @@
 		{
 			"user": "hem",
 			"link": "https://youtu.be/VkfuXVgjfqQ",
-			"hz": "CBF",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "ewowi",
+			"link": "https://medal.tv/games/geometry-dash/clips/ns4lvXgNlwjKKbtRe?invite=cr-MSxUQXosNDMzMDQzNTU2",
+			"hz": "240",
 			"percent": 100
 		}
 	]
