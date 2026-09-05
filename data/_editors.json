@@ -50,6 +50,11 @@
         "link": "https://www.youtube.com/@stumbongd"
     },
     {
+        "role": "helper",
+        "name": "aimdox",
+        "link": "https://youtube.com/@aimdox"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
