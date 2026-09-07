@@ -34,10 +34,17 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/l4Mms85vtZw",
 			"hz": "CBF",
 			"percent": 100
+		},
+		{
+			"user": "Saul521",
+			"link": "https://youtu.be/F4IWYPbpdPI?si=BGjLqygC4_qGikVG",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
 		}
 	]
 }
