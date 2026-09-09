@@ -10,5 +10,11 @@
 "fps": "CBF",
 "CBF": "Required",
     "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/nt4rEUekj9yZb6ovT?invite=cr-MSxkZU4sNTc1MDM1OTI1",
+            "hz": "CBF",
+            "percent": 100
+        }
 ]
 }
