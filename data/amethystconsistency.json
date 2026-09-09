@@ -493,6 +493,13 @@
 			"link": "https://youtu.be/K16olHNCZh0?si=J_5xUiS7FbbLFGZX",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "Saul521",
+			"link": "https://youtu.be/xggTZzfHNLM?si=UADKIoI0OUEg9Mb0",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
