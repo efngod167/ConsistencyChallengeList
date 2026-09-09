@@ -11,6 +11,12 @@
 "CBF": "No",
     "records": [
         {
+            "user": "monsterd",
+            "link": "https://www.youtube.com/watch?v=j4XJKlv4eR4",
+            "hz": "120",
+            "percent": 100
+        },
+        {
             "user": "ImSaturnN",
             "link": "https://discord.com/channels/1342438507527802901/1547022274484379679/1547022274484379679",
             "hz": "120",
