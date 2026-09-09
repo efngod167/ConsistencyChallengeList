@@ -10,5 +10,11 @@
 "fps": "120",
 "CBF": "No",
     "records": [
+        {
+            "user": "ImSaturnN",
+            "link": "https://discord.com/channels/1342438507527802901/1547022274484379679/1547022274484379679",
+            "hz": "120",
+            "percent": 100
+        }
 ]
 }
