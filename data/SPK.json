@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/7ieabNGnZEE",
     "percentToQualify": "100",
     "version": "2.2",
-"fps": "120",
-"CBF": "No",
+    "fps": "120",
+    "CBF": "No",
     "records": [
         {
             "user": "monsterd",
@@ -51,6 +51,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nuGcaJcjhkY-L5yYM?invite=cr-MSx1QzUsNDc4MjMxNTU3",
             "hz": "120",
             "percent": 100
+        },
+        {
+            "user": "StumbonGD",
+            "link": "https://www.youtube.com/watch?v=eKn9dhps8uI",
+            "hz": "120",
+            "percent": 100
         }
-]
+    ]
 }
