@@ -74,6 +74,12 @@
 			"link": "https://www.youtube.com/watch?v=C2fB3q3EPUQ",
 			"hz": "233.32",
 			"percent": 100
-		}
+		},
+		{
+            "user": "Anymous",
+            "link": "https://youtu.be/VDttLSf3GtI",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
