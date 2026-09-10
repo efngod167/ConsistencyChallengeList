@@ -500,6 +500,12 @@
 			"hz": "120",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "butanillo33",
+			"link": "https://youtu.be/JC3YKQI3sHs",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
