@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/ZVsSC7_LwAU",
     "percentToQualify": "100",
     "version": "2.2",
-"fps": "240",
-"CBF": "No",
+    "fps": "240",
+    "CBF": "No",
     "records": [
         {
             "user": "maxf",
@@ -51,6 +51,12 @@
             "link": "https://discord.com/channels/1342438507527802901/1547305863260405830/1547305863260405830",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "StumbonGD",
+            "link": "https://youtu.be/FYO2TWQSgkw",
+            "hz": "240",
+            "percent": 100
         }
-]
+    ]
 }
