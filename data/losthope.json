@@ -10,5 +10,11 @@
 "fps": "120",
 "CBF": "No",
     "records": [
+        {
+            "user": "maineterskoe",
+            "link": "https://discord.com/channels/1342438507527802901/1547642432907120731/1547642432907120731",
+            "hz": "120",
+            "percent": 100
+        }
 ]
 }
