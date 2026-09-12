@@ -105,6 +105,13 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "Saul521",
+			"link": "https://youtu.be/M-F8JbUDId0?si=LyoR8u1QkqHTo9QQ",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
