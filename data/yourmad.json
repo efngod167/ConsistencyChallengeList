@@ -98,6 +98,13 @@
 			"link": "https://www.youtube.com/watch?v=QY-QvdRvM8s",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "dream",
+			"link": "https://youtu.be/FmYUe-pHGEw?si=o7-7Mb2pips6_Vp8",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
 		}
     ]
 }
