@@ -10,5 +10,11 @@
     "fps": "240",
     "CBF": "No",
     "records": [
+        {
+            "user": "noobyguy1",
+            "link": "https://youtu.be/HfA5K5iSL2U",
+            "hz": "240",
+            "percent": 100
+        }
 ]
 }
