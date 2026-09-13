@@ -118,6 +118,12 @@
 			"link": "https://drive.google.com/file/d/1MWVHG4O3yF1EQ6rWnnM_kX4MgCjxbVFC/view?usp=drive_link",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/j6ilU4yrpJM",
+			"hz": "COS",
+			"percent": 100
 		}
     ]
 }
