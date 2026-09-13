@@ -7,8 +7,14 @@
     "verification": "https://youtu.be/8DztXvF36VQ",
     "percentToQualify": "100",
     "version": "2.2",
-"fps": "240",
-"CBF": "Yes",
+    "fps": "240",
+    "CBF": "Yes",
     "records": [
-]
+        {
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/npn6IQFiaEoBPRSEx?invite=cr-MSw4RzIsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
 }
