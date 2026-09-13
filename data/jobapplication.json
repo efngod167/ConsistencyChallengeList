@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"CBF": "No",
     "records": [
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/d7Kq4ISHs5o",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
