@@ -7,8 +7,8 @@
     "verification": "https://m.youtube.com/watch?v=JlM37bs4QEM&ra=m",
     "percentToQualify": "100",
     "version": "2.2",
-"fps": "120",
-"CBF": "No",
+    "fps": "120",
+    "CBF": "No",
     "records": [
         {
             "user": "maineterskoe",
@@ -27,6 +27,12 @@
             "link": "https://discord.com/channels/1342438507527802901/1548019800335458404/1548019800335458404",
             "hz": "120",
             "percent": 100
-        }
-]
+        },
+        {
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1548632004910780416/1548632004910780416",
+			"hz": "120",
+			"percent": 100
+		}
+    ]
 }
