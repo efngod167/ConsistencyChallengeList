@@ -23,6 +23,11 @@
         "role": "admin",
         "name": "finni 1505",
         "link": "https://www.youtube.com/@finni1505"
+     },
+    {
+        "role": "admin",
+        "name": "StumbonGD",
+        "link": "https://www.youtube.com/@stumbongd"
     },
     {
         "role": "helper",
@@ -43,16 +48,6 @@
         "role": "helper",
         "name": "PengusP",
         "link": "https://www.youtube.com/@PengusGD"
-    },
-    {
-        "role": "helper",
-        "name": "StumbonGD",
-        "link": "https://www.youtube.com/@stumbongd"
-    },
-    {
-        "role": "helper",
-        "name": "aimdox",
-        "link": "https://youtube.com/@aimdox"
     },
     {
         "role": "dev",
