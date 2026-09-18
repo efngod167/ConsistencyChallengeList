@@ -8,7 +8,13 @@
     "percentToQualify": "100",
     "version": "2.2",
 "fps": "240",
-"CBF": "Yes",
+"CBF": "No",
     "records": [
+        {
+            "user": "swifticat",
+            "link": "https://discord.com/channels/1342438507527802901/1550480115304235039/1550480115304235039",
+            "hz": "240",
+            "percent": 100
+        }
 ]
 }
