@@ -140,6 +140,13 @@
 			"link": "https://discord.com/channels/1342438507527802901/1550508189886324860/1550508189886324860",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "Sunuly",
+			"link": "https://discord.com/channels/1342438507527802901/1547505836455235634/1547505836455235634",
+			"hz": "COS",
+			"percent": 100,
+			"mobile": "true"
 		}
 ]
 }
