@@ -10,7 +10,7 @@
 	  "version": "2.2",
     "records": [
 		{
-			"user": "luke",
+			"user": "Luke",
 			"link": "https://medal.tv/games/geometry-dash/clips/lY50XSEzcL90R28dn?invite=cr-MSxndEMsMzAwMTE3NTc5&v=14",
 			"hz": "CBF",
 			"percent": 100
@@ -96,6 +96,12 @@
 		{
 			"user": "arnazzz",
 			"link": "https://www.youtube.com/watch?v=YuwQ4it3PMU",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "monsterd",
+			"link": "https://www.youtube.com/watch?v=LxyhukjCME4",
 			"hz": "CBF",
 			"percent": 100
 		}
