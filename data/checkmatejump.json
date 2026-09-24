@@ -117,6 +117,12 @@
 			"link": "https://www.youtube.com/watch?v=8gJh_T3wMxk",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "daneeko",
+			"link": "https://www.youtube.com/watch?v=NPflI2-hsqQ",
+			"hz": "COS",
+			"percent": 100
 		}
 	] 
 }
