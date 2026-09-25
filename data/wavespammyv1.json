@@ -3,16 +3,10 @@
     "name": "wave spammy v1",
     "author": "Nyan Cat",
     "creators": ["Nyan Cat"],
-    "verifier": "nensa",
-    "verification": "https://youtu.be/K_LoQin5Y_w",
+    "verifier": "bananas",
+    "verification": "https://youtu.be/7QmIMZmhfgA",
     "percentToQualify": "100",
     "records": [
-        {
-            "user": "bananas",
-            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1409350019747680257",
-            "hz": "CBF",
-            "percent": 100
-        },
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1423211915567562805",
