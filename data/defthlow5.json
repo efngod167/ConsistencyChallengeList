@@ -3,17 +3,11 @@
     "name": "DefThlow V",
     "author": "blightedcoconut",
     "creators": ["blightedcoconut"],
-    "verifier": "nensa",
-    "verification": "https://youtu.be/tWxUzfrwODI",
+    "verifier": "Duelo",
+    "verification": "https://youtu.be/4xdohC5WTWY",
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
-		{
-            "user": "Duelo",
-            "link": "https://youtu.be/4xdohC5WTWY",
-            "hz": "240",
-            "percent": 100
-        },
 		{
 			"user": "bananas",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1408878964302286928",
