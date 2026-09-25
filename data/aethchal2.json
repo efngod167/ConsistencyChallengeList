@@ -3,18 +3,12 @@
     "name": "aeth challeng 2",
     "author": "EmpanadR",
     "creators": ["EmpanadR"],
-    "verifier": "nensa",
-    "verification": "https://youtu.be/gbBmNHNsgi4",
+    "verifier": "StockUniverse",
+    "verification": "https://youtu.be/TYyRmasKScg",
     "percentToQualify": "100",
     "fps": "240",
 	"version": "2.2",
     "records": [
-	{
-            "user": "StockUniverse",
-            "link": "https://youtu.be/TYyRmasKScg",
-            "hz": "240",
-            "percent": 100
-        },
 	    {
 		    "user": "Sadisyourlife",
 		    "link": "https://www.youtube.com/watch?v=8wGHim9tRG4",
