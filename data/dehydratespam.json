@@ -3,16 +3,10 @@
     "name": "dehydrate spam",
     "author": "Carogaph",
     "creators": ["Carogaph"],
-    "verifier": "nensa",
+    "verifier": "pat 8",
     "verification": "https://youtu.be/vxSnDXAeGlU",
     "percentToQualify": "100",
     "records": [
-        {
-            "user": "pat 8",
-            "link": "https://youtu.be/i4V2Kw7GWpU",
-            "hz": "240",
-            "percent": 100
-        },
         {
 			"user": "Sadisyourlife",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1425504860492660767",
