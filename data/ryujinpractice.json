@@ -3,16 +3,10 @@
     "name": "ryujin practice IIII",
     "author": "Nyan Cat",
     "creators": ["Nyan Cat"],
-    "verifier": "nensa",
-    "verification": "https://youtu.be/n3LbHxDnEU8",
+    "verifier": "M4n1a",
+    "verification": "https://youtu.be/a4JHeLEUHJ0",
     "percentToQualify": "100",
     "records": [
-        {
-            "user": "M4n1a",
-            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1402009811595563151",
-            "hz": "360",
-            "percent": 100
-        },
 	    {
 		    "user": "pixelfactorial",
 		    "link": "https://youtu.be/sfZGkF1T11Q",
