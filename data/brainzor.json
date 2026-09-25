@@ -3,16 +3,10 @@
   "name": "brainzor",
   "author": "Semispace",
   "creators": ["Semispace"],
-  "verifier": "nensa",
-  "verification": "https://www.youtube.com/watch?v=aG2CqPSyyOE",
+  "verifier": "Sadisyourlife",
+  "verification": "https://youtu.be/PBuEdJweV2Q",
   "percentToQualify": "100",
   "records": [
-      	{
-		    "user": "Sadisyourlife",
-		    "link": "https://youtu.be/PBuEdJweV2Q",
-		    "hz": "240",
-		    "percent": 100
-		},
 	  	{
 		    "user": "kyubd",
 		    "link": "https://youtu.be/NKEuBia8zqE",
