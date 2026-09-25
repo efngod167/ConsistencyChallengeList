@@ -2,20 +2,14 @@
     "id": 121069427,
     "name": "BILLY NOT REALLY",
     "author": "pixelfactorial",
-    "creators": ["pixelfactorial"],
-    "verifier": "nensa",
-    "verification": "https://www.youtube.com/watch?v=TFmQKqeGx4Q",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/FB8jUavluJI",
     "percentToQualify": "100",
     "fps": "120",
     "version": "2.1",
     "CBF": "No",
     "records": [
-        {
-            "user": "pixelfactorial",
-            "link": "https://youtu.be/FB8jUavluJI",
-            "hz": "120",
-            "percent": 100
-        },
         {
             "user": "bananas",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1408209860264202391",
