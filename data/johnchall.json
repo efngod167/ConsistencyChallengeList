@@ -3,19 +3,13 @@
     "name": "john chall",
     "author": "nensa",
     "creators": [],
-    "verifier": "nensa",
-    "verification": "https://youtu.be/5k21uB4OSZk",
+    "verifier": "INITIAL",
+    "verification": "https://www.youtube.com/watch?v=BNcjXQfi6tg",
     "percentToQualify": "100",
     "fps": "60",
 	"version": "2.2",
 	"CBF": "No",
     "records": [
-		{
-            "user": "INITIAL",
-            "link": "https://www.youtube.com/watch?v=BNcjXQfi6tg",
-            "hz": "60",
-            "percent": 100
-        },
 		{
             "user": "pixelfactorial",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1428461851674411159",
