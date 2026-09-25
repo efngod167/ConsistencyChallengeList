@@ -3,17 +3,11 @@
     "name": "Gandhi Express",
     "author": "Nyan Cat",
     "creators": ["Nyan Cat"],
-    "verifier": "nensa",
-    "verification": "https://youtu.be/ODxTWOapyJk",
+    "verifier": "Sadisyourlife",
+    "verification": "https://youtu.be/PBuEdJweV2Q",
     "percentToQualify": "100",
 	"version": "2.2",
     "records": [
-		{
-		    "user": "Sadisyourlife",
-		    "link": "https://youtu.be/PBuEdJweV2Q",
-		    "hz": "CBF",
-		    "percent": 100
-	    },
 		{
 		    "user": "pat 8",
 		    "link": "https://youtu.be/7waXBhlyWxs",
