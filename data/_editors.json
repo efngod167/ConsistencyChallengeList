@@ -50,6 +50,11 @@
         "link": "https://www.youtube.com/@PengusGD"
     },
     {
+        "role": "helper",
+        "name": "pastel",
+        "link": "https://www.youtube.com/@pastelliano"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
