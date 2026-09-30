@@ -1,21 +1,15 @@
 {
     "id": "TBS",
     "name": "G512 FPS",
-    "author": "maxf12",
-    "creators": ["maxf12"],
-    "verifier": "Luke",
-    "verification": "https://youtu.be/rloli1qDILA?is=UAWJlVbann9xuy-u",
+    "author": "maxfgmd",
+    "creators": ["maxfgmd"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/1Z8tE_MgtA0",
     "percentToQualify": "100",
     "fps": "222",
 	"version": "2.1",
 	"CBF": "No",
     "records": [
-		{
-			"user": "tFluffy",
-			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1511824119287644341",
-			"hz": "222",
-			"percent": 100
-    	},
 		{
 			"user": "Bananas",
 			"link": "https://medal.tv/games/geometry-dash/clips/n3WjX3lnyw5d8klmS?invite=cr-MSxQaVQsMjMzODMwODYy&v=7",
