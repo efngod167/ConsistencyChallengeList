@@ -3,8 +3,8 @@
     "name": "kahoot stage 1",
     "author": "maxf",
     "creators": ["maxf"],
-    "verifier": "Luke",
-    "verification": "https://medal.tv/games/geometry-dash/clips/nfPpqH1d8tuEYJ0j5?invite=cr-MSx3MXEsMzAwMTE3NTc5",
+    "verifier": "JayGol",
+    "verification": "https://youtu.be/lItBp3av7MY",
     "percentToQualify": "100",
     "fps": "240",
     "version": "2.1",
@@ -13,12 +13,6 @@
         {
             "user": "finni 1505",
             "link": "https://medal.tv/games/geometry-dash/clips/nj37oN7LxYlvStf12?invite=cr-MSxyaXcsMzY5MjUzOTQw",
-            "hz": "240",
-            "percent": 100
-        },
-        {
-            "user": "JayGol",
-            "link": "https://medal.tv/games/requested/clips/niZOSeaZC9ngm_xO1?invite=cr-MSxaRXcsNTc1MDM1OTI1",
             "hz": "240",
             "percent": 100
         },
