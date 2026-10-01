@@ -10,5 +10,11 @@
     "version": "2.2",
     "CBF": "No",
     "records": [
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/YJuKxARZXns",
+            "hz": "240",
+            "percent": 100
+        }
 ]
 }
