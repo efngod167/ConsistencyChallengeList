@@ -10,5 +10,11 @@
 "fps": "60",
 "CBF": "No",
     "records": [
+        {
+            "user": "habibkitty",
+            "link": "https://youtu.be/U2kot-KPAW8",
+            "hz": "60",
+            "percent": 100
+        }
 ]
 }
