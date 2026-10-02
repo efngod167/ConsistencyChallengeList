@@ -10,5 +10,11 @@
 "fps": "CBF",
 "CBF": "Required",
     "records": [
-]
+        {
+            "user": "22t",
+            "link": "https://discord.com/channels/1342438507527802901/1555433372749266984/1555433372749266984",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
 }
