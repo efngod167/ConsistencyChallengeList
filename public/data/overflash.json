@@ -1,0 +1,19 @@
+{
+    "id": 130560000,
+    "name": "Overflash",
+    "author": "ff15p",
+    "creators": [],
+    "verifier": "liti1113",
+    "verification": "https://youtu.be/K5HbV8SnFis",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/fr/games/geometry-dash/clips/mKq6v1tm0_7ajsyco?invite=cr-MSx2V2EsNTk3MTY0MTcw&v=15",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

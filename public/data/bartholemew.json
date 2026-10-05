@@ -1,0 +1,24 @@
+{
+    "id": 121316836,
+    "name": "Bartholemew Challeng",
+    "author": "pineappling97",
+    "creators": ["pineappling97"],
+    "verifier": "Sadisyourlife",
+    "verification": "https://youtu.be/h7agXLmWEzA",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	{
+            "user": "TheBlueElephant",
+            "link": "https://youtu.be/qPU6HcJFaQQ",
+            "hz": "240",
+            "percent": 100
+        },
+	{
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/FB8jUavluJI",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

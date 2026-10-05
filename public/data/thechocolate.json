@@ -1,0 +1,103 @@
+{
+    "id": 121548965,
+    "name": "the chocolate",
+    "author": "greencookie111",
+    "creators": ["greencookie111"],
+    "verifier": "Greencookie",
+    "verification": "https://youtu.be/spdiUR9FotE",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+	    {
+		    "user": "Duelo",
+		    "link": "https://www.youtube.com/watch?v=Mx6ogEyNgmA",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "aRcMX",
+		    "link": "https://youtu.be/-W1Cz9wq4Gk",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=3ArejhoiCk8",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nexia",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1388573617691820164/the_chocolate.mp4?ex=68617974&is=686027f4&hm=36157c8617302280efd1a9fd5ea0dbe19f1855ced82fcdde978dfa68f44ee41a&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/XZlSUXZ_Plw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "ReedRidiculous",
+		    "link": "https://www.youtube.com/watch?v=Rs-JxvHC1u0",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "V10lence",
+		    "link": "https://youtu.be/nUDJnNAlRRo",
+		    "hz": "240",
+		    "percent": 100
+	    },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/RcGfzO9siV8",
+            "hz": "180",
+            "percent": 100
+        },
+	    {
+            	"user": "DeathNight77",
+            	"link": "https://youtu.be/PsRSuWw6hIM",
+            	"hz": "165",
+            	"percent": 100
+            },
+	    {
+            	"user": "Andras9912",
+            	"link": "https://www.youtube.com/watch?v=f-8x26oGMng",
+            	"hz": "144",
+            	"percent": 100
+            },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395329765971333150",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Slenderman77",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kIr6fqIDIoy3eUEBS?invite=cr-MSxNOUcsMjk5NDA4NjU0",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Cringest",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1396179033200267381/Untitled_video_-_Made_with_Clipchamp_14.mp4?ex=687d248d&is=687bd30d&hm=ea66d7ba67fd5ed70c36d854d810afadc1e0399ef939ad414567186c1b201334&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Codergod",
+		    "link": "https://www.youtube.com/watch?v=eqFSBvGSi1w&feature=youtu.be",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "B08IsNotReal",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1397090949603262555",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}

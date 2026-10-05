@@ -1,0 +1,18 @@
+{
+    "id": 124361814,
+    "name": "UnKnoWn MAdnEss",
+    "author": "jacygd",
+    "creators": ["jacygd"],
+    "verifier": "cramble",
+    "verification": "https://www.youtube.com/watch?v=YfFhwR5Zn5U",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1435433781581582367",
+			"hz": "CBF",
+			"percent": 100
+	    }
+    ]
+}

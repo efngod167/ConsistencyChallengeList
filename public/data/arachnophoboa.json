@@ -1,0 +1,86 @@
+{
+    "id": 133553556,
+    "name": "ArAchnOphObOA",
+    "author": "blightedcoconut",
+    "creators": [],
+    "verifier": "blightedcoconut",
+    "verification": "https://youtu.be/vt-A-d-I56E",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+            "user": "INITIAL",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1479972063073796156",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/miFT9KrSLKYlvB6ws?invite=cr-MSxVV0EsMzAwMTE3NTc5&v=14",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+            "user": "liti1113",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1484841976258891777",
+            "hz": "240",
+            "percent": 100
+		},
+		{
+			"user": "Maxr",
+			"link": "https://medal.tv/games/geometry-dash/clips/mEbnPVSoFXZSksjBb?invite=cr-MSxWcjMsNDc0NzU4NTcw&v=16",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/ru/games/geometry-dash/clips/mMrQqLRTwp_Sxcddw?invite=cr-MSx6MTUsMzY5MjUzOTQw",
+			"hz": "240",
+			"percent": 100
+		},
+		{ 
+			"user": "Smiggle",	
+ 			"link": "https://youtu.be/Eo4leHlmgIk",
+ 			"hz": "240", 
+			"percent": 100 
+		},
+		{ 
+			"user": "noobyguy1",	
+ 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1523847392384778251",
+ 			"hz": "240", 
+			"percent": 100 
+		},
+		{ 
+			"user": "Jaygol",	
+ 			"link": "https://medal.tv/games/geometry-dash/clips/n9AE5JO2e54xOd_7D?invite=cr-MSxITm8sNTc1MDM1OTI1 ",
+ 			"hz": "240", 
+			"percent": 100 
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1533337481737408613",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "fobwaka",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1533578298322456857",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1534602608872915034",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "BurntGMD",
+			"link": "https://youtube.com/shorts/6fzH9NpDWxY?si=PFhzIjX21J04lvJ3",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

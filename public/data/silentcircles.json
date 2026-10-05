@@ -1,0 +1,85 @@
+{
+    "id": 118455063,
+    "name": "SC consistency",
+    "author": "blightedcoconut",
+    "creators": ["Sailent, Cyrillic, blightedcoconut"],
+    "verifier": "blightedcoconut",
+    "verification": "https://www.youtube.com/watch?v=4cYyJtMzi_g",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Dastinity",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395760521432535142",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=JPLWWUqg3tw",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sh4in3",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kJZrxIrQTy0mnA1gN?invite=cr-MSxOY1MsMjA0NjczODMy",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/Z4zS-AHbuek",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1398307213675597885",
+		    "hz": "CBF",
+		    "percent": 100
+		    },
+	    {
+		    "user": "shafikdabest",
+		    "link": "https://www.youtube.com/watch?v=LEaRvsrZ3EY",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://www.youtube.com/live/gKYY8wj8q94",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "$nowmane",
+		    "link": "https://youtu.be/vLS50eSop-w",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=T2QgfgawV3M",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://youtu.be/cJuHrThgx3U",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "kaeme",
+		    "link": "https://youtu.be/YZ0SEq6rvaM?si=XVDAzsJbDp4AfEj9",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}

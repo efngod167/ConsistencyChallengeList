@@ -1,0 +1,54 @@
+ {
+    "id": 121530898,
+    "name": "Flicker",
+    "author": "greencookie111",
+    "creators": ["greencookie111"],
+    "verifier": "Greencookie",
+    "verification": "https://youtu.be/Z-SQXVnifDA",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://www.youtube.com/watch?v=twSEl_HKMKM",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=3ArejhoiCk8",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/oiL22JPqKYc",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "uwoGD",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1388796953399263272/Geometry_Dash_2025.06.28_-_23.47.49.38.DVR.mp4?ex=68624974&is=6860f7f4&hm=321b1cf6b098ad0bd57ab6e69855344b8590a0c52eea79e8a39de18acd127d6c&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "felipe gd",
+		    "link": "https://www.youtube.com/watch?v=7zWx0-OBQI0",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://www.youtube.com/watch?v=thXGjevwhnY",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/TC-RYh7asD8",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

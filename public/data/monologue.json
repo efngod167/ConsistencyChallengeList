@@ -1,0 +1,84 @@
+{
+    "id": 120021536,
+    "name": "monologue",
+    "author": "opakue",
+    "creators": ["opakue"],
+    "verifier": "Dequavious Pork",
+    "verification": "https://www.youtube.com/watch?v=BypgHFOAV8o",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1383884994555940956",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "throne96024",
+		    "link": "https://youtu.be/r_jk1n55j18",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395768173705433168",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1396523197284745219",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Benjam0035",
+		    "link": "https://www.youtube.com/watch?v=Om8ovHYuPF8",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/2T5IWzayzq0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "kyubd",
+		    "link": "https://youtu.be/pms68K3cUkc",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+            "user": "pixelfactorial",
+            "link": "https://drive.google.com/file/d/1ZHZmOnZqgz1VbS1zVy8eDUcA0wap40GE/view?usp=drive_link",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+			"user": "Sadisyourlife",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1430962411631935498",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+          "user": "tFluffy",
+		  "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433265490746146989",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+          "user": "galbeni7",
+		  "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434217390173978654",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://www.youtube.com/watch?v=Nq6EIa3XI2U",
+			"hz": "CBF",
+			"percent": 100
+		}
+	]
+}

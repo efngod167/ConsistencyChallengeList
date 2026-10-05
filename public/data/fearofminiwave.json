@@ -1,0 +1,66 @@
+{
+    "id": 121445505,
+    "name": "fear of mini wave",
+    "author": "ignaslol",
+    "creators": ["ignaslol"],
+    "verifier": "finni 1505",
+    "verification": "https://youtu.be/FRlGU38EfhY",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/1CPDkmh5qEM",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "ekleraaa",
+			"link": "https://www.youtube.com/watch?v=x4vaS5uvEGg",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://www.youtube.com/watch?v=q2AVoQ3UKbM",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/kWXrpE51LJV4OZXdC?invite=cr-MSxNZWYsMjMzODMwODYy",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "nensa",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1416160108039245856/Replay_2025-09-13_06-26-46_-_Trim.mp4?ex=68c5d560&is=68c483e0&hm=c18ec8f062d07eb0af911bd712aad6cac99fb9c4c13ba29ba6908bce36146093&",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+            "user": "luna",
+            "link": "https://youtu.be/P4-6ykdNXE0",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "kyubd",
+            "link": "https://youtu.be/NKEuBia8zqE",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "BlissBee",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1418097015820259349/2025-09-18_00-45-51.mp4?ex=68cce143&is=68cb8fc3&hm=8f69af76228dea91d92facc723092ff2c576eb35e5601e611f8dd097e4b8da0a&",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "opakue",
+            "link": "https://youtu.be/iviKp6G77e4",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

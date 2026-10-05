@@ -1,0 +1,38 @@
+{
+    "id": 118366204,
+    "name": "Peeping Demon",
+    "author": "babseed",
+    "creators": ["babseed"],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=pQfvE-OOWYo",
+    "percentToQualify": "100",
+    "fps": "94",
+    "version": "2.1",
+    "CBF": "No",
+    "records": [
+        {
+            "user": "pastel",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1370984181051691008/0511.mp4?ex=68217c04&is=68202a84&hm=e964c286172dfdfca217c2fbddc40e113d961a88d4106c8b2dab29e74cc92abb&",
+            "hz": "94",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://www.youtube.com/watch?v=UQvHh6qYwT8",
+            "hz": "94",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/wFFFi1WAwzY?si=C3aVn9t1u6OjciaV",
+            "hz": "94",
+            "percent": 100
+        },
+        {
+            "user": "nensa",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1381590460987871343/Replay_2025-06-09_20-58-34_-_Trim.mp4?ex=684811e2&is=6846c062&hm=480909c1485d1acce7cbed5965a05b7ddfa16c3bb5fb83b28e92d0746fe624ae&",
+            "hz": "94",
+            "percent": 100
+        }
+    ]
+}

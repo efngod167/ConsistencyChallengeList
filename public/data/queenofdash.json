@@ -1,0 +1,85 @@
+{
+    "id": 122744651,
+    "name": "Queen of Dash",
+    "author": "pixelfactorial",
+    "creators": ["V10lence"],
+    "verifier": "V10lence",
+    "verification": "https://youtu.be/T1ILUTZGg3E",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "Sadisyourlife",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1407111088759378057",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Spaurst",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1436845582965801024",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1438800485384585337",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "MiRPacK19",
+			"link": "https://youtu.be/1iwAjQAX7zc",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "DJ DETH MAN",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1453361806977401048",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mEWvpunXZ4UPVqJC-?invite=cr-MSxpcXAsNTc1MDM1OTI1",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mESRiROvO644fqFuz",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "spherical_square",
+			"link": "https://youtu.be/5f-odJl661Q",
+			"hz": "240",
+			"percent": 100
+    	},
+		{
+			"user": "echoXD",
+			"link": "https://youtu.be/Y2tYm6eZQIk?si=QhMcwzKrkpSQIou9",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/games/geometry-dash/clips/mYYZDwBEI7Z-mMVf8?invite=cr-MSxkeWMsNTk3MTY0MTcw",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/3JFTRuc7Wis",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "FoldedZero",
+			"link": "https://youtu.be/fOI_Qwl0rSU",
+			"hz": "240",
+			"percent": 100
+		}
+	]
+} 

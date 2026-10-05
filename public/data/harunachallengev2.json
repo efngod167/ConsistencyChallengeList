@@ -1,0 +1,158 @@
+{
+    "id": 120739239,
+    "name": "haruna challenge v2",
+    "author": "NotXoti",
+    "creators": ["NotXoti"],
+    "verifier": "Haruna",
+    "verification": "https://youtu.be/wOGp6Bbasfw",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "masterace30",
+            "link": "https://youtu.be/HQV60DtnZJY",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "nensa",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1383110856455356467",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BZ1nVFdhuPk",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/EkbcX6ZzX6k",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "lStrawb",
+		    "link": "https://www.youtube.com/watch?v=3SHOdZMchys",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "SaltyGuy",
+		    "link": "https://www.youtube.com/watch?v=T_uCybt21-0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://youtu.be/IvcR-uCGrgU",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "someboi123",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kznywZ0gM-3ciRg05?invite=cr-MSxkQXUsNDA5NjU2MTg0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "aRcMX",
+		    "link": "https://youtu.be/RLwzYFobFhw",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "OnlyMitka",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1389146381616418858",
+		    "hz": "CBF",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "finni 1505",
+		    "link": "https://medal.tv/de/games/geometry-dash/clips/kCBLs7U1j6OvYfu2R?invite=cr-MSx5dWUsMzY5MjUzOTQw",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1391449465076056216",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "R17",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kDzhPGAFL8P9T4yVU?invite=cr-MSxINkYsMTk4ODUyMzQ2",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=ZurgI9NGd2w",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "shafikdabest",
+		    "link": "https://www.youtube.com/watch?v=OK3LqZTwPRQ",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "V10lence",
+		    "link": "https://youtu.be/4yqSNuKALoE",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ybVfADOXX3s",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1399742718045061323",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://youtu.be/cayRtLuzvcU",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "kyubd",
+		    "link": "https://youtu.be/NKEuBia8zqE",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "ekleraaa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416868665722409110",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+        {
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434111838462672906",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=aIJt3BN7HX0",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

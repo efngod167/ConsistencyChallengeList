@@ -1,0 +1,73 @@
+{
+    "id": 118439979,
+    "name": "Dragon Consistency",
+    "author": "UndeReL",
+    "creators": ["UndeReL"],
+    "verifier": "zWardott",
+    "verification": "https://www.youtube.com/watch?v=aEU_HdkrsQw",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/wFFFi1WAwzY?si=C3aVn9t1u6OjciaV",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/e7d63qi7fOY?si=-oCwX_fuSKmA4c_a",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Saturn",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1374005059263922246/0519_31.mp4?ex=682c796d&is=682b27ed&hm=07de3b098f23c7c0217c9eef4918dda55c0dc530fab857799384b1b327ac4c68&",
+            "hz": "144",
+            "percent": 100
+        },
+        {
+            "user": "Skibirizz",
+            "link": "https://youtu.be/0JBii4-7eD4?si=E6pw_R_a4kI2ldAR",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "RandomMonkey",
+		    "link": "https://www.youtube.com/watch?v=__w5xjGBa9w",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://youtu.be/RvbuIAi2ig0",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/o7RPWynuPbM",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Nuridin_T3B",
+		    "link": "https://youtu.be/6Cp-Sf21Wiw?si=i_kEeRf08P79Z7Kd",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://www.youtube.com/watch?v=SB-ixvb9Elo",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://www.youtube.com/watch?v=yCTApdVIiaM",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 121545203,
+    "name": "weary traveler",
+    "author": "SaturnSpeaks",
+    "creators": ["SaturnSpeaks"],
+    "verifier": "Saturn",
+    "verification": "https://youtu.be/7yPXP76J9gw",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Nuridin_T3B",
+		    "link": "https://youtu.be/rX3Wo7KE0DM?si=b22DoJGYSCgCNfLz",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "fobwaka",
+		    "link": "https://www.youtube.com/watch?v=ieeUkkvLWpE",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=4qNTEvRWzv0",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "ekleraaa",
+		    "link": "https://youtu.be/eDaxCvtKcgw?si=f7I9BViEl3zqv2HX",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

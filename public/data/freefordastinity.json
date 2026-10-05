@@ -1,0 +1,80 @@
+{
+    "id": 123624861,
+    "name": "Free for Dastinity",
+    "author": "DuckInTheUSA",
+    "creators": ["DuckInTheUSA"],
+    "verifier": "Dastinity",
+    "verification": "https://youtu.be/Lqe-Ft7zkVA",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"alternating": "Yes",
+    "records": [
+		{
+        	"user": "Sadisyourlife",
+        	"link": "https://youtu.be/7D_YpvPhcLg",
+        	"hz": "240",
+        	"percent": 100
+        },
+		{
+        	"user": "Voidspawn",
+        	"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1419090750955585546",
+        	"hz": "100",
+        	"percent": 100
+        },
+		{
+        	"user": "kyubd",
+        	"link": "https://youtu.be/5zc0Obew3zI",
+        	"hz": "CBF",
+        	"percent": 100
+        },
+		{
+        	"user": "Kai_The_Guy",
+        	"link": "https://medal.tv/games/geometry-dash/clips/l9jlKFAmH8X1FL2n9?invite=cr-MSxoNHUsNDM0MTUwNjg2&v=120",
+        	"hz": "240",
+        	"percent": 100
+        },
+        {
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434094713106989056",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=aIJt3BN7HX0",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "shreck0",
+			"link": "https://medal.tv/games/geometry-dash/clips/lqxOgUyEpd6-1HQ7W?invite=cr-MSxnRlEsNDA4NDQ0ODM3&v=21",
+			"hz": "CBF",
+			"percent": 100
+		}, 		
+		{
+			"user": "truth",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1435084071742083082",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Nuridin_T3b",
+			"link": "https://youtu.be/Q9usn3VWEMk?si=NuDUm0L8pZZuJWCE",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
+		},
+		{
+			"user": "chemicaltax35",
+			"link": "https://www.youtube.com/watch?v=7b4gtht8XP8",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Symm.",
+			"link": "https://medal.tv/games/geometry-dash/clips/lw0QKzwHW_IeSW1dZ?invite=cr-MSx3SUgsNDMyMzU1MDM3&v=24",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

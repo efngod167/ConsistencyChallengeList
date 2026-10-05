@@ -1,0 +1,36 @@
+{
+    "id": 123846308,
+    "name": "das is hot",
+    "author": "nensa",
+    "creators": [],
+    "verifier": "nensa",
+    "verification": "https://youtu.be/-_TLtzUulY8",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/leht3Fj0DdzXf0VDV?invite=cr-MSw3QmssMjMzODMwODYy&v=18",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1432571648996933745",
+            "hz": "240",
+            "percent": 100
+		},
+		{
+			"user": "LapamatoGMD",
+			"link": "https://youtu.be/J8cuGZLeLug",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+            "user": "Thebacon_gamer",
+            "link": "https://www.youtube.com/watch?v=T-h34sTkfd4",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

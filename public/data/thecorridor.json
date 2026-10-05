@@ -1,0 +1,43 @@
+{
+    "id": 128418385,
+    "name": "The Corridor",
+    "author": "tFluffy",
+    "creators": [],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/7GXzIcJmAr4",
+    "percentToQualify": "100",
+  "fps": "80",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://medal.tv/games/geometry-dash/clips/lJby3ls7zgJDJiSjG?invite=cr-MSwxOFUsMjcwNDA2NTcx&v=10",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1457401496852496569",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1459681759812780043",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "liti1113",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1474311307724324957",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/myfMSpZYH6swxDmj_?invite=cr-MSx6RTgsMzAwMTE3NTc5&v=10",
+			"hz": "80",
+			"percent": 100
+		}
+    ]
+}

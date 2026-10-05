@@ -1,0 +1,26 @@
+{
+    "id": 127126681,
+    "name": "Jumps of John",
+    "author": "blightedcoconut",
+    "creators": ["blightedcoconut"],
+    "verifier": "StumbonGD",
+    "verification": "https://youtu.be/5cnu5Z00kdo",
+    "percentToQualify": "100",
+    "fps": "120",
+    "version": "2.2",
+    "CBF": "No",
+    "records": [
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/K089o14tJUg",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "monsterd",
+            "link": "https://www.youtube.com/watch?v=Zk9K0LP2pnU",
+            "hz": "120",
+            "percent": 100
+        }
+]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "147998851",
+    "name": "Nano Waving",
+    "author": "Pengus",
+    "creators": ["Pengus"],
+    "verifier": "Something",
+    "verification": "https://youtu.be/2Z76cnantqM",
+    "percentToQualify": "100",
+    "version": "2.2",
+"fps": "240",
+"CBF": "Yes",
+    "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/nsQA1zBk6F-7Oyyn3?invite=cr-MSxVRGwsNTc1MDM1OTI1",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ImSaturnN",
+            "link": "https://discord.com/channels/1342438507527802901/1556145360454287451/1556145360454287451",
+            "hz": "CBF",
+            "percent": 100
+        }
+]
+}

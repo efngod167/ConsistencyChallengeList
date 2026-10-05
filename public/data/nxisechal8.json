@@ -1,0 +1,19 @@
+{
+    "id": 119420582,
+    "name": "NXISE CHALLENGE VIII",
+    "author": "JoinMolten",
+    "creators": ["JoinMolten"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/F1KhNQ0plYo",
+    "percentToQualify": "100",
+  	"fps": "240",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mbGRlYpjONrtUnz8J?invite=cr-MSxOekcsMzAwMTE3NTc5&v=10",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

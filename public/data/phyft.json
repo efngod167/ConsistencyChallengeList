@@ -1,0 +1,18 @@
+{
+    "id": 127427263,
+    "name": "PHYFT Will smith",
+    "author": "MrArmYT",
+    "creators": ["blightedcoconut, MrArmYT"],
+    "verifier": "ClawBuckle",
+    "verification": "https://www.youtube.com/watch?v=a7vJyaq8S0o",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1447719660488360168",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

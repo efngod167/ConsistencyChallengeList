@@ -1,0 +1,110 @@
+{
+    "id": 119136846,
+    "name": "Drunk Punch",
+    "author": "NotXoti",
+    "creators": ["NotXoti"],
+    "verifier": "Haruna",
+    "verification": "https://www.youtube.com/watch?v=duWXE24UKN4",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"alternating": "No",
+    "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1383000090343374889/drunk_punch.mp4?ex=684d32b4&is=684be134&hm=22e8c210a9ef1edd140de6ec0bd85eba5f1d8f629a8c773618dd3af4b34818d2&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Skibirizz",
+		    "link": "https://youtu.be/OGGnUVHU4Ok",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+	    "user": "nensa",
+	    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1383393931647258694/Replay_2025-06-14_19-22-10_-_Trim.mp4?ex=684ea17f&is=684d4fff&hm=2c2e14cc3fd712c2b8feb2b96549a64a189d6152ff618a809c7e97bf1834ab8e&",
+	    "hz": "CBF",
+	    "percent": 100
+	    },
+	    {
+		    "user": "kap1195",
+		    "link": "https://youtu.be/xttqA7Nbzrw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "between",
+		    "link": "https://www.youtube.com/watch?v=djzht5OyvJw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Thursday",
+		    "link": "https://www.youtube.com/watch?v=6GursTSCvA0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "inyostacm13",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387370304891785247/Geometry_Dash_2568-06-25_16-43-09_online-video-cutter.com.mp4?ex=685d18c8&is=685bc748&hm=89dc9e9d3513834b4b79cef197932def4a603a1b969f9fa76cbd3a8a48353180&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "xdTAGCLAN",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387484139250385018/83_drunk_punch.mp4?ex=685d82cd&is=685c314d&hm=29b5b161126161e474fe008e17baa8d52daa068ac53fc9ad1a972e80122c3cc4&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "kyubd",
+		    "link": "https://www.youtube.com/watch?v=cnCyn6fqv7Y",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395334845349236777",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Brownntissue",
+		    "link": "https://youtu.be/cLvzVxA0hEg",
+		    "hz": "144",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=JPLWWUqg3tw",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/7JL0M1JcoWU",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Scientist Baldi",
+		    "link": "https://www.youtube.com/watch?v=TrtG5tgrprc",
+		    "hz": "120",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1401703277246156951/MedalTVGeometryDash20250803190509-tr-edit_1.mp4?ex=68913d67&is=688febe7&hm=841055b787113a8388fcd5c30e1353a1af90223b478d4b70a15e3227efc4f9f4&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "shafikdabest",
+		    "link": "https://youtu.be/4AYmrljzA8g",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

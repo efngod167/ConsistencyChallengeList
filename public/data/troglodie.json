@@ -1,0 +1,18 @@
+{
+    "id": 127509428,
+    "name": "troglodyte",
+    "author": "blightedcoconut",
+    "creators": ["blightedcoconut"],
+    "verifier": "Thebacon_gamer",
+    "verification": "https://youtu.be/JVr2hwDmX4M",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1457401496852496569",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

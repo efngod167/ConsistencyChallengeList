@@ -1,0 +1,78 @@
+{
+    "id": 120682038,
+    "name": "SMILEeeeeee",
+    "author": "kap1195",
+    "creators": [],
+    "verifier": "kap1195",
+    "verification": "https://www.youtube.com/watch?v=biq5Snvt7BM",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1383104653092192397/Replay_2025-06-08_23-34-01_-_Trim.mp4?ex=684d9416&is=684c4296&hm=7434fa4c15d9c33d773555c0c737adf8a041b92a98f3f594d3cd8ac7ea27ab9d&",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "Saturn",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1383120940589645864/0613_4.mp4?ex=684da341&is=684c51c1&hm=f9a94acf28f818f4839b36052e60ffa345ecbe1122776116a896e46d41ea7103&",
+		    "hz": "144",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BZ1nVFdhuPk",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/EkbcX6ZzX6k",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sol-XSL",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1384219547292270765/SMILEeeeeee.mov?ex=6851a269&is=685050e9&hm=1fef46fcfb5ea4c2d9ea76da6af67cfbdb7048988a76f81d08a83911de303c2a&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Pos1tive",
+		    "link": "https://www.youtube.com/live/YjrNgN6i9GQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "inyostacm13",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1386317100741693570/122.mp4?ex=685943e9&is=6857f269&hm=5f7f9d9760417a400b8aba30b95be40c373600f3b979459e4ac7952164c2c224&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386390125038010569",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "xdTAGCLAN",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1387484919323693056/131_SMILEeeeeee.mp4?ex=685d8386&is=685c3206&hm=4c903f9c55f19bc5a2cea38edf1913e4c9a8f291ddb3e2912afa2ca9e58a0d13&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://www.youtube.com/watch?v=aeh_a54wPM8",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "uwoGD",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1388795114259746887/Geometry_Dash_2025.06.28_-_23.25.38.34.DVR.mp4?ex=686247bd&is=6860f63d&hm=a9c822784bb4f7ee79e6a68c48e3f992dbf2e85cca69b606f2e7a3bfeb7fd947&",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}

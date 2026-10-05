@@ -1,0 +1,38 @@
+{
+    "id": "146217523",
+    "name": "NUMB WAVE",
+    "author": "FoldedZero",
+    "creators": ["FoldedZero, zis08"],
+    "verifier": "FoldedZero",
+    "verification": "https://www.youtube.com/watch?v=1DRsgKzVdfQ",
+    "percentToQualify": "100",
+    "version": "2.2",
+"fps": "60",
+"CBF": "No",
+    "records": [
+        {
+            "user": "maxf",
+            "link": "https://youtu.be/_OVy4dJY8g0?si=_mARkjh9K5Z-FvT3",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "bananas",
+            "link": "https://discord.com/channels/1342438507527802901/1555305390105829546/1555305390105829546",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "habibkitty",
+            "link": "https://youtu.be/U2kot-KPAW8",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ImSaturnN",
+            "link": "https://discord.com/channels/1342438507527802901/1556191390759911485/1556191390759911485",
+            "hz": "60",
+            "percent": 100
+        }
+]
+}

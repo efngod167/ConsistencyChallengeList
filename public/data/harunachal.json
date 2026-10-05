@@ -1,0 +1,85 @@
+{
+    "id": 119742024,
+    "name": "haruna challenge",
+    "author": "NotXoti",
+    "creators": ["NotXoti, SaturnSpeaks"],
+    "verifier": "Haruna",
+    "verification": "https://youtu.be/8EAMu3Eg7fQ",
+    "percentToQualify": "100",
+    "fps": "144-240",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386403861723480064",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386748071295324241",
+		    "hz": "144",
+		    "percent": 100
+	    },
+	    {
+		    "user": "jeremiah",
+		    "link": "https://www.youtube.com/watch?v=drk5-S3KhrI",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sh4in3",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kNFatifxzQ9vcZWRt?invite=cr-MSwxazAsMjA0NjczODMy&v=16",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://www.youtube.com/watch?v=5fFwLEf9DNM",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/odeESqoaZBQ",
+			"hz": "CBF",
+			"percent": 100
+		},
+  {
+   "user": "Mefistic",
+   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1421238807617081454",
+   "hz": "CBF",
+   "percent": 100
+  },
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/lo9lXN9c0B0nm9a9i?invite=cr-MSxETjAsMjMzODMwODYy&v=14",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433639074933112842",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434219582280695910",
+			"hz": "CBF",
+			"percent": 100
+		},
+						{
+			"user": "Thebacon_gamer",
+			"link": "https://medal.tv/games/geometry-dash/clips/lDjPA0mvbweBTrdrW?invite=cr-MSxXR0ssMjcwNDA2NTcx&v=12",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/games/geometry-dash/clips/lKe02cBbkXw588SC-?invite=cr-MSxMZ0wsMzY5MjUzOTQw",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

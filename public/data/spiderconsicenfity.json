@@ -1,0 +1,54 @@
+{
+    "id": 121470367,
+    "name": "Spider Consicenfity",
+    "author": "4096Tristan",
+    "creators": ["4096Tristan"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/1BV5yX9t_dY",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+		    "user": "bananas",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kWZ72W8VyFZz7ZNyC?invite=cr-MSw2VEIsMjMzODMwODYy",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+						{
+		    "user": "Sadisyourlife",
+		    "link": "https://youtu.be/7tSZ1XxEPpY",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416165821952164044",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "kyubd",
+		    "link": "https://youtu.be/-te-7dDQ_2Y",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "galbeni7",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434218998672789606",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1440912660240662580",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "KrAzY DuDe LR",
+			"link": "https://medal.tv/games/geometry-dash/clips/lFc4DlJ2RwLufdFNK?invite=cr-MSwxencsMjE1OTg2MDY5&v=40",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

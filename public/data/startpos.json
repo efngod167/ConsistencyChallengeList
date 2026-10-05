@@ -1,0 +1,18 @@
+{
+    "id": 121366817,
+    "name": "startpos 5",
+    "author": "ywuChaos",
+    "creators": ["Nick24, ywuChaos"],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=Qc1kcb5J6G4",
+    "percentToQualify": "100",
+    "version": "2.2",
+    "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1428648449812729907",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 125835880,
+    "name": "minimal x2",
+    "author": "hypeytw",
+    "creators": ["giverobuxadfg, hypeytw"],
+    "verifier": "Maxr",
+    "verification": "https://youtu.be/upNbRTVkzJc",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+     {
+          "user": "Sadisyourlife",
+          "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1417183533105152042",
+          "hz": "CBF",
+          "percent": 100
+     }
+    ]
+}

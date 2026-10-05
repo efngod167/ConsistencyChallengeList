@@ -1,0 +1,48 @@
+{
+    "id": 127130027,
+    "name": "tims time x4",
+    "author": "MrArmYT",
+    "creators": ["KolaHD, Mystical, hlhl, MrArmYT"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/1jtUMN1FXAU",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "finni 1505",
+			"link": "https://www.youtube.com/watch?v=HTP1AbNFeh8",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1438039691273306202",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/na1fO6ZLFn7cJcKTw?invite=cr-MSxZNXMsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nc5LIYedvv5GebJbR?invite=cr-MSx6OUYsMzAwMTE3NTc5",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/zVJJ9Kp5iOc",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/jf1M7DOmw_8",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

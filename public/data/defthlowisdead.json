@@ -1,0 +1,48 @@
+{
+    "id": 124199211,
+    "name": "defthlow is dead",
+    "author": "idkthisnamelol",
+    "creators": ["HequinoX, JoinMolten, idkthisnamelol"],
+    "verifier": "bananas",
+    "verification": "https://youtu.be/Vy0SJyj29Wk",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+     {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/0QztHLXa_o0",
+        "hz": "CBF",
+        "percent": 100
+      },
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433636843190226964",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/r1kF6rcdqSc",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://youtu.be/JVr2hwDmX4M?si=TRSv_l1dyw61-QMP",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434220378149879933",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/8eYIZ4jHhBI",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

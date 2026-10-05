@@ -1,0 +1,67 @@
+{
+    "id": 146971509,
+    "name": "midnight flight",
+    "author": "gngrr",
+    "creators": [],
+    "verifier": "gngrr",
+    "verification": "https://youtu.be/JNHU12qT3yM",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"CBF": "Yes",
+    "records": [
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nl6nDMqEHUO-yl3L-?invite=cr-MSxKYlQsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/8WtNnx6ryOQ",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "TheBridgerMC",
+			"link": "https://youtu.be/njUZ8IPOOhE?is=XcQ4-FV5Qf-TZ-hx",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Dihment",
+			"link": "https://medal.tv/games/geometry-dash/clips/no5yMYNNByTdZtBYX?invite=cr-MSxVN3gsMzg3MDU4MDc4",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tpzAzot",
+			"link": "https://youtu.be/HAfQ3uHR-S0",
+			"hz": "240",
+			"percent": 100
+        },
+        {
+            "user": "stumbongd",
+            "link": "https://youtu.be/CEzixvuUxEM",
+            "hz": "240",
+            "percent": 100
+      },
+        {
+            "user": "deerlover",
+            "link": "https://medal.tv/games/geometry-dash/clips/npzX4F28tzWUkHHtk?invite=cr-MSwzVEgsNDkwNTM3MTA2",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+			"user": "bufet",
+			"link": "https://medal.tv/games/geometry-dash/clips/npHjW0z0mQWqCCiaB?invite=cr-MSwxWUEsNDE5MzI5MDM1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Astral",
+			"link": "https://www.youtube.com/shorts/UWo0y6p2r-M",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

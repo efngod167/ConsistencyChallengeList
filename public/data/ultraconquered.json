@@ -1,0 +1,38 @@
+{
+    "id": 127652638,
+    "name": "Ultra conquered",
+    "author": "Synchiro",
+    "creators": [],
+    "verifier": "Synchiro",
+    "verification": "https://youtu.be/ctZnSLRTxGo",
+    "percentToQualify": "100",
+  "fps": "240",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "mrMonky300",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1457757043514540073",
+			"hz": "240",
+			"percent": 100
+		},
+  {
+   "user": "ZenosSins",
+   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1458648177954787399",
+   "hz": "240",
+   "percent": 100
+  },
+		{
+			"user": "INITIAL",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1469388613849452841",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "slam",
+			"link": "https://www.youtube.com/watch?v=Me-k1fkoZcU",
+			"hz": "240",
+			"percent": 100
+		}
+			
+    ]
+}

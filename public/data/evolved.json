@@ -1,0 +1,50 @@
+{
+    "id": 121599556,
+    "name": "evolved",
+    "author": "blightedcoconut",
+    "creators": ["blightedcoconut"],
+    "verifier": "Sadisyourlife",
+    "verification": "https://youtu.be/RleMK0Ge_r4",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1426625408761335940",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "INITIAL",
+		    "link": "https://www.youtube.com/watch?v=FNzqQzRR3hs",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "slam",
+		    "link": "https://www.youtube.com/watch?v=ZqzJuIXgO8w",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Luke",
+		    "link": "https://medal.tv/games/geometry-dash/clips/mNvtWHl3is9rT2pFu?invite=cr-MSxIelUsMzAwMTE3NTc5&v=15",
+		    "hz": "240",
+		    "percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nfNfcXXuMnHdj67O3?invite=cr-MSxxS2UsNTc1MDM1OTI1",
+			"hz": "240",
+			"percent": 100
+},
+		{
+			"user": "Nicky",
+			"link": "https://www.youtube.com/watch?v=2MmerVBaU2U",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

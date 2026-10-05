@@ -1,0 +1,61 @@
+{
+    "id": 141861604,
+    "name": "bone",
+    "author": "pengus",
+    "creators": ["pengus"],
+    "verifier": "PengusP",
+    "verification": "https://youtu.be/VLJouqxjYe0",
+    "percentToQualify": "100",
+	"fps": "240",
+	"version": "2.2",
+    "records": [
+	   {
+		   "user": "Luke",
+		   "link": "https://medal.tv/games/geometry-dash/clips/n3WUH0rectAPpucws?invite=cr-MSxtRE4sMzAwMTE3NTc5&v=12",
+		   "hz": "CBF",
+		   "percent": 100
+	    },
+	    {
+		    "user": "jaygol",
+		    "link": "https://medal.tv/games/geometry-dash/clips/n9EYSaoj84tKspfdR?invite=cr-MSx5ZE0sNTc1MDM1OTI1 ",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "KOTDH",
+			"link": "https://youtu.be/3mRoA1H5nJY",
+			"hz": "CBF",
+			"percent": 100
+	    },
+		{
+			"user": "something",
+			"link": "https://youtu.be/FhRamZlSdf4",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/6Yf63xo7S5k",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "EpixsGD",
+			"link": "https://www.youtube.com/watch?v=wZ92CU1sqA4",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Subvr",
+			"link": "https://medal.tv/games/geometry-dash/clips/nlgLWxxnVHXhtuOCF?invite=cr-MSxsbzYsMjkwOTQ4MTc3",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/8cbSbkZnuZc",
+			"hz": "CBS",
+			"percent": 100
+		}
+	]
+}

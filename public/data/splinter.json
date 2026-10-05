@@ -1,0 +1,48 @@
+{
+    "id": 120574977,
+    "name": "splinter",
+    "author": "DuffGMD",
+    "creators": ["giverobuxadfg"],
+    "verifier": "Duff",
+    "verification": "https://www.youtube.com/watch?v=uMlVGJwT0s4",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=2mH5O3XHId8",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1438051373429166141",
+			"hz": "240",
+			"percent": 100
+		},
+		{ 
+			"user": "imasssaya",	
+ 			"link": "https://youtu.be/ZJ_tVMrihRU",
+ 			"hz": "CBF", 
+			"percent": 100 
+		},
+		{ 
+			"user": "2OO3",	
+ 			"link": "https://youtu.be/s-R6VQA6b-Q?si=daqqg0iu3hthxBX1",
+ 			"hz": "CBF", 
+			"percent": 100 
+		},
+		{
+			"user": "TonyIsAYT",
+			"link": "https://youtu.be/qBMAR6Twjng",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/watch?v=TA6gu1Lgwmg",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 123443889,
+    "name": "how to ccl",
+    "author": "LitePack",
+    "creators": ["LitePack"],
+    "verifier": "MiRPacK19",
+    "verification": "https://youtu.be/F1h_ZWJfYsg",
+    "percentToQualify": "100",
+    "version": "2.2",
+    "records": [
+        {
+          "user": "pixelfactorial",
+          "link": "https://youtu.be/YnIO_9_dYe8",
+          "hz": "CBF",
+          "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1429300721001562142",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/lo9xfcLyxKzcbawRi?invite=cr-MSxBcXYsMjMzODMwODYy&v=40",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/live/56RjOzVvnaI",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://youtu.be/JVr2hwDmX4M?si=TRSv_l1dyw61-QMP",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 130773113,
+    "name": "Claustrophobe Cavern",
+    "author": "tFluffy",
+    "creators": [],
+    "verifier": "tFluffy",
+    "verification": "https://www.youtube.com/watch?v=aeVL1KPBVHI",
+    "percentToQualify": "100",
+    "fps": "80",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "thebacon_gamer",
+			"link": "https://medal.tv/games/geometry-dash/clips/maJyBB1OyLHBOutkX?invite=cr-MSxvWjEsMjcwNDA2NTcx&v=15",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nrPJ2mqiN0KjyyhXI?invite=cr-MSw3bUMsNTc1MDM1OTI1",
+			"hz": "80",
+			"percent": 100
+			},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nshpscvM6vzowA4bf?invite=cr-MSxPSTEsMzAwMTE3NTc5",
+			"hz": "80",
+			"percent": 100
+		}
+    ]
+}

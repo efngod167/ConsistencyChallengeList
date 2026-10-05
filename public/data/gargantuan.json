@@ -1,0 +1,36 @@
+{
+    "id": 121009971,
+    "name": "Gargantuan",
+    "author": "PhroggoDude",
+    "creators": ["PhroggoDude"],
+    "verifier": "Sadisyourlife",
+    "verification": "https://youtu.be/mtnGtBnvLFs",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+		    "user": "Dastinity",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1404926694648840262",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://youtu.be/cayRtLuzvcU",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "ekleraaa",
+			"link": "https://www.youtube.com/watch?v=-G0QNEnc9qg",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/kWY67Ffi3wdDMojVW?invite=cr-MSxaUzUsMjMzODMwODYy",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

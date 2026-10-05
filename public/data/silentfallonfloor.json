@@ -1,0 +1,69 @@
+{
+    "id": 109510900,
+    "name": "Silent FALL ON FLOOR",
+    "author": "Anceps",
+    "creators": ["Anceps"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/ovLsfqY8070?si=h0kkSbhRjG936mK7",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1438062644753076234",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "KrAzy DuDe LR",
+			"link": "https://medal.tv/games/geometry-dash/clips/lFsWspi0FjygCf6Gv?invite=cr-MSxCZ0gsMjE1OTg2MDY5&v=60",
+			"hz": "CBF",
+			"percent": 100
+
+		}, 
+		{ 
+			"user": "pixelfactorial",	
+ 			"link": "https://youtu.be/I2P7EFwadmo",
+			"hz": "CBF", 
+			"percent": 100 
+		}, 
+		{ 
+			"user": "maxf",	
+ 			"link": "https://youtu.be/d69P9zNIQto",
+			"hz": "CBF", 
+			"percent": 100 
+		}, 
+		{ 
+			"user": "Sadisyourlife",	
+ 			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+ 			"hz": "CBF", 
+			"percent": 100 
+		},
+		{ 
+			"user": "2OO3",	
+ 			"link": "https://youtu.be/S-W1Pi6uLg0",
+ 			"hz": "CBF", 
+			"percent": 100 
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/n5xa0Afju7px3B1v9?invite=cr-MSxvdTQsMzAwMTE3NTc5",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/n9ArUGNTqOGdNlsJ2?invite=cr-MSxGNkIsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "stumbongd",
+			"link": "https://youtu.be/v2M7buQ1-wY",
+			"hz": "240",
+			"percent": 100
+		}
+	] 
+} 
+
+

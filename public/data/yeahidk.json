@@ -1,0 +1,37 @@
+{
+    "id": 122981448,
+    "name": "yeah idk",
+    "author": "Nuridint3b",
+    "creators": ["Nuridint3b"],
+    "verifier": "Nuridin_T3b",
+    "verification": "https://youtu.be/14mxyhvQuUM",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/7D_YpvPhcLg",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+            "user": "pat 8",
+            "link": "https://youtu.be/UlfLvzr0NDM",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "FJKR",
+			"link": "https://medal.tv/ru/games/geometry-dash/clips/lq3ZlvTVa17TyQVE1?invite=cr-MSx5UGIsNDM2Nzg5MDc5&v=30",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434448405438009376",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

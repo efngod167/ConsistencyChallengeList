@@ -1,0 +1,48 @@
+{
+    "id": 121405959,
+    "name": "qibli",
+    "author": "popccaatt",
+    "creators": ["popccaatt"],
+    "verifier": "popcat",
+    "verification": "https://youtu.be/xbIGdK3fcKQ",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/sfZGkF1T11Q",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+            "user": "Sadisyourlife",
+            "link": "https://www.youtube.com/watch?v=WBdgdZWETp0",
+            "hz": "240",
+            "percent": 100
+        },
+	    {
+            "user": "Andras9912",
+            "link": "https://www.youtube.com/watch?v=HdgfjG9IS8k",
+            "hz": "144",
+            "percent": 100
+        },
+		{
+            "user": "bananas",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1403187630237159585",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/5cbCWAeBgd4",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+			"user": "ekleraaa",
+			"link": "https://www.youtube.com/watch?v=-G0QNEnc9qg",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": 143858612,
+    "name": "Variation",
+    "author": "pengus",
+    "creators": ["pengus"],
+    "verifier": "Stumbongd",
+    "verification": "https://youtu.be/Q9HgSi-UyO0",
+    "percentToQualify": "100",
+	"fps": "240",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "ZenosSins",
+			"link": "https://youtu.be/ohd01JlWjWo",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nccLB892xuuuTPRvc",
+			"hz": "240",
+			"percent": 100
+        },
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/nav7Ysjwkks6y2Vgl?invite=cr-MSw0ZnYsNTc1MDM1OTI1",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "Bruv961",
+			"link": "https://youtu.be/CN3kFJfST6c",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/6Yf63xo7S5k",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "nicky",
+			"link": "https://www.youtube.com/watch?v=eq0t3MFZjQI",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1538253759031935106/1538253759031935106",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "UnderDoogie",
+			"link": "https://youtu.be/PDOUOTIubgU",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "swifticat",
+			"link": "https://discord.com/channels/1342438507527802901/1548584566162202674/1548584566162202674",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "WindoDash",
+			"link": "https://www.youtube.com/watch?v=_-Skdc96tS8",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "nxryn",
+			"link": "https://medal.tv/games/geometry-dash/clips/nBdKmkL8W94USI9Xg?invite=cr-MSxrcTAsNzQxMzQ5Mzk0",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "divinussonata",
+			"link": "https://medal.tv/games/geometry-dash/clips/nEqH2x7u1tt635dxL?invite=cr-MSxOdDIsMjUyODIyNTgy",
+			"hz": "240",
+			"percent": 100
+		}
+	]
+}
+

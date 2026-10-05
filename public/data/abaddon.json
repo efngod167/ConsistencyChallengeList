@@ -1,0 +1,84 @@
+{
+    "id": 130299694,
+    "name": "Abaddon",
+    "author": "Semispace",
+    "creators": [],
+    "verifier": "Semispace",
+    "verification": "https://www.youtube.com/watch?v=Krhk3woYVF0",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+  {
+   "user": "tFluffy",
+   "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1457465470364946452",
+   "hz": "CBF",
+   "percent": 100
+	  },
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1477583171187904603",
+			"hz": "CBF",
+			"percent": 100
+  }, 
+  { 
+			"user": "bananas",	
+ 			"link": "https://medal.tv/games/geometry-dash/clips/mIxSZq7Dx10A058PT?invite=cr-MSxjOHksMjMzODMwODYy&v=19",
+ 			"hz": "CBF", 
+			"percent": 100
+}, 
+  { 
+			"user": "Luke",	
+ 			"link": "https://medal.tv/games/geometry-dash/clips/mSqkVUh0a6yT9GTdv?invite=cr-MSxWT04sMzAwMTE3NTc5&v=21",
+ 			"hz": "CBF", 
+			"percent": 100
+},
+		{
+		    "user": "JayGol",
+		    "link": "https://medal.tv/games/geometry-dash/clips/mSVNEJAlT7UZ28p9v?invite=cr-MSxna24sNTc1MDM1OTI1",
+		    "hz": "CBF",
+		    "percent": 100
+		},
+		{ 
+			"user": "noobyguy1",	
+ 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1523847392384778251",
+ 			"hz": "CBF", 
+		    "percent": 100 
+		},
+		{
+			"user": "Cyzyex",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1530866470836244500",
+			"hz": "CBF", 
+			"percent": 100
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/games/geometry-dash/clips/ncmERLROJkEz9vZDf?invite=cr-MSx2Sk4sMzY5MjUzOTQw",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1536729692428574901",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/Vkqj1K7d0e8",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/gUwj3wfeylA",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "monsterd",
+			"link": "https://www.youtube.com/watch?v=_YSlNcudR_o",
+			"hz": "CBF",
+			"percent": 100
+		}
+	] 
+} 

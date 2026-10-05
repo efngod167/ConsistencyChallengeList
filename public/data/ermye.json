@@ -1,0 +1,115 @@
+{
+    "id": 124221111,
+    "name": "erm ye",
+    "author": "1xnpr0bab1y",
+    "creators": [""],
+    "verifier": "1xnpr0bab1y",
+    "verification": "https://www.youtube.com/watch?v=huLj_zQ32dw",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+        	"user": "blightedcoconut",
+        	"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416080330561163285",
+        	"hz": "240",
+        	"percent": 100
+        },
+		{
+        	"user": "Sadisyourlife",
+        	"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416097949930356968",
+        	"hz": "CBF",
+        	"percent": 100
+        },
+		{
+        	"user": "nensa",
+        	"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416102002454298656",
+        	"hz": "CBF",
+        	"percent": 100
+        },
+		{
+        	"user": "bananas",
+        	"link": "https://medal.tv/games/geometry-dash/clips/l5WHSGyZgMthmhfDh?invite=cr-MSxKTXQsMjMzODMwODYy&v=7",
+        	"hz": "240",
+        	"percent": 100
+        },
+		{
+			"user": "ekleraaa",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416713422367621222",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/NKEuBia8zqE",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "pat 8",
+			"link": "https://youtu.be/cU52Kk_VU2g",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Void",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1418253892113928302",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Nachikoru",
+			"link": "https://youtu.be/ptZXkcVxoaU?si=VNfO64SlLborLVU0",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Tank700",
+			"link": "https://youtu.be/_CrkD9cTrEA?si=FnB7tcmTU74CzkAS",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=aIJt3BN7HX0",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434448405438009376",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434215733260189958",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434700792224284812",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Spaurst",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1435736456709673173",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/de/games/geometry-dash/clips/lseXNHJiSSx2XYqjG?invite=cr-MSxIVVgsMzY5MjUzOTQw&v=15",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Nuridin_T3b",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1436395256726687906",
+			"hz": "CBF",
+			"percent": 100,
+			"mobile": "true"
+		}
+    ]
+}

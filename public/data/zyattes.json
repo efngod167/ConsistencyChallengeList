@@ -1,0 +1,37 @@
+{
+    "id": 129535944,
+    "name": "Zyattes Aoubzuordde",
+    "author": "tFluffy",
+    "creators": [],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/A7flOklL4kU",
+    "percentToQualify": "100",
+    "fps": "80",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/srxxC3WCQd0",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtube.com/shorts/SWSIDbNgzvs",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mc19ay91EL3-FoMlL?invite=cr-MSxVN2osMzAwMTE3NTc5&v=13",
+			"hz": "80",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mzA4y54rmlUTxu_H-?invite=cr-MSw1YjQsNTc1MDM1OTI1",
+			"hz": "80",
+			"percent": 100
+		}
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 110437731,
+    "name": "6am consistency",
+    "author": "natsumio",
+    "creators": ["RelAngel, natsumio"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/iJk6Sz_23CQ",
+    "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+		    "user": "ScratchMobile",
+		    "link": "https://youtu.be/PEUKfz2JDFE",
+		    "hz": "60",
+		    "percent": 100
+	   	},
+		{
+			"user": "Jaygol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mFfFFM3CTqDXOvUSL?invite=cr-MSwzdHcsNTc1MDM1OTI1",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "spherical_square",
+			"link": "https://youtu.be/5f-odJl661Q",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mMhoswGDt4d8dBIkY?invite=cr-MSxZaXMsMzAwMTE3NTc5&v=13",
+			"hz": "60",
+			"percent": 100
+		}, 
+		{ 
+			"user": "Sadisyourlife",	
+ 			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+			"hz": "60", 
+			"percent": 100 
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/games/geometry-dash/clips/n2eGzUODb3_PaTjEj?invite=cr-MSxDRlgsNTk3MTY0MTcw&v=15",
+			"hz": "60",
+			"percent": 100
+		}
+	] 
+} 
+
