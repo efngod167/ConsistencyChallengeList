@@ -70,7 +70,7 @@ function RequirementsPage() {
                   className="flex items-center gap-2.5"
                 >
                   <img
-                    src={`/assets/${roleIconMap[editor.role]}-dark.svg`}
+                    src={`${import.meta.env.BASE_URL}assets/${roleIconMap[editor.role]}-dark.svg`}
                     alt={editor.role}
                     className="h-4 w-4 opacity-80"
                   />

@@ -268,7 +268,7 @@ function ListPage() {
                     </a>
                     {record.mobile && (
                       <img
-                        src="/assets/phone-landscape-dark.svg"
+                        src={`${import.meta.env.BASE_URL}assets/phone-landscape-dark.svg`}
                         alt="Mobile"
                         className="h-4 w-4 opacity-70"
                       />

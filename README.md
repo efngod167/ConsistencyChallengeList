@@ -12,11 +12,13 @@ Backend - TheShittyList (https://tsl.pages.dev/)
 Owner - pixelfactorial
 
 
+Owner - blightedcoconut
+
+
 Admin - tFluffy
 
 Admin - Sadisyourlife
 
-Owner - blightedcoconut
 
 Admin - finni 1505
 

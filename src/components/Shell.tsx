@@ -22,7 +22,7 @@ export function Nav() {
       <div className="site-header__inner mx-auto flex min-h-20 w-full max-w-[1600px] flex-wrap items-center gap-4 px-5 py-3 lg:gap-7">
         <Link to="/" className="flex items-center gap-3">
           <img
-            src="/newicon.png"
+            src={`${import.meta.env.BASE_URL}newicon.png`}
             alt="CCL"
             className="h-11 w-11 rounded-xl border border-cyan-500/20"
           />
