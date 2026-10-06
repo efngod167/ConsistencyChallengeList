@@ -4,7 +4,7 @@
  * same scoring formula, same leaderboard aggregation.
  */
 
-const dir = "/data";
+const dir = `${import.meta.env.BASE_URL}data`;
 const scale = 3;
 
 export type Record_ = {

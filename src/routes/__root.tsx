@@ -57,7 +57,7 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
             Try again
           </button>
           <a
-            href="/"
+            href={import.meta.env.BASE_URL}
             className="inline-flex items-center justify-center rounded-xl border border-cyan-500/15 bg-background px-5 py-2.5 text-xs font-bold tracking-widest text-foreground uppercase transition-colors hover:bg-accent"
           >
             Go home
@@ -93,7 +93,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap",
       },
-      { rel: "icon", href: "/newicon.png" },
+      { rel: "icon", href: `${import.meta.env.BASE_URL}newicon.png` },
     ],
   }),
 
