@@ -1,0 +1,43 @@
+{
+    "id": 118477834,
+    "name": "❌ At the good part ❌",
+    "author": "FatFemboyThighs",
+    "creators": ["FatFemboyThighs"],
+    "verifier": "ellie!",
+    "verification": "https://www.youtube.com/watch?v=swEFyGwuyK0",
+    "percentToQualify": "100",
+    "fps": "60-240",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://www.youtube.com/watch?v=9TwIWKzwCJ8",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Saturn",
+            "link": "https://youtu.be/gHobFSM1jvE",
+            "hz": "144",
+            "percent": 100
+        },
+	    {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=RqtAZQvxiXA",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/ld8MJ1oxrds?si=siTCnwAFZKopWXAZ",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "EviV2",
+		    "link": "https://www.youtube.com/watch?v=WjQlDjaRfqA",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

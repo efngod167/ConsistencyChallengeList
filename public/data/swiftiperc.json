@@ -1,0 +1,20 @@
+{
+    "id": "148665166",
+    "name": "swiftiperc",
+    "author": "swifticat",
+    "creators": ["swifticat"],
+    "verifier": "swifticat",
+    "verification": "https://youtu.be/oVN-22r4WTA",
+    "percentToQualify": "100",
+    "version": "2.2",
+"fps": "CBF",
+"CBF": "Required",
+    "records": [
+        {
+            "user": "finni 1505",
+            "link": "https://medal.tv/games/geometry-dash/clips/nEp7ZyZv37wu-Sicq?invite=cr-MSw2THAsMzY5MjUzOTQw",
+            "hz": "CBF",
+            "percent": 100
+        }
+]
+}

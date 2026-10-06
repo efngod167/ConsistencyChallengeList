@@ -1,0 +1,48 @@
+{
+    "id": 121481769,
+    "name": "Consistency Monsters",
+    "author": "Andras9912",
+	"creators": [],
+    "verifier": "Andras9912",
+    "verification": "https://www.youtube.com/watch?v=WDukX7t1W3Q",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+        	"user": "Sadisyourlife",
+        	"link": "https://www.youtube.com/watch?v=gXetogepuZo",
+        	"hz": "CBF",
+        	"percent": 100
+            },
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/Z4zS-AHbuek",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ybVfADOXX3s",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1399742715406581881/4_bangers.mp4?ex=688a1b7d&is=6888c9fd&hm=03e6b006a4e4c1a2dc42cde69d10d99ed321c5fe8e99b1adfc174132e59bcac8&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://youtu.be/cayRtLuzvcU",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

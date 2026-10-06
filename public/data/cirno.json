@@ -1,0 +1,96 @@
+{
+    "id": 118340496,
+    "name": "cirnos consistency",
+    "author": "Frozix",
+    "creators": ["zFrozix"],
+    "verifier": "Frozix",
+    "verification": "https://www.youtube.com/watch?v=87AgDMqb_uA",
+    "percentToQualify": "100",
+    "version": "2.2",
+    "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1373362522316472431",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/wFFFi1WAwzY?si=C3aVn9t1u6OjciaV",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/e7d63qi7fOY?si=-oCwX_fuSKmA4c_a",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "lStrawb",
+            "link": "https://youtube.com/shorts/XA4qqquWlUc?si=d4gKP0wauuES-N2p",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+		    "user": "FoldedZero",
+		    "link": "https://www.youtube.com/watch?v=PmJc3C4nBCs",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386252742951174265",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "SaltyGuy",
+		    "link": "https://www.youtube.com/watch?v=T_uCybt21-0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://www.youtube.com/watch?v=7hOiEWGRgZw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Blahajlover911",
+		    "link": "https://youtu.be/44K0FRBPVdo",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/TC-RYh7asD8",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://youtu.be/ajDk0RvPLkE",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "spark",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1402401600110198914/cirnos_consistency_rebeat.mp4?ex=6893c7c4&is=68927644&hm=85c32bac279226f8ecc772c9efd178e37cecbe7a1d90d6051e26449a8d77f323&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://youtu.be/cayRtLuzvcU",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

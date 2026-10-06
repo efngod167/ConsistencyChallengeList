@@ -1,0 +1,61 @@
+{
+    "id": 121443355,
+    "name": "Acheron StartPos 3",
+    "author": "VoidBois",
+    "creators": ["VoidBois"],
+    "verifier": "VoidBois",
+    "verification": "https://www.youtube.com/watch?v=q4tz0w0Reuc",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+            	"user": "V10lence",
+            	"link": "https://youtu.be/SLDQ0RaTrYk",
+            	"hz": "240",
+            	"percent": 100
+            },
+	    {
+            	"user": "Andras9912",
+            	"link": "https://www.youtube.com/watch?v=lQcB4rCeAz4",
+            	"hz": "144",
+            	"percent": 100
+            },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=IGrm_ix_gJg",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/7g9uQ6aGrNc",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1395844412051034194/MedalTVGeometryDash20250718150557-tr-edit_1.mp4?ex=687bece9&is=687a9b69&hm=aefdaf726f1b86e9ce7e2324d0bcc7dc0a0e49616edae7bc2349bec8e70f0174&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1395878782413312030/Geometry_Dash_2025.07.19_-_00.23.31.12.DVR.mp4?ex=687c0ceb&is=687abb6b&hm=a77525e62991db97cb2c2c3ccdc3798e07cd3ca6604ce11e070f2acb3e334d5c&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Nuridin_T3B",
+		    "link": "https://youtu.be/tVdUG6YTpZk?si=YBTEza0iDwg-3Tuc",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/FB8jUavluJI",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

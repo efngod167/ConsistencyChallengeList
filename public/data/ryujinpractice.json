@@ -1,0 +1,35 @@
+{
+    "id": 76742110,
+    "name": "ryujin practice IIII",
+    "author": "Nyan Cat",
+    "creators": ["Nyan Cat"],
+    "verifier": "M4n1a",
+    "verification": "https://youtu.be/a4JHeLEUHJ0",
+    "percentToQualify": "100",
+    "records": [
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/sfZGkF1T11Q",
+		    "hz": "360",
+		    "percent": 100
+        },
+	    {
+            "user": "Sadisyourlife",
+            "link": "https://www.youtube.com/watch?v=WBdgdZWETp0",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+            "user": "avocado369",
+            "link": "https://youtu.be/xw01A2h8WxY",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/requested/clips/kUsVr7ixKIEbc3W_t?invite=cr-MSxOWGcsMjMzODMwODYy",
+			"hz": "360",
+			"percent": 100
+		}
+    ]
+}

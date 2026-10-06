@@ -1,0 +1,89 @@
+{
+    "id": 69877152,
+    "name": "Toll",
+    "author": "Tap33",
+    "creators": [],
+    "verifier": "Tap33",
+    "verification": "https://www.youtube.com/watch?v=XMhdU4hAUkI",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=eTJ1UYykrsw",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=87AgDMqb_uA",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "GDSlaughter",
+            "link": "https://www.youtube.com/watch?v=xFHisePlMFM",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "link": "https://www.youtube.com/live/cMjEA4mtdEs",
+            "hz": "360",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/9TwIWKzwCJ8?si=cBk0MbqDffm4RmiV",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Saturn",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1374790889012203521/0521_71.mp4?ex=682f554a&is=682e03ca&hm=e959ef241aaad5842e6bc30e16c623d690b2e45d91434b21d6341c5c9c32d190&",
+            "hz": "144",
+            "percent": 100
+        },
+        {
+            "user": "lStrawb",
+            "link": "https://youtube.com/shorts/aTtd-5CNUnY?feature=share",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+		    "user": "FoldedZero",
+		    "link": "https://www.youtube.com/watch?v=PmJc3C4nBCs",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sol-XSL",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1384220891285815477/2025-06-16_12-15-05.mp4?ex=6851a3aa&is=6850522a&hm=02b3e577852eb6a74219ef57383c6bd46cf276c2dcc44dd14b3806759dd47e0d&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		"user": "KeCsan",
+		"link": "https://youtu.be/ipnniZAEjMI",
+		"hz": "240",
+		"percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/TC-RYh7asD8",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://www.youtube.com/watch?v=SB-ixvb9Elo",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=CEVT7TqKIiY",
+		    "hz": "144",
+		    "percent": 100
+	    }
+    ]
+}

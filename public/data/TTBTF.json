@@ -1,0 +1,37 @@
+{
+    "id": 129561413,
+    "name": "The Tueml Build TF",
+    "author": "tFluffy",
+    "creators": ["blightedcoconut, tFluffy"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/Aq8LxrGGfnw",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "ClawBuckle",
+			"link": "https://youtu.be/B6PTRfJo2ZU",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Nyan Cat",
+			"link": "https://www.youtube.com/watch?v=z3emalvdfY4",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Maxr",
+			"link": "https://medal.tv/games/geometry-dash/clips/mm4Pf3uI4MR9keR1z?invite=cr-MSxiamcsNDc0NzU4NTcw&v=23",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mm5IFGSxvvq_euQ6k?invite=cr-MSw5dTQsNTc1MDM1OTI1",
+			"hz": "CBS",
+			"percent": 100
+		}
+    ]
+}

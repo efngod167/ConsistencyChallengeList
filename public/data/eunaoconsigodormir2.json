@@ -1,0 +1,159 @@
+{
+    "id": 118678793,
+    "name": "euNaoConsigoDormir2",
+    "author": "thepastel",
+    "creators": ["thepastel"],
+    "verifier": "pastel",
+    "verification": "https://youtu.be/La-a52qyPj0?si=JH1g8_pzu9fn7gIm",
+    "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+        {
+            "user": "nensa",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1387870470778523719",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "bananas",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395020046258143372",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=IGrm_ix_gJg",
+		    "hz": "60",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/7JL0M1JcoWU",
+		    "hz": "60",
+		    "percent": 100
+	    },
+	    {
+		    "user": "throne96024",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1401168741017845831",
+		    "hz": "60",
+		    "percent": 100
+	    },
+		{
+		    "user": "blightedcoconut",
+		    "link": "https://youtu.be/Mbnk7yEmMB8",
+		    "hz": "60",
+		    "percent": 100
+		},
+		{
+		    "user": "M4n1a",
+		    "link": "https://medal.tv/games/geometry-dash/clips/l3us0qTvVfNjHBBgP?invite=cr-MSxwSWosNDEwMjMwNTcy",
+		    "hz": "60",
+		    "percent": 100
+		},
+		{
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/0mRxiZ-J4xM",
+		    "hz": "60",
+		    "percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/live/56RjOzVvnaI",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433340722131501116",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mj1XoQZeByCyiKIiQ?invite=cr-MSxXNUgsMzAwMTE3NTc5&v=12",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Maxf",
+			"link": "https://youtube.com/shorts/245DpC1D25k?si=e7cD7AAdY3ps1wL6",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Celewooga",
+			"link": "https://www.youtube.com/watch?v=gi4wq2diVCE",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/games/geometry-dash/clips/mMpmAbmJF9EexbRKX?invite=cr-MSxxYWEsMzY5MjUzOTQw",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+		    "user": "INITIAL",
+		    "link": "https://medal.tv/games/geometry-dash/clips/mNM8ifHjweQBkK_zp?invite=cr-MSx2MnIsNTk3MTY0MTcw&v=13",
+		    "hz": "60",
+		    "percent": 100
+	    },
+		{
+           "user": "TonyIsAYT",
+           "link": "https://youtu.be/Yp9Wd-ZEtoo?si=-OeWXZDL0WUhJn2O",
+           "hz": "60",
+           "percent": 100
+	    },
+		{
+           "user": "ClawBuckle",
+           "link": "https://youtu.be/YlKxHLabQaQ",
+           "hz": "60",
+           "percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/n9ZCsKmCFi9JbQQ7S?invite=cr-MSxpc1IsNTc1MDM1OTI1",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/Dg0TUnuoGSc?is=FqSFED_nTI-gYiEX",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1550617587505963049/1550617587505963049",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "habibkitty",
+			"link": "https://youtu.be/EfYLQkFAoLg",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Aut0Plays",
+			"link": "https://youtu.be/VUMtz1gebG4",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/KKB5fTOEdr4",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "aimdox",
+			"link": "https://discord.com/channels/1342438507527802901/1553409732859928626/1553409732859928626",
+			"hz": "60",
+			"percent": 100
+		}
+    ]
+}

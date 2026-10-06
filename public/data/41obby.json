@@ -1,0 +1,30 @@
+{
+    "id": 124208441,
+    "name": "41 obby",
+    "author": "LitePack",
+    "creators": ["LitePack"],
+    "verifier": "MiRPacK19",
+    "verification": "https://youtu.be/pUeepphvCsc",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/nQ6-6VZQZOw",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/live/56RjOzVvnaI",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "blightedcoconut",
+			"link": "https://www.youtube.com/watch?v=ukQMtjz4tkQ",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

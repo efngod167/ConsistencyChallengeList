@@ -1,0 +1,74 @@
+{
+    "id": 122084302,
+    "name": "easy for jnosa",
+    "author": "uwoGD",
+    "creators": [],
+    "verifier": "uwoGD",
+    "verification": "https://www.youtube.com/watch?v=qA71uVV-bh4",
+    "percentToQualify": "100",
+	"version": "2.2",
+  	"fps": "60",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1414259594854928384",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "blightedcoconut",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1414260744232632320",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1414268948937179136",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/l3InsGyYXZsGastoo?invite=cr-MSwzc2wsMjMzODMwODYy&v=12",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "nensa",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416160110069153812",
+			"hz": "60",
+			"percent": 100
+		},
+        {
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434094713106989056",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "finni 1505",
+			"link": "https://www.youtube.com/watch?v=HTP1AbNFeh8",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/bXINMfQLE8U",
+			"hz": "60",
+			"percent": 100
+       	},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mLIJbgXOD5fte3p7q?invite=cr-MSxCcVEsMzAwMTE3NTc5&v=12",
+			"hz": "60",
+			"percent": 100
+       	},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/games/geometry-dash/clips/mP1mufkv5poeB_eBh?invite=cr-MSw0OUssNTk3MTY0MTcw&v=14",
+			"hz": "60",
+			"percent": 100
+       	} 
+    ]
+}

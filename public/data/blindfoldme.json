@@ -1,0 +1,45 @@
+{
+    "id": 126049889,
+    "name": "blindfold me",
+    "author": "Perify",
+    "creators": [],
+    "verifier": "Perify",
+    "verification": "https://www.youtube.com/watch?v=dZO_NPwF27E",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "Sadisyourlife",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1430962411631935498",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1441231305114259627",
+			"hz": "CBF",
+			"percent": 100
+		}, 
+		{ 
+			"user": "pixelfactorial",	
+ 			"link": "https://youtu.be/I2P7EFwadmo",
+ 			"hz": "CBF", 
+			"percent": 100 
+		}, 
+		{ 
+			"user": "Luke",	
+ 			"link": "https://medal.tv/games/geometry-dash/clips/n5xOYuWZTjfGb-HRX?invite=cr-MSxHVk0sMzAwMTE3NTc5",
+ 			"hz": "CBF", 
+			"percent": 100 
+
+       },
+       {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/na5BHNHO23zQTwk_A?invite=cr-MSxKZXEsNTc1MDM1OTI1",
+            "hz": "CBF",
+            "percent": 100
+
+			
+		} 
+	] 
+}

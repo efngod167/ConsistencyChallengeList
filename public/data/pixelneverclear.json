@@ -1,0 +1,60 @@
+{
+    "id": 119253312,
+    "name": "Pixel Never Clear",
+    "author": "ultra821man",
+    "creators": ["ultra821man"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/2RIdZP1gGdk",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "Skibirizz",
+            "link": "https://youtu.be/LEXHe6uxnBE?si=LaGxGDbNBmJkC_oy",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "PureL",
+		    "link": "https://www.youtube.com/watch?v=7z0chS2dWeU",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "originset",
+		    "link": "https://www.youtube.com/watch?v=fXn4DDbIwVA",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1396787631836237865",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1401984959723606118",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+            "user": "luna",
+            "link": "https://youtu.be/P4-6ykdNXE0",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1429725733730652252",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+            "user": "galbeni7",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434214719459295273",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

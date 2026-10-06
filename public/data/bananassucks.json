@@ -1,0 +1,43 @@
+{
+    "id": 128225897,
+    "name": "BANANAS SUCKS",
+    "author": "blightedcoconut",
+    "creators": ["blightedcoconut"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/zhx9ua7BHJw",
+    "percentToQualify": "100",
+"fps": "240",
+	"version": "2.2",
+    "records": [
+    {
+     "user": "liti1113",
+     "link": "https://youtu.be/PbUf7y-bcQc",
+     "hz": "240",
+     "percent": 100
+	},
+	{	
+	"user": "pixelfactorial",
+    "link": "https://youtu.be/pB8nUcOgLLw",
+     "hz": "240",
+    "percent": 100
+    },
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/watch?v=q0FgKZrVMO0",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=UtxBLMS2-a8",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mcsjUXUgCdwhp5mH2?invite=cr-MSxyazksMzAwMTE3NTc5&v=9",
+			"hz": "240",
+			"percent": 100
+		}
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 143968928,
+    "name": "redux",
+    "author": "jtwlol",
+    "creators": ["hypeytw, FogMello"],
+    "verifier": "bananas",
+    "verification": "https://youtu.be/LR2KraQ0wLg?si=dJ07mkj4Ozc3yRP1",
+    "percentToQualify": "100",
+    "fps": "120",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "Luke",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1523816242648055879",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "ClawBuckle",
+			"link": "https://youtu.be/4r5tJ-gL3EU",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "NoobyGuy1",
+			"link": "https://youtu.be/PmZEIMwDRVo",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nsgOreHHD19bMThp8?invite=cr-MSxhREksNTc1MDM1OTI1 its on sight",
+			"hz": "120",
+			"percent": 100
+		}
+    ]
+}

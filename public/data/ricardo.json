@@ -1,0 +1,20 @@
+{
+    "id": "147242049",
+    "name": "Ricardo NEVER CLEAR",
+    "author": "OktrndaALT",
+    "creators": ["OktrndaALT"],
+    "verifier": "Something",
+    "verification": "https://youtu.be/6y9aRc2yI4Q",
+    "percentToQualify": "100",
+    "version": "2.2",
+"fps": "60",
+"CBF": "No",
+    "records": [
+        {
+            "user": "habibkitty",
+            "link": "https://youtu.be/U2kot-KPAW8",
+            "hz": "60",
+            "percent": 100
+        }
+]
+}

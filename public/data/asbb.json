@@ -1,0 +1,26 @@
+{
+    "id": 146407552,
+    "name": "artemis 6 bushy bals",
+    "author": "JayGol",
+    "creators": ["JayGol"],
+    "verifier": "Nicky",
+    "verification": "https://youtu.be/QPljuhGyrqg?si=J8pMyUwQnbUQe1vQ",
+    "percentToQualify": "100",
+    "version": "2.2",
+"fps": "240",
+"CBF": "No",
+    "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/npR5rFzhS_EpHGSE_?invite=cr-MSw3eDgsNTc1MDM1OTI1",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/YJuKxARZXns",
+            "hz": "240",
+            "percent": 100
+        }
+]
+}

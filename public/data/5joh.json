@@ -1,0 +1,62 @@
+{
+    "id": 121458840,
+    "name": "5 jumps of hell",
+    "author": "artiphyosGD",
+    "creators": ["artiphyosGD"],
+    "verifier": "artiphyosGD",
+    "verification": "https://www.youtube.com/watch?v=L-Gn3Rpt2_s",
+    "percentToQualify": "100",
+    "fps": "240",
+    "version": "2.2",
+	"CBF": "No",
+    "records": [
+        {
+            "user": "TBTfantasyFish",
+            "link": "https://www.youtube.com/watch?v=OfMWt1g119I",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=IGrm_ix_gJg",
+		    "hz": "240",
+		    "percent": 100
+	},
+	    {
+		    "user": "Duelo",
+		    "link": "https://youtu.be/VWSUxAHu7Nw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "ultra821man",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1396681438857793547",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Kebab",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kMEf6PJiZiA-5Y7cf?invite=cr-MSwzSEYsNDEzNzA5NTE0",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ZsadTd0uzJM",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Ewen",
+		    "link": "https://youtu.be/w0usw25P6B4",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+			"user": "TC3",
+			"link": "https://www.youtube.com/watch?v=vOdI9h-D478&ab_channel=3CT%3B)",
+			"hz": "240",
+			"percent": 100
+		}
+     ]
+}

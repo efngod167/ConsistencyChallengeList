@@ -1,0 +1,18 @@
+{
+    "id": 126096036,
+    "name": "Lamp lvl 4 is dead",
+    "author": "SilkGMD",
+    "creators": ["GDVenom1, SilkGMD"],
+    "verifier": "SilkGMD",
+    "verification": "https://www.youtube.com/watch?v=GKj17Vz1Aqw",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+        {
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434013933366153349",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

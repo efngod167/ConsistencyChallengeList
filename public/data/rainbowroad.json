@@ -1,0 +1,108 @@
+{
+    "id": 70098192,
+    "name": "Rainbow Road",
+    "author": "Whizkid05",
+    "creators": [],
+    "verifier": "Whizkid05",
+    "verification": "https://youtu.be/P78y09OHud4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=aC9m4sbQvBA",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=q1Es8ayjxKM",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "GDSlaughter",
+            "link": "https://www.youtube.com/watch?v=xFHisePlMFM",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "dejid",
+            "link": "https://www.youtube.com/watch?v=6YuQ_DuVrXU",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "d0sU",
+            "link": "https://www.youtube.com/watch?v=UKiq13ooZ84",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/9TwIWKzwCJ8?si=cBk0MbqDffm4RmiV",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Saturn",
+            "link": "https://media.discordapp.net/attachments/1365699473732276316/1373323001680101416/0517_5.mp4?ex=6829fe36&is=6828acb6&hm=26af5640f45e0a6a897df6e843f8caa2e5591275997fb1b2568ca4ed09dca9fb&",
+            "hz": "144",
+            "percent": 100
+        },
+        {
+            "user": "Skibirizz",
+            "link": "https://youtu.be/NbEV11qy1yo?si=ekTIonHeYbnYtQnf",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/kaz8e5NXYZ8?si=a4iD4xWW9yktsQcd",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "kap1195",
+		    "link": "https://youtu.be/BMra1dVZqWg",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "RandomMonkey",
+		    "link": "https://www.youtube.com/watch?v=__w5xjGBa9w",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1386332394310860962/Replay_2025-06-22_22-29-49_-_Trim.mp4?ex=68595227&is=685800a7&hm=2dd6c957c4424ef39e61823b03fe60803354190d7424af6813c207eefbdf42c3&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/aCOleQKU3uc",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395416037796745358",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://www.youtube.com/watch?v=yCTApdVIiaM",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/FB8jUavluJI",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

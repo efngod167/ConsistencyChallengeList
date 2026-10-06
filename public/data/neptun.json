@@ -1,0 +1,72 @@
+{
+    "id": 105552612,
+    "name": "Neptun Challenge",
+    "author": "SaturnSpeaks",
+    "creators": ["SaturnSpeaks"],
+    "verifier": "Saturn",
+    "verification": "https://www.youtube.com/watch?v=zVSMIoQBaWM",
+    "percentToQualify": "100",
+    "version": "2.2",
+    "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://cdn.discordapp.com/attachments/1365699456892272640/1374392301341773905/redpandacompress__.mp4?ex=682e8ad3&is=682d3953&hm=f5d426fb857c1858dc1cc01945c8a08bef2bd80937a6f7dc1e2f3309b008ee93&",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/RjTAUbx8ssU?si=2dNLLUfxywcIjOu5",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "dejid",
+            "link": "https://www.youtube.com/watch?v=G2pmPlCqqms",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=MShFPMOFHYA",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+		    "user": "Stratonymous",
+		    "link": "https://medal.tv/games/geometry-dash/clips/ksUbFWjjmu2CnHqQk?invite=cr-MSw2dFgsNTI1OTEzNQ",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Powerball20",
+		    "link": "https://www.youtube.com/watch?v=gt6d0hEAK0c",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "EviV2",
+		    "link": "https://www.youtube.com/watch?v=WjQlDjaRfqA",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Jambizzy",
+		    "link": "https://www.youtube.com/watch?v=TwaWNY703OY",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "xdTAGCLAN",
+		    "link": "https://vimeo.com/1096344598/3da3800435?share=copy",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://www.youtube.com/watch?v=d_pXDxquXK0",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}

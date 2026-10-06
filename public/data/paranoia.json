@@ -1,0 +1,61 @@
+{
+    "id": 120596510,
+    "name": "PARANOIA",
+    "author": "SaturnSpeaks",
+    "creators": ["SaturnSpeaks"],
+    "verifier": "Saturn",
+    "verification": "https://youtu.be/4kQxKReVkrY",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "FoldedZero",
+		    "link": "https://www.youtube.com/watch?v=Rzx784c0Te4",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BZ1nVFdhuPk",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "BlueMaster256",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kDoQMcxRdY_wpw29a?invite=cr-MSxMTzgsMjYzMjU3ODM2",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "kyubd",
+		    "link": "https://youtu.be/mZelvPrFIJI",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Nuridin_T3B",
+		    "link": "https://youtu.be/y8LW2rYw5X8?si=Bn8YANB678yFmijX",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Ewen",
+		    "link": "https://youtu.be/w0usw25P6B4",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+			"user": "Keslas",
+			"link": "https://youtu.be/6ytBW2MWrQM",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

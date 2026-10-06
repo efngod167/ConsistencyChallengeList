@@ -1,0 +1,85 @@
+{
+    "id": 119402283,
+    "name": "what the hell",
+    "author": "ItzQw4nt3r",
+    "creators": ["ItzQw4nt3r"],
+    "verifier": "WarCoraGD",
+    "verification": "https://youtu.be/RHlGYJzSTR4",
+    "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "nensa",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1383399836992278528",
+			"hz": "60",
+			"percent": 100
+		},
+	    {
+		    "user": "bananas",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1394201958990217347",
+		    "hz": "60",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/7JL0M1JcoWU",
+		    "hz": "60",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sh4in3",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kNiveEPOsk-8BPLPU?invite=cr-MSx1MngsMjA0NjczODMy&v=12",
+		    "hz": "60",
+		    "percent": 100
+	    },
+	    {
+		    "user": "throne96024",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1401165407997526077",
+		    "hz": "60",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1401933163437097090",
+		    "hz": "60",
+		    "percent": 100
+	    },
+		{
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/0mRxiZ-J4xM",
+		    "hz": "60",
+		    "percent": 100
+	    },
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1432777356707369020",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433338221164625940",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://youtu.be/JVr2hwDmX4M?si=TRSv_l1dyw61-QMP",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1484621682927993073",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mwf94exGcO6avbhLb?invite=cr-MSx2bVMsMzAwMTE3NTc5&v=12",
+			"hz": "60",
+			"percent": 100
+		}
+	]
+}

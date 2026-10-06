@@ -1,0 +1,61 @@
+{
+    "id": 128126425,
+    "name": "hi sad",
+    "author": "pixelfactorial",
+    "creators": ["pixelfactorial"],
+    "verifier": "finni 1505",
+    "verification": "https://youtu.be/uMSAFca6ZCo",
+    "percentToQualify": "100",
+    "fps": "128",
+	"version": "2.1",
+    "records": [
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/requested/clips/lAuxTd1zocc2yQ8ig?invite=cr-MSw3QXQsMjMzODMwODYy&v=12",
+			"hz": "128",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1443337108545605763",
+			"hz": "128",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1443399830415085580",
+			"hz": "128",
+			"percent": 100
+		},
+		{
+            "user": "JayGol",
+            "link": "https://www.youtube.com/watch?v=mER_PhhHviU",
+            "hz": "128",
+            "percent": 100
+        },
+		{
+			"user": "maxf",
+			"link": "https://youtube.com/shorts/VZCMjHvfiCQ?si=oc1uHinVg0_fuaqy",
+			"hz": "128",
+			"percent": 100
+		},
+		{
+			"user": "liti1113",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1474404312577999023",
+			"hz": "128",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1477583171187904603",
+			"hz": "128",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1489376546358562886",
+			"hz": "128",
+			"percent": 100
+		}
+    ]
+}

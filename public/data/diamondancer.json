@@ -1,0 +1,85 @@
+{
+    "id": 127828861,
+    "name": "Diamond Dancer",
+    "author": "Synchiro",
+    "creators": ["Synchiro"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/89U3ta1dgiQ",
+    "percentToQualify": "100",
+  	"fps": "",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=Xgqd-mDXuaI",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Celewooga",
+			"link": "https://www.youtube.com/watch?v=T4O78KIeSM0",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/mxvBSun7r7VOKR0JL?invite=cr-MSxnN3IsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		}, 
+		{ 
+			"user": "finni 1505",	
+ 			"link": "https://www.youtube.com/watch?v=vi2aVUkr6zQ",
+ 			"hz": "CBF", 
+			"percent": 100
+      	},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1510909860777295953",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "AmaroGD",
+			"link": "https://medal.tv/games/geometry-dash/clips/mXV1B7MsMt_AxYraN?invite=cr-MSxwbWIsNTk1NjcwMjcw",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/n3v3cxBPsVg5ucYbs?invite=cr-MSxHZ3IsMzAwMTE3NTc5&v=14",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "noobyguy1",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1533599336758378530",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "yoTylr",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1533980629962588372",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/9JEAR8UQzyw",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1546051689348337695/1546051689348337695",
+			"hz": "CBF",
+			"percent": 100
+		}
+	] 
+} 

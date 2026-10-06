@@ -1,0 +1,49 @@
+{
+    "id": 122050015,
+    "name": "POWER FREAKS",
+    "author": "ManiaGTC",
+    "creators": ["ManiaGTC"],
+    "verifier": "ILikeSoup",
+    "verification": "https://www.youtube.com/watch?v=9UTY4ZCtj-U&lc=UgwSjM1xzDPMIBNj2Up4AaABAg",
+    "percentToQualify": "100",
+  	"fps": "240",
+	"version": "2.2",	
+    "records": [
+        {
+            "user": "bananas",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1413609376606060656&",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/wobX6dATGOI",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "nensa",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416153560001024052",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "kyubd",
+            "link": "https://youtu.be/NKEuBia8zqE",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434111838462672906",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=aIJt3BN7HX0",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

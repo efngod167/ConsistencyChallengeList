@@ -1,0 +1,66 @@
+{
+    "id": 120609858,
+    "name": "Whycropolis",
+    "author": "MysterJumper",
+    "creators": ["MysterJumper"],
+    "verifier": "inkstain",
+    "verification": "https://youtu.be/R_kgOywtPE4",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386390125038010569",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "MiRPacK19",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1396537587082203166",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ZY111q90Fw4",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1402314264215027795",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "FoldedZero",
+		    "link": "https://youtu.be/wJsr9uCtios",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "Ewen",
+		    "link": "https://youtu.be/w0usw25P6B4",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Calinos",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1409650602073522308",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "shafikdabest",
+		    "link": "https://youtu.be/9wwgDWvu_X8",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "kyubd",
+		    "link": "https://youtu.be/nqE_Y3cJ9WU",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 137503346,
+    "name": "341 253",
+    "author": "Nyan Cat",
+    "creators": ["HequinoX, sizzli, Nyan Cat"],
+    "verifier": "Nyan Cat",
+    "verification": "https://www.youtube.com/watch?v=-dz91clHR7I&t=46s",
+    "percentToQualify": "100",
+    "fps": "CBF",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "ClawBuckle",
+			"link": "https://youtu.be/8wP_TbJdxqA",
+			"hz": "CBS",
+			"percent": 100
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1548632004910780416/1548632004910780416",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

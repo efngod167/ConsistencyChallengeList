@@ -1,0 +1,20 @@
+{
+    "id": "148480452 (148480458)",
+    "name": "Pretend",
+    "author": "FogMello",
+    "creators": ["FogMello, Tueml"],
+    "verifier": "noobyguy1",
+    "verification": "https://youtu.be/irfXpVKMg1I",
+    "percentToQualify": "100",
+    "fps": "180",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "Axination",
+			"link": "https://youtu.be/Dbhg3XgpizE?si=MwiqIBr5VxWb28UB",
+			"hz": "180",
+			"percent": 100
+		}
+    ]
+}

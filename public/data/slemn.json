@@ -1,0 +1,25 @@
+{
+    "id": 122831760,
+    "name": "slemn",
+    "author": "FogMello",
+    "creators": ["FogMello"],
+    "verifier": "Tueml",
+    "verification": "https://youtu.be/PxwpiVUtc2Y",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "Sadisyourlife",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1431776154620133529",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "slam",
+			"link": "https://www.youtube.com/watch?v=7jzQ6BurSZg",
+			"hz": "240",
+			"percent": 100
+		}
+	]
+}

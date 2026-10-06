@@ -1,0 +1,55 @@
+{
+    "id": 120775941,
+    "name": "spoovi never clear",
+    "author": "spoovi",
+    "creators": ["spoovi"],
+    "verifier": "Saturn",
+    "verification": "https://www.youtube.com/watch?v=zWAe92S98MI",
+    "percentToQualify": "100",
+    "fps": "240",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BZ1nVFdhuPk",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "lStrawb",
+		    "link": "https://www.youtube.com/watch?v=3SHOdZMchys",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "throne96024",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1385979377916969061/spoovi_never_clear.mp4?ex=68580961&is=6856b7e1&hm=5593578608c47cb628a7ac986a8b19eacbcb8ecc15120759cbdefb91eb642ae3&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "V10lence",
+		    "link": "https://www.youtube.com/watch?v=UsZ6fr7pqU4",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1401832013748637796/Replay_2025-08-04_17-35-25_-_Trim.mp4?ex=6891b54c&is=689063cc&hm=4417fdf8b5999047d79e2e4e8143a0b5856c43ce50ba68e5df2c7e80bbc583b3&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "Ewen",
+		    "link": "https://youtu.be/w0usw25P6B4",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "spoovi",
+		    "link": "https://www.youtube.com/watch?v=tSvhnaIwqFo",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

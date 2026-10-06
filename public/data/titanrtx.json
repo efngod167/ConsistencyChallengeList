@@ -1,0 +1,42 @@
+{
+    "id": 120358610,
+    "name": "TITAN RTX",
+    "author": "Zxentirix",
+    "creators": [],
+    "verifier": "Zxentirix",
+    "verification": "https://www.youtube.com/watch?v=IJaRpmKdXqk",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Saturn",
+		    "link": "https://youtu.be/kfpfSuf3sGE",
+		    "hz": "144",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BOCNgIB45Pw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ybVfADOXX3s",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://youtu.be/ajDk0RvPLkE",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://www.youtube.com/watch?v=KAD22ioFn2c",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

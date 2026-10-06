@@ -1,0 +1,49 @@
+{
+    "id": 129751486,
+    "name": "chaos of nightmares",
+    "author": "fzxqoe",
+    "creators": ["fzxqoe"],
+    "verifier": "maxf",
+    "verification": "https://youtube.com/shorts/9J3qfgUu2Ag",
+    "percentToQualify": "100",
+"fps": "150",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/lNJfd56Pdm0oDf3y9?invite=cr-MSxlWncsMjMzODMwODYy&v=13",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1454989869033062420",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=fD9HF_xVrbA",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/pB8nUcOgLLw",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mc44laItd0P3zufBC?invite=cr-MSw4M2gsMzAwMTE3NTc5&v=9",
+			"hz": "150",
+			"percent": 100
+		},
+		{
+			"user": "Jaygol",
+			"link": "https://medal.tv/games/geometry-dash/clips/ml9LSNa8P95fr_G0p?invite=cr-MSxydTgsNTc1MDM1OTI1",
+			"hz": "150",
+			"percent": 100 
+		}
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": 119455365,
+    "name": "clawbuckle never cle",
+    "author": "ryanbibbeegamin",
+    "creators": ["ryanbibbeegamin"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/IYHuSin3w60",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "lStrawb",
+            "link": "https://youtube.com/shorts/5dMKQpG93JA?si=KYwtoSyMWEPELyZs",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+	    "user": "nensa",
+	    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1383393932477599905/Replay_2025-06-14_19-14-23_-_Trim.mp4?ex=684ea17f&is=684d4fff&hm=c97a24950ba7d66e90cf5480b1876ad5ebc267883e307e66c03f1f48fe1e9e1e&",
+	    "hz": "240",
+	    "percent": 100
+	    },
+	    {
+		"user": "Sadisyourlife",
+	    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1383867682172178566",
+	    "hz": "240",
+	    "percent": 100
+	    },
+	{
+            "user": "StockUniverse",
+            "link": "https://youtu.be/RvbuIAi2ig0",
+            "hz": "240",
+            "percent": 100
+        },
+	    {
+		    "user": "bananas",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1391150439096913991/MedalTVGeometryDash20250705161137-tr-edit_1_1.mp4?ex=686cd38f&is=686b820f&hm=7812d19cb8d6fe4ce7f597ef8ad69c1a094b5d5e6789e343a6a53e40def2a849&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Dastinity",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1395418998467854488",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "V10lence",
+		    "link": "https://youtu.be/4yqSNuKALoE",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "JameSharpener",
+		    "link": "https://youtu.be/cayRtLuzvcU",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "ekleraaa",
+		    "link": "https://youtu.be/eDaxCvtKcgw?si=f7I9BViEl3zqv2HX",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "finni 1505",
+		    "link": "https://medal.tv/de/games/geometry-dash/clips/l0hudLycUgjzSQ1Iz?invite=cr-MSwwQWMsMzY5MjUzOTQw&v=16",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "ClawBuckle",
+			"link": "https://www.youtube.com/shorts/WbsPv6DmkrU",
+			"hz": "210",
+			"percent": 100
+		}
+    ]
+}

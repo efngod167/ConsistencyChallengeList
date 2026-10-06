@@ -1,0 +1,66 @@
+{
+    "id": 121735864,
+    "name": "slh big wave II",
+    "author": "goofy3213",
+    "creators": ["goofy3213"],
+    "verifier": "Sadisyourlife",
+    "verification": "https://youtu.be/pAJgWZl8BpY",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	{
+            "user": "Blahajlover911",
+            "link": "https://youtu.be/Y2GycbVR7-E",
+            "hz": "240",
+            "percent": 100
+        },
+	{
+            "user": "StockUniverse",
+            "link": "https://youtu.be/RvbuIAi2ig0",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/RcGfzO9siV8",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1393266365451997346",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://www.youtube.com/live/gKYY8wj8q94",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "TheBlueElephant",
+		    "link": "https://youtu.be/qPU6HcJFaQQ",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "FogMello",
+		    "link": "https://www.youtube.com/watch?v=RaA049W3wgI&ab_channel=FogMello",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "geo",
+		    "link": "https://www.youtube.com/watch?v=nhjvBF8fXis",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=jWIZx_HiPcI",
+		    "hz": "144",
+		    "percent": 100
+	    }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": 124962265,
+    "name": "frozi wont beat",
+    "author": "LitePack",
+    "creators": ["LitePack"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/0FAJH2B_SOQ",
+    "percentToQualify": "100",
+	"fps": "60",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "thebacon_gamer",
+			"link": "https://medal.tv/games/geometry-dash/clips/mnxi0YABl-pIAEf7b?invite=cr-MSxnNngsMjcwNDA2NTcx&v=18",
+			"hz": "60",
+			"percent": 100
+		},
+        {
+            "user": "Luke",
+            "link": "https://medal.tv/games/geometry-dash/clips/mFg5f6GL4F1VN3uQz?invite=cr-MSxUVEksMzAwMTE3NTc5&v=16",
+            "hz": "60",
+            "percent": 100
+    	},
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1510909860777295953",
+            "hz": "60",
+            "percent": 100
+		},
+		{
+           "user": "bananas",
+           "link": "https://medal.tv/games/geometry-dash/clips/mVM0GUYWunTD1JIXs?invite=cr-MSxFcTEsMjMzODMwODYy&v=15",
+           "hz": "60",
+           "percent": 100
+		},
+		{
+			"user": "Clawbuckle",
+			"link": "https://youtu.be/86dp36SUFzU",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "paperguy",
+			"link": "https://www.youtube.com/watch?v=ZBrHbI2cn0Y",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nhYWDO6BE1D5aeoTM?invite=cr-MSw3blMsNTc1MDM1OTI1",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "TonyIsAYT",
+			"link": "https://youtu.be/FVTuPkChmng?si=Py9DxsirhbSGeSDD",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/rwfaEJjyJik",
+			"hz": "60",
+			"percent": 100
+		}
+    ]
+}

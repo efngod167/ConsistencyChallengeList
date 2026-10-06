@@ -1,0 +1,27 @@
+{
+    "id": 130868989,
+    "name": "oooga",
+    "author": "tFluffy",
+    "creators": ["hypeytw, tFluffy"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/b-qW9eLbrSY",
+    "percentToQualify": "100",
+    "fps": "120",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1475911138012037323",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mc6ZlzIQU-Ssxpme-?invite=cr-MSwzWWIsMzAwMTE3NTc5&v=9",
+			"hz": "120",
+			"percent": 100
+		}
+    ]
+
+}
+

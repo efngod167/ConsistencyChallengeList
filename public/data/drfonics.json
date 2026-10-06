@@ -1,0 +1,18 @@
+{
+    "id": 125940546,
+    "name": "Dr Fonics",
+    "author": "lowercasebeef",
+    "creators": [],
+    "verifier": "lowercasebeef",
+    "verification": "https://youtu.be/0JAdVOJucCE",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+            "user": "tFluffy",
+            "link": "https://youtu.be/15lg79sMwU0",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

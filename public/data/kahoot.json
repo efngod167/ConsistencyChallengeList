@@ -1,0 +1,44 @@
+{
+    "id": "FILE",
+    "name": "kahoot stage 1",
+    "author": "maxf",
+    "creators": ["maxf"],
+    "verifier": "JayGol",
+    "verification": "https://youtu.be/lItBp3av7MY",
+    "percentToQualify": "100",
+    "fps": "240",
+    "version": "2.1",
+    "CBF": "No",
+    "records": [
+        {
+            "user": "finni 1505",
+            "link": "https://medal.tv/games/geometry-dash/clips/nj37oN7LxYlvStf12?invite=cr-MSxyaXcsMzY5MjUzOTQw",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "INITIAL",
+            "link": "https://youtu.be/HWr64Zx3cmM",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "maxf",
+            "link": "https://youtu.be/S9VrQu_x9V0",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "imsaturnn",
+            "link": "https://discord.com/channels/1342438507527802901/1548336769018105957/1548336769018105957",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "noobyguy1",
+            "link": "https://discord.com/channels/1342438507527802901/1549553974108233909/1549553974108233909",
+            "hz": "240",
+            "percent": 100
+        }
+]
+}

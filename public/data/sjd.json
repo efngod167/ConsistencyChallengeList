@@ -1,0 +1,72 @@
+{
+    "id": 107829144,
+    "name": "sjd",
+    "author": "FreakybobGD",
+    "creators": ["FreakybobGD"],
+    "verifier": "freakybob",
+    "verification": "https://www.youtube.com/watch?v=r9nslT8EBcw",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "throne96024",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386408148394442846",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=JPLWWUqg3tw",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "tFluffy",
+		    "link": "https://www.youtube.com/watch?v=thzWJb5mOy4",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "fiesty",
+		    "link": "https://youtu.be/p06dJ7-77yI?feature=shared",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "kyubd",
+		    "link": "https://youtu.be/v5yz_JLp_AU",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/E7qkGDUCCoA",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+           "user": "maxf",
+           "link": "https://medal.tv/games/geometry-dash/clips/mOZdDhH57uHeefhmN/spok?invite=cr-MSxPblAsNDczMjEyNjI2LA",
+           "hz": "CBF",
+           "percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://medal.tv/games/geometry-dash/clips/mXDaG1hhxEGGNrF39?invite=cr-MSxIRGEsNTk3MTY0MTcw&v=18",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Stumbongd",
+			"link": "https://youtu.be/nhMRrxrj0U4",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "FoldedZero",
+			"link": "https://www.youtube.com/watch?v=vtO66t8Tup4",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

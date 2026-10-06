@@ -1,0 +1,78 @@
+{
+    "id": 118539940,
+    "name": "DC consistency",
+    "author": "blightedcoconut",
+    "creators": [],
+    "verifier": "blightedcoconut",
+    "verification": "https://www.youtube.com/watch?v=EHSaNLwIP7c",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "Dastinity",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1403387565226197023",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/kPvSbjx4DA2lzXYY8?invite=cr-MSx5WTQsMjMzODMwODYy&v=9",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "throne96024",
+            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1403846361744543896/dc_consistency.mp4?ex=6899b20e&is=6898608e&hm=42f44010aaf3d89da03a2dc5ef8dd00a5a7e2343f5783f67e4d137e885ac964b&",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "waygo",
+			"link": "https://medal.tv/ru/games/geometry-dash/clips/kSpU1JGDaXuatkfQr?invite=cr-MSxlZjIsMzI1NDYzMjYy&v=45",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1403764295438962779/2.mp4?ex=689b5fe0&is=689a0e60&hm=9b1a5b13e02adb9d647f44cbd857688df94bc9207a2cacdc3bfae7cc3e371167&",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "FoldedZero",
+			"link": "https://youtu.be/wJsr9uCtios",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "JameSharpener",
+			"link": "https://youtu.be/cayRtLuzvcU",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "sax",
+			"link": "https://www.youtube.com/watch?v=1iZoFrUDFfI",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/1CPDkmh5qEM",
+			"hz": "CBF",
+			"percent": 100
+		},
+  {
+   "user": "finni 1505",
+   "link": "https://medal.tv/de/games/geometry-dash/clips/kVcw7xvcs62qDBI7C?invite=cr-MSxGTXksMzY5MjUzOTQw&v=12",
+   "hz": "240",
+   "percent": 100
+  },
+		{
+			"user": "waffledotpng",
+			"link": "https://medal.tv/games/geometry-dash/clips/kXlKcKJAp0vUs26yt?invite=cr-MSx4VWwsNDA4MjgxNzI4&v=11",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

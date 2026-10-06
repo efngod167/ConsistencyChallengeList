@@ -1,0 +1,19 @@
+{
+    "id": 91654885,
+    "name": "spike dashed",
+    "author": "coffin3561",
+    "creators": [],
+    "verifier": "coffin3561",
+    "verification": "https://youtu.be/ourLnNqmiWA",
+    "percentToQualify": "100",
+    "fps": "360",
+	"version": "2.1",
+    "records": [
+		{
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/1euGpTyCzXw",
+		    "hz": "360",
+		    "percent": 100
+	    }
+    ]
+}

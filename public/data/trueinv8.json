@@ -1,0 +1,61 @@
+{
+    "id": 123649398,
+    "name": "True Invisible eight",
+    "author": "Spazesmeow",
+    "creators": [],
+    "verifier": "Spazesmeow",
+    "verification": "https://youtu.be/3XrKh3NSFHQ",
+    "percentToQualify": "100",
+    "fps": "120",
+	"version": "2.2",
+    "records": [
+		{
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1416099769402658928",
+            "hz": "120",
+            "percent": 100
+        },
+		{
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/l5G7gULoxYsTlnq_0?invite=cr-MSxGQUosMjMzODMwODYy&v=11",
+            "hz": "120",
+            "percent": 100
+        },
+		{
+			"user": "Maxr",
+			"link": "https://youtu.be/84nt5sx2Yjs",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/NVcYiE7mo3k",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/YnIO_9_dYe8",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "WinterFox",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1446889640299860080",
+			"hz": "120",
+			"percent": 100
+		},
+  {
+   "user": "7apriL",
+   "link": "https://youtu.be/bixBcU4G-LY",
+   "hz": "120",
+   "percent": 100
+  },
+  {
+   "user": "Luke",
+   "link": "https://medal.tv/games/geometry-dash/clips/mdlOHX4oh6RcVgDN2?invite=cr-MSxaUEUsMzAwMTE3NTc5&v=7",
+   "hz": "120",
+   "percent": 100
+  }
+    ]
+}

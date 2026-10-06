@@ -1,0 +1,30 @@
+{
+    "id": 120292589,
+    "name": "daei II",
+    "author": "pineappling97",
+    "creators": ["pineappling97"],
+    "verifier": "zugi5474",
+    "verification": "https://www.youtube.com/watch?v=jvW6QPtw7EY",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BZ1nVFdhuPk",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1386332393660612678/Replay_2025-06-22_22-33-29_-_Trim.mp4?ex=68595227&is=685800a7&hm=474d5b779a194cf7dc1c02873b8c2b227f855c88683c5d71f76116b17c536753&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/rXEvzCaRPM0",
+		    "hz": "CBF",
+		    "percent": 100
+	    }
+    ]
+}

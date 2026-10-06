@@ -1,0 +1,43 @@
+{
+    "id": 121925566,
+    "name": "spider carried chal",
+    "author": "IlikeSoup",
+    "creators": ["IlikeSoup"],
+    "verifier": "ILikeSoup",
+    "verification": "https://youtu.be/iHv0mvQhwbw",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+		{
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/bEFAJuG24fw",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "Nuridin_T3B",
+			"link": "https://www.youtube.com/watch?v=77Hou15o_7Q",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
+		},
+		{
+		    "user": "Subvr",
+		    "link": "https://medal.tv/games/geometry-dash/clips/kXZGzIgKDHmvlB3Pr?invite=cr-MSxZZDYsMjkwOTQ4MTc3&v=23",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Sadisyourlife",
+		    "link": "https://youtu.be/PBuEdJweV2Q",
+		    "hz": "240",
+		    "percent": 100
+	    },
+		{
+		    "user": "Taublix",
+		    "link": "https://www.youtube.com/watch?v=_mja-oQTUEc",
+		    "hz": "240",
+		    "percent": 100
+	    }
+    ]
+}

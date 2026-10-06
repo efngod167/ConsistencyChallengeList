@@ -1,0 +1,97 @@
+{
+    "id": 119307165,
+    "name": "Psbpm v2",
+    "author": "NotXoti",
+    "creators": ["SaturnSpeaks, NotXoti"],
+    "verifier": "Haruna",
+    "verification": "https://youtu.be/fSssuLMsLiA",
+    "percentToQualify": "100",
+    "fps": "144-240",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1381331383036805221",
+            "hz": "240",
+            "percent": 100
+        },
+	    {
+		    "user": "Duelo",
+		    "link": "https://youtu.be/0H0VJClpLwc",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "mikupan91",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1383592624149102733",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "StockUniverse",
+		    "link": "https://youtu.be/oWtqP_2oaRg",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=PbDrXgzkkqg",
+		    "hz": "144",
+		    "percent": 100
+	    },
+	    {
+            "user": "bananas",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1393992016014348400",
+            "hz": "240",
+            "percent": 100
+        },
+	{
+            "user": "Sh4in3",
+            "link": "https://medal.tv/games/geometry-dash/clips/kMP9wgjKbdpcgbmaV?invite=cr-MSxqeWUsMjA0NjczODMy&v=12",
+            "hz": "240",
+            "percent": 100
+        },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1402227455829217352",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "finni 1505",
+			"link": "https://medal.tv/de/games/geometry-dash/clips/kWRwkDRbnOGAeZNYE?invite=cr-MSxOOUUsMzY5MjUzOTQw&v=10",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/jpS85yany4Q",
+			"hz": "CBF",
+			"percent": 100
+		},
+   {
+     "user": "Mefistic",
+     "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1421234376703873086",
+     "hz": "CBF",
+     "percent": 100
+   },
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1430102809134764063",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434216008608120863",
+			"hz": "CBF",
+			"percent": 100
+		},
+				{
+			"user": "Thebacon_gamer",
+			"link": "https://medal.tv/games/geometry-dash/clips/lDjObIj3TpYTzT53s?invite=cr-MSxLM2QsMjcwNDA2NTcx&v=10",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

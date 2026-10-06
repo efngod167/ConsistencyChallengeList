@@ -1,0 +1,50 @@
+{
+    "id": 121695415,
+    "name": "eternal evasion",
+    "author": "yuzucult",
+    "creators": ["yuzucult"],
+    "verifier": "Saturn",
+    "verification": "https://youtu.be/xWoWeEOi5oo",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	{
+            "user": "Sadisyourlife",
+            "link": "https://www.youtube.com/watch?v=2mH5O3XHId8",
+            "hz": "240",
+            "percent": 100
+        },
+	{
+            "user": "V10lence",
+            "link": "https://youtu.be/pS24EfpBHT4",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/RcGfzO9siV8",
+            "hz": "CBF",
+            "percent": 100
+        },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://www.youtube.com/watch?v=uUfXaw7F6Vc",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Nuridin_T3B",
+		    "link": "https://youtu.be/yNij52MwdJ8?si=UVw7QInFY7TJbefI",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
+	    },
+	    {
+		    "user": "Yuzu",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1395490858228383867/Screen_Recording_20250717_144138_Geode.mp4?ex=687aa3a3&is=68795223&hm=910a0c8639616b3812e8d68f052e4feb9f59bdd99a31e395299b7bde8d5e8f49&",
+		    "hz": "60",
+		    "percent": 100,
+		    "mobile": "true"
+	    }
+    ]
+}

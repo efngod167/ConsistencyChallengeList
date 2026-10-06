@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Beginner Frame Perfect Pack",
+    "color": "#3db6e2",
+    "levels": [
+      123326609,
+	  122084302,
+	  122344815,
+	  125321943,
+	  125917630
+    ]
+  },
+  {
+    "name": "Advanced Frame Perfect Pack",
+    "color": "#26a2cf",
+    "levels": [
+      120511707,
+	  92523890,
+	  118678793,
+	  120558379
+    ]
+  },
+  {
+    "name": "Expert Frame Perfect Pack",
+    "color": "#0c86b2",
+    "levels": [
+      123321446,
+	  124738643,
+	  67771969,
+	  129247429,
+	  120893031
+    ]
+  },
+  {
+    "name": "Master Frame Perfect Pack",
+    "color": "#055d7e",
+    "levels": [
+      121069427,
+	  72156571,
+	  118719503,
+	  121489446
+    ]
+  },
+  {
+    "name": "Beginner Fast Consistency Pack",
+    "color": "#bdf024",
+    "levels": [
+      67077687,
+	  69012849,
+	  120357632,
+	  118275422,
+	  120292589
+    ]
+  },
+  {
+    "name": "Advanced Fast Consistency Pack",
+    "color": "#c1d87b",
+    "levels": [
+      121012901,
+	  76781618,
+	  118433163,
+	  118384029,
+	  120511707
+    ]
+  },
+  {
+    "name": "Master Fast Consistency Pack",
+    "color": "#c6cdb1",
+    "levels": [
+      120169031,
+	  130485187,
+	  127818720,
+	  67814369,
+	  122451205
+    ]
+  },
+  {
+    "name": "Beginner Cube Pack",
+    "color": "#20fb37",
+    "levels": [
+      121548965,
+      120295690,
+      122812104,
+      120596510,
+      121488721
+    ]
+  },
+  {
+    "name": "Advanced Cube Pack",
+    "color": "#1bde30",
+    "levels": [
+      122206866,
+	  123643496,
+	  123042986,
+	  120921614
+    ]
+  },
+  {
+	"name": "Expert Cube Pack",
+	"color": "#1abd2b",
+	"levels": [
+	  121599556,
+	  124230768,
+	  82199528,
+	  129905672
+	]
+  },
+  {
+    "name": "Master Cube Pack",
+    "color": "#2da637",
+    "levels": [
+      124998907,
+	  127126681,
+	  125973101
+    ]
+  },
+  {
+	"name": "Beginner Ship Pack",
+	"color": "#ffb2b2",
+	"levels": [
+	120923888,
+	121695415,
+	"128291363 (128291359)"
+	]
+  },
+  {
+	"name": "Advanced Ship Pack",
+	"color": "#ff9797",
+	"levels": [
+	130204792,
+	"132426716 (127953611)",
+	"128316065 (128316049)",
+	134742816
+	]
+  },
+  {
+	"name": "Expert Ship Pack",
+	"color": "#ff7373",
+	"levels": [
+	"126620121 (126621747)",
+	128947442,
+	126798497
+	]
+  },
+  {
+	"name": "Master Ship Pack",
+	"color": "#ff3636",
+	"levels": [
+	"148480452 (148480458)",
+	"104496896 (104497746)",
+	"90202908 (91648384)"
+	]
+  },
+  {
+    "name": "Clear Pack",
+    "color": "#ff8000",
+    "levels": [
+      119629228,
+	  76920719,
+	  76781618,
+	  130866347
+    ]
+  },
+  {
+	"name": "Dastinity Pack",
+	"color": "#cfcfcf",
+	"levels": [
+	123108566,
+	123842927,
+	123624861,
+	119189813
+  ]
+  },
+  {
+	"name": "Chamber Pack",
+	"color": "#9a56de",
+	"levels": [
+	122451205,
+	120169031,
+	118384029,
+	119256874,
+	66551202
+	]
+  },
+  {
+	"name": "Tueml Pack",
+	"color": "#7c26ce",
+	"levels": [
+	127159218,
+	120893031,
+	125917630
+	]
+  },
+  {
+	"name": "Challenge List Pack",
+	"color": "#cf5b25",
+	"levels": [
+	"104496896 (104497746)",
+	"90202908 (91648384)",
+	69358252,
+	51791582
+	]
+  },
+  {
+	"name": "Venom Pack",
+	"color": "#960000",
+	"levels": [
+	65601060,
+	65579086,
+	64402566
+	]
+  },
+  {
+	"name": "Death Corridor Pack",
+	"color": "#dadada",
+	"levels": [
+	120127674,
+	79402746,
+	118539940,
+	121191592
+	]
+  },
+  {
+	"name": "Sucks Pack",
+	"color": "#87aea8",
+	"levels": [
+	118719503,
+	129767434,
+	119189813
+	]
+  },
+  {
+	"name": "Brain Pack",
+	"color": "#E80175",
+	"levels": [
+	145216349,
+	67908044,
+	121297913,
+	128137319,
+	92496653
+	]
+  },
+  {
+	"name": "Duplication Pack",
+	"color": "#4E5E73",
+	"levels": [
+	145216349,
+	127569429,
+	120169031
+]
+  },
+  {
+	"name": "Extreme Demon Pack",
+	"color": "#A50201",
+	"levels": [
+	78712104,
+	67771969,
+	127890518
+	]
+  },
+  {
+	  "name": "Numbers Pack",
+	  "color": "#FF8331",
+	  "levels": [
+	  137503346,
+	  87610666,
+	  143086259
+	]
+  },
+  {
+	  "name": "Counting Up Pack",
+	  "color": "#5AAFFB",
+	  "levels": [
+	  62000980,
+	  104824636,
+	  67648956,
+	  127771712,
+	  128460642
+	  ]
+  },
+	{
+		"name": "Why Pack",
+		"color": "#e6ebe7",
+		"levels": [
+		134474523,
+		127598431,
+		90283951,
+		123067755,
+		120609858,
+		69730348
+		]
+	},
+	{
+		"name": "Food Pack",
+		"color": "#AA8873",
+		"levels": [
+		126250187,
+		88125803,
+		"142521563"
+	]
+	},
+	{
+		"name": "PixelFactorial Pack",
+		"color": "#E5DDCC",
+		"levels": [
+		145460533,
+		130204792,
+		143566905
+		]
+	},
+	{
+		"name": "Scary Pack",
+		"color": "#990000",
+		"levels": [
+		126880940,
+		133553556,
+		143060380,
+		129023350
+		]
+	},
+	{
+		"name": "Heliopolis Pack",
+		"color": "#13200D",
+		"levels": [
+		145064173,
+		128943437,
+		108180031
+		]
+	},
+	{
+		"name": "Name Pack",
+		"color": "#AECAFA",
+		"levels": [
+		127126681,
+		142928948,
+		130869940
+		]
+	},
+	{
+		"name": "Animal Pack",
+		"color": "#441D00",
+		"levels": [
+		90162473,
+		122451205,
+		146033848
+		]
+	},
+	{
+		"name": "Water Pack",
+		"color": "#7193AA",
+		"levels": [
+		129905672,
+		132578982,
+		137501681
+		]
+  }
+]

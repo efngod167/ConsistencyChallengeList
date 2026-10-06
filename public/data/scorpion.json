@@ -1,0 +1,30 @@
+{
+    "id": 120383144,
+    "name": "Scorpion",
+    "author": "PhroggoDude",
+    "creators": ["Phroggo"],
+    "verifier": "LegendsNeverDie",
+    "verification": "https://www.youtube.com/watch?v=X8ko1X0i8lo",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=4qNTEvRWzv0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+			"user": "ClawBuckle",
+			"link": "https://youtu.be/iZcdF8ZbqtM",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/n1xqzorrZFBcF2T2z?invite=cr-MSx2QmksMzAwMTE3NTc5&v=43",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

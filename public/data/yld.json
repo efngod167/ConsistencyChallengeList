@@ -1,0 +1,32 @@
+{
+    "id": 139072688,
+    "name": "Your last Decision",
+    "author": "Spazesmeow",
+    "creators": [],
+    "verifier": "Spazesmeow",
+    "verification": "https://youtu.be/v1f2-RlAQ50",
+    "percentToQualify": "100",
+    "fps": "120",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+    {
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/mSkz5YqCJm3pFbnyo?invite=cr-MSx2bnQsMzAwMTE3NTc5&v=8",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "Sadisyourlife",
+			"link": "https://www.youtube.com/watch?v=MjgIarlR5RA",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "zgame",
+			"link": "https://medal.tv/games/geometry-dash/clips/nmoxG153Gsh8gwrta?invite=cr-MSxxMTMsNTI5MjYxNzE4",
+			"hz": "120",
+			"percent": 100
+		}
+    ]
+}

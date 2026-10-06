@@ -1,0 +1,49 @@
+{
+    "id": 121250252,
+    "name": "Wave consistency inv",
+    "author": "WithinGD",
+    "creators": [],
+    "verifier": "WithinGD",
+    "verification": "https://www.youtube.com/watch?v=ULo35IEXgUk",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"alternating": "Yes",
+    "records": [
+	    {
+		    "user": "blightedcoconut",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1385919667784122368/wave_consistency_invis.mp4?ex=6857d1c5&is=68568045&hm=cd10ec1c1b9245064805cdf7993a3e74c1abc453e32f1301e85703c5011e8757&",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=BOCNgIB45Pw",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "nensa",
+		    "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1386390125038010569",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "chillguy73",
+		    "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1389636203703308378/bandicam_2025-07-01_22-56-49-426.mp4?ex=68655711&is=68640591&hm=23fd568897c676e8c6309aa9e4f0fef51e8dfe25b16260991d5a9ec7c9ab122e&",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "KeCsan",
+		    "link": "https://youtu.be/pve9IICIhyY",
+		    "hz": "240",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Andras9912",
+		    "link": "https://www.youtube.com/watch?v=MO2zVdWx6UY",
+		    "hz": "144",
+		    "percent": 100
+	    }
+    ]
+}

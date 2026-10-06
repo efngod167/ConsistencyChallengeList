@@ -1,0 +1,79 @@
+{
+    "id": 129305117,
+    "name": "hanks hot sauce 2",
+    "author": "blightedcoconut",
+    "creators": ["blightedcoconut"],
+    "verifier": "bananas",
+    "verification": "https://www.youtube.com/watch?v=lZl-O7m7O0Q",
+    "percentToQualify": "100",
+  	"fps": "120",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1450617653059129620",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+            "user": "JayGol",
+            "link": "https://www.youtube.com/watch?v=mER_PhhHviU",
+            "hz": "120",
+            "percent": 100
+        },
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1459681759812780043",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1456348234976071936",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://www.youtube.com/shorts/rii_Aw1JiY8",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "liti1113",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1474311307724324957",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/m9Dux4Zykig3AiAfy?invite=cr-MSxrNzYsMzAwMTE3NTc5&v=14",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=unlPme5bZu0",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "Moderatepine",
+			"link": "https://medal.tv/games/geometry-dash/clips/mkAmMuAVinlkJQsEf?invite=cr-MSxkV0YsNDAwNjE1MDY1&v=9",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "Celewooga",
+			"link": "https://www.youtube.com/watch?v=5EK_Y0aaBH0",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "lonner",
+			"link": "https://youtu.be/vt87NlL2EIE?si=n8vXco3i08B3bdDG",
+			"hz": "120",
+			"percent": 100
+		}
+    ]
+}

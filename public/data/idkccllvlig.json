@@ -1,0 +1,18 @@
+{
+    "id": 121873529,
+    "name": "idk ccl lvl ig",
+    "author": "ILikeSoupGD",
+    "creators": ["ILikeSoupGD"],
+    "verifier": "Greencookie",
+    "verification": "https://youtu.be/cpc03gkWhjs",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+            "user": "Sadisyourlife",
+            "link": "https://www.youtube.com/watch?v=WBdgdZWETp0",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

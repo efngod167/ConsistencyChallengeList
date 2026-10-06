@@ -1,0 +1,19 @@
+{
+    "id": 124118325,
+    "name": "pixelfactorial chall",
+    "author": "Spazesmeow",
+    "creators": ["Spazesmeow"],
+    "verifier": "kyubd",
+    "verification": "https://www.youtube.com/watch?v=Py-hKcbmveQ",
+    "percentToQualify": "100",
+    "fps": "60",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1442382619667992639",
+			"hz": "60",
+			"percent": 100
+		}
+    ]
+}

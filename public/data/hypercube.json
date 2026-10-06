@@ -1,0 +1,44 @@
+{
+    "id": 140404749,
+    "name": "Hypercube",
+    "author": "Savarinaw",
+    "creators": ["Savarinaw"],
+    "verifier": "pot",
+    "verification": "https://youtu.be/_oKvjCfI1Ow",
+    "percentToQualify": "100",
+  	"fps": "144",
+	"version": "2.2",
+	"CBF": "No",
+    "records": [
+		{
+			"user": "JayGol",
+			"link": "https://youtu.be/_oKvjCfI1Ow",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/8WtNnx6ryOQ",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nmUN5KPJ1biG_b1S1?invite=cr-MSxEaVosMzAwMTE3NTc5",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "deerlover",
+			"link": "https://medal.tv/games/geometry-dash/clips/nvlYKj2aUTG0d8bAk?invite=cr-MSxReW0sNDkwNTM3MTA2",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "monsterd",
+			"link": "https://www.youtube.com/watch?v=YCcvq0TzLqQ",
+			"hz": "144",
+			"percent": 100
+		}
+]
+}

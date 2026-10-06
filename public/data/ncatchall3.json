@@ -1,0 +1,53 @@
+{
+    "id": 80836606,
+    "name": "Ncat Chall 3",
+    "author": "Yossarian",
+    "creators": ["Yossarian"],
+    "verifier": "blightedcoconut",
+    "verification": "https://youtu.be/nqPOicYXjD4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/lgpGb1WzvFr5Wmjo6?invite=cr-MSx5QjYsMjMzODMwODYy&v=26",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+			"user": "pixelfactorial",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1425787596432343140",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "kyubd",
+			"link": "https://youtu.be/cRQDMj__2UU",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1429630237800403075",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "MiRPacK19",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1433791284983889942",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Thebacon_gamer",
+			"link": "https://youtu.be/JVr2hwDmX4M?si=TRSv_l1dyw61-QMP",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434218350506152116",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

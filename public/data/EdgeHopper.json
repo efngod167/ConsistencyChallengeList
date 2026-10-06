@@ -1,0 +1,75 @@
+{
+    "id": 132066056,
+    "name": "Edge Hopper",
+    "author": "tFluffy",
+    "creators": ["ThePvzProMaster, tFluffy"],
+    "verifier": "tFluffy",
+    "verification": "https://www.youtube.com/watch?v=9eUNf7bj8Oc&feature=youtu.be",
+    "percentToQualify": "100",
+    "fps": "Any",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "Luke",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOIyWQzFFcv-g_kGe",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+			"user": "JayGol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nap4JSKJmMPSUUCsW?invite=cr-MSxYNkosNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/6Yf63xo7S5k",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "habibkitty",
+			"link": "https://youtu.be/Xucj9naVNHE?si=Qk9JYgLXKoQ7i2d_",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/l4Mms85vtZw",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Saul521",
+			"link": "https://youtu.be/F4IWYPbpdPI?si=BGjLqygC4_qGikVG",
+			"hz": "120",
+			"percent": 100,
+			"mobile": "true"
+		},
+		{
+			"user": "butanillo33",
+			"link": "https://youtu.be/LjtPXPJdP4Y",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "EpixsGD",
+			"link": "https://discord.com/channels/1342438507527802901/1547677114277437520/1547677114277437520",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Nuridin_T3b",
+			"link": "https://youtu.be/JMn8BNEN-bQ?is=6RWlK-rUu-eDnQd8",
+			"hz": "60",
+			"percent": 100,
+			"mobile": "true"
+		},
+		{
+			"user": "divinussonata",
+			"link": "https://medal.tv/games/geometry-dash/clips/nE9mxqdZIztST99zW?invite=cr-MSxEQ2ksMjUyODIyNTgy",
+			"hz": "CBF",
+			"percent": 100
+		}
+	]
+}

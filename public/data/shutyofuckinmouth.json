@@ -1,0 +1,61 @@
+{
+    "id": 121527481,
+    "name": "syfm wave",
+    "author": "JuicedGMD",
+    "creators": ["opiumkid15, JuicedGMD"],
+    "verifier": "Fentanyl",
+    "verification": "https://youtu.be/-6pKBzQO55U",
+    "percentToQualify": "100",
+	"version": "2.2",
+    "records": [
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ybVfADOXX3s",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "Sadisyourlife",
+		    "link": "https://www.youtube.com/watch?v=4qNTEvRWzv0",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "조세현",
+		    "link": "https://youtu.be/8jCttZV63go",
+		    "hz": "240",
+		    "percent": 100
+	    },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/5cbCWAeBgd4",
+            "hz": "CBF",
+            "percent": 100
+        },
+		{
+            "user": "Ewen",
+            "link": "https://youtu.be/w0usw25P6B4",
+            "hz": "240",
+            "percent": 100
+        },
+		{
+			"user": "ekleraaa",
+			"link": "https://www.youtube.com/watch?v=-G0QNEnc9qg",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "TheRealTyrael",
+			"link": "https://youtu.be/fcvq_30WN6E?si=ggx2w2Y56LffooXA",
+			"hz": "CBF",
+			"percent": 100,
+			"mobile": "true"
+		},
+		{
+			"user": "bananas",
+			"link": "https://medal.tv/games/geometry-dash/clips/l6q0HGAsNZSmMWnu1?invite=cr-MSxkbEEsMjMzODMwODYy&v=11",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

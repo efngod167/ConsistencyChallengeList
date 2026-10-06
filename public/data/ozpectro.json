@@ -1,0 +1,36 @@
+{
+    "id": 20994695,
+    "name": "ozpectro challenge",
+    "author": "ozpectro",
+    "creators": [],
+    "verifier": "ozpectro",
+    "verification": "https://youtu.be/9gxA7qkfi3M?si=GyXDZdmSb0e8Ph-j",
+    "percentToQualify": "100",
+    "fps": "60-360",
+    "records": [
+        {
+            "user": "nensa",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1402008970474033182",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "M4n1a",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1402007298909540403",
+            "hz": "360",
+            "percent": 100
+        },
+	{
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/sfZGkF1T11Q",
+		    "hz": "360",
+		    "percent": 100
+        },
+	{
+		    "user": "geo",
+		    "link": "https://youtu.be/oUtzGckv1bo",
+		    "hz": "240",
+		    "percent": 100
+        }
+    ]
+}

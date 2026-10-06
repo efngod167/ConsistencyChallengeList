@@ -1,0 +1,25 @@
+{
+    "id": 127804345,
+    "name": "The Portal Room",
+    "author": "tFluffy",
+    "creators": [],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/GIOKLmN2ZZE",
+    "percentToQualify": "100",
+  "fps": "",
+	"version": "2.2",
+    "records": [
+		{
+			"user": "Nyan Cat",
+			"link": "https://www.youtube.com/watch?v=z3emalvdfY4",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "pixelfactorial",
+			"link": "https://youtu.be/srxxC3WCQd0",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+    }

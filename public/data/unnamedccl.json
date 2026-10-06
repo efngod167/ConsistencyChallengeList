@@ -1,0 +1,61 @@
+{
+    "id": 120511983,
+    "name": "Unnamed CCL",
+    "author": "goofy3213",
+    "creators": ["goofy3213"],
+    "verifier": "Sadisyourlife",
+    "verification": "https://youtu.be/ox1PeO-l9Pc",
+    "percentToQualify": "100",
+    "fps": "144/240",
+	"version": "2.2",
+    "records": [
+        {
+            "user": "nensa",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1387870470778523719",
+            "hz": "CBF",
+            "percent": 100
+        },
+	{
+            "user": "uwoGD",
+            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1388786505123889162",
+            "hz": "240",
+            "percent": 100
+        },
+	    {
+		    "user": "V10lence",
+		    "link": "https://youtu.be/fPpTJqds42o",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "shafikdabest",
+		    "link": "https://www.youtube.com/watch?v=3_BV6ZLfctI",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+	    {
+		    "user": "pixelfactorial",
+		    "link": "https://youtu.be/ZY111q90Fw4",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+		{
+		    "user": "Maxr",
+		    "link": "https://www.youtube.com/watch?v=VXe_WnHU5_I",
+		    "hz": "CBF",
+		    "percent": 100
+	    },
+        {
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1434114532254416916",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://www.youtube.com/watch?v=aIJt3BN7HX0",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": 147033446,
+    "name": "Reflect",
+    "author": "StumbonGD",
+    "creators": ["pengus"],
+    "verifier": "StumbonGD",
+    "verification": "https://youtu.be/qC0c0ih4x1Q",
+    "percentToQualify": "100",
+  	"fps": "240",
+	"version": "2.2",
+	"CBF": "Yes",
+    "records": [
+		{
+			"user": "jaygol",
+			"link": "https://medal.tv/games/geometry-dash/clips/nl6eeb9rVxBWSnYf-?invite=cr-MSxGbXUsNTc1MDM1OTI1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1540397520079818752/1540397520079818752",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "maxf",
+			"link": "https://youtu.be/ZlHHi-Z305Q",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "galbeni7",
+			"link": "https://www.youtube.com/watch?v=CErJ-j3r25s",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "INITIAL",
+			"link": "https://youtu.be/Skj9R65d664",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/c7dECaPmq4s",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Luke",
+			"link": "https://medal.tv/games/geometry-dash/clips/nlffx4i7PxI5Oo7wO?invite=cr-MSx3T2YsMzAwMTE3NTc5",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "GodGamer2442",
+			"link": "https://drive.google.com/file/d/1AWd2RRWvCSUTf0cPzGeVCu7U3VV7hrWD/view?usp=sharing",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "habibkitty",
+			"link": "https://www.youtube.com/watch?v=LzTI2TfGUVA",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}
+
