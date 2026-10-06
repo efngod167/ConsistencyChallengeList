@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
+import { X } from "lucide-react";
 import { useMemo, useState } from "react";
 
 import { LevelAuthors, Page, Spinner } from "@/components/Shell";
@@ -36,6 +37,7 @@ function ListPage() {
   });
 
   const [selected, setSelected] = useState(0);
+  const [detailsOpen, setDetailsOpen] = useState(false);
   const [query, setQuery] = useState("");
 
   const list = useMemo(() => data ?? [], [data]);
@@ -110,8 +112,11 @@ function ListPage() {
               return (
                 <button
                   key={level?.id ?? err ?? i}
-                  onClick={() => setSelected(i)}
-                  className={`flex w-full items-center gap-4 rounded-2xl border p-3 text-left transition-all ${
+                  onClick={() => {
+                    setSelected(i);
+                    setDetailsOpen(true);
+                  }}
+                  className={`site-level-card flex w-full items-center gap-4 rounded-2xl border p-3 text-left transition-all ${
                     active
                       ? "border-primary/40 bg-surface-2 text-foreground"
                       : "border-cyan-500/10 text-muted-foreground hover:border-cyan-500/25 hover:bg-surface-2/60 hover:text-foreground"
@@ -154,7 +159,29 @@ function ListPage() {
           </div>
         </section>
 
-        <section className="panel overflow-hidden lg:sticky lg:top-24 lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto">
+        <div
+          onClick={(event) => {
+            if (event.target === event.currentTarget) setDetailsOpen(false);
+          }}
+          className={`fixed inset-0 z-50 items-center justify-center bg-black/75 p-4 ${
+            detailsOpen ? "flex" : "hidden"
+          } lg:static lg:inset-auto lg:z-auto lg:flex lg:items-start lg:justify-start lg:bg-transparent lg:p-0`}
+        >
+          <section
+            className={`panel relative max-h-[calc(100dvh-2rem)] w-full max-w-3xl overflow-y-auto shadow-lg shadow-black/30 lg:sticky lg:top-24 lg:max-h-[calc(100vh-11rem)] lg:max-w-none lg:shadow-none ${
+              detailsOpen
+                ? "animate-in fade-in-0 zoom-in-95 duration-250 ease-out"
+                : ""
+            }`}
+          >
+            <button
+              type="button"
+              onClick={() => setDetailsOpen(false)}
+              aria-label="Close level details"
+              className="absolute right-3 top-3 z-10 flex h-10 w-10 items-center justify-center rounded-full border border-border bg-surface-2 text-foreground transition-colors hover:bg-accent lg:hidden"
+            >
+              <X className="h-5 w-5" aria-hidden="true" />
+            </button>
           {selectedLevel ? (
             <div className="p-5 sm:p-8">
               <p className="eyebrow text-primary">
@@ -258,7 +285,8 @@ function ListPage() {
               Select a level.
             </div>
           )}
-        </section>
+          </section>
+        </div>
       </div>
     </Page>
   );

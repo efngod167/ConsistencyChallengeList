@@ -19,7 +19,7 @@ export function Spinner() {
 export function Nav() {
   return (
     <header className="sticky top-0 z-30 border-b border-cyan-500/10 bg-[#0B0F17]/80 backdrop-blur-xl">
-      <div className="mx-auto flex min-h-20 w-full max-w-[1600px] flex-wrap items-center gap-4 px-5 py-3 lg:gap-7">
+      <div className="site-header__inner mx-auto flex min-h-20 w-full max-w-[1600px] flex-wrap items-center gap-4 px-5 py-3 lg:gap-7">
         <Link to="/" className="flex items-center gap-3">
           <img
             src="/newicon.png"
@@ -36,20 +36,20 @@ export function Nav() {
           </span>
         </Link>
 
-        <nav className="flex items-center gap-1 rounded-full border border-cyan-500/10 bg-surface/60 p-1 backdrop-blur-md">
+        <nav className="site-nav flex items-center gap-1 rounded-full border border-cyan-500/10 bg-surface/60 p-1 backdrop-blur-md">
           {tabs.map((tab) => (
             <Link
               key={tab.to}
               to={tab.to}
               activeOptions={{ exact: tab.to === "/" }}
-              className="rounded-full px-4 py-2 text-xs font-bold tracking-widest text-muted-foreground uppercase transition-colors hover:text-foreground data-[status=active]:bg-surface-2 data-[status=active]:text-foreground"
+              className="site-nav__link rounded-full px-4 py-2 text-xs font-bold tracking-widest text-muted-foreground uppercase transition-colors hover:text-foreground data-[status=active]:bg-surface-2 data-[status=active]:text-foreground"
             >
               {tab.label}
             </Link>
           ))}
         </nav>
 
-        <div className="ml-auto flex items-center gap-2">
+        <div className="site-nav__actions ml-auto flex items-center gap-2">
           <a
             href="https://www.youtube.com/@ConsistencyChallengeList-y9c"
             target="_blank"
@@ -76,7 +76,7 @@ export function Nav() {
             href="https://discord.gg/zNtDVvpHTN"
             target="_blank"
             rel="noreferrer"
-            className="rounded-full bg-primary px-5 py-2.5 text-xs font-bold tracking-widest text-primary-foreground uppercase transition-colors hover:bg-primary/85"
+            className="site-nav__cta rounded-full bg-primary px-5 py-2.5 text-xs font-bold tracking-widest text-primary-foreground uppercase transition-colors hover:bg-primary/85"
           >
             Join Server
           </a>
