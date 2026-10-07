@@ -15,12 +15,6 @@
 		    "percent": 100
 	    },
 		{
-			"user": "nensa",
-			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1408355341963362304",
-			"hz": "CBF",
-			"percent": 100
-		},
-		{
 			"user": "tFluffy",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1414487304797552724",
 			"hz": "240",
@@ -76,7 +70,7 @@
 		},
 		{
 			"user": "Clawbuckle",
-			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1527360496141996092/Geometry_Dash_2026.07.13_-_22.53.09.09.DVR.mp4?ex=6a5a60cf&is=6a590f4f&hm=85c373f6bd4e99e53dc448a011601b6ee75a478e50e7a190e84f4e1ee053f30c&",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1527360500365791364",
 			"hz": "240",
 			"percent": 100
 		},
@@ -88,7 +82,7 @@
     },
 		{
 			"user": "CoffeeChips",
-			"link": "https://cdn.discordapp.com/attachments/1365699473732276316/1530750928083222528/jmgh.mp4?ex=6a66b665&is=6a6564e5&hm=51495cffd537c5d56d80b16e54044f0898d0d94f62182ec2e40717ecfd8dff7a&",
+			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1530750928808841246",
 			"hz": "CBF",
 			"percent": 100
     },
@@ -142,13 +136,19 @@
 },
 		{
 			"user": "ethan",
-			"link": "https://cdn.discordapp.com/attachments/1552845002781233313/1552845005930893332/MedalTVGeometryDash20260924191358812-trim-1790291679864_1_1.mp4?ex=6ab7171b&is=6ab5c59b&hm=10c44acaad47d267f5056fa6f9bd461dee4f36fa0adc1a2977fc58964548dd0f&",
+			"link": "https://discord.com/channels/1342438507527802901/1552845002781233313/1552845002781233313",
 			"hz": "CBF",
 			"percent": 100
 		},
 		{
 			"user": "BurntGMD",
 			"link": "https://youtube.com/shorts/ozps_XuUUMk?is=Wo16JEYCeDz86MP1",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "monsterd",
+			"link": "https://www.youtube.com/watch?v=MS2fb-jaaR4",
 			"hz": "CBF",
 			"percent": 100
 		}

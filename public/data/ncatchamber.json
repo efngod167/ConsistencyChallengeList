@@ -44,12 +44,6 @@
             "hz": "CBF",
             "percent": 100
         },
-	    {
-		    "user": "nensa",
-		    "link": "https://www.youtube.com/watch?v=z2AZHTavGz8",
-		    "hz": "CBF",
-		    "percent": 100
-	    },
         {
             "user": "Stratonymous",
             "link": "https://www.youtube.com/watch?v=oT-JgKeBzys",
@@ -305,6 +299,12 @@
 		{
 			"user": "GodGamer2442",
 			"link": "https://drive.google.com/file/d/1AWd2RRWvCSUTf0cPzGeVCu7U3VV7hrWD/view?usp=sharing",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ImSaturnN",
+			"link": "https://discord.com/channels/1342438507527802901/1556817784208367686/1556817784208367686",
 			"hz": "CBF",
 			"percent": 100
 		}
