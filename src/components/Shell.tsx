@@ -42,7 +42,7 @@ export function Nav() {
               key={tab.to}
               to={tab.to}
               activeOptions={{ exact: tab.to === "/" }}
-              className="site-nav__link rounded-full px-4 py-2 text-xs font-bold tracking-widest text-muted-foreground uppercase transition-colors hover:text-foreground data-[status=active]:bg-surface-2 data-[status=active]:text-foreground"
+              className="site-nav__link rounded-full px-4 py-2 text-xs font-bold tracking-widest text-muted-foreground uppercase transition-colors hover:bg-surface-2/50 hover:text-foreground data-[status=active]:bg-surface-2 data-[status=active]:text-foreground"
             >
               {tab.label}
             </Link>

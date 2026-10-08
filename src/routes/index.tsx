@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { ArrowLeftRight, Check, Copy, X } from "lucide-react";
-import { useMemo, useState } from "react";
+import { ArrowLeftRight, Check, Copy, Search, X } from "lucide-react";
+import { useMemo, useRef, useState } from "react";
 
 import { LevelAuthors, Page, Spinner } from "@/components/Shell";
 import {
@@ -107,7 +107,7 @@ function LevelId({ id }: { id: string }) {
 
   if (!practiceId) {
     return (
-      <div className="relative rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3 pr-12">
+      <div className="relative rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3 pr-12 transition-colors hover:border-primary/25 hover:bg-surface-2/70">
         <div className="eyebrow h-8 leading-4">ID</div>
         <p className="stat-value mt-1 truncate text-sm font-semibold">{originalId}</p>
         {copyButton}
@@ -161,6 +161,7 @@ function ListPage() {
   const [selected, setSelected] = useState(0);
   const [detailsOpen, setDetailsOpen] = useState(false);
   const [query, setQuery] = useState("");
+  const searchInput = useRef<HTMLInputElement>(null);
 
   const list = useMemo(() => data ?? [], [data]);
 
@@ -209,15 +210,40 @@ function ListPage() {
         <section className="panel flex max-h-[calc(100vh-11rem)] flex-col overflow-hidden lg:sticky lg:top-24">
           <div className="border-b border-cyan-500/10 p-5">
             <p className="eyebrow">Placements</p>
-            <input
-              value={query}
-              onChange={(e) => {
-                setQuery(e.target.value);
-                setSelected(0);
-              }}
-              placeholder="Search levels..."
-              className="mt-4 w-full rounded-xl border border-cyan-500/15 bg-[#06090F]/60 px-4 py-3 text-sm outline-none placeholder:text-muted-foreground focus:border-primary"
-            />
+            <div className="relative mt-4">
+              <button
+                type="button"
+                onClick={() => searchInput.current?.focus()}
+                aria-label="Focus level search"
+                className="absolute inset-y-0 left-0 flex w-11 items-center justify-center text-muted-foreground transition-colors hover:text-primary"
+              >
+                <Search className="h-4 w-4" aria-hidden="true" />
+              </button>
+              <input
+                ref={searchInput}
+                value={query}
+                onChange={(e) => {
+                  setQuery(e.target.value);
+                  setSelected(0);
+                }}
+                placeholder="Search levels..."
+                className="w-full rounded-xl border border-cyan-500/15 bg-[#06090F]/60 py-3 pl-11 pr-11 text-sm outline-none placeholder:text-muted-foreground focus:border-primary"
+              />
+              {query && (
+                <button
+                  type="button"
+                  onClick={() => {
+                    setQuery("");
+                    setSelected(0);
+                    searchInput.current?.focus();
+                  }}
+                  aria-label="Clear level search"
+                  className="absolute inset-y-0 right-0 flex w-11 items-center justify-center text-muted-foreground transition-colors hover:text-primary"
+                >
+                  <X className="h-4 w-4" aria-hidden="true" />
+                </button>
+              )}
+            </div>
           </div>
           <div className="min-h-0 flex-1 space-y-2 overflow-y-auto p-3">
             {filtered.length === 0 && (
@@ -352,7 +378,7 @@ function ListPage() {
                     {label === "ID" ? (
                       <LevelId id={value} />
                     ) : (
-                      <div className="rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3">
+                      <div className="rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3 transition-colors hover:border-primary/25 hover:bg-surface-2/70">
                         <div className="eyebrow h-8 leading-4">{label}</div>
                         <p className="stat-value mt-1 truncate text-sm font-semibold">
                           {value}
@@ -387,7 +413,7 @@ function ListPage() {
                 {selectedLevel.records.map((record, i) => (
                   <div
                     key={`${record.user}-${i}`}
-                    className="flex items-center gap-4 border-b border-border/60 px-4 py-2.5 last:border-b-0 odd:bg-surface-2/30"
+                    className="flex items-center gap-4 border-b border-border/60 px-4 py-2.5 transition-colors hover:bg-primary/5 last:border-b-0 odd:bg-surface-2/30"
                   >
                     <p className="w-14 shrink-0 text-sm font-semibold tabular-nums text-primary">
                       {record.percent}%
@@ -396,7 +422,7 @@ function ListPage() {
                       href={record.link}
                       target="_blank"
                       rel="noreferrer"
-                      className="truncate text-sm font-medium hover:text-primary"
+                      className="truncate text-sm font-medium transition-colors hover:text-primary"
                     >
                       {record.user}
                     </a>
