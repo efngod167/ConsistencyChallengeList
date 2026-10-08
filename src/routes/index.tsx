@@ -309,9 +309,14 @@ function ListPage() {
               <p className="eyebrow text-primary">
                 {selectedRank <= 200 ? `Rank #${selectedRank}` : "Legacy list"}
               </p>
-              <h2 className="mt-3 text-4xl font-black tracking-tight sm:text-6xl">
+              <a
+                href={selectedLevel.showcase || selectedLevel.verification}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-3 inline-block text-4xl font-black tracking-tight hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary sm:text-6xl"
+              >
                 {selectedLevel.name}
-              </h2>
+              </a>
               <LevelAuthors
                 author={selectedLevel.author}
                 creators={selectedLevel.creators ?? []}
