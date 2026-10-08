@@ -15,7 +15,15 @@ export const Route = createFileRoute("/leaderboard")({
   component: LeaderboardPage,
 });
 
-function ScoreTable({ title, scores }: { title: string; scores: Score[] }) {
+function ScoreTable({
+  title,
+  scores,
+  showScore = true,
+}: {
+  title: string;
+  scores: Score[];
+  showScore?: boolean;
+}) {
   if (!scores.length) return null;
   return (
     <>
@@ -40,9 +48,11 @@ function ScoreTable({ title, scores }: { title: string; scores: Score[] }) {
               {s.percent !== undefined ? `${s.percent}% ` : ""}
               {s.level}
             </a>
-            <p className="ml-auto text-sm font-semibold tabular-nums text-primary">
-              +{localize(s.score)}
-            </p>
+            {showScore && (
+              <p className="ml-auto text-sm font-semibold tabular-nums text-primary">
+                +{localize(s.score)}
+              </p>
+            )}
           </div>
         ))}
       </div>
@@ -151,6 +161,11 @@ function LeaderboardPage() {
               </p>
               <ScoreTable title="Verified" scores={entry.verified} />
               <ScoreTable title="Completed" scores={entry.completed} />
+              <ScoreTable
+                title="Uncompleted"
+                scores={entry.uncompleted}
+                showScore={false}
+              />
               <ScoreTable title="Progressed" scores={entry.progressed} />
             </div>
           ) : (
