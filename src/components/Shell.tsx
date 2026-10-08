@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
 
 const tabs = [
-  { to: "/", label: "List" },
+  { to: "/list", label: "List" },
   { to: "/leaderboard", label: "Leaderboard" },
   { to: "/listpacks", label: "Packs" },
   { to: "/requirements", label: "Requirements" },
