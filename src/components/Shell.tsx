@@ -104,28 +104,24 @@ export function LevelAuthors({
   creators: string[];
   verifier: string;
 }) {
-  const selfVerified = author === verifier && creators.length === 0;
-  const rows: Array<[string, string]> = selfVerified
-    ? [["Creator & Verifier", author]]
-    : creators.length === 0
-      ? [
-          ["Creator", author],
-          ["Verifier", verifier],
-        ]
-      : [
-          ["Creators", creators.join(", ")],
-          ["Verifier", verifier],
-        ];
+  const rows: Array<[string, string]> = creators.length === 0
+    ? [["Creator", author]]
+    : [["Creators", creators.join(", ")]];
   rows.push(["Publisher", author]);
 
   return (
-    <div className="mt-3 flex flex-wrap items-center gap-x-6 gap-y-2">
-      {rows.map(([label, value]) => (
-        <div key={label} className="flex flex-col">
-          <span className="eyebrow">{label}</span>
-          <span className="text-sm text-foreground">{value}</span>
-        </div>
-      ))}
+    <div className="mt-3">
+      <p className="text-sm text-muted-foreground">
+        Verified by <span className="font-medium text-foreground">{verifier}</span>
+      </p>
+      <div className="mt-3 flex flex-wrap items-center gap-x-6 gap-y-2">
+        {rows.map(([label, value]) => (
+          <div key={label} className="flex flex-col">
+            <span className="eyebrow">{label}</span>
+            <span className="text-sm text-foreground">{value}</span>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

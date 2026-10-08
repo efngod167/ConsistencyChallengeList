@@ -109,7 +109,7 @@ function LevelId({ id }: { id: string }) {
     return (
       <div className="relative rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3 pr-12">
         <div className="eyebrow h-8 leading-4">ID</div>
-        <p className="mt-1 truncate text-sm font-semibold">{originalId}</p>
+        <p className="stat-value mt-1 truncate text-sm font-semibold">{originalId}</p>
         {copyButton}
       </div>
     );
@@ -137,7 +137,7 @@ function LevelId({ id }: { id: string }) {
               </span>
             )}
           </span>
-          <span className="mt-1 block truncate text-sm font-semibold">
+          <span className="stat-value mt-1 block truncate text-sm font-semibold">
             {showPracticeId ? practiceId : originalId}
           </span>
         </span>
@@ -260,7 +260,7 @@ function ListPage() {
                         rank <= 200 ? "text-primary" : "text-muted-foreground"
                       }`}
                     >
-                      {rank <= 200 ? `#${rank}` : "Legacy"}
+                      {rank <= 200 ? `#${rank}` : `Legacy | #${rank}`}
                     </span>
                     <span
                       className={`mt-1 block truncate text-sm font-bold ${
@@ -307,7 +307,9 @@ function ListPage() {
           {selectedLevel ? (
             <div className="p-5 sm:p-8">
               <p className="eyebrow text-primary">
-                {selectedRank <= 200 ? `Rank #${selectedRank}` : "Legacy list"}
+                {selectedRank <= 200
+                  ? `Rank #${selectedRank}`
+                  : `Legacy | #${selectedRank}`}
               </p>
               <a
                 href={selectedLevel.showcase || selectedLevel.verification}
@@ -352,7 +354,9 @@ function ListPage() {
                     ) : (
                       <div className="rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3">
                         <div className="eyebrow h-8 leading-4">{label}</div>
-                        <p className="mt-1 truncate text-sm font-semibold">{value}</p>
+                        <p className="stat-value mt-1 truncate text-sm font-semibold">
+                          {value}
+                        </p>
                       </div>
                     )}
                   </li>
