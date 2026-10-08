@@ -154,13 +154,19 @@ export type LeaderboardEntry = {
   total: number;
   verified: Score[];
   completed: Score[];
+  uncompleted: Score[];
   progressed: Score[];
 };
 
 export async function fetchLeaderboard(): Promise<[LeaderboardEntry[], string[]]> {
   const list = await fetchList();
 
-  type Bucket = { verified: Score[]; completed: Score[]; progressed: Score[] };
+  type Bucket = {
+    verified: Score[];
+    completed: Score[];
+    uncompleted: Score[];
+    progressed: Score[];
+  };
   const scoreMap: Record<string, Bucket> = {};
   const errs: string[] = [];
 
@@ -174,7 +180,12 @@ export async function fetchLeaderboard(): Promise<[LeaderboardEntry[], string[]]
       Object.keys(scoreMap).find(
         (u) => u.toLowerCase() === level.verifier.toLowerCase(),
       ) || level.verifier;
-    scoreMap[verifier] ??= { verified: [], completed: [], progressed: [] };
+    scoreMap[verifier] ??= {
+      verified: [],
+      completed: [],
+      uncompleted: [],
+      progressed: [],
+    };
     scoreMap[verifier].verified.push({
       rank: rank + 1,
       level: level.name,
@@ -187,7 +198,12 @@ export async function fetchLeaderboard(): Promise<[LeaderboardEntry[], string[]]
         Object.keys(scoreMap).find(
           (u) => u.toLowerCase() === record.user.toLowerCase(),
         ) || record.user;
-      scoreMap[user] ??= { verified: [], completed: [], progressed: [] };
+      scoreMap[user] ??= {
+        verified: [],
+        completed: [],
+        uncompleted: [],
+        progressed: [],
+      };
       const { completed, progressed } = scoreMap[user];
       if (record.percent === 100) {
         completed.push({
@@ -210,6 +226,27 @@ export async function fetchLeaderboard(): Promise<[LeaderboardEntry[], string[]]
 
   const res: LeaderboardEntry[] = Object.entries(scoreMap).map(
     ([user, scores]) => {
+      const completedRanks = new Set(scores.completed.map((entry) => entry.rank));
+      const bestProgressByRank = new Map<number, number>();
+      scores.progressed.forEach((entry) => {
+        const current = bestProgressByRank.get(entry.rank) ?? 0;
+        bestProgressByRank.set(entry.rank, Math.max(current, entry.percent ?? 0));
+      });
+
+      scores.uncompleted = list.flatMap(([level, err], index) => {
+        const rank = index + 1;
+        if (!level || err || completedRanks.has(rank)) return [];
+        const percent = bestProgressByRank.get(rank);
+
+        return [{
+          rank,
+          level: level.name,
+          score: 0,
+          link: level.verification,
+          ...(percent === undefined ? {} : { percent }),
+        }];
+      });
+
       const total = [scores.verified, scores.completed, scores.progressed]
         .flat()
         .reduce((prev, cur) => prev + cur.score, 0);

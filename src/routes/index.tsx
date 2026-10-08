@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { X } from "lucide-react";
+import { ArrowLeftRight, Check, Copy, X } from "lucide-react";
 import { useMemo, useState } from "react";
 
 import { LevelAuthors, Page, Spinner } from "@/components/Shell";
@@ -27,6 +27,128 @@ function thumbnailFor(video?: string): string | null {
   if (!video) return null;
   const id = getYoutubeIdFromUrl(video);
   return id ? getThumbnailFromId(id) : null;
+}
+
+async function copyTextToClipboard(text: string): Promise<boolean> {
+  if (navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch {
+      // Fall back for browsers that expose the API but deny clipboard access.
+    }
+  }
+
+  const textarea = document.createElement("textarea");
+  textarea.value = text;
+  textarea.setAttribute("readonly", "");
+  textarea.style.position = "fixed";
+  textarea.style.top = "0";
+  textarea.style.left = "0";
+  textarea.style.opacity = "0";
+  textarea.style.fontSize = "16px";
+  document.body.appendChild(textarea);
+  textarea.focus();
+  textarea.select();
+  textarea.setSelectionRange(0, text.length);
+
+  let copied = false;
+  try {
+    copied = document.execCommand("copy");
+  } finally {
+    textarea.remove();
+  }
+  return copied;
+}
+
+function LevelId({ id }: { id: string }) {
+  const [showPracticeId, setShowPracticeId] = useState(false);
+  const [copyStatus, setCopyStatus] = useState<"copied" | "failed" | null>(null);
+  const match = id.match(/^(.*?)\s*\(([^()]*)\)$/);
+  const originalId = match?.[1] ?? id;
+  const practiceId = match?.[2];
+  const idToCopy = practiceId && showPracticeId ? practiceId : originalId;
+
+  const handleCopy = async () => {
+    let copied = false;
+    try {
+      copied = await copyTextToClipboard(idToCopy);
+    } catch {
+      copied = false;
+    }
+    setCopyStatus(copied ? "copied" : "failed");
+    window.setTimeout(() => setCopyStatus(null), 1800);
+  };
+
+  const copyButton = (
+    <button
+      type="button"
+      onClick={handleCopy}
+      aria-label={
+        copyStatus === "copied"
+          ? "ID copied"
+          : copyStatus === "failed"
+            ? "Copy failed"
+            : `Copy ${showPracticeId ? "practice" : "original"} ID`
+      }
+      title={copyStatus === "copied" ? "Copied" : "Copy ID"}
+      className="absolute right-2 top-2 z-10 inline-flex h-9 w-9 touch-manipulation items-center justify-center rounded-lg border border-primary/25 bg-background/80 text-primary transition-colors hover:border-primary/60 hover:bg-primary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+    >
+      {copyStatus === "copied" ? (
+        <Check aria-hidden="true" className="h-4 w-4" />
+      ) : (
+        <Copy
+          aria-hidden="true"
+          className={`h-4 w-4 ${copyStatus === "failed" ? "text-destructive" : ""}`}
+        />
+      )}
+    </button>
+  );
+
+  if (!practiceId) {
+    return (
+      <div className="relative rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3 pr-12">
+        <div className="eyebrow h-8 leading-4">ID</div>
+        <p className="mt-1 truncate text-sm font-semibold">{originalId}</p>
+        {copyButton}
+      </div>
+    );
+  }
+
+  return (
+    <div className="relative h-full">
+      <button
+        type="button"
+        onClick={() => {
+          setShowPracticeId((shown) => !shown);
+          setCopyStatus(null);
+        }}
+        aria-label={`Show ${showPracticeId ? "original" : "practice"} ID`}
+        aria-pressed={showPracticeId}
+        title="Click to switch between the original and practice IDs"
+        className="group flex h-full w-full min-w-0 cursor-pointer items-start gap-2 rounded-xl border border-primary/30 bg-primary/5 px-3 py-3 pr-12 text-left transition-colors hover:border-primary/70 hover:bg-primary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+      >
+        <span className="min-w-0 flex-1">
+          <span className="eyebrow block h-8 leading-4">
+            <span className="block">ID</span>
+            {showPracticeId && (
+              <span className="block font-sans text-[0.65rem] font-normal italic leading-4 tracking-normal normal-case text-muted-foreground">
+                Practice
+              </span>
+            )}
+          </span>
+          <span className="mt-1 block truncate text-sm font-semibold">
+            {showPracticeId ? practiceId : originalId}
+          </span>
+        </span>
+        <ArrowLeftRight
+          aria-hidden="true"
+          className="mt-9 h-4 w-4 shrink-0 text-primary transition-transform group-hover:scale-110"
+        />
+      </button>
+      {copyButton}
+    </div>
+  );
 }
 
 function ListPage() {
@@ -219,12 +341,15 @@ function ListPage() {
                   ["Version", selectedLevel.version || "Any"],
                   ["CBF", selectedLevel.CBF || "Yes"],
                 ].map(([label, value]) => (
-                  <li
-                    key={label}
-                    className="rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3"
-                  >
-                    <div className="eyebrow leading-4">{label}</div>
-                    <p className="mt-1 truncate text-sm font-semibold">{value}</p>
+                  <li key={label} className="min-w-0">
+                    {label === "ID" ? (
+                      <LevelId id={value} />
+                    ) : (
+                      <div className="rounded-xl border border-cyan-500/10 bg-surface-2/40 px-3 py-3">
+                        <div className="eyebrow h-8 leading-4">{label}</div>
+                        <p className="mt-1 truncate text-sm font-semibold">{value}</p>
+                      </div>
+                    )}
                   </li>
                 ))}
               </ul>
