@@ -91,6 +91,12 @@
 			"link": "https://www.youtube.com/watch?v=xw3rkN1U2wM",
 			"hz": "240",
 			"percent": 100
+		},
+		{
+			"user": "something",
+			"link": "https://youtu.be/vu27z1F3v-M",
+			"hz": "CBF",
+			"percent": 100
 		}
     ]
 }
