@@ -31,3 +31,6 @@ dist-ssr
 *.sln
 *.sw?
 AQUANOTE
+
+# Generated activity data
+/public/data/_activity.json
