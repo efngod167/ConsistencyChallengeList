@@ -101,7 +101,7 @@
 			"percent": 100
        },
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/zYv10iUvmzY",
 			"hz": "240",
 			"percent": 100
@@ -109,6 +109,12 @@
 		{
 			"user": "GodGamer2442",
 			"link": "https://drive.google.com/file/d/1AWd2RRWvCSUTf0cPzGeVCu7U3VV7hrWD/view?usp=sharing",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "habibkitty",
+			"link": "https://www.youtube.com/watch?v=OKMC4NiG5Hk",
 			"hz": "240",
 			"percent": 100
 		}
