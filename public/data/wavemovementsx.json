@@ -220,8 +220,14 @@
 		{
             "user": "habibkitty",
             "link": "https://youtu.be/7hS-7F-sHhs?si=5aXcBS17TQWzeLk_",
-            "hz": "cbf",
+            "hz": "CBF",
             "percent": 100
-        }
+        },
+		{
+			"user": "Renn69420",
+			"link": "https://discord.com/channels/1342438507527802901/1558922928324870285/1558922928324870285",
+			"hz": "CBF",
+			"percent": 100
+		}
 	] 
 }
