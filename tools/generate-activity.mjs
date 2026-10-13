@@ -178,7 +178,6 @@ for (const commit of commits) {
     const before = listAt(commit.parent);
     const after = listAt(commit.hash);
     const beforeRanks = new Map(before.map((id, index) => [id, index + 1]));
-
     after.forEach((id, index) => {
       const rank = index + 1;
       const previousRank = beforeRanks.get(id);
@@ -199,6 +198,23 @@ for (const commit of commits) {
           });
         }
       } else if (previousRank !== rank) {
+        const rankMoversAbove = after
+          .slice(0, index)
+          .filter((aboveId) => {
+            const oldRank = beforeRanks.get(aboveId);
+            const newRank = after.indexOf(aboveId) + 1;
+            return (
+              oldRank === undefined ||
+              (newRank < oldRank && oldRank > previousRank)
+            );
+          }).length;
+
+        // New placements and existing levels moving up from below can both
+        // push this level to a larger rank number.
+        if (rank > previousRank && rank - previousRank === rankMoversAbove) {
+          return;
+        }
+
         changelog.push({
           type: "rank-change",
           ...baseEvent(commit.timestamp, id, rank),

@@ -243,37 +243,38 @@ function EventList({
   }
 
   return (
-    <div className="space-y-1">
+    <div>
       {groups.map((group) => (
         <section key={group.key} aria-label={group.label}>
-          <div className="flex items-center gap-3 py-2">
-            <span className="h-px min-w-4 flex-1 bg-border/70" />
-            <h2 className="shrink-0 text-[0.65rem] font-bold tracking-[0.12em] text-[#58739f]">
+          <div className="flex items-center gap-3 pb-2 pt-5 first:pt-3">
+            <h2 className="shrink-0 text-[0.65rem] font-bold tracking-[0.14em] text-muted-foreground/75">
               {group.label}
             </h2>
-            <span className="h-px min-w-4 flex-1 bg-border/70" />
+            <span className="h-px flex-1 bg-border/60" />
           </div>
 
           <ul>
-            {group.events.map((event, index) => (
-              <li
-                key={
-                  event.type +
-                  ":" +
-                  event.levelId +
-                  ":" +
-                  event.timestamp +
-                  ":" +
-                  index
-                }
-                className="flex min-w-0 items-start gap-3 border-b border-border/50 py-4 last:border-b-0"
-              >
-                <ActivityMarker event={event} />
-                <p className="min-w-0 break-words text-[0.8rem] leading-6 text-muted-foreground">
-                  <EventText event={event} />
-                </p>
-              </li>
-            ))}
+            {group.events.map((event, index) => {
+              return (
+                <li
+                  key={
+                    event.type +
+                    ":" +
+                    event.levelId +
+                    ":" +
+                    event.timestamp +
+                    ":" +
+                    index
+                  }
+                  className="group flex min-w-0 items-start gap-3 border-b border-border/45 py-3 last:border-b-0"
+                >
+                  <ActivityMarker event={event} />
+                  <p className="min-w-0 break-words text-[0.8rem] leading-[1.65] text-muted-foreground transition-colors group-hover:text-foreground/90">
+                    <EventText event={event} />
+                  </p>
+                </li>
+              );
+            })}
           </ul>
         </section>
       ))}
@@ -309,8 +310,8 @@ export function ActivityFeed() {
     tab === "changelog" ? "activity-changelog-tab" : "activity-achievements-tab";
 
   return (
-    <section className="panel mx-0 flex h-[68dvh] min-h-[24rem] max-h-[36rem] w-full max-w-full flex-col overflow-hidden rounded-2xl border border-cyan-500/15 bg-[#070b12]/90">
-      <div className="border-b border-border/70 p-5 sm:p-6">
+    <section className="mx-0 flex h-[68dvh] min-h-[24rem] max-h-[36rem] w-full max-w-full flex-col overflow-hidden rounded-2xl border border-border/70 bg-[#070b12]/90">
+      <div className="border-b border-border/70 px-5 py-4 sm:px-6 sm:py-5">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <h1 className="flex items-center gap-2 text-lg font-black tracking-tight">
             <History className="h-4 w-4 text-primary" aria-hidden="true" />
@@ -331,8 +332,8 @@ export function ActivityFeed() {
               onClick={() => setTab("changelog")}
               className={
                 tab === "changelog"
-                  ? "min-w-0 rounded-md bg-transparent px-1.5 py-2 text-center text-[0.68rem] font-bold leading-4 text-foreground shadow-none sm:px-3 sm:text-xs"
-                  : "min-w-0 rounded-md bg-transparent px-1.5 py-2 text-center text-[0.68rem] font-semibold leading-4 text-muted-foreground shadow-none transition-colors hover:text-foreground sm:px-3 sm:text-xs"
+                  ? "min-w-0 rounded-md bg-primary/12 px-2 py-2 text-center text-[0.68rem] font-bold leading-4 text-primary shadow-none ring-1 ring-inset ring-primary/15 sm:px-3 sm:text-xs"
+                  : "min-w-0 rounded-md bg-transparent px-2 py-2 text-center text-[0.68rem] font-semibold leading-4 text-muted-foreground shadow-none transition-colors hover:bg-white/[0.04] hover:text-foreground sm:px-3 sm:text-xs"
               }
             >
               Changelog
@@ -346,8 +347,8 @@ export function ActivityFeed() {
               onClick={() => setTab("achievements")}
               className={
                 tab === "achievements"
-                  ? "min-w-0 rounded-md bg-transparent px-1.5 py-2 text-center text-[0.68rem] font-bold leading-4 text-foreground shadow-none sm:px-3 sm:text-xs"
-                  : "min-w-0 rounded-md bg-transparent px-1.5 py-2 text-center text-[0.68rem] font-semibold leading-4 text-muted-foreground shadow-none transition-colors hover:text-foreground sm:px-3 sm:text-xs"
+                  ? "min-w-0 rounded-md bg-primary/12 px-2 py-2 text-center text-[0.68rem] font-bold leading-4 text-primary shadow-none ring-1 ring-inset ring-primary/15 sm:px-3 sm:text-xs"
+                  : "min-w-0 rounded-md bg-transparent px-2 py-2 text-center text-[0.68rem] font-semibold leading-4 text-muted-foreground shadow-none transition-colors hover:bg-white/[0.04] hover:text-foreground sm:px-3 sm:text-xs"
               }
             >
               Recent Achievements
