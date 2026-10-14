@@ -174,7 +174,7 @@ export async function fetchList(): Promise<ListEntry[]> {
 }
 
 export async function fetchActivity(): Promise<ActivityFeedData> {
-  const response = await fetch(dir + "/_activity.json");
+  const response = await fetch(dir + "/activity.json");
   if (!response.ok) throw new Error("Failed to load activity.");
   return await response.json();
 }
