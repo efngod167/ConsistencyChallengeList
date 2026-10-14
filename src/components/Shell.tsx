@@ -1,5 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
+import { DiscordIcon } from "@/components/DiscordIcon";
 
 const tabs = [
   { to: "/list", label: "List" },
@@ -76,8 +77,9 @@ export function Nav() {
             href="https://discord.gg/zNtDVvpHTN"
             target="_blank"
             rel="noreferrer"
-            className="site-nav__cta rounded-full bg-primary px-5 py-2.5 text-xs font-bold tracking-widest text-primary-foreground uppercase transition-colors hover:bg-primary/85"
+            className="site-nav__cta inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-xs font-bold tracking-widest text-primary-foreground uppercase transition-colors hover:bg-primary/85"
           >
+            <DiscordIcon className="h-5 w-5 shrink-0" />
             Join Server
           </a>
         </div>

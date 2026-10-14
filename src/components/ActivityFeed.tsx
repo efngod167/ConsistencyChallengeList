@@ -4,10 +4,10 @@ import {
   ArrowDown,
   ArrowUp,
   BadgeCheck,
-  CircleDot,
   History,
   Trophy,
 } from "lucide-react";
+import { PlusIcon } from "@/components/DiscordIcon";
 import { format, isToday, isYesterday } from "date-fns";
 
 import {
@@ -214,7 +214,7 @@ function ActivityMarker({ event }: { event: ActivityEvent }) {
   if (event.type === "placement") {
     return (
       <span className="mt-0.5 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-emerald-500/15 text-emerald-400">
-        <CircleDot className="h-3 w-3" aria-hidden="true" />
+        <PlusIcon className="h-3 w-3" />
       </span>
     );
   }
