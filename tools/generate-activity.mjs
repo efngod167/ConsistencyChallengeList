@@ -7,17 +7,18 @@ const dataDirectory = path.join(root, "data");
 const outputPath = path.join(root, "public", "data", "activity.json");
 
 function runGit(args, options = {}) {
-  try {
-    return execFileSync("git", args, {
-      cwd: root,
-      encoding: options.encoding,
-      input: options.input,
-      maxBuffer: options.maxBuffer ?? 128 * 1024 * 1024,
-      stdio: options.encoding ? ["ignore", "pipe", "ignore"] : undefined,
-    });
-  } catch {
-    return options.encoding ? "" : Buffer.alloc(0);
-  }
+  return execFileSync("git", args, {
+    cwd: root,
+    encoding: options.encoding,
+    input: options.input,
+    maxBuffer: options.maxBuffer ?? 128 * 1024 * 1024,
+    stdio: options.encoding ? ["ignore", "pipe", "pipe"] : undefined,
+  });
+}
+
+if (runGit(["rev-parse", "--is-shallow-repository"], { encoding: "utf8" }).trim() === "true") {
+  console.log("Fetching full Git history to generate the activity feed...");
+  runGit(["fetch", "--unshallow", "--no-tags", "origin"]);
 }
 
 const historyText = runGit(
@@ -41,6 +42,10 @@ for (const line of historyText.split(/\r?\n/)) {
   } else if (line.trim() && currentCommit) {
     currentCommit.files.add(line.trim().replaceAll("\\", "/"));
   }
+}
+
+if (commits.length === 0) {
+  throw new Error("No Git history for data/ was found; cannot generate the activity feed.");
 }
 
 const objectSpecs = new Set();
