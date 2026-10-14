@@ -1,0 +1,420 @@
+import { useMemo, useState, type ReactNode } from "react";
+import { useQuery } from "@tanstack/react-query";
+import {
+  ArrowDown,
+  ArrowUp,
+  BadgeCheck,
+  CircleDot,
+  History,
+  Trophy,
+} from "lucide-react";
+import { format, isToday, isYesterday } from "date-fns";
+
+import {
+  fetchActivity,
+  type ActivityEvent,
+} from "@/lib/list";
+
+type FeedTab = "changelog" | "achievements";
+
+type EventGroup = {
+  key: string;
+  label: string;
+  events: ActivityEvent[];
+};
+
+function groupEvents(events: ActivityEvent[]): EventGroup[] {
+  const groups = new Map<string, EventGroup>();
+
+  for (const event of events) {
+    const date = new Date(event.timestamp);
+    const validDate = !Number.isNaN(date.getTime());
+    const key = validDate ? format(date, "yyyy-MM-dd") : "unknown";
+    let label = "DATE UNKNOWN";
+
+    if (validDate) {
+      label = isToday(date)
+        ? "TODAY"
+        : isYesterday(date)
+          ? "YESTERDAY"
+          : format(date, "MMMM d, yyyy").toUpperCase();
+    }
+
+    const group = groups.get(key);
+    if (group) {
+      group.events.push(event);
+    } else {
+      groups.set(key, { key, label, events: [event] });
+    }
+  }
+
+  return Array.from(groups.values());
+}
+
+function LinkedText({
+  href,
+  children,
+  className,
+}: {
+  href?: string;
+  children: ReactNode;
+  className: string;
+}) {
+  if (!href) return <span className={className}>{children}</span>;
+
+  return (
+    <a href={href} target="_blank" rel="noreferrer" className={className}>
+      {children}
+    </a>
+  );
+}
+
+function LevelName({
+  name,
+  href,
+  emphasis = false,
+  shimmer = false,
+  subtleGlow = false,
+}: {
+  name: string;
+  href?: string;
+  emphasis?: boolean;
+  shimmer?: boolean;
+  subtleGlow?: boolean;
+}) {
+  return (
+    <LinkedText
+      href={href}
+      className={`${
+        emphasis
+          ? "font-bold text-foreground transition-colors hover:text-primary"
+          : "font-medium text-[#7895c6] transition-colors hover:text-primary"
+      } ${shimmer ? "activity-rank-shine" : ""} ${
+        subtleGlow ? "activity-top-ten-glow" : ""
+      }`}
+    >
+      {name}
+    </LinkedText>
+  );
+}
+
+function RankLabel({ rank }: { rank: number }) {
+  return (
+    <strong
+      className={`font-semibold text-foreground ${
+        rank === 1
+          ? "activity-rank-shine"
+          : rank >= 2 && rank <= 10
+            ? "activity-top-ten-glow"
+            : ""
+      }`}
+    >
+      #{rank}
+    </strong>
+  );
+}
+
+function EventText({ event }: { event: ActivityEvent }) {
+  if (event.type === "completion") {
+    return (
+      <>
+        <LinkedText
+          href={event.recordHref}
+          className="font-semibold text-foreground transition-colors hover:text-primary"
+        >
+          {event.user}
+        </LinkedText>{" "}
+        completed{" "}
+        <LevelName
+          name={event.levelName}
+          href={event.levelHref}
+          shimmer={event.rank === 1}
+          subtleGlow={event.rank >= 2 && event.rank <= 10}
+        /> at{" "}
+        <RankLabel rank={event.rank} />
+        {event.percent === undefined ? "" : " (" + event.percent + "%)"}
+      </>
+    );
+  }
+
+  if (event.type === "verification") {
+    return (
+      <>
+        <LevelName
+          name={event.levelName}
+          href={event.levelHref}
+          emphasis
+          shimmer={event.rank === 1}
+          subtleGlow={event.rank >= 2 && event.rank <= 10}
+        /> was
+        placed at{" "}
+        <RankLabel rank={event.rank} />{" "}
+        and verified
+      </>
+    );
+  }
+
+  if (event.type === "placement") {
+    return (
+      <>
+        <LevelName
+          name={event.levelName}
+          href={event.levelHref}
+          emphasis
+          shimmer={event.rank === 1}
+          subtleGlow={event.rank >= 2 && event.rank <= 10}
+        />{" "}
+        placed at{" "}
+        <RankLabel rank={event.rank} />
+        {event.above && (
+          <>
+            , above{" "}
+            <LevelName name={event.above.name} href={event.above.href} />
+          </>
+        )}
+        {event.below && (
+          <>
+            , below{" "}
+            <LevelName name={event.below.name} href={event.below.href} />
+          </>
+        )}
+      </>
+    );
+  }
+
+  return (
+    <>
+      <LevelName
+        name={event.levelName}
+        href={event.levelHref}
+        emphasis
+        shimmer={event.rank === 1}
+        subtleGlow={event.rank >= 2 && event.rank <= 10}
+      />{" "}
+      <span className="tabular-nums text-muted-foreground">
+        #{event.previousRank} → <RankLabel rank={event.rank} />
+      </span>
+      {event.above && (
+        <>
+          , above{" "}
+          <LevelName name={event.above.name} href={event.above.href} />
+        </>
+      )}
+      {event.below && (
+        <>
+          , below{" "}
+          <LevelName name={event.below.name} href={event.below.href} />
+        </>
+      )}
+    </>
+  );
+}
+
+function ActivityMarker({ event }: { event: ActivityEvent }) {
+  if (event.type === "placement") {
+    return (
+      <span className="mt-0.5 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-emerald-500/15 text-emerald-400">
+        <CircleDot className="h-3 w-3" aria-hidden="true" />
+      </span>
+    );
+  }
+
+  if (event.type === "rank-change") {
+    const movedUp = event.rank < event.previousRank;
+    const Icon = movedUp ? ArrowUp : ArrowDown;
+    return (
+      <span
+        className={
+          movedUp
+            ? "mt-0.5 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-emerald-500/15 text-emerald-400"
+            : "mt-0.5 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-500/15 text-amber-400"
+        }
+      >
+        <Icon className="h-3 w-3" aria-hidden="true" />
+      </span>
+    );
+  }
+
+  if (event.type === "verification") {
+    return (
+      <span className="mt-0.5 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-sky-500/15 text-sky-400">
+        <BadgeCheck className="h-3.5 w-3.5" aria-hidden="true" />
+      </span>
+    );
+  }
+
+  return (
+    <span className="mt-0.5 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-emerald-500/15 text-emerald-400">
+      <Trophy className="h-3 w-3" aria-hidden="true" />
+    </span>
+  );
+}
+
+function EventList({
+  events,
+  loading,
+  error,
+  emptyMessage,
+}: {
+  events: ActivityEvent[];
+  loading: boolean;
+  error: boolean;
+  emptyMessage: string;
+}) {
+  const groups = useMemo(() => groupEvents(events), [events]);
+
+  if (loading) {
+    return (
+      <p className="py-14 text-center text-sm text-muted-foreground" role="status">
+        Loading activity…
+      </p>
+    );
+  }
+
+  if (error) {
+    return (
+      <p className="py-14 text-center text-sm text-muted-foreground" role="status">
+        Activity is unavailable right now.
+      </p>
+    );
+  }
+
+  if (events.length === 0) {
+    return (
+      <p className="py-14 text-center text-sm text-muted-foreground">
+        {emptyMessage}
+      </p>
+    );
+  }
+
+  return (
+    <div>
+      {groups.map((group) => (
+        <section key={group.key} aria-label={group.label}>
+          <div className="flex items-center gap-3 pb-2 pt-5 first:pt-3">
+            <h2 className="shrink-0 text-[0.65rem] font-bold tracking-[0.14em] text-muted-foreground/75">
+              {group.label}
+            </h2>
+            <span className="h-px flex-1 bg-border/60" />
+          </div>
+
+          <ul>
+            {group.events.map((event, index) => {
+              return (
+                <li
+                  key={
+                    event.type +
+                    ":" +
+                    event.levelId +
+                    ":" +
+                    event.timestamp +
+                    ":" +
+                    index
+                  }
+                  className="group flex min-w-0 items-start gap-3 border-b border-border/45 py-3 last:border-b-0"
+                >
+                  <ActivityMarker event={event} />
+                  <p className="min-w-0 break-words text-[0.8rem] leading-[1.65] text-muted-foreground transition-colors group-hover:text-foreground/90">
+                    <EventText event={event} />
+                  </p>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      ))}
+    </div>
+  );
+}
+
+export function ActivityFeed() {
+  const [tab, setTab] = useState<FeedTab>("changelog");
+  const { data, isLoading, isError } = useQuery({
+    queryKey: ["activity"],
+    queryFn: fetchActivity,
+    staleTime: Infinity,
+  });
+
+  const source =
+    tab === "changelog"
+      ? (data?.changelog ?? [])
+      : (data?.achievements ?? []);
+  const events = useMemo(
+    () =>
+      [...source]
+        .sort(
+          (a, b) =>
+            new Date(b.timestamp).getTime() -
+            new Date(a.timestamp).getTime(),
+        )
+        .slice(0, 30),
+    [source],
+  );
+
+  const activeTabId =
+    tab === "changelog" ? "activity-changelog-tab" : "activity-achievements-tab";
+
+  return (
+    <section className="mx-0 flex h-[68dvh] min-h-[24rem] max-h-[36rem] w-full max-w-full flex-col overflow-hidden rounded-2xl border border-border/70 bg-[#070b12]/90">
+      <div className="border-b border-border/70 px-5 py-4 sm:px-6 sm:py-5">
+        <div className="flex flex-wrap items-center justify-between gap-4">
+          <h1 className="flex items-center gap-2 text-lg font-black tracking-tight">
+            <History className="h-4 w-4 text-primary" aria-hidden="true" />
+            {tab === "changelog" ? "Recent Changes" : "Recent Achievements"}
+          </h1>
+
+          <div
+            role="tablist"
+            aria-label="Activity feed"
+            className="grid w-full grid-cols-2 items-center gap-1 rounded-lg border border-cyan-500/15 bg-background/60 p-1 sm:flex sm:w-auto"
+          >
+            <button
+              type="button"
+              id="activity-changelog-tab"
+              role="tab"
+              aria-selected={tab === "changelog"}
+              aria-controls="activity-feed-panel"
+              onClick={() => setTab("changelog")}
+              className={
+                tab === "changelog"
+                  ? "min-w-0 rounded-md bg-primary/12 px-2 py-2 text-center text-[0.68rem] font-bold leading-4 text-primary shadow-none ring-1 ring-inset ring-primary/15 sm:px-3 sm:text-xs"
+                  : "min-w-0 rounded-md bg-transparent px-2 py-2 text-center text-[0.68rem] font-semibold leading-4 text-muted-foreground shadow-none transition-colors hover:bg-white/[0.04] hover:text-foreground sm:px-3 sm:text-xs"
+              }
+            >
+              Changelog
+            </button>
+            <button
+              type="button"
+              id="activity-achievements-tab"
+              role="tab"
+              aria-selected={tab === "achievements"}
+              aria-controls="activity-feed-panel"
+              onClick={() => setTab("achievements")}
+              className={
+                tab === "achievements"
+                  ? "min-w-0 rounded-md bg-primary/12 px-2 py-2 text-center text-[0.68rem] font-bold leading-4 text-primary shadow-none ring-1 ring-inset ring-primary/15 sm:px-3 sm:text-xs"
+                  : "min-w-0 rounded-md bg-transparent px-2 py-2 text-center text-[0.68rem] font-semibold leading-4 text-muted-foreground shadow-none transition-colors hover:bg-white/[0.04] hover:text-foreground sm:px-3 sm:text-xs"
+              }
+            >
+              Recent Achievements
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div
+        id="activity-feed-panel"
+        role="tabpanel"
+        aria-labelledby={activeTabId}
+        className="min-h-0 flex-1 overflow-y-auto overscroll-contain px-5 pb-5 sm:px-6"
+      >
+        <EventList
+          events={events}
+          loading={isLoading}
+          error={isError}
+          emptyMessage="No activity has been recorded yet."
+        />
+      </div>
+    </section>
+  );
+}

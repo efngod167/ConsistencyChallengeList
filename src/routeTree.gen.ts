@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as LeaderboardRouteImport } from './routes/leaderboard'
+import { Route as ListRouteImport } from './routes/list'
 import { Route as ListpacksRouteImport } from './routes/listpacks'
 import { Route as RequirementsRouteImport } from './routes/requirements'
 import { Route as RouletteRouteImport } from './routes/roulette'
@@ -23,6 +24,11 @@ const IndexRoute = IndexRouteImport.update({
 const LeaderboardRoute = LeaderboardRouteImport.update({
   id: '/leaderboard',
   path: '/leaderboard',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ListRoute = ListRouteImport.update({
+  id: '/list',
+  path: '/list',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ListpacksRoute = ListpacksRouteImport.update({
@@ -44,6 +50,7 @@ const RouletteRoute = RouletteRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/leaderboard': typeof LeaderboardRoute
+  '/list': typeof ListRoute
   '/listpacks': typeof ListpacksRoute
   '/requirements': typeof RequirementsRoute
   '/roulette': typeof RouletteRoute
@@ -51,6 +58,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/leaderboard': typeof LeaderboardRoute
+  '/list': typeof ListRoute
   '/listpacks': typeof ListpacksRoute
   '/requirements': typeof RequirementsRoute
   '/roulette': typeof RouletteRoute
@@ -59,19 +67,33 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/leaderboard': typeof LeaderboardRoute
+  '/list': typeof ListRoute
   '/listpacks': typeof ListpacksRoute
   '/requirements': typeof RequirementsRoute
   '/roulette': typeof RouletteRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/leaderboard' | '/listpacks' | '/requirements' | '/roulette'
+  fullPaths:
+    | '/'
+    | '/leaderboard'
+    | '/list'
+    | '/listpacks'
+    | '/requirements'
+    | '/roulette'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/leaderboard' | '/listpacks' | '/requirements' | '/roulette'
+  to:
+    | '/'
+    | '/leaderboard'
+    | '/list'
+    | '/listpacks'
+    | '/requirements'
+    | '/roulette'
   id:
     | '__root__'
     | '/'
     | '/leaderboard'
+    | '/list'
     | '/listpacks'
     | '/requirements'
     | '/roulette'
@@ -80,6 +102,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   LeaderboardRoute: typeof LeaderboardRoute
+  ListRoute: typeof ListRoute
   ListpacksRoute: typeof ListpacksRoute
   RequirementsRoute: typeof RequirementsRoute
   RouletteRoute: typeof RouletteRoute
@@ -99,6 +122,13 @@ declare module '@tanstack/react-router' {
       path: '/leaderboard'
       fullPath: '/leaderboard'
       preLoaderRoute: typeof LeaderboardRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/list': {
+      id: '/list'
+      path: '/list'
+      fullPath: '/list'
+      preLoaderRoute: typeof ListRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/listpacks': {
@@ -128,6 +158,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   LeaderboardRoute: LeaderboardRoute,
+  ListRoute: ListRoute,
   ListpacksRoute: ListpacksRoute,
   RequirementsRoute: RequirementsRoute,
   RouletteRoute: RouletteRoute,

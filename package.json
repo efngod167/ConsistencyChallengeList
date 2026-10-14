@@ -4,7 +4,9 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
+    "predev": "node tools/generate-activity.mjs",
     "dev": "vite dev",
+    "prebuild": "node tools/generate-activity.mjs",
     "build": "vite build",
     "build:dev": "vite build --mode development",
     "preview": "vite preview",

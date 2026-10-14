@@ -34,6 +34,52 @@ export type Level = {
 
 export type ListEntry = [Level | null, string | null];
 
+export type ActivityNeighbor = {
+  name: string;
+  href?: string;
+};
+
+export type ActivityEventBase = {
+  timestamp: string;
+  levelId: string;
+  levelName: string;
+  levelHref?: string;
+  rank: number;
+};
+
+export type PlacementEvent = ActivityEventBase & {
+  type: "placement";
+  above?: ActivityNeighbor;
+  below?: ActivityNeighbor;
+};
+
+export type RankChangeEvent = ActivityEventBase & {
+  type: "rank-change";
+  previousRank: number;
+  above?: ActivityNeighbor;
+  below?: ActivityNeighbor;
+};
+
+export type VerificationEvent = ActivityEventBase & {
+  type: "verification";
+};
+
+export type CompletionEvent = ActivityEventBase & {
+  type: "completion";
+  user: string;
+  percent?: number;
+  recordHref?: string;
+};
+
+export type ChangelogEvent = PlacementEvent | RankChangeEvent;
+export type AchievementEvent = VerificationEvent | CompletionEvent;
+export type ActivityEvent = ChangelogEvent | AchievementEvent;
+
+export type ActivityFeedData = {
+  changelog: ChangelogEvent[];
+  achievements: AchievementEvent[];
+};
+
 export type Editor = { role: string; name: string; link?: string };
 
 export type Pack = { name: string; color: string; levels: Array<string | number> };
@@ -127,6 +173,11 @@ export async function fetchList(): Promise<ListEntry[]> {
   );
 }
 
+export async function fetchActivity(): Promise<ActivityFeedData> {
+  const response = await fetch(dir + "/_activity.json");
+  if (!response.ok) throw new Error("Failed to load activity.");
+  return await response.json();
+}
 export async function fetchEditors(): Promise<Editor[] | null> {
   try {
     const res = await fetch(`${dir}/_editors.json`);

@@ -68,6 +68,10 @@
   --ring: #00d2ff;
 }
 
+.stat-value {
+  text-shadow: 0 0 8px color-mix(in srgb, var(--primary) 28%, transparent);
+}
+
 @layer base {
   * {
     border-color: var(--color-border);
@@ -157,3 +161,41 @@
   letter-spacing: 0.14em;
   color: var(--muted-foreground);
 }
+
+@keyframes rank-shine {
+  to {
+    background-position: -120% 0;
+  }
+}
+
+.activity-rank-shine {
+  color: transparent;
+  background-image: linear-gradient(
+    110deg,
+    #67e8f9 0%,
+    #67e8f9 34%,
+    #ffffff 48%,
+    #00d2ff 58%,
+    #67e8f9 74%
+  );
+  background-size: 220% 100%;
+  background-position: 100% 0;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rank-shine 2.4s ease-in-out infinite;
+}
+
+.activity-top-ten-glow {
+  text-shadow: 0 0 8px rgb(255 255 255 / 18%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .activity-rank-shine {
+    color: #67e8f9;
+    background-image: none;
+    -webkit-text-fill-color: currentColor;
+    animation: none;
+  }
+}
+
