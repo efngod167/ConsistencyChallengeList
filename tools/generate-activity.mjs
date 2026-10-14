@@ -4,7 +4,7 @@ import path from "node:path";
 
 const root = process.cwd();
 const dataDirectory = path.join(root, "data");
-const outputPath = path.join(root, "public", "data", "_activity.json");
+const outputPath = path.join(root, "public", "data", "activity.json");
 
 function runGit(args, options = {}) {
   try {
