@@ -1,8 +1,9 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { ArrowRight, Boxes, Github, ListOrdered, MessageCircle, Trophy } from "lucide-react";
+import { ArrowRight, Boxes, Github, ListOrdered, Trophy } from "lucide-react";
 
 import { ActivityFeed } from "@/components/ActivityFeed";
 import { Page } from "@/components/Shell";
+import { DiscordIcon } from "@/components/DiscordIcon";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -21,7 +22,7 @@ const destinations = [
   { label: "List", to: "/list", icon: ListOrdered },
   { label: "Leaderboard", to: "/leaderboard", icon: Trophy },
   { label: "Packs", to: "/listpacks", icon: Boxes },
-  { label: "Server", href: "https://discord.gg/zNtDVvpHTN", icon: MessageCircle },
+  { label: "Server", href: "https://discord.gg/zNtDVvpHTN", icon: DiscordIcon },
 ] as const;
 
 const repositoryUrl = "https://github.com/efngod167/ConsistencyChallengeList";
@@ -96,15 +97,33 @@ function HomePage() {
 
 
 
-          <section className="grid gap-8 py-12 sm:py-16 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] lg:items-center">
+          <section className="grid gap-8 border-t border-border py-12 sm:py-16 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] lg:items-center">
+            <div className="max-w-2xl">
+              <h2 className="text-2xl font-bold tracking-tight">Join our Discord!</h2>
+              <p className="mt-3 text-sm leading-6 text-muted-foreground sm:text-base">
+                Submit levels and records, get help, and connect with the community on our Discord server.
+              </p>
+            </div>
+            <a
+              href="https://discord.gg/zNtDVvpHTN"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex min-h-12 items-center justify-center gap-3 justify-self-start leading-none bg-accent px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-accent/85 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary lg:justify-self-end"
+            >
+              <DiscordIcon className="h-5 w-5 shrink-0" />
+              Join our Discord
+            </a>
+          </section>
+
+          <section className="grid gap-8 border-t border-border py-12 sm:py-16 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] lg:items-center">
             <a
               href={repositoryUrl}
               target="_blank"
               rel="noreferrer"
               className="inline-flex min-h-12 items-center justify-center gap-3 justify-self-start bg-accent px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-accent/85 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
             >
-              <Github className="h-4 w-4" aria-hidden="true" />
-              To the repository
+              <Github className="h-5 w-5" aria-hidden="true" />
+              CCL Repository
             </a>
             <div className="max-w-2xl lg:justify-self-end lg:text-right">
               <h2 className="text-2xl font-bold tracking-tight">Check out our GitHub!</h2>
