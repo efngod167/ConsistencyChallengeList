@@ -73,22 +73,44 @@ function LevelName({
   name,
   href,
   emphasis = false,
+  shimmer = false,
+  subtleGlow = false,
 }: {
   name: string;
   href?: string;
   emphasis?: boolean;
+  shimmer?: boolean;
+  subtleGlow?: boolean;
 }) {
   return (
     <LinkedText
       href={href}
-      className={
+      className={`${
         emphasis
           ? "font-bold text-foreground transition-colors hover:text-primary"
           : "font-medium text-[#7895c6] transition-colors hover:text-primary"
-      }
+      } ${shimmer ? "activity-rank-shine" : ""} ${
+        subtleGlow ? "activity-top-ten-glow" : ""
+      }`}
     >
       {name}
     </LinkedText>
+  );
+}
+
+function RankLabel({ rank }: { rank: number }) {
+  return (
+    <strong
+      className={`font-semibold text-foreground ${
+        rank === 1
+          ? "activity-rank-shine"
+          : rank >= 2 && rank <= 10
+            ? "activity-top-ten-glow"
+            : ""
+      }`}
+    >
+      #{rank}
+    </strong>
   );
 }
 
@@ -103,8 +125,13 @@ function EventText({ event }: { event: ActivityEvent }) {
           {event.user}
         </LinkedText>{" "}
         completed{" "}
-        <LevelName name={event.levelName} href={event.levelHref} /> at{" "}
-        <strong className="font-semibold text-foreground">#{event.rank}</strong>
+        <LevelName
+          name={event.levelName}
+          href={event.levelHref}
+          shimmer={event.rank === 1}
+          subtleGlow={event.rank >= 2 && event.rank <= 10}
+        /> at{" "}
+        <RankLabel rank={event.rank} />
         {event.percent === undefined ? "" : " (" + event.percent + "%)"}
       </>
     );
@@ -113,9 +140,15 @@ function EventText({ event }: { event: ActivityEvent }) {
   if (event.type === "verification") {
     return (
       <>
-        <LevelName name={event.levelName} href={event.levelHref} emphasis /> was
+        <LevelName
+          name={event.levelName}
+          href={event.levelHref}
+          emphasis
+          shimmer={event.rank === 1}
+          subtleGlow={event.rank >= 2 && event.rank <= 10}
+        /> was
         placed at{" "}
-        <strong className="font-semibold text-foreground">#{event.rank}</strong>{" "}
+        <RankLabel rank={event.rank} />{" "}
         and verified
       </>
     );
@@ -124,9 +157,15 @@ function EventText({ event }: { event: ActivityEvent }) {
   if (event.type === "placement") {
     return (
       <>
-        <LevelName name={event.levelName} href={event.levelHref} emphasis />{" "}
+        <LevelName
+          name={event.levelName}
+          href={event.levelHref}
+          emphasis
+          shimmer={event.rank === 1}
+          subtleGlow={event.rank >= 2 && event.rank <= 10}
+        />{" "}
         placed at{" "}
-        <strong className="font-semibold text-foreground">#{event.rank}</strong>
+        <RankLabel rank={event.rank} />
         {event.above && (
           <>
             , above{" "}
@@ -145,9 +184,15 @@ function EventText({ event }: { event: ActivityEvent }) {
 
   return (
     <>
-      <LevelName name={event.levelName} href={event.levelHref} emphasis />{" "}
+      <LevelName
+        name={event.levelName}
+        href={event.levelHref}
+        emphasis
+        shimmer={event.rank === 1}
+        subtleGlow={event.rank >= 2 && event.rank <= 10}
+      />{" "}
       <span className="tabular-nums text-muted-foreground">
-        #{event.previousRank} → #{event.rank}
+        #{event.previousRank} → <RankLabel rank={event.rank} />
       </span>
       {event.above && (
         <>
