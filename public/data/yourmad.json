@@ -142,6 +142,12 @@
 			"hz": "60",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "kelix",
+			"link": "https://discord.com/channels/1342438507527802901/1560618835243958362/1560618835243958362",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
