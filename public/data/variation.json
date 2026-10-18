@@ -3,7 +3,7 @@
     "name": "Variation",
     "author": "pengus",
     "creators": ["pengus"],
-    "verifier": "Stumbongd",
+    "verifier": "StumbonGD",
     "verification": "https://youtu.be/Q9HgSi-UyO0",
     "percentToQualify": "100",
 	"fps": "240",
@@ -86,6 +86,12 @@
 			"user": "AliAli",
 			"link": "https://youtu.be/FymD4CT_ID0?si=CoFTcrUoytCZgXGZ",
 			"hz": "COS",
+			"percent": 100
+		},
+		{
+			"user": "PushLastname",
+			"link": "https://youtu.be/R0GEJPbKC3k",
+			"hz": "240",
 			"percent": 100
 		}
 	]
