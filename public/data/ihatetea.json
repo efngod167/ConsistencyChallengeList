@@ -47,7 +47,7 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/1UrK07dwmtY",
 			"hz": "64",
 			"percent": 100
@@ -55,6 +55,12 @@
 		{
 			"user": "Aut0Plays",
 			"link": "https://youtu.be/Nyo0XBGhxEw",
+			"hz": "64",
+			"percent": 100
+		},
+		{
+			"user": "IamChipsYe",
+			"link": "https://discord.com/channels/1342438507527802901/1561387867018629280/1561387867018629280",
 			"hz": "64",
 			"percent": 100
 		}
