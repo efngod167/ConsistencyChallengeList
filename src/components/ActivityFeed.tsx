@@ -168,13 +168,13 @@ function EventText({ event }: { event: ActivityEvent }) {
         <RankLabel rank={event.rank} />
         {event.above && (
           <>
-            , above{" "}
+            , below{" "}
             <LevelName name={event.above.name} href={event.above.href} />
           </>
         )}
         {event.below && (
           <>
-            , below{" "}
+            , above{" "}
             <LevelName name={event.below.name} href={event.below.href} />
           </>
         )}
@@ -196,13 +196,13 @@ function EventText({ event }: { event: ActivityEvent }) {
       </span>
       {event.above && (
         <>
-          , above{" "}
+          , below{" "}
           <LevelName name={event.above.name} href={event.above.href} />
         </>
       )}
       {event.below && (
         <>
-          , below{" "}
+          , above{" "}
           <LevelName name={event.below.name} href={event.below.href} />
         </>
       )}
