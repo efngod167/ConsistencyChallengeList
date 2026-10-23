@@ -101,8 +101,14 @@
 			"percent": 100
 		},
 		{
-			"user": "stumbongd",
+			"user": "StumbonGD",
 			"link": "https://youtu.be/eSQeVgxowco",
+			"hz": "120",
+			"percent": 100
+		},
+		{
+			"user": "habibkitty",
+			"link": "https://youtu.be/y0CX9Ct6bn0",
 			"hz": "120",
 			"percent": 100
 		}
