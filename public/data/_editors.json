@@ -2,7 +2,7 @@
     {
         "role": "owner",
         "name": "pixelfactorial",
-        "link": "https://pastebin.com/n3V3ywtB"
+        "link": "https://www.youtube.com/@pixelfactorial"
     },
         {
         "role": "owner",
@@ -48,6 +48,11 @@
         "role": "helper",
         "name": "pastel",
         "link": "https://www.youtube.com/@pastelliano"
+    },
+    {
+        "role": "helper",
+        "name": "Zoe",
+        "link": "https://www.youtube.com/channel/UC4bQKx8qJKie2FiQoHvxTMQ"
     },
     {
         "role": "dev",
