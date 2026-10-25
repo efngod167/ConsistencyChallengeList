@@ -44,7 +44,12 @@
             "user": "TonyIsAYT",
             "link": "https://youtu.be/gdhFh7mjwzk?si=vJWVTcIeQ4Qz6mUU",
             "hz": "60",
-            "percent": 100
-        }
+		},
+		{
+			"user": "StumbonGD",
+			"link": "https://youtu.be/xYNbAxeYqvU",
+			"hz": "60",
+			"percent": 100
+		}
 ]
 }
