@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"CBF": "No",
     "records": [
+		{
+			"user": "tostiwnl",
+			"link": "https://youtu.be/JPMpFRZ03ak",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
