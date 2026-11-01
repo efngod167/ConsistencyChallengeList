@@ -549,6 +549,12 @@
 			"hz": "240",
 			"percent": 100,
 			"mobile": "true"
+		},
+		{
+			"user": "ABCPierog",
+			"link": "https://www.youtube.com/watch?v=y6OiH2aFpWM",
+			"hz": "240",
+			"percent": 100
 		}
     ]
 }
