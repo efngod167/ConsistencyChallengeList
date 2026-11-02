@@ -10,5 +10,11 @@
 "fps": "Any",
 "CBF": "No",
     "records": [
+		{
+			"user": "atpx8",
+			"link": "https://youtu.be/rshVsJLdZiA",
+			"hz": "CBS",
+			"percent": 100
+		}
 ]
 }
