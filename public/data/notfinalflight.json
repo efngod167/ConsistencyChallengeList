@@ -10,5 +10,11 @@
 "fps": "Any",
 "CBF": "Yes",
     "records": [
+        {
+            "user": "monsterd",
+            "link": "https://www.youtube.com/watch?v=3LaiGYeauJk",
+            "hz": "CBF",
+            "percent": 100
+        }
 ]
 }
