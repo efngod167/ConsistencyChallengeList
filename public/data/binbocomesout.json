@@ -11,6 +11,12 @@
   "CBF": "No",
     "records": [
 		{
+			"user": "maxf",
+			"link": "https://youtu.be/MhmJK0GjJQQ?si=uXFCZpS0XuecVj25",
+			"hz": "60",
+			"percent": 100
+		},
+		{
 			"user": "PengusP",
 			"link": "https://discord.com/channels/1342438507527802901/1568322052224716881/1568322052224716881",
 			"hz": "60",
@@ -19,12 +25,6 @@
 		{
 			"user": "bananas",
 			"link": "https://discord.com/channels/1342438507527802901/1568323409882910800/1568323409882910800",
-			"hz": "60",
-			"percent": 100
-		},
-		{
-			"user": "maxf",
-			"link": "https://youtu.be/MhmJK0GjJQQ?si=uXFCZpS0XuecVj25",
 			"hz": "60",
 			"percent": 100
 		}
