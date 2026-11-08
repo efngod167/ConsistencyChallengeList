@@ -10,5 +10,11 @@
 	"version": "2.2",
   "CBF": "Yes",
     "records": [
+		{
+			"user": "MiRPacK19",
+			"link": "https://youtu.be/BcAxIKrGa6E",
+			"hz": "240",
+			"percent": 100
+		}
     ]
 }
