@@ -3,19 +3,13 @@
     "name": "carrot in stock",
     "author": "FoldedZero",
     "creators": [],
-    "verifier": "FoldedZero",
-    "verification": "https://youtu.be/ATWdTGUfwCs",
+    "verifier": "bananas",
+    "verification": "https://medal.tv/games/geometry-dash/clips/l6752k7jC4l2BOrlE",
     "percentToQualify": "100",
     "fps": "60",
 	"version": "2.2",
 	"CBF": "No",
     "records": [
-		{
-            "user": "bananas",
-            "link": "https://medal.tv/games/geometry-dash/clips/l6752k7jC4l2BOrlE",
-            "hz": "60",
-            "percent": 100
-        },
 		{
 			"user": "Sadisyourlife",
 			"link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1425505268099453020",
