@@ -3,19 +3,13 @@
     "name": "nah",
     "author": "FoldedZero",
     "creators": [],
-    "verifier": "FoldedZero",
-    "verification": "https://www.youtube.com/watch?v=2tHR33OMgPo",
+    "verifier": "bananas",
+    "verification": "https://youtu.be/fJV5tbWlhsk",
     "percentToQualify": "100",
     "fps": "60",
 	"version": "2.2",
 	"CBF": "No",
     "records": [
-		{
-            "user": "bananas",
-            "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1404598431670079599",
-            "hz": "60",
-            "percent": 100
-        },
 		{
             "user": "blightedcoconut",
             "link": "https://discord.com/channels/1342438507527802901/1365699473732276316/1404737408074911785",
