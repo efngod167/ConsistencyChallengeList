@@ -3,19 +3,13 @@
     "name": "DontEvenBotherTrying",
     "author": "DarkCity8",
     "creators": ["DarkCity8"],
-    "verifier": "FoldedZero",
-    "verification": "https://youtu.be/mHaHKljW6PU",
+    "verifier": "aimdox",
+    "verification": "https://medal.tv/games/geometry-dash/clips/nlfomV5TbuxBM2KlF?invite=cr-MSxneHYsNTM1MjQyMzcy",
     "percentToQualify": "100",
 	"version": "2.2",
 "fps": "120",
 	"CBF": "No",
     "records": [
-		{
-			"user": "aimdox",
-			"link": "https://medal.tv/games/geometry-dash/clips/nlfomV5TbuxBM2KlF?invite=cr-MSxneHYsNTM1MjQyMzcy",
-			"hz": "120",
-			"percent": 100
-		},
 		{
 			"user": "maxf",
 			"link": "https://youtu.be/_I4nW30js1E",
