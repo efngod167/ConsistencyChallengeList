@@ -6,27 +6,9 @@
     "verifier": "aelzfr",
     "verification": "https://www.youtube.com/watch?v=pQfvE-OOWYo",
     "percentToQualify": "100",
-    "fps": "94",
+    "fps": "187.7",
     "version": "2.1",
     "CBF": "No",
     "records": [
-        {
-            "user": "pastel",
-            "link": "https://cdn.discordapp.com/attachments/1365699473732276316/1370984181051691008/0511.mp4?ex=68217c04&is=68202a84&hm=e964c286172dfdfca217c2fbddc40e113d961a88d4106c8b2dab29e74cc92abb&",
-            "hz": "94",
-            "percent": 100
-        },
-        {
-            "user": "Sadisyourlife",
-            "link": "https://www.youtube.com/watch?v=UQvHh6qYwT8",
-            "hz": "94",
-            "percent": 100
-        },
-        {
-            "user": "ad3usgmd",
-            "link": "https://youtu.be/wFFFi1WAwzY?si=C3aVn9t1u6OjciaV",
-            "hz": "94",
-            "percent": 100
-        }
     ]
 }
