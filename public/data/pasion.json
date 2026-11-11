@@ -10,5 +10,11 @@
     "version": "2.2",
 	"CBF": "Required",
     "records": [
+		{
+			"user": "deerlover",
+			"link": "https://medal.tv/games/geometry-dash/clips/nUy4Lq1Zt23JFO7xO?invite=cr-MSxKRUEsNDkwNTM3MTA2",
+			"hz": "CBF",
+			"percent": 100
+		}
 ]
 }
