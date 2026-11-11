@@ -10,5 +10,11 @@
     "version": "2.2",
 	"CBF": "Yes",
     "records": [
+		{
+			"user": "atpx8",
+			"link": "https://youtu.be/_oe8LZju7Mk",
+			"hz": "240",
+			"percent": 100
+		}
 ]
 }
