@@ -11,6 +11,12 @@
 	"CBF": "Yes",
     "records": [
 		{
+			"user": "monsterd",
+			"link": "https://youtu.be/60yD8LUE-zk",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
 			"user": "something",
 			"link": "https://discord.com/channels/1342438507527802901/1570157539448856679/1570157539448856679",
 			"hz": "CBS",
