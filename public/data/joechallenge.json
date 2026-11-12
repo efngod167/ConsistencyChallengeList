@@ -10,5 +10,11 @@
     "version": "2.2",
 	"CBF": "Yes",
     "records": [
+		{
+			"user": "tFluffy",
+			"link": "https://discord.com/channels/1342438507527802901/1570165639421755542/1570165639421755542",
+			"hz": "CBF",
+			"percent": 100
+		}
 ]
 }
