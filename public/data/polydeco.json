@@ -11,6 +11,12 @@
 	"CBF": "Yes",
     "records": [
 		{
+			"user": "daneeko",
+			"link": "https://youtu.be/qbet-GPYr_o",
+			"hz": "COS",
+			"percent": 100
+		},
+		{
 			"user": "atpx8",
 			"link": "https://youtu.be/_oe8LZju7Mk",
 			"hz": "240",
@@ -20,12 +26,6 @@
 			"user": "PengusP",
 			"link": "https://discord.com/channels/1342438507527802901/1570149046801268787/1570149046801268787",
 			"hz": "240",
-			"percent": 100
-		},
-		{
-			"user": "daneeko",
-			"link": "https://youtu.be/qbet-GPYr_o",
-			"hz": "COS",
 			"percent": 100
 		}
 ]
