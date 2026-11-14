@@ -24,20 +24,15 @@
         "name": "finni 1505",
         "link": "https://www.youtube.com/@finni1505"
      },
+     {
+        "role": "admin",
+        "name": "Zoe",
+        "link": "https://www.youtube.com/channel/UC4bQKx8qJKie2FiQoHvxTMQ"
+    },
     {
         "role": "helper",
         "name": "MiRPacK19",
         "link": "https://www.youtube.com/@mirpack19"
-    },
-    {   
-        "role": "helper",
-        "name": "aimdox",
-        "link": "https://www.youtube.com/@aimdox"
-    },
-    {
-        "role": "helper",
-        "name": "maxf",
-        "link": "https://www.youtube.com/@amoabenjaaa"
     },
     {
         "role": "helper",
@@ -48,11 +43,6 @@
         "role": "helper",
         "name": "pastel",
         "link": "https://www.youtube.com/@pastelliano"
-    },
-    {
-        "role": "helper",
-        "name": "Zoe",
-        "link": "https://www.youtube.com/channel/UC4bQKx8qJKie2FiQoHvxTMQ"
     },
     {
         "role": "dev",
