@@ -10,5 +10,11 @@
     "version": "2.2",
       "CBF": "Yes",
     "records": [
+        {
+            "user": "PengusP",
+            "link": "https://discord.com/channels/1342438507527802901/1575048952427061278/1575048952427061278",
+            "hz": "CBF",
+            "percent": 100
+        }
 ]
 }
